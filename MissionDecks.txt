@@ -1,0 +1,3121 @@
+[ArchwingCacheCoordsReward]
+
+Rotation A:
+  1 OROKIN ARCHIVE, COMMON, 100%
+
+Rotation B:
+  1 3000 CREDITS, COMMON, 25.29%
+  1 4000 CREDITS, COMMON, 25.29%
+  1 4000 CREDITS, COMMON, 25.29%
+  1 Rare Fusion Core, RARE, 2.01%
+  1 Uncommon Fusion Core, UNCOMMON, 11.06%
+  1 CONTROL MODULE, UNCOMMON, 11.06%
+
+Rotation C:
+  1 NEURODES, UNCOMMON, 7.37%
+  1 MORPHICS, UNCOMMON, 7.37%
+  1 ARGON CRYSTAL, RARE, 1.01%
+  1 OROKIN CELL, RARE, 1.01%
+  25 CRYOTIC, COMMON, 25.29%
+  25 OXIUM, COMMON, 25.29%
+  1 NEURAL SENSORS, UNCOMMON, 7.37%
+  1 Uncommon Fusion Core, COMMON, 25.29%
+
+[ArchwingExterminateRewards]
+ - Venus, Montes, MT_EXTERMINATION, FC_CORPUS
+
+Rotation A:
+  1 VELOCITUS BARREL, COMMON, 25.81%
+  1 VELOCITUS STOCK, UNCOMMON, 5.64%
+  1 Morphic Transformer, UNCOMMON, 5.64%
+  1 Automatic Trigger, COMMON, 25.81%
+  1 PHAEDRA RECEIVER, UNCOMMON, 5.64%
+  1 Extend, COMMON, 25.81%
+  1 Shell Rush, UNCOMMON, 5.64%
+
+[ArchwingMobileDRewards]
+ - Earth, Erpo, MT_MOBILE_DEFENSE, FC_GRINEER
+ - Mars, Syrtis, MT_MOBILE_DEFENSE, FC_CORPUS
+
+Rotation A:
+  1 VELOCITUS RECEIVER, COMMON, 15.49%
+  1 DECURION RECEIVER, COMMON, 15.49%
+  1 Polar Magazine, COMMON, 15.49%
+  1 PHAEDRA BARREL, UNCOMMON, 11.28%
+  1 KASZAS HANDLE, UNCOMMON, 11.28%
+  1 Superior Defenses, COMMON, 15.49%
+  1 ONORIX HANDLE, COMMON, 15.49%
+
+[ArchwingSabotageRewards]
+ - Jupiter, Galilea, MT_SABOTAGE, FC_CORPUS
+
+Rotation A:
+  1 RATHBONE HANDLE, COMMON, 15.49%
+  1 RATHBONE HEAD, UNCOMMON, 7.52%
+  1 DECURION BARREL, UNCOMMON, 7.52%
+  1 Glacial Edge, COMMON, 15.49%
+  1 Galvanized Blade, COMMON, 15.49%
+  1 Tempered Blade, COMMON, 15.49%
+  1 FLUCTUS BARREL, UNCOMMON, 7.52%
+  1 CENTAUR AEGIS, COMMON, 15.49%
+
+[BossMissionRewards/AtlasRewards]
+
+Rotation A:
+  1 ATLAS HELMET BLUEPRINT, COMMON, 38.72%
+  1 ATLAS CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 ATLAS SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/BerserkerRewards]
+ - Jupiter, Themisto, MT_ASSASSINATION, FC_CORPUS
+
+Rotation A:
+  1 VALKYR HELMET BLUEPRINT, COMMON, 38.72%
+  1 VALKYR CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 VALKYR SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/CowgirlRewards]
+
+Rotation A:
+  1 MESA HELMET BLUEPRINT, COMMON, 38.72%
+  1 MESA CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 MESA SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/EmberRewards]
+ - Saturn, Tethys, MT_ASSASSINATION, FC_GRINEER
+
+Rotation A:
+  1 EMBER HELMET BLUEPRINT, COMMON, 38.72%
+  1 EMBER CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 EMBER SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/ExcaliburRewards]
+ - Pluto, Hades, MT_ASSASSINATION, FC_CORPUS
+
+Rotation A:
+  1 EXCALIBUR HELMET BLUEPRINT, COMMON, 38.72%
+  1 EXCALIBUR CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 EXCALIBUR SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/FrostRewards]
+ - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER
+
+Rotation A:
+  1 FROST HELMET BLUEPRINT, COMMON, 38.72%
+  1 FROST CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 FROST SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/HydroidRewards]
+ - Earth, Oro, MT_ASSASSINATION, FC_GRINEER
+
+Rotation A:
+  1 HYDROID HELMET BLUEPRINT, COMMON, 38.72%
+  1 HYDROID CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 HYDROID SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/LokiRewards]
+ - Neptune, Psamathe, MT_ASSASSINATION, FC_CORPUS
+
+Rotation A:
+  1 LOKI HELMET BLUEPRINT, COMMON, 38.72%
+  1 LOKI CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 LOKI SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/MagRewards]
+ - Mars, War, MT_ASSASSINATION, FC_CORPUS
+
+Rotation A:
+  1 MAG HELMET BLUEPRINT, COMMON, 38.72%
+  1 MAG CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 MAG SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/MiterGremlinsRewards]
+ - Phobos, Iliad, MT_ASSASSINATION, FC_GRINEER
+
+Rotation A:
+  1 MITER BARREL, COMMON, 16.67%
+  1 MITER BLADE, COMMON, 16.67%
+  1 MITER HANDLE, COMMON, 16.67%
+  1 MITER CHASSIS, COMMON, 16.67%
+  1 MITER BLUEPRINT, COMMON, 16.67%
+  1 TWIN GREMLINS BLUEPRINT, COMMON, 16.67%
+
+[BossMissionRewards/NovaRewards]
+ - Europa, Naamah, MT_ASSASSINATION, FC_CORPUS
+
+Rotation A:
+  1 NOVA HELMET BLUEPRINT, COMMON, 38.72%
+  1 NOVA CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 NOVA SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/NyxRewards]
+
+Rotation A:
+  1 NYX HELMET BLUEPRINT, COMMON, 38.72%
+  1 NYX CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 NYX SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/RhinoRewards]
+ - Venus, Fossa, MT_ASSASSINATION, FC_CORPUS
+
+Rotation A:
+  1 RHINO HELMET BLUEPRINT, COMMON, 38.72%
+  1 RHINO CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 RHINO SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/SarynRewards]
+ - Sedna, Merrow, MT_ASSASSINATION, FC_GRINEER
+
+Rotation A:
+  1 SARYN HELMET BLUEPRINT, COMMON, 38.72%
+  1 SARYN CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 SARYN SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/SeerPistolRewards]
+ - Mercury, Tolstoj, MT_ASSASSINATION, FC_GRINEER
+
+Rotation A:
+  1 SEER BLUEPRINT, COMMON, 38.72%
+  1 SEER PISTOL BARREL, COMMON, 38.72%
+  1 SEER PISTOL RECEIVER, UNCOMMON, 22.56%
+
+[BossMissionRewards/TrinityRewards]
+
+Rotation A:
+  1 TRINITY HELMET BLUEPRINT, COMMON, 38.72%
+  1 TRINITY CHASSIS BLUEPRINT, COMMON, 38.72%
+  1 TRINITY SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+[BossMissionRewards/YinYangRewards]
+ - Uranus, Titania, MT_ASSASSINATION, FC_GRINEER
+
+Rotation A:
+  1 EQUINOX NIGHT ASPECT BLUEPRINT, UNCOMMON, 11.28%
+  1 EQUINOX NIGHT CHASSIS BLUEPRINT, COMMON, 12.91%
+  1 EQUINOX NIGHT HELMET BLUEPRINT, COMMON, 12.91%
+  1 EQUINOX NIGHT SYSTEMS BLUEPRINT, COMMON, 12.91%
+  1 EQUINOX DAY ASPECT BLUEPRINT, UNCOMMON, 11.28%
+  1 EQUINOX DAY CHASSIS BLUEPRINT, COMMON, 12.91%
+  1 EQUINOX DAY HELMET BLUEPRINT, COMMON, 12.91%
+  1 EQUINOX DAY SYSTEMS BLUEPRINT, COMMON, 12.91%
+
+[CacheRewardsEasy]
+ - Mercury, Neruda, MT_SABOTAGE, FC_GRINEER
+
+Rotation A:
+  1 1000 CREDITS, COMMON, 25%
+  1 1500 CREDITS, COMMON, 25%
+  1 2000 CREDITS, COMMON, 25%
+  1 2500 CREDITS, COMMON, 25%
+
+Rotation B:
+  3 Common Fusion Core, COMMON, 12.65%
+  5 Common Fusion Core, COMMON, 12.65%
+  3 Uncommon Fusion Core, COMMON, 12.65%
+  240 POLYMER BUNDLE, COMMON, 12.65%
+  750 CIRCUITS, COMMON, 12.65%
+  750 ALLOY PLATE, COMMON, 12.65%
+  5 Uncommon Fusion Core, UNCOMMON, 22.11%
+  3 Rare Fusion Core, RARE, 1.01%
+  5 Rare Fusion Core, RARE, 1.01%
+
+Rotation C:
+  1 Rare Fusion Core, COMMON, 15.1%
+  3 Uncommon Fusion Core, COMMON, 15.1%
+  1 MORPHICS, COMMON, 15.1%
+  1 GALLIUM, COMMON, 15.1%
+  1 NEURODES, COMMON, 15.1%
+  2 MORPHICS, UNCOMMON, 5.5%
+  2 GALLIUM, UNCOMMON, 5.5%
+  2 NEURODES, UNCOMMON, 5.5%
+  2 Rare Fusion Core, UNCOMMON, 5.5%
+  1 ARGON CRYSTAL, RARE, 0.67%
+  1 TELLURIUM, RARE, 0.67%
+  1 NITAIN EXTRACT, RARE, 0.67%
+  1 XIPHOS FUSELAGE BLUEPRINT, LEGENDARY, 0.5%
+
+[CacheRewardsHard]
+
+Rotation A:
+  1 4000 CREDITS, COMMON, 38.72%
+  1 4000 CREDITS, COMMON, 38.72%
+  2 4000 CREDITS, UNCOMMON, 22.56%
+
+Rotation B:
+  5 Common Fusion Core, COMMON, 12.65%
+  3 Uncommon Fusion Core, COMMON, 12.65%
+  1 Rare Fusion Core, COMMON, 12.65%
+  400 CIRCUITS, COMMON, 12.65%
+  400 RUBEDO, COMMON, 12.65%
+  300 PLASTIDS, COMMON, 12.65%
+  3 Rare Fusion Core, UNCOMMON, 11.06%
+  5 Rare Fusion Core, UNCOMMON, 11.06%
+  8 Rare Fusion Core, RARE, 2.01%
+
+Rotation C:
+  1 Rare Fusion Core, COMMON, 12.58%
+  3 Uncommon Fusion Core, COMMON, 12.58%
+  1 OROKIN CELL, COMMON, 12.58%
+  1 GALLIUM, COMMON, 12.58%
+  1 NEURODES, COMMON, 12.58%
+  3 Rare Fusion Core, COMMON, 12.58%
+  5 Rare Fusion Core, UNCOMMON, 3.67%
+  2 OROKIN CELL, UNCOMMON, 3.67%
+  2 GALLIUM, UNCOMMON, 3.67%
+  2 NEURODES, UNCOMMON, 3.67%
+  1 ARGON CRYSTAL, UNCOMMON, 3.67%
+  1 TELLURIUM, UNCOMMON, 3.67%
+  1 NITAIN EXTRACT, RARE, 2%
+  1 XIPHOS AVIONICS BLUEPRINT, LEGENDARY, 0.5%
+
+[CacheRewardsMedium]
+ - Uranus, Portia, MT_SABOTAGE, FC_GRINEER
+
+Rotation A:
+  1 2500 CREDITS, COMMON, 33.33%
+  1 3000 CREDITS, COMMON, 33.33%
+  1 4000 CREDITS, COMMON, 33.33%
+
+Rotation B:
+  5 Common Fusion Core, COMMON, 12.65%
+  3 Uncommon Fusion Core, COMMON, 12.65%
+  1 Rare Fusion Core, COMMON, 12.65%
+  300 POLYMER BUNDLE, COMMON, 12.65%
+  350 RUBEDO, COMMON, 12.65%
+  300 PLASTIDS, COMMON, 12.65%
+  5 Uncommon Fusion Core, UNCOMMON, 11.06%
+  3 Rare Fusion Core, UNCOMMON, 11.06%
+  5 Rare Fusion Core, RARE, 1.01%
+  8 Rare Fusion Core, RARE, 1.01%
+
+Rotation C:
+  1 Rare Fusion Core, COMMON, 15.1%
+  3 Uncommon Fusion Core, COMMON, 15.1%
+  1 OROKIN CELL, COMMON, 15.1%
+  1 GALLIUM, COMMON, 15.1%
+  1 NEURODES, COMMON, 15.1%
+  3 Rare Fusion Core, UNCOMMON, 4.4%
+  2 OROKIN CELL, UNCOMMON, 4.4%
+  2 GALLIUM, UNCOMMON, 4.4%
+  2 NEURODES, UNCOMMON, 4.4%
+  1 TELLURIUM, UNCOMMON, 4.4%
+  1 ARGON CRYSTAL, RARE, 1%
+  1 NITAIN EXTRACT, RARE, 1%
+  1 XIPHOS ENGINES BLUEPRINT, LEGENDARY, 0.5%
+
+[CaptureMissionRewardsA]
+ - Mercury, Caloris, MT_CAPTURE, FC_GRINEER
+ - Venus, Ishtar, MT_CAPTURE, FC_CORPUS
+ - Venus, Aphrodite, MT_MOBILE_DEFENSE, FC_CORPUS
+ - Earth, Mantle, MT_CAPTURE, FC_GRINEER
+ - Earth, Pacific, MT_CAPTURE, FC_GRINEER
+ - Mars, Ares, MT_CAPTURE, FC_GRINEER
+ - Mars, Alator, MT_CAPTURE, FC_CORPUS
+ - Mars, Quirinus, MT_CAPTURE, FC_CORPUS
+ - Jupiter, Ananke, MT_CAPTURE, FC_CORPUS
+ - Saturn, Enceladus, MT_CAPTURE, FC_GRINEER
+ - Saturn, Phoebe, MT_CAPTURE, FC_GRINEER
+ - Saturn, Calypso, MT_CAPTURE, FC_GRINEER
+ - Uranus, Desdemona, MT_CAPTURE, FC_GRINEER
+ - Uranus, Trinculo, MT_CAPTURE, FC_GRINEER
+ - Neptune, Galatea, MT_CAPTURE, FC_CORPUS
+ - Pluto, Hydra, MT_CAPTURE, FC_CORPUS
+ - Pluto, Corb, MT_CAPTURE, FC_CORPUS
+ - Ceres, Bode, MT_CAPTURE, FC_GRINEER
+ - Eris, Cosis, MT_CAPTURE, FC_INFESTATION
+ - Eris, Isos, MT_CAPTURE, FC_INFESTATION
+ - Sedna, Tiamat, MT_CAPTURE, FC_GRINEER
+ - Europa, Abaddon, MT_CAPTURE, FC_CORPUS
+ - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS
+ - Europa, Beleth, MT_CAPTURE, FC_CORPUS
+ - Europa, Cryotic Front, MT_EXCAVATE, FC_CORPUS
+ - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS
+ - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS
+ - Phobos, Limtoc, MT_CAPTURE, FC_GRINEER
+ - Phobos, Todd, MT_CAPTURE, FC_GRINEER
+
+Rotation A:
+  1 Vitality, COMMON, 9.48%
+  1 Fast Deflection, COMMON, 9.48%
+  1 Fast Deflection, COMMON, 9.48%
+  1 Rush, UNCOMMON, 11.06%
+  1 Magazine Warp, COMMON, 9.48%
+  1 Trick Mag, COMMON, 9.48%
+  1 Pressure Point, RARE, 0.17%
+  1 Ammo Drum, UNCOMMON, 11.06%
+  1 Fast Hands, COMMON, 9.48%
+  1 Quickdraw, COMMON, 9.48%
+  1 HEALTH RESTORE, COMMON, 9.48%
+  1 OMNI AMMO BOX, RARE, 0.17%
+  1 North Wind, RARE, 0.17%
+  1 Shocking Touch, RARE, 0.17%
+  1 Molten Impact, RARE, 0.17%
+  1 Vitality, RARE, 0.17%
+  1 Stretch, RARE, 0.17%
+  1 TOWER I EXTERMINATE KEY, RARE, 0.17%
+  1 TOWER I SURVIVAL KEY, RARE, 0.17%
+  1 TOWER II EXTERMINATE KEY, RARE, 0.17%
+  1 TOWER II SURVIVAL KEY, RARE, 0.17%
+  1 TOWER III EXTERMINATE KEY, RARE, 0.17%
+
+[ClemCloneRewards]
+
+Rotation A:
+  1 CLEM CLONE BLUEPRINT, COMMON, 100%
+
+Rotation B:
+  1 CLEM CLONE BLUEPRINT, COMMON, 100%
+
+Rotation C:
+  1 CLEM CLONE BLUEPRINT, COMMON, 100%
+
+[CorpusInfestedSabotageRewards]
+ - Eris, Candiru, MT_HIVE, FC_INFESTATION
+ - Eris, Lepis, MT_HIVE, FC_INFESTATION
+ - Eris, Psoro, MT_HIVE, FC_INFESTATION
+ - Eris, Viver, MT_HIVE, FC_INFESTATION
+ - Eris, Naeglar, MT_HIVE, FC_INFESTATION
+
+Rotation A:
+  1 2500 CREDITS, COMMON, 16.67%
+  1 3000 CREDITS, COMMON, 16.67%
+  1000 NANO SPORES, COMMON, 16.67%
+  1 Uncommon Fusion Core, COMMON, 16.67%
+  3 Uncommon Fusion Core, COMMON, 16.67%
+  1 Thief's Wit, COMMON, 16.67%
+
+Rotation B:
+  1 4000 CREDITS, COMMON, 15.49%
+  1 4000 CREDITS, COMMON, 15.49%
+  350 PLASTIDS, COMMON, 15.49%
+  3 MUTAGEN SAMPLE, COMMON, 15.49%
+  1 Rare Fusion Core, COMMON, 15.49%
+  1 Contagious Spread, UNCOMMON, 5.64%
+  1 Pathogen Rounds, UNCOMMON, 5.64%
+  1 Infected Clip, UNCOMMON, 5.64%
+  1 Fever Strike, UNCOMMON, 5.64%
+
+Rotation C:
+  1 NEURODES, COMMON, 15.49%
+  2 NEURODES, COMMON, 15.49%
+  1 Rare Fusion Core, COMMON, 15.49%
+  3 Rare Fusion Core, COMMON, 15.49%
+  1 Enemy Sense, COMMON, 15.49%
+  5 Rare Fusion Core, UNCOMMON, 4.51%
+  1 MUTALIST ALAD V NAV COORDINATE, UNCOMMON, 4.51%
+  1 High Voltage, UNCOMMON, 4.51%
+  1 Shell Shock, UNCOMMON, 4.51%
+  1 Firestorm, UNCOMMON, 4.51%
+
+[DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy]
+ - Neptune, Salacia, MT_DEFENSE, FC_CORPUS
+
+Rotation A:
+  1 Tempered Blade, COMMON, 14.29%
+  1 Sudden Impact, COMMON, 14.29%
+  1 Poisonous Sting, COMMON, 14.29%
+  1 Glacial Edge, COMMON, 14.29%
+  1 Galvanized Blade, COMMON, 14.29%
+  1 Common Fusion Core, COMMON, 14.29%
+  1 Furor, COMMON, 14.29%
+
+Rotation B:
+  1 Extend, UNCOMMON, 3.76%
+  1 Superior Defenses, UNCOMMON, 3.76%
+  1 Cutting Edge, UNCOMMON, 3.76%
+  1 System Reroute, UNCOMMON, 3.76%
+  1 Efficient Transferral, UNCOMMON, 3.76%
+  1 Blazing Steel, UNCOMMON, 3.76%
+  3 Uncommon Fusion Core, COMMON, 77.44%
+
+Rotation C:
+  1 ONORIX BLADE, UNCOMMON, 11.28%
+  1 CORVAS BARREL, COMMON, 25.81%
+  1 CORVAS STOCK, COMMON, 25.81%
+  1 PHAEDRA STOCK, COMMON, 25.81%
+  1 KASZAS BLADE, UNCOMMON, 11.28%
+
+[DefenseMissionRewards/BadlandsDefenseMissionRewards]
+ - Venus, Romula, MT_DEFENSE, FC_INFESTATION
+ - Earth, Coba, MT_DEFENSE, FC_INFESTATION
+ - Mars, Kadesh, MT_DEFENSE, FC_INFESTATION
+ - Jupiter, Sinai, MT_DEFENSE, FC_INFESTATION
+ - Saturn, Caracol, MT_DEFENSE, FC_INFESTATION
+ - Uranus, Ur, MT_DEFENSE, FC_INFESTATION
+ - Neptune, Yursa, MT_DEFENSE, FC_INFESTATION
+ - Pluto, Sechura, MT_DEFENSE, FC_INFESTATION
+ - Ceres, Seimeni, MT_DEFENSE, FC_INFESTATION
+ - Eris, Akkad, MT_DEFENSE, FC_INFESTATION
+ - Sedna, Sangeru, MT_DEFENSE, FC_INFESTATION
+ - Europa, Larzac, MT_DEFENSE, FC_INFESTATION
+ - Phobos, Memphis, MT_DEFENSE, FC_INFESTATION
+
+Rotation A:
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 1.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 TOWER I EXTERMINATE KEY, UNCOMMON, 2.76%
+  1 TOWER I SURVIVAL KEY, UNCOMMON, 2.76%
+  1 TOWER I CAPTURE KEY, UNCOMMON, 2.76%
+  1 TOWER I DEFENSE KEY, UNCOMMON, 2.76%
+  1 TOWER I MOBILE DEFENSE KEY, UNCOMMON, 2.76%
+  1 True Punishment, RARE, 1.01%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 0.67%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 TOWER II EXTERMINATE KEY, UNCOMMON, 1.84%
+  1 TOWER II SURVIVAL KEY, UNCOMMON, 1.84%
+  1 TOWER II CAPTURE KEY, UNCOMMON, 1.84%
+  1 TOWER II DEFENSE KEY, UNCOMMON, 1.84%
+  1 TOWER II MOBILE DEFENSE KEY, UNCOMMON, 1.84%
+  1 True Punishment, RARE, 0.67%
+  1 Quickening, RARE, 0.67%
+
+Rotation C:
+  1 Hellfire, COMMON, 15.18%
+  1 Heated Charge, COMMON, 15.18%
+  1 Molten Impact, UNCOMMON, 2.21%
+  1 Barrel Diffusion, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 Intensify, UNCOMMON, 2.21%
+  1 TOWER III EXTERMINATE KEY, UNCOMMON, 2.21%
+  1 Thunderbolt, RARE, 0.4%
+  1 Uncommon Fusion Core, COMMON, 15.18%
+  1 Rare Fusion Core, UNCOMMON, 2.21%
+  1 TOWER II EXTERMINATE KEY, COMMON, 15.18%
+  1 TOWER II SURVIVAL KEY, COMMON, 15.18%
+  1 TOWER III CAPTURE KEY, UNCOMMON, 2.21%
+  1 TOWER III DEFENSE KEY, UNCOMMON, 2.21%
+  1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 2.21%
+  1 TOWER III SURVIVAL KEY, UNCOMMON, 2.21%
+  1 True Punishment, RARE, 0.4%
+  1 Quickening, RARE, 0.4%
+  1 Enduring Strike, RARE, 0.4%
+  1 Life Strike, RARE, 0.4%
+
+[DefenseMissionRewards/DefenseMissionRewardsEasy]
+ - Mercury, Lares, MT_DEFENSE, FC_GRINEER
+ - Venus, Venera, MT_DEFENSE, FC_CORPUS
+ - Venus, Kiliken, MT_DEFENSE, FC_CORPUS
+ - Earth, Lith, MT_DEFENSE, FC_GRINEER
+ - Mars, Olympus, MT_DEFENSE, FC_GRINEER
+ - Jupiter, Io, MT_DEFENSE, FC_CORPUS
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 5.56%
+  1 Fast Deflection, COMMON, 5.56%
+  1 Rush, COMMON, 5.56%
+  1 Target Cracker, COMMON, 5.56%
+  1 No Return, COMMON, 5.56%
+  1 Serration, COMMON, 5.56%
+  1 Hornet Strike, COMMON, 5.56%
+  1 Reflex Coil, COMMON, 5.56%
+  1 Deep Freeze, COMMON, 5.56%
+  1 North Wind, COMMON, 5.56%
+  1 Cryo Rounds, COMMON, 5.56%
+  1 Hell's Chamber, COMMON, 5.56%
+  1 Streamline, COMMON, 5.56%
+  1 Shocking Touch, COMMON, 5.56%
+  1 Stormbringer, COMMON, 5.56%
+  1 Point Blank, COMMON, 5.56%
+  1 Fury, COMMON, 5.56%
+  1 Uncommon Fusion Core, COMMON, 5.56%
+
+Rotation C:
+  1 Vital Sense, UNCOMMON, 2.26%
+  1 Metal Auger, UNCOMMON, 2.26%
+  1 Ravage, UNCOMMON, 2.26%
+  1 Stretch, UNCOMMON, 2.26%
+  1 Handspring, UNCOMMON, 2.26%
+  1 Convulsion, UNCOMMON, 2.26%
+  1 Split Chamber, UNCOMMON, 2.26%
+  1 Continuity, UNCOMMON, 2.26%
+  1 Master Thief, UNCOMMON, 2.26%
+  1 Rare Fusion Core, UNCOMMON, 2.26%
+  1 TOWER I CAPTURE KEY, COMMON, 15.49%
+  1 TOWER I DEFENSE KEY, COMMON, 15.49%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 15.49%
+  1 TOWER I EXTERMINATE KEY, COMMON, 15.49%
+  1 TOWER I SURVIVAL KEY, COMMON, 15.49%
+
+[DefenseMissionRewards/DefenseMissionRewardsHard]
+ - Earth, Stöfler, MT_DEFENSE, FC_GRINEER
+ - Neptune, Proteus, MT_DEFENSE, FC_CORPUS
+ - Pluto, Outer Terminus, MT_DEFENSE, FC_CORPUS
+ - Pluto, Narcissus, MT_DEFENSE, FC_CORPUS
+ - Ceres, Varro, MT_DEFENSE, FC_GRINEER
+ - Ceres, Casta, MT_DEFENSE, FC_GRINEER
+ - Eris, Ascar, MT_TERRITORY, FC_INFESTATION
+ - Eris, Kala-azar, MT_DEFENSE, FC_INFESTATION
+ - Eris, Sporid, MT_TERRITORY, FC_INFESTATION
+ - Eris, Ixodes, MT_DEFENSE, FC_INFESTATION
+ - Eris, Phalan, MT_TERRITORY, FC_INFESTATION
+ - Eris, Xini, MT_TERRITORY, FC_INFESTATION
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 5.56%
+  1 Fast Deflection, COMMON, 5.56%
+  1 Rush, COMMON, 5.56%
+  1 Target Cracker, COMMON, 5.56%
+  1 No Return, COMMON, 5.56%
+  1 Serration, COMMON, 5.56%
+  1 Hornet Strike, COMMON, 5.56%
+  1 Reflex Coil, COMMON, 5.56%
+  1 Deep Freeze, COMMON, 5.56%
+  1 North Wind, COMMON, 5.56%
+  1 Cryo Rounds, COMMON, 5.56%
+  1 Hell's Chamber, COMMON, 5.56%
+  1 Streamline, COMMON, 5.56%
+  1 Shocking Touch, COMMON, 5.56%
+  1 Stormbringer, COMMON, 5.56%
+  1 Point Blank, COMMON, 5.56%
+  1 Fury, COMMON, 5.56%
+  1 Uncommon Fusion Core, COMMON, 5.56%
+
+Rotation C:
+  1 Vital Sense, UNCOMMON, 2.26%
+  1 Metal Auger, UNCOMMON, 2.26%
+  1 Ravage, UNCOMMON, 2.26%
+  1 Stretch, UNCOMMON, 2.26%
+  1 Handspring, UNCOMMON, 2.26%
+  1 Convulsion, UNCOMMON, 2.26%
+  1 Split Chamber, UNCOMMON, 2.26%
+  1 Continuity, UNCOMMON, 2.26%
+  1 Master Thief, UNCOMMON, 2.26%
+  1 Rare Fusion Core, UNCOMMON, 2.26%
+  1 TOWER III CAPTURE KEY, COMMON, 15.49%
+  1 TOWER III DEFENSE KEY, COMMON, 15.49%
+  1 TOWER III MOBILE DEFENSE KEY, COMMON, 15.49%
+  1 TOWER III EXTERMINATE KEY, COMMON, 15.49%
+  1 TOWER III SURVIVAL KEY, COMMON, 15.49%
+
+[DefenseMissionRewards/DefenseMissionRewardsMedium]
+ - Saturn, Helene, MT_DEFENSE, FC_GRINEER
+ - Saturn, Birog, MT_DEFENSE, FC_GRINEER
+ - Uranus, Miranda, MT_DEFENSE, FC_GRINEER
+ - Uranus, Bianca, MT_DEFENSE, FC_GRINEER
+ - Sedna, Camenae, MT_DEFENSE, FC_GRINEER
+ - Sedna, Hydron, MT_DEFENSE, FC_GRINEER
+ - Europa, Eligor, MT_DEFENSE, FC_CORPUS
+ - Europa, Paimon, MT_DEFENSE, FC_CORPUS
+ - Phobos, Drunlo, MT_DEFENSE, FC_GRINEER
+ - Phobos, Kepler, MT_DEFENSE, FC_GRINEER
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 5.56%
+  1 Fast Deflection, COMMON, 5.56%
+  1 Rush, COMMON, 5.56%
+  1 Target Cracker, COMMON, 5.56%
+  1 No Return, COMMON, 5.56%
+  1 Serration, COMMON, 5.56%
+  1 Hornet Strike, COMMON, 5.56%
+  1 Reflex Coil, COMMON, 5.56%
+  1 Deep Freeze, COMMON, 5.56%
+  1 North Wind, COMMON, 5.56%
+  1 Cryo Rounds, COMMON, 5.56%
+  1 Hell's Chamber, COMMON, 5.56%
+  1 Streamline, COMMON, 5.56%
+  1 Shocking Touch, COMMON, 5.56%
+  1 Stormbringer, COMMON, 5.56%
+  1 Point Blank, COMMON, 5.56%
+  1 Fury, COMMON, 5.56%
+  1 Uncommon Fusion Core, COMMON, 5.56%
+
+Rotation C:
+  1 Vital Sense, UNCOMMON, 2.26%
+  1 Metal Auger, UNCOMMON, 2.26%
+  1 Ravage, UNCOMMON, 2.26%
+  1 Stretch, UNCOMMON, 2.26%
+  1 Handspring, UNCOMMON, 2.26%
+  1 Convulsion, UNCOMMON, 2.26%
+  1 Split Chamber, UNCOMMON, 2.26%
+  1 Continuity, UNCOMMON, 2.26%
+  1 Master Thief, UNCOMMON, 2.26%
+  1 Rare Fusion Core, UNCOMMON, 2.26%
+  1 TOWER II CAPTURE KEY, COMMON, 15.49%
+  1 TOWER II DEFENSE KEY, COMMON, 15.49%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 15.49%
+  1 TOWER II EXTERMINATE KEY, COMMON, 15.49%
+  1 TOWER II SURVIVAL KEY, COMMON, 15.49%
+
+[DerelictDefenseRewards]
+
+Rotation A:
+  3 Rare Fusion Core, COMMON, 14.29%
+  3 Uncommon Fusion Core, COMMON, 14.29%
+  1 TOWER I CAPTURE KEY, COMMON, 14.29%
+  1 TOWER I DEFENSE KEY, COMMON, 14.29%
+  1 TOWER I SURVIVAL KEY, COMMON, 14.29%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 14.29%
+  1 TOWER I EXTERMINATE KEY, COMMON, 14.29%
+
+Rotation B:
+  3 Rare Fusion Core, COMMON, 38.72%
+  3 Uncommon Fusion Core, COMMON, 38.72%
+  1 MUTALIST ALAD V NAV COORDINATE, UNCOMMON, 22.56%
+
+Rotation C:
+  1 TRINITY PRIME BLUEPRINT, COMMON, 12.91%, 30 Ducats
+  1 DUAL KAMAS PRIME HANDLE, UNCOMMON, 7.52%, 20 Ducats
+  1 SOMA PRIME STOCK, UNCOMMON, 7.52%, 50 Ducats
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 12.91%
+  1 TOWER II CAPTURE KEY, COMMON, 12.91%
+  1 TOWER II EXTERMINATE KEY, COMMON, 12.91%
+  1 FORMA BLUEPRINT, UNCOMMON, 7.52%
+  1 TOWER II DEFENSE KEY, COMMON, 12.91%
+  1 TOWER II SURVIVAL KEY, COMMON, 12.91%
+
+[DerelictSurvivalRewards]
+
+Rotation A:
+  3 Rare Fusion Core, COMMON, 25%
+  3 Uncommon Fusion Core, COMMON, 25%
+  1 TOWER I EXTERMINATE KEY, COMMON, 25%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 25%
+
+Rotation B:
+  1 TOWER I CAPTURE KEY, COMMON, 20%
+  1 TOWER I DEFENSE KEY, COMMON, 20%
+  1 TOWER I EXTERMINATE KEY, COMMON, 20%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 20%
+  1 MUTALIST ALAD V NAV COORDINATE, COMMON, 20%
+
+Rotation C:
+  1 BURSTON PRIME BARREL, COMMON, 19.36%, 20 Ducats
+  1 TOWER II CAPTURE KEY, COMMON, 19.36%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 19.36%
+  1 TOWER II EXTERMINATE KEY, COMMON, 19.36%
+  1 NOVA PRIME SYSTEMS BLUEPRINT, UNCOMMON, 11.28%, 50 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 11.28%
+
+[ExtractionMissionRewards/ExtractionLowLevelRewards]
+
+Rotation A:
+  1 1000 CREDITS, COMMON, 14.29%
+  1 1500 CREDITS, COMMON, 14.29%
+  1 Uncommon Fusion Core, COMMON, 14.29%
+  1 Rare Fusion Core, COMMON, 14.29%
+  1 Reflection, COMMON, 14.29%
+  1 Reflex Guard, COMMON, 14.29%
+  1 Parry, COMMON, 14.29%
+
+Rotation B:
+  1 TOWER I CAPTURE KEY, COMMON, 20%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 20%
+  1 TOWER I EXTERMINATE KEY, COMMON, 20%
+  1 TOWER I SURVIVAL KEY, COMMON, 20%
+  1 TOWER I DEFENSE KEY, COMMON, 20%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 7.69%
+  1 3000 CREDITS, COMMON, 7.69%
+  1 Reflection, COMMON, 7.69%
+  1 Reflex Guard, COMMON, 7.69%
+  1 Parry, COMMON, 7.69%
+  1 Steel Fiber, COMMON, 7.69%
+  1 Heavy Impact, COMMON, 7.69%
+  1 Incendiary Coat, COMMON, 7.69%
+  1 Cleanse Grineer, COMMON, 7.69%
+  1 Hornet Strike, COMMON, 7.69%
+  1 Intensify, COMMON, 7.69%
+  1 Reflex Coil, COMMON, 7.69%
+  1 Gemini Cross, COMMON, 7.69%
+
+[ExtractionMissionRewards/LimboChassisQuestExcavationRewards]
+
+Rotation A:
+  1 1000 CREDITS, COMMON, 48.71%
+  1 1500 CREDITS, COMMON, 48.71%
+  1 LIMBO CHASSIS BLUEPRINT, RARE, 2.58%
+
+Rotation B:
+  1 1500 CREDITS, COMMON, 38.72%
+  1 2000 CREDITS, COMMON, 38.72%
+  1 LIMBO CHASSIS BLUEPRINT, UNCOMMON, 22.56%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 33.33%
+  1 3000 CREDITS, COMMON, 33.33%
+  1 LIMBO CHASSIS BLUEPRINT, COMMON, 33.33%
+
+[ExtractionMissionRewards/LimboHelmetQuestExcavationRewards]
+
+Rotation A:
+  1 1000 CREDITS, COMMON, 48.71%
+  1 1500 CREDITS, COMMON, 48.71%
+  1 LIMBO HELMET BLUEPRINT, RARE, 2.58%
+
+Rotation B:
+  1 1500 CREDITS, COMMON, 38.72%
+  1 2000 CREDITS, COMMON, 38.72%
+  1 LIMBO HELMET BLUEPRINT, UNCOMMON, 22.56%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 33.33%
+  1 3000 CREDITS, COMMON, 33.33%
+  1 LIMBO HELMET BLUEPRINT, COMMON, 33.33%
+
+[ExtractionMissionRewards/LimboSystemsQuestExcavationRewards]
+
+Rotation A:
+  1 1000 CREDITS, COMMON, 48.71%
+  1 1500 CREDITS, COMMON, 48.71%
+  1 LIMBO SYSTEMS BLUEPRINT, RARE, 2.58%
+
+Rotation B:
+  1 1500 CREDITS, COMMON, 38.72%
+  1 2000 CREDITS, COMMON, 38.72%
+  1 LIMBO SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 33.33%
+  1 3000 CREDITS, COMMON, 33.33%
+  1 LIMBO SYSTEMS BLUEPRINT, COMMON, 33.33%
+
+[ForestSabotageRewards]
+ - Earth, Mariana, MT_SABOTAGE, FC_GRINEER
+
+Rotation A:
+  1 Uncommon Fusion Core, UNCOMMON, 11.28%
+  1 1000 CREDITS, COMMON, 25.81%
+  1 DETONITE AMPULE, COMMON, 25.81%
+  1 Common Fusion Core, COMMON, 25.81%
+  1 NEURODES, UNCOMMON, 11.28%
+
+Rotation B:
+  1 NEURODES, UNCOMMON, 5.53%
+  1 2500 CREDITS, UNCOMMON, 5.53%
+  1 DETONITE INJECTOR, UNCOMMON, 5.53%
+  1 2000 CREDITS, COMMON, 25.29%
+  1 Uncommon Fusion Core, COMMON, 25.29%
+  1 FORMA BLUEPRINT, RARE, 2.01%
+  1 Common Fusion Core, COMMON, 25.29%
+  1 3000 CREDITS, UNCOMMON, 5.53%
+
+Rotation C:
+  1 FORMA, COMMON, 33.33%
+  1 FORMA BLUEPRINT, COMMON, 33.33%
+  1 HEALTH RESTORE, COMMON, 33.33%
+
+[FusionCoreRewards]
+
+Rotation A:
+  5 Rare Fusion Core, COMMON, 77.44%
+  10 Rare Fusion Core, UNCOMMON, 22.56%
+
+[GolemMissionRewards]
+
+Rotation A:
+  1 NEKROS CHASSIS BLUEPRINT, UNCOMMON, 33.33%
+  1 NEKROS HELMET BLUEPRINT, UNCOMMON, 33.33%
+  1 NEKROS SYSTEMS BLUEPRINT, UNCOMMON, 33.33%
+
+[HalloweenExtermEventRewards]
+
+Rotation A:
+  1 Common Fusion Core, COMMON, 19.36%
+  1 Uncommon Fusion Core, UNCOMMON, 4.51%
+  1 4000 CREDITS, COMMON, 19.36%
+  1 4000 CREDITS, COMMON, 19.36%
+  1 Rare Fusion Core, UNCOMMON, 4.51%
+  1 3000 CREDITS, COMMON, 19.36%
+  1 Constitution, UNCOMMON, 4.51%
+  1 Fortitude, UNCOMMON, 4.51%
+  1 Ice Storm, UNCOMMON, 4.51%
+
+Rotation B:
+  1 Common Fusion Core, COMMON, 19.36%
+  1 Uncommon Fusion Core, UNCOMMON, 4.51%
+  1 4000 CREDITS, COMMON, 19.36%
+  1 4000 CREDITS, COMMON, 19.36%
+  1 Rare Fusion Core, UNCOMMON, 4.51%
+  1 3000 CREDITS, COMMON, 19.36%
+  1 Stunning Speed, UNCOMMON, 4.51%
+  1 Hammer Shot, UNCOMMON, 4.51%
+  1 Wildfire, UNCOMMON, 4.51%
+
+Rotation C:
+  1 3000 CREDITS, COMMON, 19.36%
+  1 Rare Fusion Core, UNCOMMON, 3.76%
+  1 4000 CREDITS, COMMON, 19.36%
+  1 4000 CREDITS, COMMON, 19.36%
+  1 Uncommon Fusion Core, UNCOMMON, 3.76%
+  1 Common Fusion Core, COMMON, 19.36%
+  1 Accelerated Blast, UNCOMMON, 3.76%
+  1 Blaze, UNCOMMON, 3.76%
+  1 Focus Energy, UNCOMMON, 3.76%
+  1 Rending Strike, UNCOMMON, 3.76%
+
+[InfestedIncursionsSurvivalRewards]
+
+Rotation A:
+  1 Rare Fusion Core, COMMON, 25%
+  1 Uncommon Fusion Core, COMMON, 25%
+  1 TOWER I EXTERMINATE KEY, COMMON, 25%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 25%
+
+Rotation B:
+  1 TOWER I CAPTURE KEY, COMMON, 25.81%
+  1 TOWER I DEFENSE KEY, COMMON, 25.81%
+  1 TOWER I EXTERMINATE KEY, UNCOMMON, 22.56%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 25.81%
+
+Rotation C:
+  1 Jolt, UNCOMMON, 5.64%
+  1 TOWER II CAPTURE KEY, COMMON, 38.72%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 38.72%
+  1 Voltaic Strike, UNCOMMON, 5.64%
+  1 Shell Shock, UNCOMMON, 5.64%
+  1 High Voltage, UNCOMMON, 5.64%
+
+[InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard]
+ - Uranus, Caelus, MT_TERRITORY, FC_GRINEER
+
+Rotation A:
+  1 Automatic Trigger, UNCOMMON, 2.51%
+  1 Combustion Rounds, UNCOMMON, 2.51%
+  1 Dual Rounds, UNCOMMON, 2.51%
+  1 Hollowed Bullets, UNCOMMON, 2.51%
+  1 Magazine Extension, UNCOMMON, 2.51%
+  1 Modified Munitions, UNCOMMON, 2.51%
+  1 Parallax Scope, UNCOMMON, 2.51%
+  1 Rubedo-Lined Barrel, UNCOMMON, 2.51%
+  1 Venomous Clip, UNCOMMON, 2.51%
+  5 Rare Fusion Core, COMMON, 38.72%
+  3 Uncommon Fusion Core, COMMON, 38.72%
+
+Rotation B:
+  1 Superior Defenses, COMMON, 10%
+  1 Bleeding Edge, COMMON, 10%
+  1 Superior Defenses, COMMON, 10%
+  1 Argon Plating, COMMON, 10%
+  1 Furor, COMMON, 10%
+  1 Uncommon Fusion Core, COMMON, 10%
+  1 Glacial Edge, COMMON, 10%
+  1 Electrified Barrel, COMMON, 10%
+  1 Energy Inversion, COMMON, 10%
+  1 Uncommon Fusion Core, COMMON, 10%
+
+Rotation C:
+  1 TOWER IV SURVIVAL KEY, COMMON, 11.11%
+  1 TOWER IV DEFENSE KEY, COMMON, 11.11%
+  1 FLUCTUS STOCK, COMMON, 11.11%
+  1 ELYTRON HARNESS BLUEPRINT, COMMON, 11.11%
+  1 ELYTRON SYSTEMS BLUEPRINT, COMMON, 11.11%
+  1 ELYTRON WINGS BLUEPRINT, COMMON, 11.11%
+  1 CENTAUR BLADE, COMMON, 11.11%
+  1 FLUCTUS LIMBS, COMMON, 11.11%
+  1 CORVAS RECEIVER, COMMON, 11.11%
+
+[InterceptionMissionRewards/InterceptionMissionRewardsEasy]
+ - Mercury, Odin, MT_TERRITORY, FC_GRINEER
+ - Earth, Gaia, MT_TERRITORY, FC_GRINEER
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 5.56%
+  1 Fast Deflection, COMMON, 5.56%
+  1 Rush, COMMON, 5.56%
+  1 Target Cracker, COMMON, 5.56%
+  1 No Return, COMMON, 5.56%
+  1 Serration, COMMON, 5.56%
+  1 Hornet Strike, COMMON, 5.56%
+  1 Reflex Coil, COMMON, 5.56%
+  1 Deep Freeze, COMMON, 5.56%
+  1 North Wind, COMMON, 5.56%
+  1 Cryo Rounds, COMMON, 5.56%
+  1 Hell's Chamber, COMMON, 5.56%
+  1 Streamline, COMMON, 5.56%
+  1 Shocking Touch, COMMON, 5.56%
+  1 Stormbringer, COMMON, 5.56%
+  1 Point Blank, COMMON, 5.56%
+  1 Fury, COMMON, 5.56%
+  1 Uncommon Fusion Core, COMMON, 5.56%
+
+Rotation C:
+  1 TOWER I CAPTURE KEY, COMMON, 16.24%
+  1 TOWER I DEFENSE KEY, COMMON, 16.24%
+  1 Natural Talent, RARE, 2.58%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 16.24%
+  1 TOWER I SURVIVAL KEY, COMMON, 16.24%
+  1 TOWER I EXTERMINATE KEY, COMMON, 16.24%
+  1 TOWER I SABOTAGE KEY, COMMON, 16.24%
+
+[InterceptionMissionRewards/InterceptionMissionRewardsHard]
+ - Uranus, Stephano, MT_TERRITORY, FC_GRINEER
+ - Pluto, Cerberus, MT_TERRITORY, FC_CORPUS
+ - Ceres, Draco, MT_TERRITORY, FC_GRINEER
+ - Sedna, Berehynia, MT_TERRITORY, FC_GRINEER
+ - Europa, Ose, MT_TERRITORY, FC_CORPUS
+ - Phobos, Opik, MT_TERRITORY, FC_GRINEER
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  3 Uncommon Fusion Core, COMMON, 50%
+  5 Rare Fusion Core, COMMON, 50%
+
+Rotation C:
+  1 Natural Talent, RARE, 2.58%
+  1 TOWER IV SURVIVAL KEY, COMMON, 32.47%
+  1 TOWER IV DEFENSE KEY, COMMON, 32.47%
+  1 TOWER IV INTERCEPTION KEY, COMMON, 32.47%
+
+[InterceptionMissionRewards/InterceptionMissionRewardsMedium]
+ - Mars, Augustus, MT_TERRITORY, FC_CORPUS
+ - Jupiter, Callisto, MT_TERRITORY, FC_CORPUS
+ - Saturn, Iapetus, MT_TERRITORY, FC_GRINEER
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 5.56%
+  1 Fast Deflection, COMMON, 5.56%
+  1 Rush, COMMON, 5.56%
+  1 Target Cracker, COMMON, 5.56%
+  1 No Return, COMMON, 5.56%
+  1 Serration, COMMON, 5.56%
+  1 Hornet Strike, COMMON, 5.56%
+  1 Reflex Coil, COMMON, 5.56%
+  1 Deep Freeze, COMMON, 5.56%
+  1 North Wind, COMMON, 5.56%
+  1 Cryo Rounds, COMMON, 5.56%
+  1 Hell's Chamber, COMMON, 5.56%
+  1 Streamline, COMMON, 5.56%
+  1 Shocking Touch, COMMON, 5.56%
+  1 Stormbringer, COMMON, 5.56%
+  1 Point Blank, COMMON, 5.56%
+  1 Fury, COMMON, 5.56%
+  1 Uncommon Fusion Core, COMMON, 5.56%
+
+Rotation C:
+  1 TOWER IV SABOTAGE KEY, COMMON, 24.35%
+  1 Natural Talent, RARE, 2.58%
+  1 TOWER IV MOBILE DEFENSE KEY, COMMON, 24.35%
+  1 TOWER IV EXTERMINATE KEY, COMMON, 24.35%
+  1 TOWER IV CAPTURE KEY, COMMON, 24.35%
+
+[InterceptRewardsGrineer]
+
+Rotation A:
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 TOWER I EXTERMINATE KEY, UNCOMMON, 2.76%
+  1 TOWER I SURVIVAL KEY, UNCOMMON, 2.76%
+  1 TOWER I CAPTURE KEY, UNCOMMON, 2.76%
+  1 TOWER I DEFENSE KEY, UNCOMMON, 2.76%
+  1 TOWER I MOBILE DEFENSE KEY, UNCOMMON, 2.76%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 TOWER II EXTERMINATE KEY, UNCOMMON, 1.84%
+  1 TOWER II SURVIVAL KEY, UNCOMMON, 1.84%
+  1 TOWER II CAPTURE KEY, UNCOMMON, 1.84%
+  1 TOWER II DEFENSE KEY, UNCOMMON, 1.84%
+  1 TOWER II MOBILE DEFENSE KEY, UNCOMMON, 1.84%
+
+Rotation C:
+  1 Natural Talent, RARE, 1.01%
+  1 North Wind, COMMON, 18.97%
+  1 Cryo Rounds, UNCOMMON, 2.21%
+  1 Hell's Chamber, UNCOMMON, 2.21%
+  1 Stretch, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 TOWER III EXTERMINATE KEY, UNCOMMON, 2.21%
+  1 Handspring, RARE, 1.01%
+  1 TOWER II EXTERMINATE KEY, COMMON, 18.97%
+  1 TOWER II SURVIVAL KEY, COMMON, 18.97%
+  1 Uncommon Fusion Core, COMMON, 18.97%
+  1 Rare Fusion Core, UNCOMMON, 2.21%
+  1 TOWER III CAPTURE KEY, UNCOMMON, 2.21%
+  1 TOWER III DEFENSE KEY, UNCOMMON, 2.21%
+  1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 2.21%
+  1 TOWER III SURVIVAL KEY, UNCOMMON, 2.21%
+
+[KelaEventRewardsEasy]
+ - Sedna, Undine, MT_ARENA, FC_GRINEER
+
+Rotation A:
+  1 3000 CREDITS, COMMON, 75.88%
+  10 Common Fusion Core, UNCOMMON, 22.11%
+  1 FORMA BLUEPRINT, RARE, 0.4%
+  1 Pointed Wind, RARE, 0.4%
+  1 High Noon, RARE, 0.4%
+  1 Four Riders, RARE, 0.4%
+  1 Tranquil Cleave, RARE, 0.4%
+
+[KelaEventRewardsHard]
+ - Sedna, Yam, MT_ARENA, FC_GRINEER
+
+Rotation A:
+  1 4000 CREDITS, COMMON, 75.5%
+  3 Rare Fusion Core, UNCOMMON, 22%
+  1 FORMA BLUEPRINT, RARE, 0.5%
+  1 Crimson Dervish, RARE, 0.5%
+  1 Astral Twilight, RARE, 0.5%
+  1 Blind Justice, RARE, 0.5%
+  1 Tempo Royale, LEGENDARY, 0.25%
+  1 Vengeful Revenant, LEGENDARY, 0.25%
+
+[KelaEventRewardsMedium]
+ - Sedna, Nakki, MT_ARENA, FC_GRINEER
+
+Rotation A:
+  1 4000 CREDITS, COMMON, 75.88%
+  5 Uncommon Fusion Core, UNCOMMON, 22.11%
+  1 FORMA BLUEPRINT, RARE, 0.34%
+  1 Crushing Ruin, RARE, 0.34%
+  1 Final Harbinger, RARE, 0.34%
+  1 Vermillion Storm, RARE, 0.34%
+  1 Stalking Fan, RARE, 0.34%
+  1 Decisive Judgement, RARE, 0.34%
+
+[MacheteMayhemBonusRewards]
+
+Rotation A:
+  5 Rare Fusion Core, COMMON, 75.88%
+  1 MADURAI LENS, RARE, 0.29%
+  1 VAZARIN LENS, RARE, 0.29%
+  1 ZENURIK LENS, RARE, 0.29%
+  1 NARAMON LENS, RARE, 0.29%
+  1 UNAIRU LENS, RARE, 0.29%
+  1 FORMA, RARE, 0.29%
+  1 EXILUS ADAPTER, RARE, 0.29%
+  1 Voltaic Strike, UNCOMMON, 5.53%
+  1 Jolt, UNCOMMON, 5.53%
+  1 High Voltage, UNCOMMON, 5.53%
+  1 Shell Shock, UNCOMMON, 5.53%
+
+[MirageRewards]
+
+Rotation A:
+  1 OROKIN CIPHER, COMMON, 100%
+
+[MissionRewardsCorpus]
+
+Rotation A:
+  1 Vitality, COMMON, 10.84%
+  1 Fast Deflection, COMMON, 10.84%
+  1 Fast Deflection, COMMON, 10.84%
+  1 Rush, UNCOMMON, 3.69%
+  1 Magazine Warp, COMMON, 10.84%
+  1 Trick Mag, COMMON, 10.84%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 3.69%
+  1 Fast Hands, UNCOMMON, 3.69%
+  1 TOWER I EXTERMINATE KEY, COMMON, 10.84%
+  1 TOWER I SURVIVAL KEY, COMMON, 10.84%
+  1 TOWER I CAPTURE KEY, UNCOMMON, 3.69%
+  1 TOWER I DEFENSE KEY, UNCOMMON, 3.69%
+  1 TOWER I MOBILE DEFENSE KEY, UNCOMMON, 3.69%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 TOWER II EXTERMINATE KEY, UNCOMMON, 1.84%
+  1 TOWER II SURVIVAL KEY, UNCOMMON, 1.84%
+  1 TOWER II CAPTURE KEY, UNCOMMON, 1.84%
+  1 TOWER II DEFENSE KEY, UNCOMMON, 1.84%
+  1 TOWER II MOBILE DEFENSE KEY, UNCOMMON, 1.84%
+
+Rotation C:
+  1 Convulsion, COMMON, 15.18%
+  1 Shocking Touch, COMMON, 15.18%
+  1 Stormbringer, UNCOMMON, 2.21%
+  1 Split Chamber, UNCOMMON, 2.21%
+  1 Stretch, UNCOMMON, 2.21%
+  1 Continuity, UNCOMMON, 2.21%
+  1 TOWER III EXTERMINATE KEY, UNCOMMON, 2.21%
+  1 Master Thief, RARE, 2.01%
+  1 TOWER II EXTERMINATE KEY, COMMON, 15.18%
+  1 TOWER II SURVIVAL KEY, COMMON, 15.18%
+  1 Uncommon Fusion Core, COMMON, 15.18%
+  1 Rare Fusion Core, UNCOMMON, 2.21%
+  1 TOWER III CAPTURE KEY, UNCOMMON, 2.21%
+  1 TOWER III DEFENSE KEY, UNCOMMON, 2.21%
+  1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 2.21%
+  1 TOWER III SURVIVAL KEY, UNCOMMON, 2.21%
+
+[MissionRewardsGrineer]
+
+Rotation A:
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 TOWER I EXTERMINATE KEY, UNCOMMON, 2.76%
+  1 TOWER I SURVIVAL KEY, UNCOMMON, 2.76%
+  1 TOWER I CAPTURE KEY, UNCOMMON, 2.76%
+  1 TOWER I DEFENSE KEY, UNCOMMON, 2.76%
+  1 TOWER I MOBILE DEFENSE KEY, UNCOMMON, 2.76%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 TOWER II EXTERMINATE KEY, UNCOMMON, 1.84%
+  1 TOWER II SURVIVAL KEY, UNCOMMON, 1.84%
+  1 TOWER II CAPTURE KEY, UNCOMMON, 1.84%
+  1 TOWER II DEFENSE KEY, UNCOMMON, 1.84%
+  1 TOWER II MOBILE DEFENSE KEY, UNCOMMON, 1.84%
+
+Rotation C:
+  1 Deep Freeze, COMMON, 15.18%
+  1 North Wind, COMMON, 15.18%
+  1 Cryo Rounds, UNCOMMON, 2.21%
+  1 Hell's Chamber, UNCOMMON, 2.21%
+  1 Stretch, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 TOWER III EXTERMINATE KEY, UNCOMMON, 2.21%
+  1 Handspring, RARE, 2.01%
+  1 TOWER II EXTERMINATE KEY, COMMON, 15.18%
+  1 TOWER II SURVIVAL KEY, COMMON, 15.18%
+  1 Uncommon Fusion Core, COMMON, 15.18%
+  1 Rare Fusion Core, UNCOMMON, 2.21%
+  1 TOWER III CAPTURE KEY, UNCOMMON, 2.21%
+  1 TOWER III DEFENSE KEY, UNCOMMON, 2.21%
+  1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 2.21%
+  1 TOWER III SURVIVAL KEY, UNCOMMON, 2.21%
+
+[MissionRewardsInfested]
+
+Rotation A:
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 TOWER I EXTERMINATE KEY, UNCOMMON, 2.76%
+  1 TOWER I SURVIVAL KEY, UNCOMMON, 2.76%
+  1 TOWER I CAPTURE KEY, UNCOMMON, 2.76%
+  1 TOWER I DEFENSE KEY, UNCOMMON, 2.76%
+  1 TOWER I MOBILE DEFENSE KEY, UNCOMMON, 2.76%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 TOWER II EXTERMINATE KEY, UNCOMMON, 1.84%
+  1 TOWER II SURVIVAL KEY, UNCOMMON, 1.84%
+  1 TOWER II CAPTURE KEY, UNCOMMON, 1.84%
+  1 TOWER II DEFENSE KEY, UNCOMMON, 1.84%
+  1 TOWER II MOBILE DEFENSE KEY, UNCOMMON, 1.84%
+
+Rotation C:
+  1 Hellfire, COMMON, 15.18%
+  1 Heated Charge, COMMON, 15.18%
+  1 Molten Impact, UNCOMMON, 2.21%
+  1 Barrel Diffusion, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 Intensify, UNCOMMON, 2.21%
+  1 TOWER III EXTERMINATE KEY, UNCOMMON, 2.21%
+  1 Thunderbolt, RARE, 2.01%
+  1 Uncommon Fusion Core, COMMON, 15.18%
+  1 Rare Fusion Core, UNCOMMON, 2.21%
+  1 TOWER II EXTERMINATE KEY, COMMON, 15.18%
+  1 TOWER II SURVIVAL KEY, COMMON, 15.18%
+  1 TOWER III CAPTURE KEY, UNCOMMON, 2.21%
+  1 TOWER III DEFENSE KEY, UNCOMMON, 2.21%
+  1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 2.21%
+  1 TOWER III SURVIVAL KEY, UNCOMMON, 2.21%
+
+[NightmareModeRewards]
+
+Rotation A:
+  1 Ice Storm, COMMON, 8.43%
+  1 Stunning Speed, COMMON, 8.43%
+  1 Hammer Shot, RARE, 0.67%
+  1 Wildfire, COMMON, 8.43%
+  1 Accelerated Blast, COMMON, 8.43%
+  1 Blaze, RARE, 0.67%
+  1 Constitution, UNCOMMON, 5.53%
+  1 Fortitude, UNCOMMON, 5.53%
+  1 Focus Energy, COMMON, 8.43%
+  1 Rending Strike, UNCOMMON, 5.53%
+  1 Lethal Torrent, COMMON, 8.43%
+  1 Shred, COMMON, 8.43%
+  1 Vigor, COMMON, 8.43%
+  1 Armored Agility, RARE, 0.67%
+  1 Animal Instinct, UNCOMMON, 5.53%
+  1 Seeking Fury, COMMON, 8.43%
+
+[OceanSabotageRewards]
+ - Uranus, Ariel, MT_SABOTAGE, FC_GRINEER
+ - Uranus, Prospero, MT_SABOTAGE, FC_GRINEER
+ - Uranus, Setebos, MT_SABOTAGE, FC_GRINEER
+
+Rotation A:
+  1 2500 CREDITS, COMMON, 20%
+  1 3000 CREDITS, COMMON, 20%
+  300 POLYMER BUNDLE, COMMON, 20%
+  3 Common Fusion Core, COMMON, 20%
+  3 Uncommon Fusion Core, COMMON, 20%
+
+Rotation B:
+  1 4000 CREDITS, COMMON, 15.49%
+  1 4000 CREDITS, COMMON, 15.49%
+  3 Uncommon Fusion Core, COMMON, 15.49%
+  300 PLASTIDS, COMMON, 15.49%
+  1 Rare Fusion Core, COMMON, 15.49%
+  1 Battering Maneuver, UNCOMMON, 4.51%
+  1 Mobilize, UNCOMMON, 4.51%
+  1 Piercing Step, UNCOMMON, 4.51%
+  1 Rending Turn, UNCOMMON, 4.51%
+  1 Patagium, UNCOMMON, 4.51%
+
+Rotation C:
+  2 GALLIUM, COMMON, 15.49%
+  3 GALLIUM, COMMON, 15.49%
+  3 Rare Fusion Core, COMMON, 15.49%
+  250 OXIUM, COMMON, 15.49%
+  1 TELLURIUM, COMMON, 15.49%
+  1 Lightning Dash, UNCOMMON, 4.51%
+  1 Firewalker, UNCOMMON, 4.51%
+  1 Ice Spring, UNCOMMON, 4.51%
+  1 Toxic Flight, UNCOMMON, 4.51%
+  5 Rare Fusion Core, UNCOMMON, 4.51%
+
+[OrokinDerelictSabotageRewards]
+
+Rotation A:
+  1 2500 CREDITS, COMMON, 14.29%
+  1 3000 CREDITS, COMMON, 14.29%
+  1000 NANO SPORES, COMMON, 14.29%
+  1 Rare Fusion Core, COMMON, 14.29%
+  3 Uncommon Fusion Core, COMMON, 14.29%
+  1 Thief's Wit, COMMON, 14.29%
+  3 MUTAGEN SAMPLE, COMMON, 14.29%
+
+Rotation B:
+  1 4000 CREDITS, COMMON, 15.18%
+  1 4000 CREDITS, COMMON, 15.18%
+  3 Uncommon Fusion Core, COMMON, 15.18%
+  1 NEURODES, COMMON, 15.18%
+  2 NEURODES, UNCOMMON, 4.42%
+  1 Rare Fusion Core, COMMON, 15.18%
+  1 MUTALIST ALAD V NAV COORDINATE, RARE, 2.01%
+  1 Cleanse Infested, UNCOMMON, 4.42%
+  1 Bane of Infested, UNCOMMON, 4.42%
+  1 Smite Infested, UNCOMMON, 4.42%
+  1 Expel Infested, UNCOMMON, 4.42%
+
+Rotation C:
+  1 ARGON CRYSTAL, COMMON, 19.36%
+  2 ARGON CRYSTAL, UNCOMMON, 3.76%
+  1 OROKIN CELL, COMMON, 19.36%
+  2 OROKIN CELL, UNCOMMON, 3.76%
+  1 NEURAL SENSORS, COMMON, 19.36%
+  2 NEURAL SENSORS, UNCOMMON, 3.76%
+  3 Rare Fusion Core, COMMON, 19.36%
+  5 Rare Fusion Core, UNCOMMON, 3.76%
+  1 Enemy Sense, UNCOMMON, 3.76%
+  1 Master Thief, UNCOMMON, 3.76%
+
+[OrokinSabotageEventRewards]
+ - Ceres, Gate Crash, MT_SABOTAGE, FC_GRINEER
+ - Phobos, Shifting Sands, MT_SABOTAGE, FC_GRINEER
+ - Phobos, Gate Crash, MT_SABOTAGE, FC_GRINEER
+
+Rotation A:
+  1 Common Fusion Core, COMMON, 14.29%
+  1 Uncommon Fusion Core, COMMON, 14.29%
+  1 4000 CREDITS, COMMON, 14.29%
+  1 4000 CREDITS, COMMON, 14.29%
+  1 Rare Fusion Core, COMMON, 14.29%
+  1 3000 CREDITS, COMMON, 14.29%
+  1 2500 CREDITS, COMMON, 14.29%
+
+Rotation B:
+  1 TOWER I CAPTURE KEY, COMMON, 4.76%
+  1 TOWER I DEFENSE KEY, COMMON, 4.76%
+  1 TOWER I EXTERMINATE KEY, COMMON, 4.76%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 4.76%
+  1 TOWER I SURVIVAL KEY, COMMON, 4.76%
+  1 TOWER IV SURVIVAL KEY, COMMON, 4.76%
+  1 TOWER IV MOBILE DEFENSE KEY, COMMON, 4.76%
+  1 TOWER IV INTERCEPTION KEY, COMMON, 4.76%
+  1 TOWER IV EXTERMINATE KEY, COMMON, 4.76%
+  1 TOWER IV DEFENSE KEY, COMMON, 4.76%
+  1 TOWER III SURVIVAL KEY, COMMON, 4.76%
+  1 TOWER II EXTERMINATE KEY, COMMON, 4.76%
+  1 TOWER II SURVIVAL KEY, COMMON, 4.76%
+  1 TOWER III EXTERMINATE KEY, COMMON, 4.76%
+  1 TOWER II CAPTURE KEY, COMMON, 4.76%
+  1 TOWER III CAPTURE KEY, COMMON, 4.76%
+  1 TOWER II DEFENSE KEY, COMMON, 4.76%
+  1 TOWER III DEFENSE KEY, COMMON, 4.76%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 4.76%
+  1 TOWER III MOBILE DEFENSE KEY, COMMON, 4.76%
+  1 TOWER IV CAPTURE KEY, COMMON, 4.76%
+
+Rotation C:
+  1 NEURODES, UNCOMMON, 3.76%
+  1 MORPHICS, UNCOMMON, 3.76%
+  1 ARGON CRYSTAL, UNCOMMON, 3.76%
+  1 OROKIN CELL, UNCOMMON, 3.76%
+  1 FORMA BLUEPRINT, UNCOMMON, 3.76%
+  50 CRYOTIC, COMMON, 25.81%
+  50 OXIUM, COMMON, 25.81%
+  1 NEURAL SENSORS, UNCOMMON, 3.76%
+  1 Rare Fusion Core, COMMON, 25.81%
+
+[ProjectFriendlyFireRewardsBasic]
+
+Rotation A:
+  2 Madurai Transmute Core, RARE, 0.67%
+  2 Vazarin Transmute Core, RARE, 0.67%
+  1 Naramon Transmute Core, RARE, 0.67%
+  1 4000 CREDITS, COMMON, 18.97%
+  1 4000 CREDITS, COMMON, 18.97%
+  1 3000 CREDITS, COMMON, 18.97%
+  5 Rare Fusion Core, COMMON, 18.97%
+  10 Rare Fusion Core, UNCOMMON, 22.11%
+
+[ProjectFriendlyFireRewardsBonus]
+
+Rotation A:
+  1 Bore, UNCOMMON, 5.64%
+  1 Piercing Caliber, UNCOMMON, 5.64%
+  1 Breach Loader, UNCOMMON, 5.64%
+  1 Auger Strike, UNCOMMON, 5.64%
+  1 Virulent Scourge, COMMON, 19.36%
+  1 Pistol Pestilence, COMMON, 19.36%
+  1 Malignant Force, COMMON, 19.36%
+  1 Toxic Barrage, COMMON, 19.36%
+
+[ProjectPanaceaBonusRewards]
+
+Rotation A:
+  1 RIFT SIGIL, RARE, 0.25%
+  1 Stunning Speed, RARE, 0.25%
+  1 Hammer Shot, RARE, 0.25%
+  1 Blaze, RARE, 0.25%
+  1 Buzz Kill, RARE, 0.25%
+  1 Maim, RARE, 0.25%
+  1 Fanged Fusillade, RARE, 0.25%
+  1 Sweeping Serration, RARE, 0.25%
+  10 Rare Fusion Core, UNCOMMON, 3.16%
+  5 Rare Fusion Core, COMMON, 18.97%
+  1 3000 CREDITS, COMMON, 18.97%
+  1 4000 CREDITS, UNCOMMON, 3.16%
+  1 4000 CREDITS, UNCOMMON, 3.16%
+  1 DETONITE AMPULE, UNCOMMON, 3.16%
+  1 FIELDRON SAMPLE, COMMON, 18.97%
+  1 MUTAGEN SAMPLE, COMMON, 18.97%
+  2 Madurai Transmute Core, UNCOMMON, 3.16%
+  2 Vazarin Transmute Core, UNCOMMON, 3.16%
+  1 Naramon Transmute Core, UNCOMMON, 3.16%
+
+[ProjectSinisterRewardsBasic]
+
+Rotation A:
+  2 Madurai Transmute Core, RARE, 1.01%
+  2 Vazarin Transmute Core, RARE, 1.01%
+  1 Naramon Transmute Core, UNCOMMON, 11.06%
+  1 4000 CREDITS, COMMON, 18.97%
+  1 4000 CREDITS, COMMON, 18.97%
+  1 3000 CREDITS, COMMON, 18.97%
+  5 Rare Fusion Core, COMMON, 18.97%
+  10 Rare Fusion Core, UNCOMMON, 11.06%
+
+[ProjectSinisterRewardsBonus]
+
+Rotation A:
+  1 Shrapnel Shot, UNCOMMON, 5.61%
+  1 Catalyzer Link, UNCOMMON, 5.61%
+  1 Hydraulic Crosshairs, UNCOMMON, 5.61%
+  1 Body Count, UNCOMMON, 5.61%
+  5 Rare Fusion Core, COMMON, 38.52%
+  25 Rare Fusion Core, LEGENDARY, 0.51%
+  1 Focused Defense, COMMON, 38.52%
+
+Rotation B:
+  1 Hydraulic Crosshairs, COMMON, 37.94%
+  1 Body Count, COMMON, 37.94%
+  1 Blood Rush, UNCOMMON, 3.69%
+  1 Sharpened Bullets, UNCOMMON, 3.69%
+  1 Bladed Rounds, UNCOMMON, 3.69%
+  1 Embedded Catalyzer, UNCOMMON, 3.69%
+  1 Nano-Applicator, RARE, 1.01%
+  1 Argon Scope, RARE, 1.01%
+  1 Guided Ordinance, UNCOMMON, 3.69%
+  1 Targeting Subsystem, UNCOMMON, 3.69%
+
+Rotation C:
+  1 Shrapnel Shot, COMMON, 37.94%
+  1 Catalyzer Link, COMMON, 37.94%
+  1 Laser Sight, UNCOMMON, 5.53%
+  1 Weeping Wounds, UNCOMMON, 5.53%
+  1 Spring-Loaded Chamber, UNCOMMON, 5.53%
+  1 Repeater Clip, UNCOMMON, 5.53%
+  1 Maiming Strike, RARE, 0.67%
+  1 Pressurized Magazine, RARE, 0.67%
+  1 Narrow Barrel, RARE, 0.67%
+
+[ProjectSinisterRewardsFinal]
+
+Rotation A:
+  1 Shrapnel Shot, COMMON, 10.84%
+  1 Catalyzer Link, COMMON, 10.84%
+  1 Hydraulic Crosshairs, COMMON, 10.84%
+  1 Blood Rush, COMMON, 10.84%
+  1 Sharpened Bullets, UNCOMMON, 2.21%
+  1 Bladed Rounds, UNCOMMON, 2.21%
+  1 Body Count, UNCOMMON, 2.21%
+  1 Embedded Catalyzer, UNCOMMON, 2.21%
+  1 Laser Sight, UNCOMMON, 2.21%
+  1 Weeping Wounds, UNCOMMON, 2.21%
+  1 Spring-Loaded Chamber, UNCOMMON, 2.21%
+  1 Repeater Clip, UNCOMMON, 2.21%
+  1 Maiming Strike, RARE, 0.67%
+  1 Nano-Applicator, RARE, 0.67%
+  1 Argon Scope, COMMON, 10.84%
+  1 Pressurized Magazine, COMMON, 10.84%
+  1 Targeting Subsystem, UNCOMMON, 2.21%
+  1 Guided Ordinance, UNCOMMON, 2.21%
+  1 Narrow Barrel, RARE, 0.67%
+  1 Focused Defense, COMMON, 10.84%
+
+[ProjectUndermineBonusRewards]
+
+Rotation A:
+  1 RIFT SIGIL, UNCOMMON, 2.26%
+  1 Pistol Pestilence, UNCOMMON, 2.26%
+  1 Malignant Force, UNCOMMON, 2.26%
+  1 Toxic Barrage, UNCOMMON, 2.26%
+  1 Virulent Scourge, COMMON, 38.72%
+  1 Madurai Transmute Core, UNCOMMON, 2.26%
+  1 Vazarin Transmute Core, UNCOMMON, 2.26%
+  1 Naramon Transmute Core, UNCOMMON, 2.26%
+  1 Voltaic Strike, COMMON, 38.72%
+  1 Jolt, UNCOMMON, 2.26%
+  1 High Voltage, UNCOMMON, 2.26%
+  1 Shell Shock, UNCOMMON, 2.26%
+
+[ProjectUndermineRewards]
+
+Rotation A:
+  1 RIFT SIGIL, RARE, 1.19%
+  1 Pistol Pestilence, UNCOMMON, 18.33%
+  1 Malignant Force, UNCOMMON, 18.33%
+  1 Toxic Barrage, RARE, 1.19%
+  1 Virulent Scourge, RARE, 1.19%
+  2 Madurai Transmute Core, RARE, 1.19%
+  2 Vazarin Transmute Core, RARE, 1.19%
+  1 Naramon Transmute Core, UNCOMMON, 18.33%
+  1 Voltaic Strike, UNCOMMON, 18.33%
+  1 Jolt, RARE, 1.19%
+  1 High Voltage, UNCOMMON, 18.33%
+  1 Shell Shock, RARE, 1.19%
+
+[PVPMissionRewards/CTFRewards]
+ - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER
+ - Neptune, Cephalon Capture, MT_PVP, FC_CORPUS
+
+Rotation A:
+  1 Fast Deflection, UNCOMMON, 0.6%
+  1 Hawk Eye, UNCOMMON, 0.6%
+  5 Rare Fusion Core, RARE, 2.01%
+  1 Loose Magazine, COMMON, 12.65%
+  1 Full Capacity, COMMON, 12.65%
+  1 Blind Shot, UNCOMMON, 0.6%
+  1 Hydraulic Barrel, UNCOMMON, 0.6%
+  1 Loose Hatch, COMMON, 12.65%
+  1 Maximum Capacity, COMMON, 12.65%
+  1 Lucky Shot, UNCOMMON, 0.6%
+  1 Hydraulic Gauge, UNCOMMON, 0.6%
+  1 Loose Chamber, COMMON, 12.65%
+  1 Loaded Capacity, COMMON, 12.65%
+  1 Hydraulic Chamber, UNCOMMON, 0.6%
+  1 Feathered Arrows, UNCOMMON, 0.6%
+  1 Heightened Reflexes, UNCOMMON, 0.6%
+  1 Hastened Steps, UNCOMMON, 0.6%
+  1 Adrenaline Boost, UNCOMMON, 0.6%
+  1 Vital Systems Bypass, UNCOMMON, 0.6%
+  1 Secondary Wind, UNCOMMON, 0.6%
+  1 Deft Tempo, UNCOMMON, 0.6%
+  1 Plan B, UNCOMMON, 0.6%
+  1 Kill Switch, UNCOMMON, 0.6%
+  1 Gorgon Frenzy, UNCOMMON, 0.6%
+  1 Grinloked, UNCOMMON, 0.6%
+  1 Double Tap, UNCOMMON, 0.6%
+  1 Triple Tap, UNCOMMON, 0.6%
+  1 Final Tap, UNCOMMON, 0.6%
+  1 Directed Convergence, UNCOMMON, 0.6%
+  1 Sudden Justice, UNCOMMON, 0.6%
+  1 Focused Acceleration, UNCOMMON, 0.6%
+  1 Measured Burst, UNCOMMON, 0.6%
+  1 Heavy Warhead, UNCOMMON, 0.6%
+  1 Final Act, UNCOMMON, 0.6%
+  1 Tactical Retreat, UNCOMMON, 0.6%
+  1 Mortal Conduct, UNCOMMON, 0.6%
+  1 Soaring Strike, UNCOMMON, 0.6%
+  1 Rapid Consequence, UNCOMMON, 0.6%
+  1 Static Alacrity, UNCOMMON, 0.6%
+  1 Thundermiter, UNCOMMON, 0.6%
+  1 Shrapnel Rounds, UNCOMMON, 0.6%
+  1 Ambush Optics, UNCOMMON, 0.6%
+  1 Skull Shots, UNCOMMON, 0.6%
+  1 Brain Storm, UNCOMMON, 0.6%
+
+[PVPMissionRewards/DMRewards]
+ - Saturn, Annihilation, MT_PVP, FC_GRINEER
+ - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER
+
+Rotation A:
+  1 Fast Deflection, UNCOMMON, 0.6%
+  1 Hawk Eye, UNCOMMON, 0.6%
+  5 Rare Fusion Core, RARE, 2.01%
+  1 Loose Magazine, COMMON, 12.65%
+  1 Full Capacity, COMMON, 12.65%
+  1 Blind Shot, UNCOMMON, 0.6%
+  1 Hydraulic Barrel, UNCOMMON, 0.6%
+  1 Loose Hatch, COMMON, 12.65%
+  1 Maximum Capacity, COMMON, 12.65%
+  1 Lucky Shot, UNCOMMON, 0.6%
+  1 Hydraulic Gauge, UNCOMMON, 0.6%
+  1 Loose Chamber, COMMON, 12.65%
+  1 Loaded Capacity, COMMON, 12.65%
+  1 Hydraulic Chamber, UNCOMMON, 0.6%
+  1 Feathered Arrows, UNCOMMON, 0.6%
+  1 Heightened Reflexes, UNCOMMON, 0.6%
+  1 Hastened Steps, UNCOMMON, 0.6%
+  1 Adrenaline Boost, UNCOMMON, 0.6%
+  1 Vital Systems Bypass, UNCOMMON, 0.6%
+  1 Secondary Wind, UNCOMMON, 0.6%
+  1 Deft Tempo, UNCOMMON, 0.6%
+  1 Plan B, UNCOMMON, 0.6%
+  1 Kill Switch, UNCOMMON, 0.6%
+  1 Gorgon Frenzy, UNCOMMON, 0.6%
+  1 Grinloked, UNCOMMON, 0.6%
+  1 Double Tap, UNCOMMON, 0.6%
+  1 Triple Tap, UNCOMMON, 0.6%
+  1 Final Tap, UNCOMMON, 0.6%
+  1 Directed Convergence, UNCOMMON, 0.6%
+  1 Sudden Justice, UNCOMMON, 0.6%
+  1 Focused Acceleration, UNCOMMON, 0.6%
+  1 Measured Burst, UNCOMMON, 0.6%
+  1 Heavy Warhead, UNCOMMON, 0.6%
+  1 Final Act, UNCOMMON, 0.6%
+  1 Tactical Retreat, UNCOMMON, 0.6%
+  1 Mortal Conduct, UNCOMMON, 0.6%
+  1 Soaring Strike, UNCOMMON, 0.6%
+  1 Rapid Consequence, UNCOMMON, 0.6%
+  1 Static Alacrity, UNCOMMON, 0.6%
+  1 Thundermiter, UNCOMMON, 0.6%
+  1 Shrapnel Rounds, UNCOMMON, 0.6%
+  1 Ambush Optics, UNCOMMON, 0.6%
+  1 Skull Shots, UNCOMMON, 0.6%
+  1 Brain Storm, UNCOMMON, 0.6%
+
+[PVPMissionRewards/TDMRewards]
+ - Saturn, Team Annihilation, MT_PVP, FC_GRINEER
+
+Rotation A:
+  1 Fast Deflection, UNCOMMON, 0.6%
+  1 Hawk Eye, UNCOMMON, 0.6%
+  5 Rare Fusion Core, RARE, 2.01%
+  1 Loose Magazine, COMMON, 12.65%
+  1 Full Capacity, COMMON, 12.65%
+  1 Blind Shot, UNCOMMON, 0.6%
+  1 Hydraulic Barrel, UNCOMMON, 0.6%
+  1 Loose Hatch, COMMON, 12.65%
+  1 Maximum Capacity, COMMON, 12.65%
+  1 Lucky Shot, UNCOMMON, 0.6%
+  1 Hydraulic Gauge, UNCOMMON, 0.6%
+  1 Loose Chamber, COMMON, 12.65%
+  1 Loaded Capacity, COMMON, 12.65%
+  1 Hydraulic Chamber, UNCOMMON, 0.6%
+  1 Feathered Arrows, UNCOMMON, 0.6%
+  1 Heightened Reflexes, UNCOMMON, 0.6%
+  1 Hastened Steps, UNCOMMON, 0.6%
+  1 Adrenaline Boost, UNCOMMON, 0.6%
+  1 Vital Systems Bypass, UNCOMMON, 0.6%
+  1 Secondary Wind, UNCOMMON, 0.6%
+  1 Deft Tempo, UNCOMMON, 0.6%
+  1 Plan B, UNCOMMON, 0.6%
+  1 Kill Switch, UNCOMMON, 0.6%
+  1 Gorgon Frenzy, UNCOMMON, 0.6%
+  1 Grinloked, UNCOMMON, 0.6%
+  1 Double Tap, UNCOMMON, 0.6%
+  1 Triple Tap, UNCOMMON, 0.6%
+  1 Final Tap, UNCOMMON, 0.6%
+  1 Directed Convergence, UNCOMMON, 0.6%
+  1 Sudden Justice, UNCOMMON, 0.6%
+  1 Focused Acceleration, UNCOMMON, 0.6%
+  1 Measured Burst, UNCOMMON, 0.6%
+  1 Heavy Warhead, UNCOMMON, 0.6%
+  1 Final Act, UNCOMMON, 0.6%
+  1 Tactical Retreat, UNCOMMON, 0.6%
+  1 Mortal Conduct, UNCOMMON, 0.6%
+  1 Soaring Strike, UNCOMMON, 0.6%
+  1 Rapid Consequence, UNCOMMON, 0.6%
+  1 Static Alacrity, UNCOMMON, 0.6%
+  1 Thundermiter, UNCOMMON, 0.6%
+  1 Shrapnel Rounds, UNCOMMON, 0.6%
+  1 Ambush Optics, UNCOMMON, 0.6%
+  1 Skull Shots, UNCOMMON, 0.6%
+  1 Brain Storm, UNCOMMON, 0.6%
+
+[RaidRewards/GolemRaid]
+
+Rotation A:
+  1 ARCANE AEGIS, COMMON, 10%, 100 Ducats, Daily Cooldown
+  1 ARCANE ULTIMATUM, COMMON, 10%, 100 Ducats, Daily Cooldown
+  1 ARCANE FURY, COMMON, 10%, 100 Ducats, Daily Cooldown
+  1 ARCANE PRECISION, COMMON, 10%, 100 Ducats, Daily Cooldown
+  1 ARCANE VELOCITY, COMMON, 10%, 100 Ducats, Daily Cooldown
+  1 ARCANE TEMPO, COMMON, 10%, 100 Ducats, Daily Cooldown
+  1 ARCANE MOMENTUM, COMMON, 10%, 100 Ducats, Daily Cooldown
+  1 ARCANE CONSEQUENCE, COMMON, 10%, 100 Ducats, Daily Cooldown
+  1 ARCANE ARACHNE, COMMON, 10%, 100 Ducats, Daily Cooldown
+  1 ARCANE ENERGIZE, COMMON, 10%, 100 Ducats, Daily Cooldown
+
+[RaidRewards/HekRaid]
+
+Rotation A:
+  1 ARCANE GUARDIAN, COMMON, 18.97%, 100 Ducats, Daily Cooldown
+  1 ARCANE AVENGER, UNCOMMON, 2.46%, 100 Ducats, Daily Cooldown
+  1 ARCANE GRACE, RARE, 0.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE BARRIER, RARE, 0.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE AGILITY, UNCOMMON, 2.46%, 100 Ducats, Daily Cooldown
+  1 ARCANE PHANTASM, UNCOMMON, 2.46%, 100 Ducats, Daily Cooldown
+  1 ARCANE VICTORY, RARE, 0.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE TRICKERY, COMMON, 18.97%, 100 Ducats, Daily Cooldown
+  1 ARCANE RAGE, UNCOMMON, 2.46%, 100 Ducats, Daily Cooldown
+  1 ARCANE ACCELERATION, UNCOMMON, 2.46%, 100 Ducats, Daily Cooldown
+  1 ARCANE STRIKE, COMMON, 18.97%, 100 Ducats, Daily Cooldown
+  1 ARCANE AWAKENING, COMMON, 18.97%, 100 Ducats, Daily Cooldown
+  1 ARCANE PULSE, RARE, 0.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE ERUPTION, UNCOMMON, 2.46%, 100 Ducats, Daily Cooldown
+  1 ARCANE RESISTANCE, RARE, 0.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE ICE, UNCOMMON, 2.46%, 100 Ducats, Daily Cooldown
+  1 ARCANE WARMTH, UNCOMMON, 2.46%, 100 Ducats, Daily Cooldown
+  1 ARCANE NULLIFIER, UNCOMMON, 2.46%, 100 Ducats, Daily Cooldown
+  1 ARCANE HEALING, RARE, 0.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE DEFLECTION, RARE, 0.29%, 100 Ducats, Daily Cooldown
+
+[RaidRewards/NightmareHekRaid]
+
+Rotation A:
+  1 ARCANE GRACE, COMMON, 14.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE BARRIER, COMMON, 14.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE VICTORY, COMMON, 14.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE PULSE, COMMON, 14.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE RESISTANCE, COMMON, 14.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE HEALING, COMMON, 14.29%, 100 Ducats, Daily Cooldown
+  1 ARCANE DEFLECTION, COMMON, 14.29%, 100 Ducats, Daily Cooldown
+
+[RaidRewards/NightmareResourceHekRaid]
+
+Rotation A:
+  1 NEURAL SENSORS BLUEPRINT, UNCOMMON, 7.52%, Daily Cooldown
+  1 NEURODES BLUEPRINT, UNCOMMON, 7.52%, Daily Cooldown
+  1 OROKIN CELL BLUEPRINT, UNCOMMON, 7.52%, Daily Cooldown
+  1 4000 CREDITS, COMMON, 77.44%
+
+[RescueMissionRewards/RescueMissionRewardsEasy]
+ - Venus, V Prime, MT_RESCUE, FC_CORPUS
+ - Venus, Linea, MT_RESCUE, FC_CORPUS
+ - Mars, Vallis, MT_RESCUE, FC_CORPUS
+ - Mars, Spear, MT_RESCUE, FC_GRINEER
+ - Jupiter, Metis, MT_RESCUE, FC_CORPUS
+ - Saturn, Anthe, MT_RESCUE, FC_GRINEER
+ - Saturn, Numa, MT_RESCUE, FC_GRINEER
+ - Sedna, Jengu, MT_RESCUE, FC_GRINEER
+
+Rotation B:
+  1 VAPOR SPECTER BLUEPRINT, COMMON, 100%
+
+Rotation C:
+  1 PHASE SPECTER BLUEPRINT, COMMON, 100%
+
+[RescueMissionRewards/RescueMissionRewardsHard]
+ - Earth, Zeipel, MT_RESCUE, FC_CORPUS
+ - Neptune, Thalassa, MT_RESCUE, FC_CORPUS
+ - Neptune, Nereid, MT_RESCUE, FC_CORPUS
+ - Pluto, Regna, MT_RESCUE, FC_CORPUS
+ - Ceres, Olla, MT_RESCUE, FC_GRINEER
+ - Ceres, Cinxia, MT_RESCUE, FC_GRINEER
+ - Eris, Brugia, MT_RESCUE, FC_INFESTATION
+ - Eris, Ranova, MT_RESCUE, FC_INFESTATION
+ - Eris, Sparga, MT_RESCUE, FC_INFESTATION
+ - Europa, Orias, MT_RESCUE, FC_CORPUS
+
+Rotation A:
+  1 PHASE SPECTER BLUEPRINT, COMMON, 100%
+
+Rotation B:
+  1 FORCE SPECTER BLUEPRINT, COMMON, 100%
+
+Rotation C:
+  1 COSMIC SPECTER BLUEPRINT, COMMON, 100%
+
+[RescueMissionRewards/RescueMissionRewardsMedium]
+ - Uranus, Mab, MT_RESCUE, FC_GRINEER
+ - Uranus, Caliban, MT_RESCUE, FC_GRINEER
+ - Sedna, Naga, MT_RESCUE, FC_GRINEER
+ - Sedna, Veles, MT_RESCUE, FC_GRINEER
+ - Europa, Shax, MT_RESCUE, FC_CORPUS
+ - Phobos, Monolith, MT_RESCUE, FC_GRINEER
+ - Phobos, Gulliver, MT_RESCUE, FC_GRINEER
+
+Rotation A:
+  1 VAPOR SPECTER BLUEPRINT, COMMON, 100%
+
+Rotation B:
+  1 PHASE SPECTER BLUEPRINT, COMMON, 100%
+
+Rotation C:
+  1 FORCE SPECTER BLUEPRINT, COMMON, 100%
+
+[RescueMissionRewards/RescueMissionRewardsNightmare]
+
+Rotation A:
+  1 FORCE SPECTER BLUEPRINT, COMMON, 100%
+
+Rotation B:
+  1 COSMIC SPECTER BLUEPRINT, COMMON, 100%
+
+Rotation C:
+  1 COSMIC SPECTER BLUEPRINT, COMMON, 100%
+
+[SortieRewards]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 DERA VANDAL BLUEPRINT, COMMON, 7.55%
+  1 DERA VANDAL BARREL, COMMON, 7.55%
+  1 DERA VANDAL RECEIVER, UNCOMMON, 5.5%
+  1 DERA VANDAL STOCK, UNCOMMON, 5.5%
+  1 KARAK WRAITH BARREL, COMMON, 7.55%
+  1 KARAK WRAITH RECEIVER, UNCOMMON, 5.5%
+  1 KARAK WRAITH STOCK, UNCOMMON, 5.5%
+  1 KARAK WRAITH BLUEPRINT, COMMON, 7.55%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+
+[SortieRewardsB]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 9.44%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 DERA VANDAL BLUEPRINT, COMMON, 9.44%
+  1 DERA VANDAL BARREL, COMMON, 9.44%
+  1 DERA VANDAL RECEIVER, UNCOMMON, 11%
+  1 DERA VANDAL STOCK, UNCOMMON, 11%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 9.44%
+  1 VAZARIN LENS, COMMON, 9.44%
+  1 ZENURIK LENS, COMMON, 9.44%
+  1 NARAMON LENS, COMMON, 9.44%
+  1 UNAIRU LENS, COMMON, 9.44%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+
+[SortieRewardsC]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 KARAK WRAITH BLUEPRINT, COMMON, 7.55%
+  1 KARAK WRAITH BARREL, COMMON, 7.55%
+  1 KARAK WRAITH RECEIVER, UNCOMMON, 7.33%
+  1 KARAK WRAITH STOCK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA HELMET BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
+[SortieRewardsD]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 PYRA SYANDANA, RARE, 1%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 STRUN WRAITH BLUEPRINT, COMMON, 7.55%
+  1 STRUN WRAITH BARREL, COMMON, 7.55%
+  1 STRUN WRAITH RECEIVER, UNCOMMON, 7.33%
+  1 STRUN WRAITH STOCK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA HELMET BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
+[SortieRewardsE]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 SHEEV BLUEPRINT, COMMON, 7.55%
+  1 SHEEV HILT, COMMON, 7.55%
+  1 SHEEV BLADE, UNCOMMON, 7.33%
+  1 SHEEV HEATSINK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA HELMET BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+
+[SortieRewardsF]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 SNIPETRON VANDAL BLUEPRINT, COMMON, 7.55%
+  1 SNIPETRON VANDAL STOCK, COMMON, 7.55%
+  1 SNIPETRON VANDAL RECEIVER, UNCOMMON, 7.33%
+  1 SNIPETRON VANDAL BARREL, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA HELMET BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+
+[SpyMissionRewards/SpyHighMissionRewards]
+ - Neptune, Sao, MT_INTEL, FC_CORPUS
+ - Neptune, Laomedeia, MT_INTEL, FC_CORPUS
+ - Pluto, Oceanum, MT_INTEL, FC_CORPUS
+ - Ceres, Lex, MT_INTEL, FC_GRINEER
+ - Ceres, Hapke, MT_INTEL, FC_GRINEER
+ - Eris, Cyath, MT_INTEL, FC_INFESTATION
+ - Eris, Gnathos, MT_INTEL, FC_CORPUS
+
+Rotation A:
+  1 2000 CREDITS, COMMON, 14.29%
+  1 2500 CREDITS, COMMON, 14.29%
+  1 Uncommon Fusion Core, COMMON, 14.29%
+  1 Rare Fusion Core, COMMON, 14.29%
+  1 Steady Hands, COMMON, 14.29%
+  1 Stabilizer, COMMON, 14.29%
+  1 Power Throw, COMMON, 14.29%
+
+Rotation B:
+  1 TOWER II CAPTURE KEY, COMMON, 11.06%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 11.06%
+  1 TOWER II EXTERMINATE KEY, COMMON, 11.06%
+  1 TOWER II SURVIVAL KEY, COMMON, 11.06%
+  1 TOWER II DEFENSE KEY, COMMON, 11.06%
+  1 TOWER III CAPTURE KEY, UNCOMMON, 4.51%
+  1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 4.51%
+  1 TOWER III EXTERMINATE KEY, UNCOMMON, 4.51%
+  1 TOWER III SURVIVAL KEY, UNCOMMON, 4.51%
+  1 TOWER III DEFENSE KEY, UNCOMMON, 4.51%
+  1 TOWER II SABOTAGE KEY, COMMON, 11.06%
+  1 TOWER III SABOTAGE KEY, COMMON, 11.06%
+
+Rotation C:
+  1 4000 CREDITS, COMMON, 6.45%
+  1 4000 CREDITS, COMMON, 6.45%
+  1 Power Throw, COMMON, 6.45%
+  1 Stretch, COMMON, 6.45%
+  1 Hell's Chamber, COMMON, 6.45%
+  1 Scorch, COMMON, 6.45%
+  1 Thermite Rounds, COMMON, 6.45%
+  1 Frostbite, UNCOMMON, 7.52%
+  1 Frigid Blast, COMMON, 6.45%
+  1 Arrow Mutation, COMMON, 6.45%
+  1 Sniper Ammo Mutation, COMMON, 6.45%
+  1 Shotgun Ammo Mutation, COMMON, 6.45%
+  1 Covert Lethality, COMMON, 6.45%
+  1 IVARA HELMET BLUEPRINT, UNCOMMON, 7.52%
+  1 IVARA BLUEPRINT, UNCOMMON, 7.52%
+
+[SpyMissionRewards/SpyLowMissionRewards]
+ - Mercury, Suisei, MT_INTEL, FC_GRINEER
+ - Venus, Vesper, MT_INTEL, FC_CORPUS
+ - Venus, Unda, MT_INTEL, FC_CORPUS
+ - Earth, Cambria, MT_INTEL, FC_GRINEER
+ - Mars, Martialis, MT_INTEL, FC_CORPUS
+ - Jupiter, Adrastea, MT_INTEL, FC_CORPUS
+ - Saturn, Titan, MT_INTEL, FC_GRINEER
+
+Rotation A:
+  1 1000 CREDITS, COMMON, 14.29%
+  1 1500 CREDITS, COMMON, 14.29%
+  1 Uncommon Fusion Core, COMMON, 14.29%
+  1 Rare Fusion Core, COMMON, 14.29%
+  1 Reflection, COMMON, 14.29%
+  1 Reflex Guard, COMMON, 14.29%
+  1 Parry, COMMON, 14.29%
+
+Rotation B:
+  1 TOWER I CAPTURE KEY, COMMON, 16.67%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 16.67%
+  1 TOWER I EXTERMINATE KEY, COMMON, 16.67%
+  1 TOWER I SURVIVAL KEY, COMMON, 16.67%
+  1 TOWER I DEFENSE KEY, COMMON, 16.67%
+  1 TOWER I SABOTAGE KEY, COMMON, 16.67%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 9.09%
+  1 3000 CREDITS, COMMON, 9.09%
+  1 Reflection, COMMON, 9.09%
+  1 Parry, COMMON, 9.09%
+  1 Heavy Impact, COMMON, 9.09%
+  1 Serration, COMMON, 9.09%
+  1 Hornet Strike, COMMON, 9.09%
+  1 Metal Auger, COMMON, 9.09%
+  1 Volcanic Edge, COMMON, 9.09%
+  1 Vicious Frost, COMMON, 9.09%
+  1 IVARA SYSTEMS BLUEPRINT, COMMON, 9.09%
+
+[SpyMissionRewards/SpyMediumMissionRewards]
+ - Saturn, Aegaeon, MT_INTEL, FC_GRINEER
+ - Uranus, Umbriel, MT_INTEL, FC_GRINEER
+ - Uranus, Rosalind, MT_INTEL, FC_GRINEER
+ - Sedna, Tikoloshe, MT_INTEL, FC_GRINEER
+ - Sedna, Scylla, MT_INTEL, FC_GRINEER
+ - Europa, Armaros, MT_INTEL, FC_CORPUS
+ - Europa, Valac, MT_INTEL, FC_CORPUS
+ - Phobos, Grildrig, MT_INTEL, FC_GRINEER
+ - Phobos, Shklovsky, MT_INTEL, FC_GRINEER
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 5.56%
+  1 Fast Deflection, COMMON, 5.56%
+  1 Rush, COMMON, 5.56%
+  1 Target Cracker, COMMON, 5.56%
+  1 No Return, COMMON, 5.56%
+  1 Serration, COMMON, 5.56%
+  1 Hornet Strike, COMMON, 5.56%
+  1 Reflex Coil, COMMON, 5.56%
+  1 Deep Freeze, COMMON, 5.56%
+  1 North Wind, COMMON, 5.56%
+  1 Cryo Rounds, COMMON, 5.56%
+  1 Hell's Chamber, COMMON, 5.56%
+  1 Streamline, COMMON, 5.56%
+  1 Shocking Touch, COMMON, 5.56%
+  1 Stormbringer, COMMON, 5.56%
+  1 Point Blank, COMMON, 5.56%
+  1 Fury, COMMON, 5.56%
+  1 Uncommon Fusion Core, COMMON, 5.56%
+
+Rotation C:
+  1 Metal Auger, UNCOMMON, 5.64%
+  1 Rime Rounds, UNCOMMON, 5.64%
+  1 Scattering Inferno, UNCOMMON, 5.64%
+  1 Rare Fusion Core, COMMON, 12.91%
+  1 TOWER II CAPTURE KEY, COMMON, 12.91%
+  1 TOWER II DEFENSE KEY, COMMON, 12.91%
+  1 TOWER II EXTERMINATE KEY, COMMON, 12.91%
+  1 TOWER II SURVIVAL KEY, COMMON, 12.91%
+  1 TOWER IV SABOTAGE KEY, COMMON, 12.91%
+  1 IVARA CHASSIS BLUEPRINT, UNCOMMON, 5.64%
+
+[SpyMissionRewards/SpyMoonMissionRewards]
+ - Earth, Pavlov, MT_INTEL, FC_CORPUS
+
+Rotation A:
+  1 Blood Rush, COMMON, 12.18%
+  1 Hydraulic Crosshairs, COMMON, 12.18%
+  1 Shrapnel Shot, COMMON, 12.18%
+  2 Uncommon Fusion Core, COMMON, 12.18%
+  1 Fast Hands, COMMON, 12.18%
+  1 Point Strike, COMMON, 12.18%
+  1 Piercing Hit, COMMON, 12.18%
+  1 Pistol Gambit, COMMON, 12.18%
+  1 Gnashing Payara, RARE, 1.29%
+  1 Astral Twilight, RARE, 1.29%
+
+Rotation B:
+  1 Focused Defense, COMMON, 6.49%
+  1 Catalyzer Link, COMMON, 6.49%
+  1 Target Cracker, COMMON, 6.49%
+  1 No Return, COMMON, 6.49%
+  1 Serration, COMMON, 6.49%
+  1 Hornet Strike, COMMON, 6.49%
+  1 Reflex Coil, COMMON, 6.49%
+  1 Deep Freeze, COMMON, 6.49%
+  1 North Wind, COMMON, 6.49%
+  1 Cryo Rounds, COMMON, 6.49%
+  1 Hell's Chamber, COMMON, 6.49%
+  1 Streamline, COMMON, 6.49%
+  1 Shocking Touch, COMMON, 6.49%
+  1 Stormbringer, COMMON, 6.49%
+  1 High Noon, RARE, 1.29%
+  1 Crushing Ruin, RARE, 1.29%
+  3 Uncommon Fusion Core, COMMON, 6.49%
+
+Rotation C:
+  1 Rime Rounds, UNCOMMON, 7.37%
+  1 Scattering Inferno, UNCOMMON, 7.37%
+  5 Rare Fusion Core, COMMON, 15.18%
+  1 TOWER II CAPTURE KEY, COMMON, 15.18%
+  1 TOWER II DEFENSE KEY, COMMON, 15.18%
+  1 Coiling Viper, COMMON, 15.18%
+  1 Cleaving Whirlwind, RARE, 2.01%
+  1 TOWER IV SABOTAGE KEY, COMMON, 15.18%
+  1 IVARA CHASSIS BLUEPRINT, UNCOMMON, 7.37%
+
+[SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards]
+ - Uranus, Assur, MT_SURVIVAL, FC_INFESTATION
+ - Neptune, Kelashin, MT_SURVIVAL, FC_INFESTATION
+ - Sedna, Amarna, MT_SURVIVAL, FC_INFESTATION
+ - Europa, Cholistan, MT_EXCAVATE, FC_INFESTATION
+ - Phobos, Zeugma, MT_EXCAVATE, FC_INFESTATION
+
+Rotation A:
+  1 3000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  5 Rare Fusion Core, COMMON, 25%
+
+Rotation B:
+  Attenuation: 0.4
+  1 TOWER II CAPTURE KEY, UNCOMMON, 3.76%
+  1 TOWER II MOBILE DEFENSE KEY, UNCOMMON, 3.76%
+  1 TOWER II EXTERMINATE KEY, UNCOMMON, 3.76%
+  1 TOWER II SURVIVAL KEY, UNCOMMON, 3.76%
+  1 TOWER II DEFENSE KEY, UNCOMMON, 3.76%
+  1 TOWER II SABOTAGE KEY, UNCOMMON, 3.76%
+  1 TOWER III CAPTURE KEY, COMMON, 12.91%
+  1 TOWER III MOBILE DEFENSE KEY, COMMON, 12.91%
+  1 TOWER III EXTERMINATE KEY, COMMON, 12.91%
+  1 TOWER III SURVIVAL KEY, COMMON, 12.91%
+  1 TOWER III DEFENSE KEY, COMMON, 12.91%
+  1 TOWER III SABOTAGE KEY, COMMON, 12.91%
+
+Rotation C:
+  1 4000 CREDITS, COMMON, 4.35%
+  1 4000 CREDITS, COMMON, 4.35%
+  1 Steady Hands, COMMON, 4.35%
+  1 Stabilizer, COMMON, 4.35%
+  1 Power Throw, COMMON, 4.35%
+  1 Steel Fiber, COMMON, 4.35%
+  1 Stretch, COMMON, 4.35%
+  1 Serration, COMMON, 4.35%
+  1 Hell's Chamber, COMMON, 4.35%
+  1 Cleanse Infested, COMMON, 4.35%
+  1 Sundering Strike, COMMON, 4.35%
+  1 Hornet Strike, COMMON, 4.35%
+  1 Flow, COMMON, 4.35%
+  1 Split Chamber, COMMON, 4.35%
+  1 Pistol Ammo Mutation, COMMON, 4.35%
+  1 Arrow Mutation, COMMON, 4.35%
+  1 Rifle Ammo Mutation, COMMON, 4.35%
+  1 Sniper Ammo Mutation, COMMON, 4.35%
+  1 Shotgun Ammo Mutation, COMMON, 4.35%
+  1 True Punishment, COMMON, 4.35%
+  1 Quickening, COMMON, 4.35%
+  1 Enduring Strike, COMMON, 4.35%
+  1 Life Strike, COMMON, 4.35%
+
+[SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards]
+ - Earth, Tikal, MT_EXCAVATE, FC_INFESTATION
+
+Rotation A:
+  1 500 CREDITS, COMMON, 14.29%
+  1 1000 CREDITS, COMMON, 14.29%
+  1 1500 CREDITS, COMMON, 14.29%
+  1 2000 CREDITS, COMMON, 14.29%
+  1 Common Fusion Core, COMMON, 14.29%
+  1 Uncommon Fusion Core, COMMON, 14.29%
+  1 Rare Fusion Core, COMMON, 14.29%
+
+Rotation B:
+  1 TOWER I CAPTURE KEY, COMMON, 16.67%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 16.67%
+  1 TOWER I EXTERMINATE KEY, COMMON, 16.67%
+  1 TOWER I SURVIVAL KEY, COMMON, 16.67%
+  1 TOWER I DEFENSE KEY, COMMON, 16.67%
+  1 TOWER I SABOTAGE KEY, COMMON, 16.67%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 5%
+  1 3000 CREDITS, COMMON, 5%
+  1 Reflection, COMMON, 5%
+  1 Reflex Guard, COMMON, 5%
+  1 Parry, COMMON, 5%
+  1 Steel Fiber, COMMON, 5%
+  1 Heavy Impact, COMMON, 5%
+  1 Serration, COMMON, 5%
+  1 Incendiary Coat, COMMON, 5%
+  1 Cleanse Grineer, COMMON, 5%
+  1 Hornet Strike, COMMON, 5%
+  1 Intensify, COMMON, 5%
+  1 Metal Auger, COMMON, 5%
+  1 Reflex Coil, COMMON, 5%
+  1 Arrow Mutation, COMMON, 5%
+  1 Rifle Ammo Mutation, COMMON, 5%
+  1 Sniper Ammo Mutation, COMMON, 5%
+  1 Shotgun Ammo Mutation, COMMON, 5%
+  1 Pistol Ammo Mutation, COMMON, 5%
+  1 True Punishment, COMMON, 5%
+
+[SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards]
+ - Venus, Malva, MT_EXCAVATE, FC_INFESTATION
+ - Mars, Wahiba, MT_SURVIVAL, FC_INFESTATION
+ - Jupiter, Cameria, MT_SURVIVAL, FC_INFESTATION
+ - Saturn, Piscinas, MT_SURVIVAL, FC_INFESTATION
+
+Rotation A:
+  1 2000 CREDITS, COMMON, 16.67%
+  1 2500 CREDITS, COMMON, 16.67%
+  1 3000 CREDITS, COMMON, 16.67%
+  1 Common Fusion Core, COMMON, 16.67%
+  1 Uncommon Fusion Core, COMMON, 16.67%
+  1 Rare Fusion Core, COMMON, 16.67%
+
+Rotation B:
+  Attenuation: 0.1
+  1 TOWER II CAPTURE KEY, COMMON, 12.91%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 12.91%
+  1 TOWER II EXTERMINATE KEY, COMMON, 12.91%
+  1 TOWER II SURVIVAL KEY, COMMON, 12.91%
+  1 TOWER II DEFENSE KEY, COMMON, 12.91%
+  1 TOWER II SABOTAGE KEY, COMMON, 12.91%
+  1 TOWER III CAPTURE KEY, UNCOMMON, 3.76%
+  1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 3.76%
+  1 TOWER III EXTERMINATE KEY, UNCOMMON, 3.76%
+  1 TOWER III SURVIVAL KEY, UNCOMMON, 3.76%
+  1 TOWER III DEFENSE KEY, UNCOMMON, 3.76%
+  1 TOWER III SABOTAGE KEY, UNCOMMON, 3.76%
+
+Rotation C:
+  1 3000 CREDITS, COMMON, 4.55%
+  1 4000 CREDITS, COMMON, 4.55%
+  1 Provoked, COMMON, 4.55%
+  1 Finishing Touch, COMMON, 4.55%
+  1 Spare Parts, COMMON, 4.55%
+  1 Steel Fiber, COMMON, 4.55%
+  1 Serration, COMMON, 4.55%
+  1 Hornet Strike, COMMON, 4.55%
+  1 Fast Deflection, COMMON, 4.55%
+  1 Charged Shell, COMMON, 4.55%
+  1 Cleanse Corpus, COMMON, 4.55%
+  1 Killing Blow, COMMON, 4.55%
+  1 Antitoxin, COMMON, 4.55%
+  1 Vital Sense, COMMON, 4.55%
+  1 Pistol Ammo Mutation, COMMON, 4.55%
+  1 Arrow Mutation, COMMON, 4.55%
+  1 Rifle Ammo Mutation, COMMON, 4.55%
+  1 Sniper Ammo Mutation, COMMON, 4.55%
+  1 Shotgun Ammo Mutation, COMMON, 4.55%
+  1 True Punishment, COMMON, 4.55%
+  1 Quickening, COMMON, 4.55%
+  1 Enduring Strike, COMMON, 4.55%
+
+[SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards]
+ - Pluto, Hieracon, MT_EXCAVATE, FC_INFESTATION
+ - Ceres, Gabii, MT_SURVIVAL, FC_INFESTATION
+ - Eris, Zabala, MT_SURVIVAL, FC_INFESTATION
+
+Rotation A:
+  1 3000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  5 Rare Fusion Core, COMMON, 25%
+
+Rotation B:
+  Attenuation: 0.3
+  1 TOWER IV CAPTURE KEY, COMMON, 11.06%
+  1 TOWER IV MOBILE DEFENSE KEY, COMMON, 11.06%
+  1 TOWER IV DEFENSE KEY, COMMON, 11.06%
+  1 TOWER IV EXTERMINATE KEY, COMMON, 11.06%
+  1 TOWER IV INTERCEPTION KEY, COMMON, 11.06%
+  1 TOWER IV SABOTAGE KEY, COMMON, 11.06%
+  1 TOWER IV SURVIVAL KEY, COMMON, 11.06%
+  1 TOWER III CAPTURE KEY, UNCOMMON, 3.76%
+  1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 3.76%
+  1 TOWER III EXTERMINATE KEY, UNCOMMON, 3.76%
+  1 TOWER III SURVIVAL KEY, UNCOMMON, 3.76%
+  1 TOWER III DEFENSE KEY, UNCOMMON, 3.76%
+  1 TOWER III SABOTAGE KEY, UNCOMMON, 3.76%
+
+Rotation C:
+  1 4000 CREDITS, COMMON, 4.35%
+  1 4000 CREDITS, COMMON, 4.35%
+  1 Steady Hands, COMMON, 4.35%
+  1 Stabilizer, COMMON, 4.35%
+  1 Power Throw, COMMON, 4.35%
+  1 Steel Fiber, COMMON, 4.35%
+  1 Stretch, COMMON, 4.35%
+  1 Serration, COMMON, 4.35%
+  1 Hell's Chamber, COMMON, 4.35%
+  1 Cleanse Infested, COMMON, 4.35%
+  1 Sundering Strike, COMMON, 4.35%
+  1 Hornet Strike, COMMON, 4.35%
+  1 Flow, COMMON, 4.35%
+  1 Split Chamber, COMMON, 4.35%
+  1 Pistol Ammo Mutation, COMMON, 4.35%
+  1 Arrow Mutation, COMMON, 4.35%
+  1 Rifle Ammo Mutation, COMMON, 4.35%
+  1 Sniper Ammo Mutation, COMMON, 4.35%
+  1 Shotgun Ammo Mutation, COMMON, 4.35%
+  1 True Punishment, COMMON, 4.35%
+  1 Quickening, COMMON, 4.35%
+  1 Enduring Strike, COMMON, 4.35%
+  1 Life Strike, COMMON, 4.35%
+
+[SurvivalMissionRewards/SurvivalGeneticFoundryRewards]
+
+Rotation B:
+  1 2000 CREDITS, COMMON, 33.33%
+  1 4000 CREDITS, COMMON, 33.33%
+  1 Rare Fusion Core, COMMON, 33.33%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 33.33%
+  1 4000 CREDITS, COMMON, 33.33%
+  1 Rare Fusion Core, COMMON, 33.33%
+
+[SurvivalMissionRewards/SurvivalHighLevelRewards]
+ - Uranus, Ophelia, MT_SURVIVAL, FC_GRINEER
+ - Uranus, Cupid, MT_SURVIVAL, FC_GRINEER
+ - Neptune, Triton, MT_EXCAVATE, FC_CORPUS
+ - Neptune, Despina, MT_SURVIVAL, FC_CORPUS
+ - Pluto, Palus, MT_SURVIVAL, FC_CORPUS
+ - Ceres, Nuovo, MT_SURVIVAL, FC_GRINEER
+ - Ceres, Egeria, MT_SURVIVAL, FC_GRINEER
+ - Eris, Hymeno, MT_SURVIVAL, FC_INFESTATION
+ - Eris, Nimus, MT_SURVIVAL, FC_INFESTATION
+ - Sedna, Yemaja, MT_SURVIVAL, FC_GRINEER
+ - Europa, Lillith, MT_EXCAVATE, FC_CORPUS
+ - Europa, Valefor, MT_EXCAVATE, FC_CORPUS
+ - Europa, Zagan, MT_SURVIVAL, FC_CORPUS
+ - Phobos, Wendell, MT_EXCAVATE, FC_GRINEER
+ - Phobos, Flimnap, MT_SURVIVAL, FC_GRINEER
+
+Rotation A:
+  1 2000 CREDITS, COMMON, 25%
+  1 2500 CREDITS, COMMON, 25%
+  1 3000 CREDITS, COMMON, 25%
+  5 Rare Fusion Core, COMMON, 25%
+
+Rotation B:
+  Attenuation: 0.4
+  1 TOWER II CAPTURE KEY, UNCOMMON, 3.76%
+  1 TOWER II MOBILE DEFENSE KEY, UNCOMMON, 3.76%
+  1 TOWER II EXTERMINATE KEY, UNCOMMON, 3.76%
+  1 TOWER II SURVIVAL KEY, UNCOMMON, 3.76%
+  1 TOWER II DEFENSE KEY, UNCOMMON, 3.76%
+  1 TOWER II SABOTAGE KEY, UNCOMMON, 3.76%
+  1 TOWER III CAPTURE KEY, COMMON, 12.91%
+  1 TOWER III MOBILE DEFENSE KEY, COMMON, 12.91%
+  1 TOWER III EXTERMINATE KEY, COMMON, 12.91%
+  1 TOWER III SURVIVAL KEY, COMMON, 12.91%
+  1 TOWER III DEFENSE KEY, COMMON, 12.91%
+  1 TOWER III SABOTAGE KEY, COMMON, 12.91%
+
+Rotation C:
+  1 4000 CREDITS, COMMON, 5.26%
+  1 4000 CREDITS, COMMON, 5.26%
+  1 Steady Hands, COMMON, 5.26%
+  1 Stabilizer, COMMON, 5.26%
+  1 Power Throw, COMMON, 5.26%
+  1 Steel Fiber, COMMON, 5.26%
+  1 Stretch, COMMON, 5.26%
+  1 Serration, COMMON, 5.26%
+  1 Hell's Chamber, COMMON, 5.26%
+  1 Cleanse Infested, COMMON, 5.26%
+  1 Sundering Strike, COMMON, 5.26%
+  1 Hornet Strike, COMMON, 5.26%
+  1 Flow, COMMON, 5.26%
+  1 Split Chamber, COMMON, 5.26%
+  1 Pistol Ammo Mutation, COMMON, 5.26%
+  1 Arrow Mutation, COMMON, 5.26%
+  1 Rifle Ammo Mutation, COMMON, 5.26%
+  1 Sniper Ammo Mutation, COMMON, 5.26%
+  1 Shotgun Ammo Mutation, COMMON, 5.26%
+
+[SurvivalMissionRewards/SurvivalLowLevelRewards]
+ - Mercury, Apollodorus, MT_SURVIVAL, FC_GRINEER
+ - Venus, E Gate, MT_EXCAVATE, FC_CORPUS
+ - Earth, Lua, MT_EXCAVATE, FC_GRINEER
+ - Mars, Arcadia, MT_SURVIVAL, FC_CORPUS
+ - Mars, Ara, MT_SURVIVAL, FC_CORPUS
+
+Rotation A:
+  1 500 CREDITS, COMMON, 14.29%
+  1 1000 CREDITS, COMMON, 14.29%
+  1 1500 CREDITS, COMMON, 14.29%
+  1 2000 CREDITS, COMMON, 14.29%
+  1 Common Fusion Core, COMMON, 14.29%
+  1 Uncommon Fusion Core, COMMON, 14.29%
+  1 Rare Fusion Core, COMMON, 14.29%
+
+Rotation B:
+  1 TOWER I CAPTURE KEY, COMMON, 16.67%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 16.67%
+  1 TOWER I EXTERMINATE KEY, COMMON, 16.67%
+  1 TOWER I SURVIVAL KEY, COMMON, 16.67%
+  1 TOWER I DEFENSE KEY, COMMON, 16.67%
+  1 TOWER I SABOTAGE KEY, COMMON, 16.67%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 5.26%
+  1 3000 CREDITS, COMMON, 5.26%
+  1 Reflection, COMMON, 5.26%
+  1 Reflex Guard, COMMON, 5.26%
+  1 Parry, COMMON, 5.26%
+  1 Steel Fiber, COMMON, 5.26%
+  1 Heavy Impact, COMMON, 5.26%
+  1 Serration, COMMON, 5.26%
+  1 Incendiary Coat, COMMON, 5.26%
+  1 Cleanse Grineer, COMMON, 5.26%
+  1 Hornet Strike, COMMON, 5.26%
+  1 Intensify, COMMON, 5.26%
+  1 Metal Auger, COMMON, 5.26%
+  1 Reflex Coil, COMMON, 5.26%
+  1 Arrow Mutation, COMMON, 5.26%
+  1 Rifle Ammo Mutation, COMMON, 5.26%
+  1 Sniper Ammo Mutation, COMMON, 5.26%
+  1 Shotgun Ammo Mutation, COMMON, 5.26%
+  1 Pistol Ammo Mutation, COMMON, 5.26%
+
+[SurvivalMissionRewards/SurvivalMidLevelRewards]
+ - Earth, Tycho, MT_SURVIVAL, FC_CORPUS
+ - Jupiter, Elara, MT_SURVIVAL, FC_CORPUS
+ - Saturn, Mimas, MT_SURVIVAL, FC_GRINEER
+ - Saturn, Cassini, MT_SURVIVAL, FC_GRINEER
+ - Sedna, Selkie, MT_SURVIVAL, FC_GRINEER
+ - Phobos, Stickney, MT_EXCAVATE, FC_GRINEER
+
+Rotation A:
+  1 1500 CREDITS, COMMON, 16.67%
+  1 2000 CREDITS, COMMON, 16.67%
+  1 2500 CREDITS, COMMON, 16.67%
+  1 Common Fusion Core, COMMON, 16.67%
+  1 Uncommon Fusion Core, COMMON, 16.67%
+  1 Rare Fusion Core, COMMON, 16.67%
+
+Rotation B:
+  Attenuation: 0.1
+  1 TOWER II CAPTURE KEY, COMMON, 12.91%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 12.91%
+  1 TOWER II EXTERMINATE KEY, COMMON, 12.91%
+  1 TOWER II SURVIVAL KEY, COMMON, 12.91%
+  1 TOWER II DEFENSE KEY, COMMON, 12.91%
+  1 TOWER II SABOTAGE KEY, COMMON, 12.91%
+  1 TOWER III CAPTURE KEY, UNCOMMON, 3.76%
+  1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 3.76%
+  1 TOWER III EXTERMINATE KEY, UNCOMMON, 3.76%
+  1 TOWER III SURVIVAL KEY, UNCOMMON, 3.76%
+  1 TOWER III DEFENSE KEY, UNCOMMON, 3.76%
+  1 TOWER III SABOTAGE KEY, UNCOMMON, 3.76%
+
+Rotation C:
+  1 3000 CREDITS, COMMON, 5.26%
+  1 4000 CREDITS, COMMON, 5.26%
+  1 Provoked, COMMON, 5.26%
+  1 Finishing Touch, COMMON, 5.26%
+  1 Spare Parts, COMMON, 5.26%
+  1 Steel Fiber, COMMON, 5.26%
+  1 Serration, COMMON, 5.26%
+  1 Hornet Strike, COMMON, 5.26%
+  1 Fast Deflection, COMMON, 5.26%
+  1 Charged Shell, COMMON, 5.26%
+  1 Cleanse Corpus, COMMON, 5.26%
+  1 Killing Blow, COMMON, 5.26%
+  1 Antitoxin, COMMON, 5.26%
+  1 Vital Sense, COMMON, 5.26%
+  1 Pistol Ammo Mutation, COMMON, 5.26%
+  1 Arrow Mutation, COMMON, 5.26%
+  1 Rifle Ammo Mutation, COMMON, 5.26%
+  1 Sniper Ammo Mutation, COMMON, 5.26%
+  1 Shotgun Ammo Mutation, COMMON, 5.26%
+
+[VaultRewards]
+
+Rotation A:
+  1 Spoiled Strike, UNCOMMON, 4.17%
+  1 Corrupt Charge, UNCOMMON, 4.17%
+  1 Hollow Point, UNCOMMON, 4.17%
+  1 Spoiled Strike, UNCOMMON, 4.17%
+  1 Magnum Force, UNCOMMON, 4.17%
+  1 Tainted Clip, UNCOMMON, 4.17%
+  1 Critical Delay, UNCOMMON, 4.17%
+  1 Heavy Caliber, UNCOMMON, 4.17%
+  1 Tainted Mag, UNCOMMON, 4.17%
+  1 Vile Precision, UNCOMMON, 4.17%
+  1 Narrow Minded, UNCOMMON, 4.17%
+  1 Fleeting Expertise, UNCOMMON, 4.17%
+  1 Blind Rage, UNCOMMON, 4.17%
+  1 Overextended, UNCOMMON, 4.17%
+  1 Tainted Shell, UNCOMMON, 4.17%
+  1 Vicious Spread, UNCOMMON, 4.17%
+  1 Burdened Magazine, UNCOMMON, 4.17%
+  1 Anemic Agility, UNCOMMON, 4.17%
+  1 Vile Acceleration, UNCOMMON, 4.17%
+  1 Frail Momentum, UNCOMMON, 4.17%
+  1 Critical Deceleration, UNCOMMON, 4.17%
+  1 Creeping Bullseye, UNCOMMON, 4.17%
+  1 Transient Fortitude, UNCOMMON, 4.17%
+  1 Depleted Reload, UNCOMMON, 4.17%
+
+[VoidKeyMissionRewards/OrokinCaptureRewardsA]
+
+Rotation A:
+  1 ODONATA PRIME BLUEPRINT, UNCOMMON, 5.64%, 30 Ducats
+  1 PARIS PRIME GRIP, UNCOMMON, 5.64%, 30 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 5.64%
+  1 TOWER I DEFENSE KEY, COMMON, 25.81%
+  1 PARIS PRIME STRING, COMMON, 25.81%, 10 Ducats
+  1 LEX PRIME RECEIVER, UNCOMMON, 5.64%, 30 Ducats
+  1 TOWER II CAPTURE KEY, COMMON, 25.81%
+
+[VoidKeyMissionRewards/OrokinCaptureRewardsB]
+
+Rotation A:
+  1 ORTHOS PRIME HANDLE, UNCOMMON, 14.29%, 10 Ducats
+  1 PARIS PRIME STRING, UNCOMMON, 14.29%, 10 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 14.29%
+  1 ORTHOS PRIME BLADE, UNCOMMON, 14.29%, 10 Ducats
+  1 VOLT PRIME BLUEPRINT, UNCOMMON, 14.29%, 30 Ducats
+  1 NYX PRIME BLUEPRINT, UNCOMMON, 14.29%, 50 Ducats
+  1 LOKI PRIME BLUEPRINT, UNCOMMON, 14.29%, 30 Ducats
+
+[VoidKeyMissionRewards/OrokinCaptureRewardsC]
+
+Rotation A:
+  1 NIKANA PRIME HILT, UNCOMMON, 5.64%, 30 Ducats
+  1 FORMA BLUEPRINT, COMMON, 25.81%
+  1 SPIRA PRIME POUCH, UNCOMMON, 5.64%, 20 Ducats
+  1 DUAL KAMAS PRIME BLADE, UNCOMMON, 5.64%, 50 Ducats
+  1 AKBRONCO PRIME LINK, UNCOMMON, 5.64%, 30 Ducats
+  1 BURSTON PRIME BARREL, COMMON, 25.81%, 20 Ducats
+  1 LEX PRIME BARREL, COMMON, 25.81%, 20 Ducats
+
+[VoidKeyMissionRewards/OrokinCaptureRewardsD]
+
+Rotation A:
+  1 NYX PRIME SYSTEMS BLUEPRINT, COMMON, 19.36%, 10 Ducats
+  1 FORMA BLUEPRINT, COMMON, 19.36%
+  1 BRONCO PRIME RECEIVER, COMMON, 19.36%, 20 Ducats
+  1 VOLT PRIME BLUEPRINT, UNCOMMON, 11.28%, 30 Ducats
+  1 AKBRONCO PRIME LINK, COMMON, 19.36%, 30 Ducats
+  5 Rare Fusion Core, UNCOMMON, 11.28%
+
+[VoidKeyMissionRewards/OrokinDefenseRewardsA]
+
+Rotation A:
+  1 Rare Fusion Core, COMMON, 38.72%
+  1 TOWER I CAPTURE KEY, COMMON, 38.72%
+  1 TOWER III CAPTURE KEY, UNCOMMON, 11.28%
+  1 TOWER II MOBILE DEFENSE KEY, UNCOMMON, 11.28%
+
+Rotation B:
+  1 Rare Fusion Core, COMMON, 15.49%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 15.49%
+  1 TOWER II DEFENSE KEY, COMMON, 15.49%
+  1 OROKIN CELL, UNCOMMON, 22.56%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 15.49%
+  1 TOWER II CAPTURE KEY, COMMON, 15.49%
+
+Rotation C:
+  1 VASTO PRIME RECEIVER, UNCOMMON, 11.28%, 30 Ducats
+  1 CARRIER PRIME SYSTEMS, COMMON, 25.81%, 30 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 11.28%
+  1 HIKOU PRIME STARS, COMMON, 25.81%, 20 Ducats
+  1 BO PRIME ORNAMENT, COMMON, 25.81%, 10 Ducats
+
+[VoidKeyMissionRewards/OrokinDefenseRewardsB]
+
+Rotation A:
+  2 Rare Fusion Core, UNCOMMON, 20%
+  2 Uncommon Fusion Core, UNCOMMON, 20%
+  1 SOMA PRIME BLUEPRINT, UNCOMMON, 20%, 10 Ducats
+  1 OROKIN CELL, UNCOMMON, 20%
+  1 ORTHOS PRIME BLADE, UNCOMMON, 20%, 10 Ducats
+
+Rotation B:
+  2 Rare Fusion Core, UNCOMMON, 25%
+  2 Uncommon Fusion Core, UNCOMMON, 25%
+  1 BURSTON PRIME STOCK, UNCOMMON, 25%, 10 Ducats
+  1 PARIS PRIME BLUEPRINT, UNCOMMON, 25%, 10 Ducats
+
+Rotation C:
+  1 FANG PRIME HANDLE, UNCOMMON, 20%, 20 Ducats
+  1 BRATON PRIME STOCK, UNCOMMON, 20%, 20 Ducats
+  1 LEX PRIME RECEIVER, UNCOMMON, 20%, 30 Ducats
+  1 PARIS PRIME UPPER LIMB, UNCOMMON, 20%, 10 Ducats
+  1 FANG PRIME BLUEPRINT, UNCOMMON, 20%, 20 Ducats
+
+[VoidKeyMissionRewards/OrokinDefenseRewardsC]
+
+Rotation A:
+  3 Rare Fusion Core, COMMON, 25%
+  1 TRINITY PRIME CHASSIS BLUEPRINT, COMMON, 25%, 30 Ducats
+  1 OROKIN CELL, COMMON, 25%
+  3 Uncommon Fusion Core, COMMON, 25%
+
+Rotation B:
+  5 Rare Fusion Core, UNCOMMON, 20%
+  5 Uncommon Fusion Core, UNCOMMON, 20%
+  1 LEX PRIME BLUEPRINT, UNCOMMON, 20%, 10 Ducats
+  1 PARIS PRIME STRING, UNCOMMON, 20%, 10 Ducats
+  1 BURSTON PRIME BLUEPRINT, UNCOMMON, 20%, 20 Ducats
+
+Rotation C:
+  1 BRATON PRIME BARREL, UNCOMMON, 7.52%, 30 Ducats
+  1 BRATON PRIME RECEIVER, UNCOMMON, 7.52%, 30 Ducats
+  1 FORMA BLUEPRINT, COMMON, 19.36%
+  1 ASH PRIME BLUEPRINT, UNCOMMON, 7.52%, 50 Ducats
+  1 BRATON PRIME STOCK, COMMON, 19.36%, 20 Ducats
+  1 BO PRIME BLUEPRINT, COMMON, 19.36%, 20 Ducats
+  1 WYRM PRIME CEREBRUM, COMMON, 19.36%, 30 Ducats
+
+[VoidKeyMissionRewards/OrokinDefenseRewardsD]
+
+Rotation A:
+  5 Rare Fusion Core, UNCOMMON, 20%
+  1 FORMA BLUEPRINT, UNCOMMON, 20%
+  1 LEX PRIME BLUEPRINT, UNCOMMON, 20%, 10 Ducats
+  1 ORTHOS PRIME HANDLE, UNCOMMON, 20%, 10 Ducats
+  1 WYRM PRIME SYSTEMS, UNCOMMON, 20%, 30 Ducats
+
+Rotation B:
+  1 BRATON PRIME BARREL, COMMON, 25%, 30 Ducats
+  1 BRATON PRIME RECEIVER, COMMON, 25%, 30 Ducats
+  1 CARRIER PRIME SYSTEMS, COMMON, 25%, 30 Ducats
+  5 Rare Fusion Core, COMMON, 25%
+
+Rotation C:
+  1 LOKI PRIME SYSTEMS BLUEPRINT, UNCOMMON, 5.64%, 50 Ducats
+  1 NYX PRIME BLUEPRINT, UNCOMMON, 5.64%, 50 Ducats
+  1 TRINITY PRIME BLUEPRINT, UNCOMMON, 5.64%, 30 Ducats
+  1 ODONATA PRIME BLUEPRINT, COMMON, 19.36%, 30 Ducats
+  1 CARRIER PRIME CARAPACE, COMMON, 19.36%, 50 Ducats
+  1 BURSTON PRIME RECEIVER, COMMON, 19.36%, 30 Ducats
+  1 HIKOU PRIME POUCH, COMMON, 19.36%, 20 Ducats
+  5 Rare Fusion Core, UNCOMMON, 5.64%
+
+[VoidKeyMissionRewards/OrokinExterminateRewardsA]
+
+Rotation A:
+  1 SCINDO PRIME BLUEPRINT, UNCOMMON, 7.52%, 50 Ducats
+  1 WYRM PRIME CEREBRUM, UNCOMMON, 7.52%, 30 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 7.52%
+  1 TOWER I MOBILE DEFENSE KEY, COMMON, 25.81%
+  1 TOWER II EXTERMINATE KEY, COMMON, 25.81%
+  1 BURSTON PRIME STOCK, COMMON, 25.81%, 10 Ducats
+
+[VoidKeyMissionRewards/OrokinExterminateRewardsB]
+
+Rotation A:
+  1 CARRIER PRIME CEREBRUM, UNCOMMON, 7.52%, 50 Ducats
+  1 VOLT PRIME HELMET BLUEPRINT, COMMON, 19.36%, 20 Ducats
+  1 NOVA PRIME BLUEPRINT, COMMON, 19.36%, 10 Ducats
+  1 FORMA BLUEPRINT, COMMON, 19.36%
+  1 ORTHOS PRIME BLUEPRINT, UNCOMMON, 7.52%, 10 Ducats
+  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, 19.36%, 50 Ducats
+  1 WYRM PRIME BLUEPRINT, UNCOMMON, 7.52%, 50 Ducats
+
+[VoidKeyMissionRewards/OrokinExterminateRewardsC]
+
+Rotation A:
+  1 NYX PRIME CHASSIS BLUEPRINT, UNCOMMON, 5.64%, 50 Ducats
+  1 SOMA PRIME STOCK, UNCOMMON, 5.64%, 50 Ducats
+  1 VASTO PRIME RECEIVER, COMMON, 38.72%, 30 Ducats
+  1 NIKANA PRIME BLUEPRINT, UNCOMMON, 5.64%, 50 Ducats
+  1 SARYN PRIME BLUEPRINT, UNCOMMON, 5.64%, 30 Ducats
+  1 NYX PRIME SYSTEMS BLUEPRINT, COMMON, 38.72%, 10 Ducats
+
+[VoidKeyMissionRewards/OrokinExterminateRewardsD]
+
+Rotation A:
+  1 KAVASA PRIME BUCKLE, UNCOMMON, 5.64%, 50 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 5.64%
+  1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, 25.81%, 30 Ducats
+  1 HIKOU PRIME POUCH, COMMON, 25.81%, 20 Ducats
+  1 SARYN PRIME BLUEPRINT, UNCOMMON, 5.64%, 30 Ducats
+  1 VECTIS PRIME RECEIVER, UNCOMMON, 5.64%, 50 Ducats
+  5 Rare Fusion Core, COMMON, 25.81%
+
+[VoidKeyMissionRewards/OrokinInterceptionRewardsD]
+
+Rotation A:
+  5 Rare Fusion Core, UNCOMMON, 25%
+  1 CARRIER PRIME BLUEPRINT, UNCOMMON, 25%, 20 Ducats
+  1 AKBRONCO PRIME BLUEPRINT, UNCOMMON, 25%, 10 Ducats
+  1 LOKI PRIME BLUEPRINT, UNCOMMON, 25%, 30 Ducats
+
+Rotation B:
+  1 VECTIS PRIME BARREL, UNCOMMON, 25%, 20 Ducats
+  5 Rare Fusion Core, UNCOMMON, 25%
+  1 HIKOU PRIME BLUEPRINT, UNCOMMON, 25%, 10 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 25%
+
+Rotation C:
+  1 WYRM PRIME SYSTEMS, COMMON, 14.29%, 30 Ducats
+  1 SOMA PRIME BARREL, COMMON, 14.29%, 10 Ducats
+  1 FANG PRIME HANDLE, COMMON, 14.29%, 20 Ducats
+  1 LEX PRIME RECEIVER, COMMON, 14.29%, 30 Ducats
+  1 PARIS PRIME GRIP, COMMON, 14.29%, 30 Ducats
+  1 BO PRIME HANDLE, COMMON, 14.29%, 30 Ducats
+  1 FORMA BLUEPRINT, COMMON, 14.29%
+
+[VoidKeyMissionRewards/OrokinMobileDefenseRewardsA]
+
+Rotation A:
+  1 SARYN PRIME HELMET BLUEPRINT, UNCOMMON, 7.52%, 30 Ducats
+  1 VECTIS PRIME BLUEPRINT, UNCOMMON, 7.52%, 50 Ducats
+  1 BRATON PRIME BARREL, COMMON, 25.81%, 30 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 7.52%
+  1 TOWER I CAPTURE KEY, COMMON, 25.81%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 25.81%
+
+[VoidKeyMissionRewards/OrokinMobileDefenseRewardsB]
+
+Rotation A:
+  1 BURSTON PRIME BLUEPRINT, COMMON, 19.36%, 20 Ducats
+  1 NYX PRIME HELMET BLUEPRINT, UNCOMMON, 11.28%, 50 Ducats
+  1 VASTO PRIME BLUEPRINT, UNCOMMON, 11.28%, 50 Ducats
+  1 BRATON PRIME BLUEPRINT, COMMON, 19.36%, 20 Ducats
+  1 VASTO PRIME BARREL, COMMON, 19.36%, 10 Ducats
+  1 BO PRIME BLUEPRINT, COMMON, 19.36%, 20 Ducats
+
+[VoidKeyMissionRewards/OrokinMobileDefenseRewardsC]
+
+Rotation A:
+  1 VECTIS PRIME STOCK, UNCOMMON, 5.64%, 50 Ducats
+  1 TRINITY PRIME SYSTEMS BLUEPRINT, UNCOMMON, 5.64%, 50 Ducats
+  1 SCINDO PRIME BLADE, UNCOMMON, 5.64%, 50 Ducats
+  1 FORMA BLUEPRINT, COMMON, 25.81%
+  1 SPIRA PRIME BLADE, UNCOMMON, 5.64%, 20 Ducats
+  1 SOMA PRIME BARREL, COMMON, 25.81%, 10 Ducats
+  1 BURSTON PRIME RECEIVER, COMMON, 25.81%, 30 Ducats
+
+[VoidKeyMissionRewards/OrokinMobileDefenseRewardsD]
+
+Rotation A:
+  1 BO PRIME HANDLE, UNCOMMON, 16.67%, 30 Ducats
+  1 KAVASA PRIME COLLAR BLUEPRINT, UNCOMMON, 16.67%, 30 Ducats
+  1 VASTO PRIME RECEIVER, UNCOMMON, 16.67%, 30 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 16.67%
+  1 SPIRA PRIME BLUEPRINT, UNCOMMON, 16.67%, 10 Ducats
+  5 Rare Fusion Core, UNCOMMON, 16.67%
+
+[VoidKeyMissionRewards/OrokinSabotageRewardsA]
+
+Rotation A:
+  1 SCINDO PRIME HANDLE, UNCOMMON, 11.28%, 30 Ducats
+  1 ODONATA PRIME HARNESS BLUEPRINT, UNCOMMON, 11.28%, 30 Ducats
+  1 HIKOU PRIME STARS, COMMON, 19.36%, 20 Ducats
+  1 NOVA PRIME BLUEPRINT, COMMON, 19.36%, 10 Ducats
+  1 ODONATA PRIME SYSTEMS BLUEPRINT, COMMON, 19.36%, 30 Ducats
+  1 VASTO PRIME BARREL, COMMON, 19.36%, 10 Ducats
+
+Rotation B:
+  1 Uncommon Fusion Core, COMMON, 77.44%
+  1 MORPHICS, UNCOMMON, 4.51%
+  1 ARGON CRYSTAL, UNCOMMON, 4.51%
+  1 OROKIN CELL, UNCOMMON, 4.51%
+  1 NEURODES, UNCOMMON, 4.51%
+  1 NEURAL SENSORS, UNCOMMON, 4.51%
+
+Rotation C:
+  Attenuation: 0.675
+  1 2000 CREDITS, COMMON, 19.36%
+  1 2500 CREDITS, COMMON, 19.36%
+  1 3000 CREDITS, COMMON, 19.36%
+  1 Rare Fusion Core, UNCOMMON, 11.28%
+  1 Uncommon Fusion Core, UNCOMMON, 11.28%
+  1 Common Fusion Core, COMMON, 19.36%
+
+[VoidKeyMissionRewards/OrokinSabotageRewardsB]
+
+Rotation A:
+  1 NYX PRIME HELMET BLUEPRINT, UNCOMMON, 5.64%, 50 Ducats
+  1 LOKI PRIME BLUEPRINT, UNCOMMON, 5.64%, 30 Ducats
+  1 HIKOU PRIME BLUEPRINT, COMMON, 25.81%, 10 Ducats
+  1 BRONCO PRIME BLUEPRINT, COMMON, 25.81%, 10 Ducats
+  1 WYRM PRIME CARAPACE, UNCOMMON, 5.64%, 30 Ducats
+  1 HIKOU PRIME POUCH, COMMON, 25.81%, 20 Ducats
+  1 TRINITY PRIME HELMET BLUEPRINT, UNCOMMON, 5.64%, 30 Ducats
+
+Rotation B:
+  1 Uncommon Fusion Core, COMMON, 77.44%
+  1 OROKIN CELL, UNCOMMON, 4.51%
+  1 MORPHICS, UNCOMMON, 4.51%
+  1 NEURAL SENSORS, UNCOMMON, 4.51%
+  1 NEURODES, UNCOMMON, 4.51%
+  1 ARGON CRYSTAL, UNCOMMON, 4.51%
+
+Rotation C:
+  Attenuation: 0.675
+  1 2000 CREDITS, COMMON, 19.36%
+  1 2500 CREDITS, COMMON, 19.36%
+  1 3000 CREDITS, COMMON, 19.36%
+  1 Common Fusion Core, COMMON, 19.36%
+  1 Uncommon Fusion Core, UNCOMMON, 11.28%
+  1 Rare Fusion Core, UNCOMMON, 11.28%
+
+[VoidKeyMissionRewards/OrokinSabotageRewardsC]
+
+Rotation A:
+  1 LOKI PRIME HELMET BLUEPRINT, COMMON, 25.29%, 30 Ducats
+  1 FORMA BLUEPRINT, COMMON, 25.29%
+  1 SCINDO PRIME BLADE, UNCOMMON, 5.53%, 50 Ducats
+  1 LOKI PRIME SYSTEMS BLUEPRINT, UNCOMMON, 5.53%, 50 Ducats
+  1 BRONCO PRIME BARREL, UNCOMMON, 5.53%, 50 Ducats
+  1 SOMA PRIME BARREL, COMMON, 25.29%, 10 Ducats
+  1 WYRM PRIME CARAPACE, UNCOMMON, 5.53%, 30 Ducats
+  1 FORMA, RARE, 2.01%
+
+Rotation B:
+  1 Uncommon Fusion Core, COMMON, 77.44%
+  1 OROKIN CELL, UNCOMMON, 4.51%
+  1 MORPHICS, UNCOMMON, 4.51%
+  1 NEURAL SENSORS, UNCOMMON, 4.51%
+  1 NEURODES, UNCOMMON, 4.51%
+  1 ARGON CRYSTAL, UNCOMMON, 4.51%
+
+Rotation C:
+  Attenuation: 0.675
+  1 2000 CREDITS, COMMON, 19.36%
+  1 2500 CREDITS, COMMON, 19.36%
+  1 3000 CREDITS, COMMON, 19.36%
+  1 Rare Fusion Core, UNCOMMON, 11.28%
+  1 Uncommon Fusion Core, UNCOMMON, 11.28%
+  1 Common Fusion Core, COMMON, 19.36%
+
+[VoidKeyMissionRewards/OrokinSabotageRewardsD]
+
+Rotation A:
+  1 LOKI PRIME HELMET BLUEPRINT, UNCOMMON, 7.52%, 30 Ducats
+  1 NYX PRIME SYSTEMS BLUEPRINT, COMMON, 15.49%, 10 Ducats
+  1 CARRIER PRIME SYSTEMS, COMMON, 15.49%, 30 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 7.52%
+  1 LOKI PRIME CHASSIS BLUEPRINT, COMMON, 15.49%, 20 Ducats
+  1 KAVASA PRIME BAND, UNCOMMON, 7.52%, 50 Ducats
+  1 ASH PRIME HELMET BLUEPRINT, COMMON, 15.49%, 30 Ducats
+  1 NOVA PRIME HELMET BLUEPRINT, COMMON, 15.49%, 20 Ducats
+
+Rotation B:
+  1 Uncommon Fusion Core, COMMON, 77.44%
+  1 OROKIN CELL, UNCOMMON, 4.51%
+  1 MORPHICS, UNCOMMON, 4.51%
+  1 NEURAL SENSORS, UNCOMMON, 4.51%
+  1 NEURODES, UNCOMMON, 4.51%
+  1 ARGON CRYSTAL, UNCOMMON, 4.51%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 19.36%
+  1 2500 CREDITS, COMMON, 19.36%
+  1 3000 CREDITS, COMMON, 19.36%
+  1 Rare Fusion Core, UNCOMMON, 11.28%
+  1 Uncommon Fusion Core, UNCOMMON, 11.28%
+  1 Common Fusion Core, COMMON, 19.36%
+
+[VoidKeyMissionRewards/OrokinSurvivalRewardsA]
+
+Rotation A:
+  1 Rare Fusion Core, COMMON, 16.67%
+  1 BO PRIME ORNAMENT, COMMON, 16.67%, 10 Ducats
+  1 TOWER I DEFENSE KEY, COMMON, 16.67%
+  1 TOWER III EXTERMINATE KEY, COMMON, 16.67%
+  1 TOWER I CAPTURE KEY, COMMON, 16.67%
+  1 ODONATA PRIME SYSTEMS BLUEPRINT, COMMON, 16.67%, 30 Ducats
+
+Rotation B:
+  1 Rare Fusion Core, UNCOMMON, 7.52%
+  1 TOWER II SURVIVAL KEY, UNCOMMON, 7.52%
+  1 Uncommon Fusion Core, UNCOMMON, 7.52%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 38.72%
+  1 TOWER II CAPTURE KEY, COMMON, 38.72%
+
+Rotation C:
+  1 SCINDO PRIME HANDLE, UNCOMMON, 7.52%, 30 Ducats
+  1 PARIS PRIME UPPER LIMB, UNCOMMON, 7.52%, 10 Ducats
+  1 VOLT PRIME SYSTEMS BLUEPRINT, UNCOMMON, 7.52%, 30 Ducats
+  1 PARIS PRIME LOWER LIMB, COMMON, 25.81%, 10 Ducats
+  1 BURSTON PRIME STOCK, COMMON, 25.81%, 10 Ducats
+  1 NOVA PRIME HELMET BLUEPRINT, COMMON, 25.81%, 20 Ducats
+
+[VoidKeyMissionRewards/OrokinSurvivalRewardsB]
+
+Rotation A:
+  2 Rare Fusion Core, COMMON, 20%
+  1 OROKIN CELL, COMMON, 20%
+  1 AKBRONCO PRIME BLUEPRINT, COMMON, 20%, 10 Ducats
+  1 PARIS PRIME LOWER LIMB, COMMON, 20%, 10 Ducats
+  1 FORMA BLUEPRINT, COMMON, 20%
+
+Rotation B:
+  1 SOMA PRIME BLUEPRINT, UNCOMMON, 20%, 10 Ducats
+  1 FANG PRIME BLADE, UNCOMMON, 20%, 10 Ducats
+  2 Rare Fusion Core, UNCOMMON, 20%
+  2 Uncommon Fusion Core, UNCOMMON, 20%
+  1 HIKOU PRIME BLUEPRINT, UNCOMMON, 20%, 10 Ducats
+
+Rotation C:
+  1 BURSTON PRIME RECEIVER, UNCOMMON, 7.52%, 30 Ducats
+  1 SOMA PRIME RECEIVER, UNCOMMON, 7.52%, 30 Ducats
+  1 PARIS PRIME BLUEPRINT, COMMON, 19.36%, 10 Ducats
+  1 ASH PRIME CHASSIS BLUEPRINT, COMMON, 19.36%, 20 Ducats
+  1 NIKANA PRIME BLADE, UNCOMMON, 7.52%, 50 Ducats
+  1 BRONCO PRIME BLUEPRINT, COMMON, 19.36%, 10 Ducats
+  1 TRINITY PRIME CHASSIS BLUEPRINT, COMMON, 19.36%, 30 Ducats
+
+[VoidKeyMissionRewards/OrokinSurvivalRewardsC]
+
+Rotation A:
+  3 Rare Fusion Core, UNCOMMON, 20%
+  1 FANG PRIME BLUEPRINT, UNCOMMON, 20%, 20 Ducats
+  1 FANG PRIME BLADE, UNCOMMON, 20%, 10 Ducats
+  3 Uncommon Fusion Core, UNCOMMON, 20%
+  3 OROKIN CELL, UNCOMMON, 20%
+
+Rotation B:
+  3 Uncommon Fusion Core, UNCOMMON, 20%
+  3 Rare Fusion Core, UNCOMMON, 20%
+  1 VECTIS PRIME BARREL, UNCOMMON, 20%, 20 Ducats
+  1 LEX PRIME BARREL, UNCOMMON, 20%, 20 Ducats
+  1 VOLT PRIME HELMET BLUEPRINT, UNCOMMON, 20%, 20 Ducats
+
+Rotation C:
+  1 BO PRIME BLUEPRINT, COMMON, 25.29%, 20 Ducats
+  1 CARRIER PRIME BLUEPRINT, COMMON, 25.29%, 20 Ducats
+  1 VOLT PRIME CHASSIS BLUEPRINT, UNCOMMON, 5.53%, 50 Ducats
+  1 ASH PRIME SYSTEMS BLUEPRINT, UNCOMMON, 5.53%, 50 Ducats
+  1 SARYN PRIME CHASSIS BLUEPRINT, UNCOMMON, 5.53%, 20 Ducats
+  1 DUAL KAMAS PRIME BLUEPRINT, COMMON, 25.29%, 20 Ducats
+  1 NOVA PRIME CHASSIS BLUEPRINT, UNCOMMON, 5.53%, 50 Ducats
+  1 FORMA, RARE, 2.01%
+
+[VoidKeyMissionRewards/OrokinSurvivalRewardsD]
+
+Rotation A:
+  5 Uncommon Fusion Core, COMMON, 25%
+  1 ASH PRIME CHASSIS BLUEPRINT, COMMON, 25%, 20 Ducats
+  1 BO PRIME ORNAMENT, COMMON, 25%, 10 Ducats
+  3 OROKIN CELL, COMMON, 25%
+
+Rotation B:
+  1 ORTHOS PRIME BLUEPRINT, COMMON, 25%, 10 Ducats
+  5 Rare Fusion Core, COMMON, 25%
+  1 BRONCO PRIME RECEIVER, COMMON, 25%, 20 Ducats
+  1 LEX PRIME BARREL, COMMON, 25%, 20 Ducats
+
+Rotation C:
+  1 LOKI PRIME HELMET BLUEPRINT, UNCOMMON, 14.29%, 30 Ducats
+  1 BRATON PRIME BLUEPRINT, UNCOMMON, 14.29%, 20 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 14.29%
+  1 ODONATA PRIME WINGS BLUEPRINT, UNCOMMON, 14.29%, 30 Ducats
+  1 VASTO PRIME BLUEPRINT, UNCOMMON, 14.29%, 50 Ducats
+  1 LOKI PRIME CHASSIS BLUEPRINT, UNCOMMON, 14.29%, 20 Ducats
+  5 Rare Fusion Core, UNCOMMON, 14.29%
+
