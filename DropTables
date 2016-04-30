@@ -1696,14 +1696,15 @@ DROP_MISC_ITEM (Drop Chance: 100%, Exclusive: no)
 	OROKIN CELL, RARE, 2.58%
 
 DROP_MOD (Drop Chance: 100%, Exclusive: no)
-	Electromagnetic Shielding, UNCOMMON, 12.5%
-	Vulcan Blitz, UNCOMMON, 12.5%
-	Hunter's Bonesaw, UNCOMMON, 12.5%
-	Rift Strike, UNCOMMON, 12.5%
-	Nightwatch Napalm, UNCOMMON, 12.5%
-	Acid Shells, UNCOMMON, 12.5%
-	Harkonar Scope, UNCOMMON, 12.5%
-	Fomorian Accelerant, UNCOMMON, 12.5%
+	Electromagnetic Shielding, UNCOMMON, 11.11%
+	Vulcan Blitz, UNCOMMON, 11.11%
+	Hunter's Bonesaw, UNCOMMON, 11.11%
+	Rift Strike, UNCOMMON, 11.11%
+	Nightwatch Napalm, UNCOMMON, 11.11%
+	Acid Shells, UNCOMMON, 11.11%
+	Harkonar Scope, UNCOMMON, 11.11%
+	Fomorian Accelerant, UNCOMMON, 11.11%
+	Medi-Ray, UNCOMMON, 11.11%
 
 DROP_SIGIL (Drop Chance: 100%, Exclusive: no)
 	KELA DE THAYM SIGIL, UNCOMMON, 100%
