@@ -1,0 +1,68 @@
+[/Lotus/Types/Game/KubrowPet/Eggs/KubrowPetEggItem]
+
+Colors:
+  Weight: 4
+    ASH GREY (#808079), 7.14%
+    EARTH BROWN (#806A5D), 7.14%
+    CORPUS GREY (#808080), 7.14%
+    HEK GREEN (#7E806A), 7.14%
+    KRIL BROWN (#80745E), 7.14%
+    GALLIUM GREY (#78828C), 7.14%
+    GRUSTRAG GREY (#807A6C), 7.14%
+    SATURN BROWN (#806753), 7.14%
+  Weight: 2
+    SEDNA GREY (#807979), 3.57%
+    DERELICT BLACK (#262626), 3.57%
+    MARS RED (#805F44), 3.57%
+    INFESTED BLACK (#363333), 3.57%
+    VOID BLACK (#262020), 3.57%
+    DARVO BLUE (#697280), 3.57%
+    ORDIS GREY (#72727A), 3.57%
+    MERCURY BROWN (#807461), 3.57%
+  Weight: 1
+    ANYO GREY (#363640), 1.79%
+    AMBULAS BLACK (#342622), 1.79%
+    SHADOW GREY (#80736B), 1.79%
+    SARGAS BROWN (#C58D4D), 1.79%
+    JUPITER BROWN (#805A32), 1.79%
+    PHORID RED (#804330), 1.79%
+    ALAD BLUE (#5B6B80), 1.79%
+    VENUS BROWN (#4D4146), 1.79%
+
+Eye colors:
+  Weight: 1
+    Color #9DAE6C, 11.11%
+    Color #AE9465, 11.11%
+    Color #AE666F, 11.11%
+    Color #9174AE, 11.11%
+    Color #6CA1AE, 11.11%
+    Color #AE6344, 11.11%
+    Color #AE5AAB, 11.11%
+    Color #262626, 11.11%
+    Color #AE7C47, 11.11%
+
+Fur Patterns:
+  Weight: 5
+    PATCHY FUR PATTERN, 31.25%
+    STRIPED FUR PATTERN, 31.25%
+  Weight: 2
+    HOUND FUR PATTERN, 12.5%
+    DOMINO FUR PATTERN, 12.5%
+  Weight: 1
+    MERLE FUR PATTERN, 6.25%
+    LOTUS FUR PATTERN, 6.25%
+
+Personalities:
+  Weight: 1
+    SAHASA KUBROW, 20%
+    HURAS KUBROW, 20%
+    RAKSA KUBROW, 20%
+    SUNIKA KUBROW, 20%
+    CHESA KUBROW, 20%
+
+Body types:
+  Weight: 4
+    KubrowPetRegularBodyType, 80%
+  Weight: 1
+    KubrowPetHeavyBodyType, 10%
+    KubrowPetThinBodyType, 10%
