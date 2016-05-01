@@ -1,8 +1,8 @@
 # WarframeData
 Collection of entries that have been extracted and parsed from WARFRAME. Warning, may contain spoilers.
 
-This repository was created as an effort to publicize all of the information that is made available to me through a private tool
-another developer and I make modifications to. If you use this repository as a source for anything you post, please do me
+This repository was created as an effort to publicize all of the datamined information that is made available to me through a private tool
+another developer and I make modifications to. If you use this datamined information as a source for anything you post, please do me
 a favor and give credit to it. I would love this repository to expand to other users that want access to it.
 
 # Warning
