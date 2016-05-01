@@ -1,5 +1,5 @@
 # WarframeData
-Collection of entries that have been extracted from WARFRAME. Warning, may contain spoilers.
+Collection of entries that have been extracted and parsed from WARFRAME. Warning, may contain spoilers.
 
 This repository was created as an effort to publicize all of the information that is made available to me through a private tool
 another developer and I make modifications to. If you use this repository as a source for anything you post, please do me
