@@ -4371,12 +4371,12 @@ DROP_POWERUP (Drop Chance: 25%, Exclusive: no)
 	150-300 CREDITS, RARE, 2.01%
 
 [TennoSpecterDropTable]
+ - TENNO SPECTER (TennoReplicantAvatar)
  - TENNO SPECTER (TennoReplicantAttackDefendAvatar)
  - TENNO SPECTER (TennoReplicantAvatarStalker)
  - CHROMA (TennoReplicantChromaAvatar)
  - CHROMA (TennoReplicantChromaAvatarDerelict)
  - INFESTED MESA (TennoReplicantGunslingerAvatar)
- - TENNO SPECTER (TennoReplicantAvatar)
 
 DROP_AMMO (Drop Chance: 70%, Exclusive: no)
 	20 RIFLE AMMO, COMMON, 25%
