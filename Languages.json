@@ -8226,7 +8226,7 @@
     "name": "Ring Bell"
   },
   "/lotus/language/dojo/belowminrank": {
-    "name": "You must increase your rank before being able to trade."
+    "name": "Trading requires Mastery Rank 2."
   },
   "/lotus/language/dojo/breedinggroundsbronzetrophy": {
     "name": "BREEDING GROUNDS BRONZE TROPHY"
@@ -9124,7 +9124,7 @@
     "name": "Particle Accelerator"
   },
   "/lotus/language/dojo/fabricatorcorpusname": {
-    "desc": "Particle Accelerator",
+    "desc": "RATHUUM TERRACOTTA TROPHY",
     "name": "Particle Accelerator"
   },
   "/lotus/language/dojo/fabricatorgrineerdescription": {
@@ -9625,6 +9625,21 @@
   },
   "/lotus/language/dojo/raildeployedonnode": {
     "name": "Rail deployed on |NODE_NAME|"
+  },
+  "/lotus/language/dojo/rathuumbronzetrophy": {
+    "name": "RATHUUM BRONZE TROPHY"
+  },
+  "/lotus/language/dojo/rathuumclaytrophy": {
+    "name": "RATHUUM TERRACOTTA TROPHY"
+  },
+  "/lotus/language/dojo/rathuumgoldtrophy": {
+    "name": "RATHUUM GOLD TROPHY"
+  },
+  "/lotus/language/dojo/rathuumsilvertrophy": {
+    "name": "RATHUUM SILVER TROPHY"
+  },
+  "/lotus/language/dojo/rathuumtrophydesc": {
+    "name": "Awarded to Tenno who demonstrated extreme commitment to the efforts in Operation: Rathuum."
   },
   "/lotus/language/dojo/recipeselectionalliance": {
     "name": "DOJO TACTICIAN (ALLIANCE)"
@@ -10227,7 +10242,7 @@
     "name": "Weapons which will expire cannot be offered for trade."
   },
   "/lotus/language/dojo/trade_err_weapon_xp_locked": {
-    "name": "The trade failed: Your trade partner could not accept one of the weapons because it is XP Locked for them."
+    "name": "The trade failed: Your trade partner could not accept one of the weapons because it is Mastery Rank Locked for them."
   },
   "/lotus/language/dojo/trade_fillslotprompt": {
     "name": "ADD ITEMS TO TRADE ABOVE"
@@ -10236,10 +10251,10 @@
     "name": "CHECK WHEN READY TO TRADE"
   },
   "/lotus/language/dojo/trade_offer_err_item_xp_locked": {
-    "name": "This item is XP LOCKED for |PLAYER_NAME|, please offer a different item."
+    "name": "This item is Mastery Rank Locked for |PLAYER_NAME|, please offer a different item."
   },
   "/lotus/language/dojo/trade_offer_err_weapon_xp_locked": {
-    "name": "This weapon is XP LOCKED for |PLAYER_NAME|, please offer a different weapon."
+    "name": "This weapon is Mastery Rank Locked for |PLAYER_NAME|, please offer a different weapon."
   },
   "/lotus/language/dojo/trade_offer_unknown_error": {
     "name": "Failed to make offer."
@@ -10878,7 +10893,7 @@
     "name": "Heat based attacks and Auras"
   },
   "/lotus/language/enemyleaders/fireleaderinfestedname": {
-    "desc": "Red Veil",
+    "desc": "SANGUINE",
     "name": "CAUSTIC"
   },
   "/lotus/language/enemyleaders/fireleadername": {
@@ -11430,7 +11445,7 @@
     "name": "Unleash a ray of petrifying energy for |DURATION| seconds that turns enemies into stone for |FREEZE_DURATION| seconds."
   },
   "/lotus/language/focus/focuswardbasename": {
-    "desc": "Unleash a ray of petrifying energy for |DURATION| seconds that turns enemies into stone for |FREEZE_DURATION| seconds.",
+    "desc": "I am sworn protector of this system. Leave now or pay with your head!",
     "name": "BASILISK FLARE"
   },
   "/lotus/language/focus/focuswardchaoshallowedgrounddesc": {
@@ -11514,7 +11529,7 @@
     "name": "ACTIVATE"
   },
   "/lotus/language/focus/nofreeslots": {
-    "name": "You have no free Focus Slots. To install this Focus you must increase your player level or uninstall a Focus"
+    "name": "You have no free Focus Slots. To install this Focus you must increase your Mastery Rank or uninstall a Focus"
   },
   "/lotus/language/focus/notenoughpoints": {
     "name": "Not enough focus points"
@@ -12501,6 +12516,9 @@
   },
   "/lotus/language/g1quests/kelaeventrewardmessagetitle": {
     "name": "Take Out Kela"
+  },
+  "/lotus/language/g1quests/kelaeventrewardsclantrophysubject": {
+    "name": "Justice Served"
   },
   "/lotus/language/g1quests/kelaeventtitle": {
     "name": "RATHUUM"
@@ -14344,6 +14362,9 @@
   "/lotus/language/game/bossexample": {
     "name": "Boss Example"
   },
+  "/lotus/language/game/bounce_damage": {
+    "name": "BOUNCE DAMAGE"
+  },
   "/lotus/language/game/buffer_cap": {
     "name": "BUFFER LIMIT"
   },
@@ -14731,6 +14752,9 @@
   "/lotus/language/game/deadplayer": {
     "name": "DEAD"
   },
+  "/lotus/language/game/deaf_duration": {
+    "name": "DEAF DURATION"
+  },
   "/lotus/language/game/deathsquadaname": {
     "desc": "Leekter",
     "name": "Vem Tabook"
@@ -14749,6 +14773,9 @@
   "/lotus/language/game/deathsquadname": {
     "desc": "A member of the infamous Grustrag Three",
     "name": "GRUSTRAG THREE"
+  },
+  "/lotus/language/game/debuff_duration": {
+    "name": "DEBUFF DURATION"
   },
   "/lotus/language/game/decka": {
     "name": "This is the current Battle Deck. Each deck contains an assortment of "
@@ -16621,6 +16648,9 @@
   "/lotus/language/game/nullifyspacemandesc": {
     "name": "Energy shield blocks projectiles and nullifies powers"
   },
+  "/lotus/language/game/number_of_bounces": {
+    "name": "NUMBER OF BOUNCES"
+  },
   "/lotus/language/game/number_of_charges": {
     "name": "NUMBER OF CHARGES"
   },
@@ -16817,6 +16847,9 @@
   },
   "/lotus/language/game/pistol": {
     "name": "Your first weapon: Pistol."
+  },
+  "/lotus/language/game/placeholder": {
+    "name": ""
   },
   "/lotus/language/game/playeracceptedduel": {
     "name": "|PLAYER_A| has accepted a challenge to duel from |PLAYER_B|"
@@ -17701,6 +17734,9 @@
   "/lotus/language/game/trial_roundstart": {
     "name": "Starting Round"
   },
+  "/lotus/language/game/trip_laser_duration": {
+    "name": "TRIP LASER DURATION"
+  },
   "/lotus/language/game/tutorial26a_windows": {
     "name": "We can't afford to waste any more time. I have unscrambled the portal. Get out of here. As fast as you can, run."
   },
@@ -18046,19 +18082,19 @@
     "name": "Aura mods add to your total mod capacity."
   },
   "/lotus/language/gametips/upgrades_colddamage": {
-    "name": "COLD <DT_FREEZE> damage can slow down enemies and deal damage."
+    "name": "Cold <DT_FREEZE> damage can slow down enemies and deal damage."
   },
   "/lotus/language/gametips/upgrades_differentdamagedifferentenemies": {
     "name": "Enemies are resistant and vulnerable to various elements. Use the Codex scanner to learn about them."
   },
   "/lotus/language/gametips/upgrades_electricity": {
-    "name": "ELECTRICITY <DT_ELECTRICITY> damage is capable of stunning and damaging enemies."
+    "name": "Electricity <DT_ELECTRICITY> damage is capable of stunning and damaging enemies."
   },
   "/lotus/language/gametips/upgrades_elementaldamagecombinations": {
     "name": "Combine primary elemental damage types to create secondary ones."
   },
   "/lotus/language/gametips/upgrades_firedamage": {
-    "name": "HEAT <DT_FIRE> damage will burn and scorch foes."
+    "name": "Heat <DT_FIRE> damage will burn and scorch foes."
   },
   "/lotus/language/gametips/upgrades_matchpolarity": {
     "name": "If the polarity of the mod and the slot you install it on match, the capacity cost of the mod will be halved."
@@ -18070,7 +18106,7 @@
     "name": "Install Companion precepts in the order you want them to be followed, starting from upper-left."
   },
   "/lotus/language/gametips/upgrades_oxindamage": {
-    "name": "TOXIN <DT_POISON> damage is effective at damaging an enemy's health."
+    "name": "Toxin <DT_POISON> damage is effective at damaging an enemy's health."
   },
   "/lotus/language/gametips/upgrades_stance": {
     "name": "Stance mods unlock the ability to perform advanced combos."
@@ -20016,7 +20052,6 @@
     "name": "Contains four variations of Banshee and Banshee Reverb profile icons."
   },
   "/lotus/language/items/avatarpackbansheename": {
-    "desc": "Contains four variations of Banshee and Banshee Reverb profile icons.",
     "name": "BANSHEE PROFILE ICON PACK"
   },
   "/lotus/language/items/avatarpackchromaamarudesc": {
@@ -20736,7 +20771,7 @@
     "name": "A profile icon depicting Kara Valkyr on a bright background."
   },
   "/lotus/language/items/avatarvalkyrkarabrightname": {
-    "desc": "A profile icon depicting Kara Valkyr on a bright background.",
+    "desc": "Ironclad Charge",
     "name": "Valkyr Kara Profile Icon"
   },
   "/lotus/language/items/avatarvalkyrkaradarkdescription": {
@@ -21506,7 +21541,7 @@
     "name": "The Sicarus fires 3-round bursts, which provides a balance between the lethality of auto-pistols and the accuracy of semi-automatic pistols."
   },
   "/lotus/language/items/burstpistolname": {
-    "desc": "The Sicarus fires 3-round bursts, which provides a balance between the lethality of auto-pistols and the accuracy of semi-automatic pistols.",
+    "desc": "A high-capacity, high-damage enforcer.",
     "name": "SICARUS"
   },
   "/lotus/language/items/burstpistolpickup": {
@@ -22025,7 +22060,7 @@
     "name": "VALENTINE"
   },
   "/lotus/language/items/coltekmaskname": {
-    "desc": "OBSIDIAN COLTEK SENTINEL MASK",
+    "desc": "COLTEK OBSIDIAN SENTINEL MASK",
     "name": "COLTEK SENTINEL MASK"
   },
   "/lotus/language/items/coltekpackdesc": {
@@ -22090,6 +22125,12 @@
   "/lotus/language/items/conclaveskingorgon": {
     "name": "GORGON CONCLAVE SKIN"
   },
+  "/lotus/language/items/conclaveskingrinlok": {
+    "name": "GRINLOK CONCLAVE SKIN"
+  },
+  "/lotus/language/items/conclaveskinjatkittag": {
+    "name": "JAT KITTAG CONCLAVE SKIN"
+  },
   "/lotus/language/items/conclaveskinkronen": {
     "name": "KRONEN CONCLAVE SKIN"
   },
@@ -22105,6 +22146,9 @@
   "/lotus/language/items/conclaveskinlex": {
     "name": "LEX CONCLAVE SKIN"
   },
+  "/lotus/language/items/conclaveskinmarelok": {
+    "name": "MARELOK CONCLAVE SKIN"
+  },
   "/lotus/language/items/conclaveskinnikana": {
     "name": "NIKANA CONCLAVE SKIN"
   },
@@ -22116,6 +22160,9 @@
   },
   "/lotus/language/items/conclaveskinsybaris": {
     "name": "SYBARIS CONCLAVE SKIN"
+  },
+  "/lotus/language/items/conclaveskintonkor": {
+    "name": "TONKOR CONCLAVE SKIN"
   },
   "/lotus/language/items/conclaveskinvasto": {
     "name": "VASTO CONCLAVE SKIN"
@@ -23445,9 +23492,6 @@
   },
   "/lotus/language/items/dualswordcmbtwo": {
     "name": "East to West"
-  },
-  "/lotus/language/items/dualswordcrgcmba": {
-    "name": "Northern Coil"
   },
   "/lotus/language/items/dualswordgroundhitsdefault": {
     "name": "Mirrored Spike"
@@ -26632,6 +26676,13 @@
     "desc": "Decorative armor fitted for a Kubrow.",
     "name": "ROSTAM ARMOR"
   },
+  "/lotus/language/items/kubrowarmorbarodesc": {
+    "name": "Fashioned for the most refined breed of Kubrow."
+  },
+  "/lotus/language/items/kubrowarmorbaroname": {
+    "desc": "Nekros Raknis Profile Icon",
+    "name": "KI'TEER KUBROW ARMOR"
+  },
   "/lotus/language/items/kubrowarmorbdesc": {
     "name": "Decorative armor fitted for a Kubrow."
   },
@@ -26913,7 +26964,7 @@
     "name": "SARGAS BROWN"
   },
   "/lotus/language/items/kubrowcolorvibrantename": {
-    "desc": "PHORID RED",
+    "desc": "TRINITY RED",
     "name": "JUPITER BROWN"
   },
   "/lotus/language/items/kubrowcolorvibrantfname": {
@@ -26944,7 +26995,7 @@
     "name": "VANDAL BLUE"
   },
   "/lotus/language/items/kubrowcolorxmasmidaname": {
-    "desc": "JADELEAF GREEN",
+    "desc": "Reverse grip style emphasizing slashing and impaling strikes",
     "name": "LOTUS WHITE"
   },
   "/lotus/language/items/kubrowcolorxmasmidbname": {
@@ -26960,7 +27011,7 @@
     "name": "NOVA WHITE"
   },
   "/lotus/language/items/kubrowcolorxmasvibrantaname": {
-    "desc": "TRINITY RED",
+    "desc": "TWT",
     "name": "BROKK BROWN"
   },
   "/lotus/language/items/kubrowcolorxmasvibrantbname": {
@@ -27325,7 +27376,7 @@
     "name": "Hysteria Augment - While Hysteria is active, each kill restores |SHIELD_PCT|% max shields."
   },
   "/lotus/language/items/laststandabilityaugmentpvpname": {
-    "desc": "Hysteria Augment - While Hysteria is active, each kill restores |SHIELD_PCT|% max shields.",
+    "desc": "Fighting form devised for Conclave.",
     "name": "Hysterical Fixation"
   },
   "/lotus/language/items/laststandabilitydesc": {
@@ -27847,6 +27898,13 @@
   },
   "/lotus/language/items/luckydragonability": {
     "name": "Elemental Ward"
+  },
+  "/lotus/language/items/luckydragonabilityaugmentdesc": {
+    "name": "Elemental Ward Augment - Allies that leave the radius will retain the effect for |DURATION_PCT|% of the remaining duration."
+  },
+  "/lotus/language/items/luckydragonabilityaugmentname": {
+    "desc": "Elemental Ward Augment - Allies that leave the radius will retain the effect for |DURATION_PCT|% of the remaining duration.",
+    "name": "Everlasting Ward"
   },
   "/lotus/language/items/luckydragonabilitydesc": {
     "name": "Depending on Chroma's elemental alignment, an offensive area-of-effect is created. Chroma and its nearby allies are imbued with defensive energy."
@@ -28945,6 +29003,9 @@
   "/lotus/language/items/operatoreyepiecea": {
     "name": "DUAL OCULUS"
   },
+  "/lotus/language/items/operatoreyepieceb": {
+    "name": "EYE-GUARD"
+  },
   "/lotus/language/items/operatorfemaleheada": {
     "name": ""
   },
@@ -29842,7 +29903,7 @@
     "name": "Increased Shotgun Ammo recovery"
   },
   "/lotus/language/items/playershellammobuffname": {
-    "desc": "Increased Shotgun Ammo recovery",
+    "desc": "TRINITY STREGA HELMET",
     "name": "Shotgun Scavenger"
   },
   "/lotus/language/items/playershelldamagebuffdesc": {
@@ -30382,21 +30443,21 @@
   },
   "/lotus/language/items/ps4coltekmaskname": {
     "desc": "COLTEK SENTINEL WINGS",
-    "name": "OBSIDIAN COLTEK SENTINEL MASK"
+    "name": "COLTEK OBSIDIAN SENTINEL MASK"
   },
   "/lotus/language/items/ps4corpusfencerarmarmordesc": {
     "name": "Next generation shoulder plates for your Warframe."
   },
   "/lotus/language/items/ps4corpusfencerarmarmorname": {
     "desc": "Next generation shoulder plates for your Warframe.",
-    "name": "OBSIDIAN DENDRA SHOULDER GUARD"
+    "name": "DENDRA OBSIDIAN SHOULDER GUARD"
   },
   "/lotus/language/items/ps4corpusfencerlegarmordesc": {
     "name": "Next generation leg armor for your Warframe."
   },
   "/lotus/language/items/ps4corpusfencerlegarmorname": {
     "desc": "Next generation leg armor for your Warframe.",
-    "name": "OBSIDIAN DENDRA LEG GUARD"
+    "name": "DENDRA OBSIDIAN LEG GUARD"
   },
   "/lotus/language/items/ps4latodesc": {
     "name": "A next-generation skin for the Lato."
@@ -30417,7 +30478,7 @@
   },
   "/lotus/language/items/ps4syandananame": {
     "desc": "A next-generation syandana.",
-    "name": "OBSIDIAN YOMO SYANDANA"
+    "name": "YOMO OBSIDIAN SYANDANA"
   },
   "/lotus/language/items/psdualcestradesc": {
     "name": "The favored side-arms of Perrin Sequence executives, these pistols have been modified to improve efficiency and killing potential."
@@ -30448,14 +30509,14 @@
   },
   "/lotus/language/items/psplusexcalburhelmetname": {
     "desc": "A next-generation helmet for Excalibur.",
-    "name": "OBSIDIAN EXCALIBUR"
+    "name": "EXCALIBUR OBSIDIAN HELMET"
   },
   "/lotus/language/items/psplusexcaliburdesc": {
     "name": "A next-generation skin for Excalibur."
   },
   "/lotus/language/items/psplusexcaliburname": {
     "desc": "A next-generation skin for Excalibur.",
-    "name": "OBSIDIAN EXCALIBUR"
+    "name": "EXCALIBUR OBSIDIAN"
   },
   "/lotus/language/items/psscarfdesc": {
     "name": "This Secura Syandana pulses every time a Tenno picks up credits and glows brighter as their wealth increases."
@@ -30552,11 +30613,29 @@
     "desc": "Banshee emits a sonic shockwave that pushes targets in range with enough force to incapacitate or kill attackers.",
     "name": "Sonic Boom"
   },
+  "/lotus/language/items/pvpclawstanceone": {
+    "name": "Scarlet Hurricane"
+  },
+  "/lotus/language/items/pvpdaggerstanceone": {
+    "name": "Piercing Fury"
+  },
+  "/lotus/language/items/pvpdualdaggerscombob": {
+    "name": "Leaping Slash"
+  },
+  "/lotus/language/items/pvpdualdaggersstanceone": {
+    "name": "Biting Piranha"
+  },
   "/lotus/language/items/pvploadoutslotitem": {
     "name": "Conclave Loadout Slot"
   },
   "/lotus/language/items/pvploadoutslotitemdesc": {
     "name": "Grants an extra Conclave loadout slot"
+  },
+  "/lotus/language/items/pvpmeleestancedesc": {
+    "name": "Fighting form devised for Conclave."
+  },
+  "/lotus/language/items/pvpswordwhipstanceone": {
+    "name": "Tainted Hydra"
   },
   "/lotus/language/items/pyrasugatradesc": {
     "name": "During the height of the Old War, Tenno raiders used these flaming sugatras to intimidate and distract enemies."
@@ -30884,6 +30963,12 @@
   "/lotus/language/items/regenerationability": {
     "name": "Renewal"
   },
+  "/lotus/language/items/regenerationabilityaugment1": {
+    "name": "Phoenix Renewal"
+  },
+  "/lotus/language/items/regenerationabilityaugment1desc": {
+    "name": "Renewal Augment - Taking fatal damage while under the effects of Renewal will instead heal you to |HEAL_PCT|% health. This effect triggers only once for each ally every |COOLDOWN|s."
+  },
   "/lotus/language/items/regenerationabilitydesc": {
     "name": "Healing waves of energy flow outward from Oberon to his allies, regenerating health over time."
   },
@@ -31071,7 +31156,7 @@
     "name": "PALATINE SYANDANA"
   },
   "/lotus/language/items/rhinodeluxesigilname": {
-    "desc": "OBSIDIAN DENDRA LEG GUARD",
+    "desc": "DENDRA OBSIDIAN LEG GUARD",
     "name": "PALATINE SIGIL"
   },
   "/lotus/language/items/rhinodeluxeskinbundledesc": {
@@ -32430,6 +32515,12 @@
   "/lotus/language/items/soundquakeability": {
     "name": "Sound Quake"
   },
+  "/lotus/language/items/soundquakeabilityaugment1": {
+    "name": "Resonating Quake"
+  },
+  "/lotus/language/items/soundquakeabilityaugment1desc": {
+    "name": "Sound Quake Augment - Increase damage by |DAMAGE|, range by |RANGE|m and energy cost by |ENERGY|, for every second this ability is active."
+  },
   "/lotus/language/items/soundquakeabilitydesc": {
     "name": "Channeling all of her acoustic energy into the environment, Banshee uses ultrasonic reverberations to violently shake the ground."
   },
@@ -33112,6 +33203,13 @@
   "/lotus/language/items/teleporttoability": {
     "name": "Teleport"
   },
+  "/lotus/language/items/teleporttoabilityaugmentdesc": {
+    "name": "Teleport Augment - Teleport will perform a finisher on the target, dealing |DAMAGE_MULT|% extra damage. |ENERGY_REIMBURSEMENT|% of energy cost is refunded on a kill."
+  },
+  "/lotus/language/items/teleporttoabilityaugmentname": {
+    "desc": "Teleport Augment - Teleport will perform a finisher on the target, dealing |DAMAGE_MULT|% extra damage. |ENERGY_REIMBURSEMENT|% of energy cost is refunded on a kill.",
+    "name": "Fatal Teleport"
+  },
   "/lotus/language/items/teleporttoabilityboost": {
     "name": "Boosting this ability increases its range."
   },
@@ -33270,6 +33368,16 @@
   "/lotus/language/items/tennoswordshieldname": {
     "desc": "This fiery sword and shield combination perfects the balance of Tenno offense and defense prowess. In the hands of a Master, even a defensive tool like a shield can be used as a weapon.",
     "name": "SILVA & AEGIS"
+  },
+  "/lotus/language/items/tennotommyfeaturetext": {
+    "name": "A high-capacity, high-damage enforcer."
+  },
+  "/lotus/language/items/tennotommygundesc": {
+    "name": "A high-capacity, high-damage enforcer, this weapon can switch between semi-automatic and full automatic firing modes."
+  },
+  "/lotus/language/items/tennotommygunname": {
+    "desc": "A high-capacity, high-damage enforcer, this weapon can switch between semi-automatic and full automatic firing modes.",
+    "name": "STRADAVAR"
   },
   "/lotus/language/items/tennouzidesc": {
     "name": "These diminutive rapid-fire Stiletto machine-pistols are just the right size to be akimbo style without sacrificing accuracy."
@@ -39561,7 +39669,7 @@
     "name": "Systems component of the Banshee Warframe."
   },
   "/lotus/language/menu/craftingcomponent_bansheesystemsname": {
-    "desc": "CHROMA CHASSIS",
+    "desc": "RHINO CHASSIS",
     "name": "BANSHEE SYSTEMS"
   },
   "/lotus/language/menu/craftingcomponent_berserkerchassisdesc": {
@@ -40429,7 +40537,7 @@
     "name": "Systems component of the Oberon Warframe."
   },
   "/lotus/language/menu/craftingcomponent_paladinsystemsname": {
-    "desc": "RHINO CHASSIS",
+    "desc": "ACTIVE KUBROW",
     "name": "OBERON SYSTEMS"
   },
   "/lotus/language/menu/craftingcomponent_pantheraprimebarrel": {
@@ -41228,8 +41336,26 @@
   "/lotus/language/menu/detailedpurchase_abouttab": {
     "name": "ABOUT"
   },
+  "/lotus/language/menu/detailedpurchase_compatiblenotowned": {
+    "name": "This is a cosmetic for |COMPATIBLE|, which you do not own."
+  },
+  "/lotus/language/menu/detailedpurchase_compatiblenotownedgeneric": {
+    "name": "This is a cosmetic for an item which you do not own."
+  },
+  "/lotus/language/menu/detailedpurchase_itemnotowned": {
+    "name": "This skin applies to |ITEM|, which you don't own."
+  },
+  "/lotus/language/menu/detailedpurchase_packagecompatnotownedgeneric": {
+    "name": "Several items in this package are cosmetics for items which you do not own."
+  },
+  "/lotus/language/menu/detailedpurchase_parentbundle": {
+    "name": "This item is part of a bundle:"
+  },
   "/lotus/language/menu/detailedpurchase_relatedtab": {
     "name": "RELATED"
+  },
+  "/lotus/language/menu/detailedpurchase_researchrecipehelp": {
+    "name": "|ITEM|s recipe can be researched in the |ROOM| Dojo room."
   },
   "/lotus/language/menu/details": {
     "name": "DETAILS"
@@ -41793,7 +41919,7 @@
     "name": "Only purchased platinum may be used to send gifts. You do not have sufficient purchased platinum to send this gift."
   },
   "/lotus/language/menu/giftfail_insufficientxp": {
-    "name": "This item is XP Locked for |PLAYER_NAME|; they must increase their mastery before they may receive it."
+    "name": "This item is Mastery Rank Locked for |PLAYER_NAME|; they must increase their Mastery before they may receive it."
   },
   "/lotus/language/menu/giftfail_messagelengthexceeded": {
     "name": "Failed to send. Messages cannot be longer than 256 characters."
@@ -42653,8 +42779,17 @@
   "/lotus/language/menu/invitetoraid": {
     "name": "INVITE TO TRIAL"
   },
+  "/lotus/language/menu/item_cannotpurchasealreadyowned": {
+    "name": "ALREADY OWNED"
+  },
+  "/lotus/language/menu/item_cannotpurchasemissingprerequisite": {
+    "name": "REQUIRES |NAME|"
+  },
   "/lotus/language/menu/item_cannotpurchaseunavailable": {
-    "name": "ITEM UNAVAILABLE - CANNOT PURCHASE"
+    "name": "ITEM UNAVAILABLE"
+  },
+  "/lotus/language/menu/item_cannotpurchasexplocked": {
+    "name": "MASTERY RANK LOCKED"
   },
   "/lotus/language/menu/item_gifttoplayer": {
     "name": "GIFT ITEM"
@@ -42809,17 +42944,32 @@
   "/lotus/language/menu/iteminventory_slotssentinel": {
     "name": "SENTINEL SLOTS"
   },
+  "/lotus/language/menu/iteminventory_slotssentineldescription": {
+    "name": "Adds two Sentinel inventory slots."
+  },
   "/lotus/language/menu/iteminventory_slotsspacesuit": {
     "name": "ARCHWING SLOT"
+  },
+  "/lotus/language/menu/iteminventory_slotsspacesuitdescription": {
+    "name": "Adds an Archwing inventory slot."
   },
   "/lotus/language/menu/iteminventory_slotsspaceweapon": {
     "name": "ARCHWING WEAPON SLOTS"
   },
+  "/lotus/language/menu/iteminventory_slotsspaceweapondescription": {
+    "name": "Adds two Archwing weapon inventory slots."
+  },
   "/lotus/language/menu/iteminventory_slotssuit": {
     "name": "WARFRAME SLOT"
   },
+  "/lotus/language/menu/iteminventory_slotssuitdescription": {
+    "name": "Adds a Warframe inventory slot."
+  },
   "/lotus/language/menu/iteminventory_slotsweapon": {
     "name": "WEAPON SLOTS"
+  },
+  "/lotus/language/menu/iteminventory_slotsweapondescription": {
+    "name": "Adds two weapon inventory slots."
   },
   "/lotus/language/menu/iteminventory_slotweaponsingular": {
     "name": "WEAPON SLOT"
@@ -43144,6 +43294,12 @@
   },
   "/lotus/language/menu/loadout_consumables": {
     "name": "GEAR"
+  },
+  "/lotus/language/menu/loadout_copyconfirm": {
+    "name": "Are you sure you want to overwrite the current loadout with the |LOADOUT| loadout?"
+  },
+  "/lotus/language/menu/loadout_copyfrom": {
+    "name": "COPY FROM..."
   },
   "/lotus/language/menu/loadout_customize": {
     "name": "CUSTOMIZE"
@@ -47618,6 +47774,9 @@
   "/lotus/language/menu/store_skins": {
     "name": "SKINS"
   },
+  "/lotus/language/menu/store_slots": {
+    "name": "SLOTS"
+  },
   "/lotus/language/menu/store_spotlight_newboosters": {
     "name": "NEW BOOSTER"
   },
@@ -47688,10 +47847,10 @@
     "name": "WISHLIST"
   },
   "/lotus/language/menu/store_xplocked": {
-    "name": "XP LOCKED"
+    "name": "MASTERY RANK LOCKED"
   },
   "/lotus/language/menu/store_xplockedmesage": {
-    "name": "This item is XP Locked. You must reach rank |RANK| before you can purchase it."
+    "name": "This item is Mastery Rank Locked. You must reach rank |RANK| before you can purchase it."
   },
   "/lotus/language/menu/storecouponcommona": {
     "name": "TOKEN OF THE LOTUS: 25% off market purchase"
@@ -48998,7 +49157,7 @@
     "name": "Lock and Load"
   },
   "/lotus/language/mods/pvpmobility": {
-    "name": "|val| to Mobility"
+    "name": "|val|% Mobility"
   },
   "/lotus/language/mods/pvpparkourelectricity": {
     "name": "At Max Energy, |val| <DT_ELECTRICITY>Bullet Jump"
@@ -49284,7 +49443,7 @@
     "name": "This is a next-generation skin for the Carrier sentinel."
   },
   "/lotus/language/ngen/ngencarriername": {
-    "desc": "This is a next-generation skin for the Carrier sentinel.",
+    "desc": "Assassinate the target.",
     "name": "CARRIER JADE SKIN"
   },
   "/lotus/language/ngen/ngencernosdesc": {
@@ -49879,7 +50038,7 @@
     "name": "The standard issue helmet for the Hydroid Prime Warframe."
   },
   "/lotus/language/primes/hydroidprimehelmetname": {
-    "desc": "DETHCUBE PRIME",
+    "desc": "The standard issue helmet for the Hydroid Prime Warframe.",
     "name": "HYDROID PRIME HELMET"
   },
   "/lotus/language/primes/hydroidprimename": {
@@ -53396,7 +53555,7 @@
     "name": "PRISMA VERITUX"
   },
   "/lotus/language/spacemelee/spaceswordname": {
-    "desc": "CENTAUR",
+    "desc": "Part sword, part shield, the Centaur excels at charging headlong into enemy fire.",
     "name": "IMSPARTACUS"
   },
   "/lotus/language/spacesuits/demolitionarchwingdesc": {
@@ -70631,7 +70790,7 @@
     "name": "Arbiters of Hexis"
   },
   "/lotus/language/syndicates/arbiterspower": {
-    "name": "|val| 'TRUTH'"
+    "name": "|val| 'Truth'"
   },
   "/lotus/language/syndicates/arbitersraredogtag": {
     "name": "MAXIM MEDALLION"
@@ -70682,7 +70841,7 @@
     "name": "DATA"
   },
   "/lotus/language/syndicates/cephalonpower": {
-    "name": "|val| 'ENTROPY'"
+    "name": "|val| 'Entropy'"
   },
   "/lotus/language/syndicates/cephalonraredogtag": {
     "name": "GENIUS DATUM"
@@ -70843,7 +71002,7 @@
     "name": "INSIGNIAS"
   },
   "/lotus/language/syndicates/meridianpower": {
-    "name": "|val| 'JUSTICE'"
+    "name": "|val| 'Justice'"
   },
   "/lotus/language/syndicates/meridianraredogtag": {
     "name": "GENERAL INSIGNIA"
@@ -70871,7 +71030,7 @@
     "name": "New Loka"
   },
   "/lotus/language/syndicates/newlokapower": {
-    "name": "|val| 'PURITY'"
+    "name": "|val| 'Purity'"
   },
   "/lotus/language/syndicates/newlokararedogtag": {
     "name": "FLAWLESS SEED"
@@ -70940,7 +71099,7 @@
     "name": "QUITTANCES"
   },
   "/lotus/language/syndicates/perrinpower": {
-    "name": "|val| 'SEQUENCE'"
+    "name": "|val| 'Sequence'"
   },
   "/lotus/language/syndicates/perrinraredogtag": {
     "name": "PARTNER QUITTANCE"
@@ -71005,7 +71164,7 @@
     "name": "Red Veil"
   },
   "/lotus/language/syndicates/redveilpower": {
-    "name": "|val| 'BLIGHT'"
+    "name": "|val| 'Blight'"
   },
   "/lotus/language/syndicates/redveilraredogtag": {
     "name": "EXALTED MARK"
@@ -71522,7 +71681,7 @@
     "name": "|val|% Armor"
   },
   "/lotus/language/upgrades/armourbuffdesc": {
-    "name": "|val|% ARMOR RATING"
+    "name": "|val|% Armor Rating"
   },
   "/lotus/language/upgrades/attackspeed": {
     "name": "|val|% Attack Speed"
@@ -71537,7 +71696,7 @@
     "name": ""
   },
   "/lotus/language/upgrades/bleedoutmodifierdesc": {
-    "name": "|val|% BLEEDOUT REDUCTION"
+    "name": "|val|% Bleedout Reduction"
   },
   "/lotus/language/upgrades/chancetolootdesc": {
     "name": "|val|% chance to unlock locked lockers"
@@ -71580,10 +71739,10 @@
     "name": "|CONDITION|: |CHANCE|% chance to instantly restore all shields."
   },
   "/lotus/language/upgrades/cosmeticenhancerdescriptioninvisibility": {
-    "name": "|CONDITION|: |CHANCE|% chance to become invisible for |DURATION| seconds."
+    "name": "|CONDITION|: |CHANCE|% chance to become invisible for |DURATION| seconds"
   },
   "/lotus/language/upgrades/cosmeticenhancerdescriptionnochancewithduration": {
-    "name": "|CONDITION|: |BONUS| for |DURATION| seconds."
+    "name": "|CONDITION|: |BONUS| for |DURATION| seconds"
   },
   "/lotus/language/upgrades/cosmeticenhancerdescriptionradialenergy": {
     "name": "|CONDITION|: |CHANCE|% chance to replenish energy to nearby allies."
@@ -71598,22 +71757,22 @@
     "name": "|CONDITION|: |CHANCE|% chance to reflect damage."
   },
   "/lotus/language/upgrades/cosmeticenhancerdescriptionwithduration": {
-    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| for |DURATION| seconds."
+    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| for |DURATION| seconds"
   },
   "/lotus/language/upgrades/cosmeticenhancerdescriptionwithdurationmelee": {
-    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| to Melee Weapons for |DURATION| seconds."
+    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| to Melee Weapons for |DURATION| seconds"
   },
   "/lotus/language/upgrades/cosmeticenhancerdescriptionwithdurationpistols": {
-    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| to Pistols for |DURATION| seconds."
+    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| to Pistols for |DURATION| seconds"
   },
   "/lotus/language/upgrades/cosmeticenhancerdescriptionwithdurationrifles": {
-    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| to Rifles for |DURATION| seconds."
+    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| to Rifles for |DURATION| seconds"
   },
   "/lotus/language/upgrades/cosmeticenhancerdescriptionwithdurationshotguns": {
-    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| to Shotguns for |DURATION| seconds."
+    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| to Shotguns for |DURATION| seconds"
   },
   "/lotus/language/upgrades/cosmeticenhancerdescriptionwithdurationsniperrifles": {
-    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| to Sniper Rifles for |DURATION| seconds."
+    "name": "|CONDITION|: |CHANCE|% chance for |BONUS| to Sniper Rifles for |DURATION| seconds"
   },
   "/lotus/language/upgrades/critchancewhileaimingmoddesc": {
     "name": "|val|% Crit Chance while aiming"
@@ -71631,25 +71790,25 @@
     "name": "Increase damage by up to |val|%"
   },
   "/lotus/language/upgrades/damageresistelectricdesc": {
-    "name": "|val|% ELECTRIC RESISTANCE"
+    "name": "|val|% Electric Resistance"
   },
   "/lotus/language/upgrades/damageresistfiredesc": {
-    "name": "|val|% HEAT RESISTANCE"
+    "name": "|val|% Heat Resistance"
   },
   "/lotus/language/upgrades/damageresisticedesc": {
-    "name": "|val|% ICE RESISTANCE"
+    "name": "|val|% Ice Resistance"
   },
   "/lotus/language/upgrades/damageresistknockdowndesc": {
-    "name": "|val|% DAMAGE RESISTANCE ON KNOCKDOWN"
+    "name": "|val|% Damage Resistance On Knockdown"
   },
   "/lotus/language/upgrades/damageresistlaserdesc": {
-    "name": "|val|% RADIATION DAMAGE RESISTANCE"
+    "name": "|val|% Radiation Damage Resistance"
   },
   "/lotus/language/upgrades/damageresistpoisondesc": {
-    "name": "|val|% TOXIN RESISTANCE"
+    "name": "|val|% Toxin Resistance"
   },
   "/lotus/language/upgrades/damageresiststundesc": {
-    "name": "|val|% DAMAGE RESISTANCE ON STUN"
+    "name": "|val|% Damage Resistance On Stun"
   },
   "/lotus/language/upgrades/damagetoenergydesc": {
     "name": "Convert |val|% of Damage on Health to Energy"
@@ -71658,7 +71817,7 @@
     "name": "Flak now bounces up to |val| times"
   },
   "/lotus/language/upgrades/drakgoonnightwatchmodpartb": {
-    "name": " and travels |val|% faster"
+    "name": "and travels |val|% faster"
   },
   "/lotus/language/upgrades/dropchancemodifierdesc": {
     "name": "|val|% Rare Item Drop Chance On Death"
@@ -71667,7 +71826,7 @@
     "name": "|val|% chance to resist an Electricity damage effect"
   },
   "/lotus/language/upgrades/energymaxbuffdesc": {
-    "name": "|val|% ENERGY MAX"
+    "name": "|val|% Max Energy"
   },
   "/lotus/language/upgrades/explosionprocresist": {
     "name": "|val|% chance to resist a Blast damage effect"
@@ -71678,6 +71837,9 @@
   "/lotus/language/upgrades/fireprocresist": {
     "name": "|val|% chance to resist a Heat damage effect"
   },
+  "/lotus/language/upgrades/fireratemoddesc": {
+    "name": "|val|% Fire Rate"
+  },
   "/lotus/language/upgrades/fireratewhileaimingmoddesc": {
     "name": "|val|% Fire Rate while aiming"
   },
@@ -71686,6 +71848,9 @@
   },
   "/lotus/language/upgrades/gasprocresist": {
     "name": "|val|% chance to resist a Gas damage effect"
+  },
+  "/lotus/language/upgrades/healthmoddesc": {
+    "name": "|val| Health"
   },
   "/lotus/language/upgrades/healthregen": {
     "name": "|val|/s Health Regen"
@@ -71706,10 +71871,10 @@
     "name": "Final Tap"
   },
   "/lotus/language/upgrades/hinddamageonfifthhit_desc": {
-    "name": "On Four hits within 0.5 seconds, increase damage by |val|% for 0.2 seconds"
+    "name": "On Four hits within 0.5 seconds, increase damage by |val|% for 0.5 seconds"
   },
   "/lotus/language/upgrades/impactbias": {
-    "name": "Converts |val|% of Damage into IMPACT<DT_IMPACT>"
+    "name": "Converts |val|% of Damage into <DT_IMPACT>Impact"
   },
   "/lotus/language/upgrades/impactprocresist": {
     "name": "|val|% chance to resist an Impact damage effect"
@@ -71724,10 +71889,10 @@
     "name": "in a |val|m radius"
   },
   "/lotus/language/upgrades/jogspeedbuffdesc": {
-    "name": "|val|% JOG SPEED"
+    "name": "|val|% Jog Speed"
   },
   "/lotus/language/upgrades/karaknightwatchexplosiveprojectilemoddesc": {
-    "name": " and rounds have a |val|% chance to explode. (Use with Caution)"
+    "name": "and rounds have a |val|% chance to explode. (Use with Caution)"
   },
   "/lotus/language/upgrades/karaknightwatchricochetmoddesc": {
     "name": "Increases ricochets by |val|%"
@@ -71760,10 +71925,10 @@
     "name": "Marks a target for |val| seconds increasing the damage taken from enemies."
   },
   "/lotus/language/upgrades/maxhealthbuffdesc": {
-    "name": "+|val| TO MAX HEALTH"
+    "name": "+|val| Max Health"
   },
   "/lotus/language/upgrades/meleedamagebuffdesc": {
-    "name": "|val|% MELEE DAMAGE"
+    "name": "|val|% Melee Damage"
   },
   "/lotus/language/upgrades/missionspecificresistanceice": {
     "name": "Increase Shield Resistant to Ice Levels by |val|%"
@@ -71778,10 +71943,10 @@
     "name": "Reduce the chance an enemy will hear gunfire by |val|%"
   },
   "/lotus/language/upgrades/nukornightwatchdecreaserangemoddesc": {
-    "name": " but reduce Range by |val|%"
+    "name": "but reduce Range by |val|%"
   },
   "/lotus/language/upgrades/nukornightwatchincreasedcritdamagemoddesc": {
-    "name": " and Crit Damage increased by |val|%,"
+    "name": "and Crit Damage increased by |val|%,"
   },
   "/lotus/language/upgrades/nukornightwatchsetcritmoddesc": {
     "name": "Crit Chance becomes |val|%"
@@ -71790,13 +71955,13 @@
     "name": "Rockets disperse napalm, inflicting |val|% damage"
   },
   "/lotus/language/upgrades/ogrisnightwatchaoedurationmoddesc": {
-    "name": " over |val|s"
+    "name": "over |val|s"
   },
   "/lotus/language/upgrades/ogrisnightwatchaoeradiusmoddesc": {
-    "name": " across |val|% of the explosion area"
+    "name": "across |val|% of the explosion area"
   },
   "/lotus/language/upgrades/ogrisnightwatchprojectilespeedmoddesc": {
-    "name": " and increases projectile speed by |val|%"
+    "name": "and increases projectile speed by |val|%"
   },
   "/lotus/language/upgrades/onabilitycondition_description": {
     "name": "ON ABILITY CAST"
@@ -71856,37 +72021,40 @@
     "name": "ON WALL LATCH"
   },
   "/lotus/language/upgrades/parrymeleedesc": {
-    "name": "|val|% COUNTER CHANCE"
+    "name": "|val|% Counter Chance"
   },
   "/lotus/language/upgrades/poisonprocresist": {
     "name": "|val|% chance to resist a Toxin damage effect"
   },
   "/lotus/language/upgrades/powercooldownbuffdesc": {
-    "name": "|val|%suit ability cooldown"
+    "name": "|val|% Suit Ability Cooldown"
   },
   "/lotus/language/upgrades/powerdurationbuffdesc": {
-    "name": "|val|% suit ability duration"
+    "name": "|val|% Suit Ability Duration"
   },
   "/lotus/language/upgrades/powertohealthondeath": {
     "name": "Drains Energy to stop lethal damage with |val|% efficiency."
   },
   "/lotus/language/upgrades/puncturebias": {
-    "name": "Converts |val|% of Damage into PUNCTURE<DT_PUNCTURE>"
+    "name": "Converts |val|% of Damage into <DT_PUNCTURE>Puncture"
   },
   "/lotus/language/upgrades/punctureprocresist": {
     "name": "|val|% chance to resist a Puncture damage effect"
+  },
+  "/lotus/language/upgrades/pvpmobilitydesc": {
+    "name": "|val|% Mobility"
   },
   "/lotus/language/upgrades/radiationprocresist": {
     "name": "|val|% chance to resist a Radiation damage effect"
   },
   "/lotus/language/upgrades/resistanceknockdownchancedesc": {
-    "name": "|val|% CHANCE TO RESIST KNOCKDOWN"
+    "name": "|val|% Chance to Resist Knockdown"
   },
   "/lotus/language/upgrades/ripkasnightwatchmoddamage": {
     "name": "Increase Damage by |val|% and"
   },
   "/lotus/language/upgrades/ripkasnightwatchmodprocchance": {
-    "name": " Status Chance by |val|% when attacking a prone enemy."
+    "name": "Status Chance by |val|% when attacking a prone enemy"
   },
   "/lotus/language/upgrades/shieldregeneration": {
     "name": "|val| Shields Per Second"
@@ -71895,7 +72063,7 @@
     "name": "|val|% Chance to do electrical damage when shield struck by melee enemies"
   },
   "/lotus/language/upgrades/slashbias": {
-    "name": "Converts |val|% of Damage into SLASH<DT_SLASH>"
+    "name": "Converts |val|% of Damage into <DT_SLASH>Slash"
   },
   "/lotus/language/upgrades/slashprocresist": {
     "name": "|val|% chance to resist a Slash damage effect"
@@ -71904,16 +72072,19 @@
     "name": "Slide Attack has |val|% chance to be a Critical Hit."
   },
   "/lotus/language/upgrades/slidingaccuracyandrecoil": {
-    "name": "|val|% RECOIL AND SPREAD WHEN SLIDING"
+    "name": "|val|% Recoil and Spread when Sliding"
   },
   "/lotus/language/upgrades/sobeknightwatchmodparta": {
     "name": "Killing enemies causes them to explode, dealing |val|"
   },
   "/lotus/language/upgrades/sobeknightwatchmodpartb": {
-    "name": " (|val|% Enemy Max Health) Corrosive Damage in a "
+    "name": "(|val|% Enemy Max Health) Corrosive Damage in a"
   },
   "/lotus/language/upgrades/sobeknightwatchmodpartc": {
-    "name": " |val|m radius"
+    "name": "|val|m radius"
+  },
+  "/lotus/language/upgrades/sprintspeedmoddesc": {
+    "name": "|val|% Sprint Speed"
   },
   "/lotus/language/upgrades/staggerimmunitydesc": {
     "name": "Immune to Knockdown for an additional |val|s after being Knocked Down."
@@ -71961,16 +72132,16 @@
     "name": "Increase blast radius and"
   },
   "/lotus/language/upgrades/tonkornightwatchmodextradamage": {
-    "name": " damage by |val|% while Bullet Jumping."
+    "name": " damage by |val|% while Bullet Jumping"
   },
   "/lotus/language/upgrades/twinbasolknightwatchmoddesc": {
-    "name": "Charge attacks now step through the rift to attack enemies up to |RANGE|m away."
+    "name": "Charge attacks now step through the rift to attack enemies up to |RANGE|m away"
   },
   "/lotus/language/upgrades/twinvipernightwatchclipmaxmoddesc": {
     "name": "Increase clip size by |val|"
   },
   "/lotus/language/upgrades/twinvipernightwatchreloadspeedmoddesc": {
-    "name": " and Reload Speed by |val|%"
+    "name": "and Reload Speed by |val|%"
   },
   "/lotus/language/upgrades/viralprocresist": {
     "name": "|val|% chance to resist a Viral damage effect"
@@ -71978,62 +72149,83 @@
   "/lotus/language/upgrades/vulkarnightwatchmoddesc": {
     "name": "Increase Combo Duration by |val| secs while aiming"
   },
+  "/lotus/language/upgrades/warframemoddmgreductioninairdesc": {
+    "name": "Reduced damage by |val|% while airborne"
+  },
+  "/lotus/language/upgrades/warframemodevadeinairdesc": {
+    "name": "|val|% Evasion"
+  },
   "/lotus/language/upgrades/weaponaccuracy": {
-    "name": "|val|% ACCURACY"
+    "name": "|val|% Accuracy"
+  },
+  "/lotus/language/upgrades/weaponaimedshotdamagebonusmoddesc": {
+    "name": "|val|% Dead Aim"
   },
   "/lotus/language/upgrades/weaponarmournegation": {
     "name": "|val|% Armor Negation"
   },
   "/lotus/language/upgrades/weaponarmourpiercingdamage": {
-    "name": "|val|% ARMOR PIERCING DAMAGE"
+    "name": "|val|% Armor Piercing Damage"
+  },
+  "/lotus/language/upgrades/weaponbaseprocchancemoddesc": {
+    "name": "|val| Base Status Chance"
   },
   "/lotus/language/upgrades/weaponchargedamage": {
-    "name": "|val|% CHARGE DAMAGE"
+    "name": "|val|% Charge Damage"
+  },
+  "/lotus/language/upgrades/weaponclipmaxmoddesc": {
+    "name": "|val|% Magazine Capacity"
   },
   "/lotus/language/upgrades/weaponcorrosivedamage": {
-    "name": "|val|% EXTRA CORROSIVE DAMAGE"
+    "name": "|val|% <DT_CORROSIVE>Corrosive"
   },
   "/lotus/language/upgrades/weaponcritchance": {
-    "name": "|val|% CRITICAL CHANCE"
+    "name": "|val|% Critical Chance"
   },
   "/lotus/language/upgrades/weaponcritdamage": {
-    "name": "|val|% CRITICAL DAMAGE"
+    "name": "|val|% Critical Damage"
   },
   "/lotus/language/upgrades/weapondamage": {
-    "name": "|val|% DAMAGE"
+    "name": "|val|% Damage"
+  },
+  "/lotus/language/upgrades/weapondamagemoddesc": {
+    "name": "|val|% Damage"
   },
   "/lotus/language/upgrades/weaponelectricitydamage": {
-    "name": "|val|% EXTRA ELECTRICITY DAMAGE"
+    "name": "|val|% <DT_ELECTRICITY>Electricity"
   },
   "/lotus/language/upgrades/weaponexplodechance": {
     "name": "|val|% Chance to Explode (Use with Caution)"
   },
   "/lotus/language/upgrades/weaponexplosiondamage": {
-    "name": "|val|% EXTRA BLAST DAMAGE"
+    "name": "|val|% <DT_EXPLOSION>Blast"
   },
   "/lotus/language/upgrades/weaponexplosionradiusdesc": {
     "name": "|val|% Blast Radius"
   },
+  "/lotus/language/upgrades/weaponexplosionradiusmoddesc": {
+    "name": "|val|% Explosion Radius"
+  },
   "/lotus/language/upgrades/weaponfactiondamagecorpusdesc": {
-    "name": "|val|% DAMAGE TO CORPUS"
+    "name": "|val|% Damage to Corpus"
   },
   "/lotus/language/upgrades/weaponfactiondamagegrineerdesc": {
-    "name": "|val|% DAMAGE TO GRINEER"
+    "name": "|val|% Damage to Grineer"
   },
   "/lotus/language/upgrades/weaponfactiondamageinfesteddesc": {
-    "name": "|val|% DAMAGE TO INFESTED"
+    "name": "|val|% Damage to Infested"
   },
   "/lotus/language/upgrades/weaponfiredamage": {
-    "name": "|val|% EXTRA HEAT DAMAGE"
+    "name": "|val|% <DT_FIRE>Heat"
   },
   "/lotus/language/upgrades/weaponfirerate": {
-    "name": "|val|% FIRE RATE (x2 FOR BOWS)"
+    "name": "|val|% Fire Rate (x2 for Bows)"
   },
   "/lotus/language/upgrades/weaponfreezedamage": {
-    "name": "|val|% EXTRA COLD DAMAGE"
+    "name": "|val|% <DT_FREEZE>Cold"
   },
   "/lotus/language/upgrades/weapongasdamage": {
-    "name": "|val|% EXTRA GAS DAMAGE"
+    "name": "|val|% <DT_GAS>Gas"
   },
   "/lotus/language/upgrades/weaponhealthonkillchance": {
     "name": "|val|% Chance to Restore Health on Kill"
@@ -72041,17 +72233,23 @@
   "/lotus/language/upgrades/weaponholsteredautoreloadrate": {
     "name": "|val|% Clip Reloaded per Second when Holstered"
   },
+  "/lotus/language/upgrades/weaponholsterratemoddesc": {
+    "name": "|val|% Holster Rate"
+  },
   "/lotus/language/upgrades/weaponimpactdamage": {
-    "name": "|val|% to IMPACT DAMAGE"
+    "name": "|val|% <DT_IMPACT>Impact"
   },
   "/lotus/language/upgrades/weaponlifesteal": {
-    "name": "|val|% LIFE STEAL"
+    "name": "|val|% Life Steal"
   },
   "/lotus/language/upgrades/weaponmagneticdamage": {
-    "name": "|val|% EXTRA MAGNETIC DAMAGE"
+    "name": "|val|% <DT_MAGNETIC>Magnetic"
+  },
+  "/lotus/language/upgrades/weaponmaxammomoddesc": {
+    "name": "|val|% Ammo Maximum"
   },
   "/lotus/language/upgrades/weaponmeleeattackspeed": {
-    "name": "|val|% ATTACK SPEED"
+    "name": "|val|% Attack Speed"
   },
   "/lotus/language/upgrades/weaponmeleechargerate": {
     "name": "|val|% Heavy Charge Speed"
@@ -72062,8 +72260,11 @@
   "/lotus/language/upgrades/weaponmeleecritfireratebonusvalue": {
     "name": "|val|% Attack Speed Bonus"
   },
+  "/lotus/language/upgrades/weaponmultishotmoddesc": {
+    "name": "|val|% Multishot"
+  },
   "/lotus/language/upgrades/weaponpoisondamage": {
-    "name": "|val|% EXTRA TOXIN DAMAGE"
+    "name": "|val|% <DT_POISON>Toxin"
   },
   "/lotus/language/upgrades/weaponpowerdamagemax": {
     "name": "Store up to |val| Bonus Damage"
@@ -72071,29 +72272,50 @@
   "/lotus/language/upgrades/weaponpowerdamagemultiplier": {
     "name": "Convert |val|% of Energy used to Bonus Damage on next Melee Attack."
   },
+  "/lotus/language/upgrades/weaponproctimemoddesc": {
+    "name": "|val|% Status Duration"
+  },
+  "/lotus/language/upgrades/weaponprojectilespeedmoddesc": {
+    "name": "|val|% Flight Speed"
+  },
   "/lotus/language/upgrades/weaponpuncturedamage": {
-    "name": "|val|% to PUNCTURE DAMAGE"
+    "name": "|val|% <DT_PUNCTURE>Puncture"
+  },
+  "/lotus/language/upgrades/weaponpuncturedepthmoddesc": {
+    "name": "|val| Punch Through"
   },
   "/lotus/language/upgrades/weaponradiationdamage": {
-    "name": "|val|% EXTRA RADIATION DAMAGE"
+    "name": "|val|% <DT_RADIATION>Radiation"
+  },
+  "/lotus/language/upgrades/weaponrangemoddesc": {
+    "name": "|val| Range"
+  },
+  "/lotus/language/upgrades/weaponrecoilmoddesc": {
+    "name": "|val|% Weapon Recoil"
+  },
+  "/lotus/language/upgrades/weaponreloadspeedmoddesc": {
+    "name": "|val|% Reload Speed"
   },
   "/lotus/language/upgrades/weaponshieldonkillchance": {
     "name": "|val|% Chance to Restore Shield on Kill"
   },
   "/lotus/language/upgrades/weaponshotgunspread": {
-    "name": "|val|% SPREAD"
+    "name": "|val|% Spread"
   },
   "/lotus/language/upgrades/weaponslashdamage": {
-    "name": "|val|% to SLASH DAMAGE"
+    "name": "|val|% <DT_SLASH>Slash"
   },
   "/lotus/language/upgrades/weaponstaminabonus": {
     "name": "|val| Stamina on Melee Kill"
   },
   "/lotus/language/upgrades/weaponstunchance": {
-    "name": "|val|% STUN CHANCE"
+    "name": "|val|% Stun Chance"
   },
   "/lotus/language/upgrades/weaponviraldamage": {
-    "name": "|val|% EXTRA VIRAL DAMAGE"
+    "name": "|val|% <DT_VIRAL>Viral"
+  },
+  "/lotus/language/upgrades/weaponzoommoddesc": {
+    "name": "|val|% Zoom"
   },
   "/lotus/language/upgrades/whilechanneling": {
     "name": "but |val|% Channeling Efficiency while channeling"
