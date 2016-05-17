@@ -3248,9 +3248,6 @@
   "/lotus/language/actions/sniperammomutated": {
     "value": "<AMMO_MUTATION> SNIPER AMMO"
   },
-  "/lotus/language/actions/staminaincrease": {
-    "value": "STAMINA"
-  },
   "/lotus/language/actions/stand": {
     "value": "Stand"
   },
@@ -4558,6 +4555,24 @@
   },
   "/lotus/language/challenges/challenge_earn1000credits_name": {
     "value": "Payday"
+  },
+  "/lotus/language/challenges/challenge_earthtomercuryjunctionleaderchallenge_description": {
+    "value": "Terminate 25 Grineer Eximus units."
+  },
+  "/lotus/language/challenges/challenge_earthtomercuryjunctionleaderchallenge_name": {
+    "value": "Terminate 25 Grineer Eximus units."
+  },
+  "/lotus/language/challenges/challenge_earthtomercuryjunctionlithchallenge_description": {
+    "value": "Defend Cryopod at LITH"
+  },
+  "/lotus/language/challenges/challenge_earthtomercuryjunctionlithchallenge_name": {
+    "value": "Defend Cryopod at LITH"
+  },
+  "/lotus/language/challenges/challenge_earthtomercuryjunctionpacificchallenge_description": {
+    "value": "Defeat Grineer Forces at PACIFIC."
+  },
+  "/lotus/language/challenges/challenge_earthtomercuryjunctionpacificchallenge_name": {
+    "value": "Defeat Grineer Forces at PACIFIC"
   },
   "/lotus/language/challenges/challenge_eggtimer_description": {
     "value": "Begin Genetic Lab Incubation for a Kubrow."
@@ -6162,6 +6177,12 @@
     "value": "Ring of Fire"
   },
   "/lotus/language/changeinfo/sceaappver_01.31_sceamasterver_01.00_sceeappver_01.30_sceemasterver_01.00_scezappver_01.03_scezmasterver_01.00": {
+    "value": "Sands of Inaros"
+  },
+  "/lotus/language/changeinfo/sceaappver_01.32_sceamasterver_01.00_sceeappver_01.31_sceemasterver_01.00_scezappver_01.03_scezmasterver_01.00": {
+    "value": "Sands of Inaros"
+  },
+  "/lotus/language/changeinfo/sceaappver_01.33_sceamasterver_01.00_sceeappver_01.32_sceemasterver_01.00_scezappver_01.04_scezmasterver_01.00": {
     "value": "Sands of Inaros"
   },
   "/lotus/language/changyou/aliasnameconfirm": {
@@ -13550,6 +13571,9 @@
   "/lotus/language/game/activatecannon": {
     "value": "ACTIVATE CANNON (ALARMED)"
   },
+  "/lotus/language/game/activateoperatortransference": {
+    "value": "<USE> Transfer to warframe"
+  },
   "/lotus/language/game/activatepurifier": {
     "value": "Activate Vaporizor"
   },
@@ -14858,6 +14882,9 @@
   "/lotus/language/game/grineerrollingturret": {
     "value": "ROLLER SENTRY"
   },
+  "/lotus/language/game/grineerroyalguard": {
+    "value": "ROYAL GUARD"
+  },
   "/lotus/language/game/grineersawmanblowtorch": {
     "value": "FLAMEBLADE"
   },
@@ -16085,9 +16112,6 @@
   "/lotus/language/game/pistol": {
     "value": "Your first weapon: Pistol."
   },
-  "/lotus/language/game/placeholder": {
-    "value": ""
-  },
   "/lotus/language/game/playeracceptedduel": {
     "value": "|PLAYER_A| has accepted a challenge to duel from |PLAYER_B|"
   },
@@ -16178,6 +16202,12 @@
   "/lotus/language/game/pvedeathmatchenemyteamname": {
     "value": "EXECUTIONERS"
   },
+  "/lotus/language/game/pvedeathmatchextraarmorhealth": {
+    "value": "Modifier: Tougher Enemies"
+  },
+  "/lotus/language/game/pvedeathmatchextraspawns": {
+    "value": "Modifier: Reinforcements"
+  },
   "/lotus/language/game/pvedeathmatchfastermovement": {
     "value": "Modifier: Speed Boost"
   },
@@ -16210,6 +16240,9 @@
   },
   "/lotus/language/game/pvedeathmatchquickrespawn": {
     "value": "Modifier: Quick Respawn"
+  },
+  "/lotus/language/game/pvedeathmatchreducedabilityduration": {
+    "value": "Modifier: Reduced Ability Duration"
   },
   "/lotus/language/game/pvedeathmatchrespawntimeleft": {
     "value": "Respawning in |TIME| seconds"
@@ -16927,6 +16960,9 @@
   },
   "/lotus/language/game/territory_neutralizing": {
     "value": "Neutralizing |NAME|"
+  },
+  "/lotus/language/game/teshin": {
+    "value": "TESHIN"
   },
   "/lotus/language/game/timeddoor": {
     "value": "DECRYPTING LOCKING MECHANISM"
@@ -19901,6 +19937,12 @@
   "/lotus/language/items/baropetmaskname": {
     "value": "KI'TEER SENTINEL MASK"
   },
+  "/lotus/language/items/baropetwingsdesc": {
+    "value": "Soar to new heights of luxury with these angular Sentinel wings."
+  },
+  "/lotus/language/items/baropetwingsname": {
+    "value": "KI'TEER SENTINEL WINGS"
+  },
   "/lotus/language/items/basicresourcedrone": {
     "value": "TITAN EXTRACTOR"
   },
@@ -20110,12 +20152,6 @@
   },
   "/lotus/language/items/bossnavcodedesc": {
     "value": "Coordinate used to locate the Lephantis."
-  },
-  "/lotus/language/items/bouncetrapabilitydesc": {
-    "value": "A deployable launch pad that can be attached to any surface. Use on enemies, squad members, or as a personal mobility tool."
-  },
-  "/lotus/language/items/bouncetrapabilityname": {
-    "value": "Bounce"
   },
   "/lotus/language/items/bountyhunterbadgedesc": {
     "value": "The holographic interface on this emblem will update to display the rank achieved through exemplary dedication to Tactical Alerts."
@@ -26957,34 +26993,10 @@
   "/lotus/language/items/operatoreyepieceb": {
     "value": "EYE-GUARD"
   },
-  "/lotus/language/items/operatorfemaleheada": {
+  "/lotus/language/items/operatorhair": {
     "value": ""
   },
-  "/lotus/language/items/operatorfemaleheadb": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorfemaleheadc": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorfemaleheadd": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorfemaleheade": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorhaira": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorhairb": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorhairc": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorhaird": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorhaire": {
+  "/lotus/language/items/operatorhead": {
     "value": ""
   },
   "/lotus/language/items/operatorhooda": {
@@ -26992,21 +27004,6 @@
   },
   "/lotus/language/items/operatorleggingsa": {
     "value": "ZARIMAN LEGGINGS"
-  },
-  "/lotus/language/items/operatormaleheada": {
-    "value": ""
-  },
-  "/lotus/language/items/operatormaleheadb": {
-    "value": ""
-  },
-  "/lotus/language/items/operatormaleheadc": {
-    "value": ""
-  },
-  "/lotus/language/items/operatormaleheadd": {
-    "value": ""
-  },
-  "/lotus/language/items/operatormaleheade": {
-    "value": ""
   },
   "/lotus/language/items/operatorpowerabilityname": {
     "value": "ZENURIK"
@@ -28413,7 +28410,7 @@
     "value": "Leaping Slash"
   },
   "/lotus/language/items/pvpdualdaggersstanceone": {
-    "value": "Biting Piranha"
+    "value": "Bitting Piranha"
   },
   "/lotus/language/items/pvploadoutslotitem": {
     "value": "Conclave Loadout Slot"
@@ -28722,7 +28719,7 @@
     "value": "Phoenix Renewal"
   },
   "/lotus/language/items/regenerationabilityaugment1desc": {
-    "value": "Renewal Augment - Taking fatal damage while under the effects of Renewal will instead heal you to |HEAL_PCT|% health. This effect triggers only once for each ally every |COOLDOWN|s."
+    "value": "Renewal Augment - Taking fatal damage while under the effects of Renewal will instead heal you or allies to |HEAL_PCT|% health. This effect triggers only once for each ally every |COOLDOWN|s."
   },
   "/lotus/language/items/regenerationabilitydesc": {
     "value": "Healing waves of energy flow outward from Oberon to his allies, regenerating health over time."
@@ -30912,7 +30909,7 @@
     "value": "A high-capacity, high-damage enforcer."
   },
   "/lotus/language/items/tennotommygundesc": {
-    "value": "A high-capacity, high-damage enforcer, this weapon can switch between semi-automatic and full automatic firing modes."
+    "value": "A high-capacity, high-damage enforcer, this weapon can switch between the high crit semi-automatic and full automatic firing modes."
   },
   "/lotus/language/items/tennotommygunname": {
     "value": "STRADAVAR"
@@ -31105,6 +31102,30 @@
   },
   "/lotus/language/items/trapperdefaulthelmetdesc": {
     "value": "The standard issue helmet for the Vauban warframe."
+  },
+  "/lotus/language/items/trappermultinade1name": {
+    "value": "Bounce"
+  },
+  "/lotus/language/items/trappermultinade2name": {
+    "value": "Trip Laser"
+  },
+  "/lotus/language/items/trappermultinade3name": {
+    "value": "Shred"
+  },
+  "/lotus/language/items/trappermultinade4name": {
+    "value": "Concuss"
+  },
+  "/lotus/language/items/trappermultinadeabilitydesc": {
+    "value": "Cycle through four deployable trap mines: Bounce, Trip Laser, Shred and Concuss."
+  },
+  "/lotus/language/items/trappermultinadeabilityname": {
+    "value": "Minelayer"
+  },
+  "/lotus/language/items/trappermultinadeholdtoswitch": {
+    "value": "Press <ACTIVATE_ABILITY_1> to switch traps"
+  },
+  "/lotus/language/items/trappermultinadetraplocked": {
+    "value": "<PROBLEM> TRAP LOCKED"
   },
   "/lotus/language/items/trappernobleanims": {
     "value": "VAUBAN NOBLE ANIMATION SET"
@@ -34762,6 +34783,39 @@
   },
   "/lotus/language/melee/punchkickslidedefaults": {
     "value": "Rolling Blast"
+  },
+  "/lotus/language/melee/pvpclawcomboa": {
+    "value": "Bloody Fall"
+  },
+  "/lotus/language/melee/pvpclawcombob": {
+    "value": "Whirling Flush"
+  },
+  "/lotus/language/melee/pvpclawcomboone": {
+    "value": "Ruby Current"
+  },
+  "/lotus/language/melee/pvpdaggercomboa": {
+    "value": "Leading Point"
+  },
+  "/lotus/language/melee/pvpdaggercombob": {
+    "value": "Arcing Slice"
+  },
+  "/lotus/language/melee/pvpdaggercomboone": {
+    "value": "Swift Incision"
+  },
+  "/lotus/language/melee/pvpdualdaggerscomboa": {
+    "value": "Rushing Cuts"
+  },
+  "/lotus/language/melee/pvpdualdaggerscomboone": {
+    "value": "Flashing Razor"
+  },
+  "/lotus/language/melee/pvpswordwhipcomboa": {
+    "value": "Heart of the Imoogi"
+  },
+  "/lotus/language/melee/pvpswordwhipcombob": {
+    "value": "Fangs of the Dreq"
+  },
+  "/lotus/language/melee/pvpswordwipcomboone": {
+    "value": "Talons of the Wyrm"
   },
   "/lotus/language/melee/rapierbranchadefaults": {
     "value": "Duel Secrets"
@@ -38525,11 +38579,17 @@
   "/lotus/language/menu/detailedpurchase_abouttab": {
     "value": "ABOUT"
   },
+  "/lotus/language/menu/detailedpurchase_addtowishlist": {
+    "value": "ADD TO WISHLIST"
+  },
   "/lotus/language/menu/detailedpurchase_compatiblenotowned": {
     "value": "This is a cosmetic for |COMPATIBLE|, which you do not own."
   },
   "/lotus/language/menu/detailedpurchase_compatiblenotownedgeneric": {
     "value": "This is a cosmetic for an item which you do not own."
+  },
+  "/lotus/language/menu/detailedpurchase_inwishlist": {
+    "value": "WISHLIST"
   },
   "/lotus/language/menu/detailedpurchase_itemnotowned": {
     "value": "This skin applies to |ITEM|, which you don't own."
@@ -38543,8 +38603,17 @@
   "/lotus/language/menu/detailedpurchase_relatedtab": {
     "value": "RELATED"
   },
+  "/lotus/language/menu/detailedpurchase_removefromwishlist": {
+    "value": "REMOVE FROM WISHLIST"
+  },
   "/lotus/language/menu/detailedpurchase_researchrecipehelp": {
     "value": "|ITEM|s recipe can be researched in the |ROOM| Dojo room."
+  },
+  "/lotus/language/menu/detailedpurchase_updatewishlistfail": {
+    "value": "Error, could not update wishlist."
+  },
+  "/lotus/language/menu/detailedpurchase_updatingwishlist": {
+    "value": "Updating wishlist, please wait..."
   },
   "/lotus/language/menu/details": {
     "value": "DETAILS"
@@ -38710,6 +38779,12 @@
   },
   "/lotus/language/menu/exithubuppercase": {
     "value": "LEAVE RELAY"
+  },
+  "/lotus/language/menu/exitjunction": {
+    "value": "LEAVE JUNCTION"
+  },
+  "/lotus/language/menu/exitjunctionconfirm": {
+    "value": "Are you sure you want to leave the Junction?"
   },
   "/lotus/language/menu/expired": {
     "value": "Expired"
@@ -45813,7 +45888,7 @@
     "value": "Impenetrable Offense"
   },
   "/lotus/language/mods/blockmoreattackslowermeleemod_desc": {
-    "value": "At Max Energy, |val|% DAMAGE BLOCK"
+    "value": "At Max Energy, |val|% Damage Block"
   },
   "/lotus/language/mods/channelingefficiencyonlowhealth": {
     "value": "Mortal Conduct"
@@ -46152,7 +46227,7 @@
     "value": "Sword Alone"
   },
   "/lotus/language/mods/increasedmobilityequipped_desc": {
-    "value": "With melee equipped, |val| MOBILITY"
+    "value": "With melee equipped, |val| Mobility"
   },
   "/lotus/language/mods/increasedmobilityequipped_desctwo": {
     "value": "|val| Sprint Speed"
@@ -46287,31 +46362,31 @@
     "value": "Nightwatch Napalm"
   },
   "/lotus/language/mods/parkourelectricity": {
-    "value": "|val|%<DT_ELECTRICITY> on Bullet Jump"
+    "value": "|val|% <DT_ELECTRICITY>Electricity on Bullet Jump"
   },
   "/lotus/language/mods/parkourfire": {
-    "value": "|val|%<DT_FIRE> on Bullet Jump"
+    "value": "|val|% <DT_FIRE>Heat on Bullet Jump"
   },
   "/lotus/language/mods/parkourglide": {
     "value": "|val|% Aim Glide and Wall Latch, "
   },
   "/lotus/language/mods/parkourice": {
-    "value": "|val|%<DT_FREEZE> on Bullet Jump"
+    "value": "|val|% <DT_FREEZE>Cold on Bullet Jump"
   },
   "/lotus/language/mods/parkourimpact": {
-    "value": "|val|%<DT_IMPACT> on Bullet Jump"
+    "value": "|val|% <DT_IMPACT>Impact on Bullet Jump"
   },
   "/lotus/language/mods/parkourpuncture": {
-    "value": "|val|%<DT_PUNCTURE> on Bullet Jump"
+    "value": "|val|% <DT_PUNCTURE>Puncture on Bullet Jump"
   },
   "/lotus/language/mods/parkourslash": {
-    "value": "|val|%<DT_SLASH> on Bullet Jump"
+    "value": "|val|% <DT_SLASH>Slash on Bullet Jump"
   },
   "/lotus/language/mods/parkoursuperglide": {
     "value": "|val|% Aim Glide and Wall Latch"
   },
   "/lotus/language/mods/parkourtoxin": {
-    "value": "|val|%<DT_POISON> on Bullet Jump"
+    "value": "|val|% <DT_POISON>Toxin on Bullet Jump"
   },
   "/lotus/language/mods/parkourvelocity": {
     "value": "|val|% to Bullet Jump"
@@ -46329,19 +46404,19 @@
     "value": "|val|% Mobility"
   },
   "/lotus/language/mods/pvpparkourelectricity": {
-    "value": "At Max Energy, |val| <DT_ELECTRICITY>Bullet Jump"
+    "value": "At Max Energy, |val| <DT_ELECTRICITY>Electricity on Bullet Jump"
   },
   "/lotus/language/mods/pvpparkourenergycost": {
-    "value": "|val| energy used per enemy hit."
+    "value": "|val| energy used per enemy hit"
   },
   "/lotus/language/mods/pvpparkourfire": {
-    "value": "At Max Energy, |val| <DT_FIRE>Bullet Jump"
+    "value": "At Max Energy, |val| <DT_FIRE>Heat on Bullet Jump"
   },
   "/lotus/language/mods/pvpparkourfreeze": {
-    "value": "At Max Energy, |val| <DT_FREEZE>Bullet Jump"
+    "value": "At Max Energy, |val| <DT_FREEZE>Cold on Bullet Jump"
   },
   "/lotus/language/mods/pvpparkourpoison": {
-    "value": "At Max Energy, |val| <DT_POISON>Bullet Jump"
+    "value": "At Max Energy, |val| <DT_POISON>Toxin on Bullet Jump"
   },
   "/lotus/language/mods/pvpparkourvelocity": {
     "value": "At Max Energy, |val| to Mobility and"
@@ -46452,7 +46527,7 @@
     "value": "Shattering Impact"
   },
   "/lotus/language/mods/weaponmeleearmorshattermoddesc": {
-    "value": "IMPACT<DT_IMPACT> damage from melee attacks reduces enemy armor by |val|"
+    "value": "<DT_IMPACT>Impact from melee attacks reduces enemy armor by |val|"
   },
   "/lotus/language/news/available_now_banner": {
     "value": "Now Available for a Limited Time"
@@ -47162,6 +47237,12 @@
   "/lotus/language/primes/bansheeprimename": {
     "value": "BANSHEE PRIME"
   },
+  "/lotus/language/primes/catenoprimesugatradesc": {
+    "value": "An Orokin relic of the highest distinction."
+  },
+  "/lotus/language/primes/catenoprimesugatraname": {
+    "value": "CATENO PRIME SUGATRA"
+  },
   "/lotus/language/primes/chromaprimedesc": {
     "value": "Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization."
   },
@@ -47246,6 +47327,12 @@
   "/lotus/language/primes/oberonprimename": {
     "value": "OBERON PRIME"
   },
+  "/lotus/language/primes/primeakstilettodesc": {
+    "value": "Stylish, discreet and accurate, perfect for the Tenno of distinction."
+  },
+  "/lotus/language/primes/primeakstilettoname": {
+    "value": "AKSTILETTO PRIME"
+  },
   "/lotus/language/primes/primedethcubename": {
     "value": "DETHCUBE PRIME"
   },
@@ -47273,6 +47360,12 @@
   "/lotus/language/primes/primedualzorenname": {
     "value": "DUAL ZOREN PRIME"
   },
+  "/lotus/language/primes/primefragordesc": {
+    "value": "A beautifully forged instrument of devastation."
+  },
+  "/lotus/language/primes/primefragorname": {
+    "value": "FRAGOR PRIME"
+  },
   "/lotus/language/primes/primeheliosglaiveweaponname": {
     "value": "DECONSTRUCTOR PRIME"
   },
@@ -47290,6 +47383,12 @@
   },
   "/lotus/language/primes/primelidaggername": {
     "value": "SPIRA PRIME"
+  },
+  "/lotus/language/primes/primescarfvdesc": {
+    "value": "Evoking fortress designs of the ancient past, this is Vauban Prime's signature Syandana."
+  },
+  "/lotus/language/primes/primescarfvname": {
+    "value": "CITADELLA PRIME SYANDANA"
   },
   "/lotus/language/primes/primesentelecrailgundesc": {
     "value": "Standard issue sniper rifle for Diriga Prime."
@@ -50480,8 +50579,20 @@
   "/lotus/language/spacesuits/stealtharchwingname": {
     "value": "ITZAL"
   },
+  "/lotus/language/steamworkshop/frostsummithelmetname": {
+    "value": "FROST SUMMIT HELMET"
+  },
   "/lotus/language/steamworkshop/kronenaritname": {
     "value": "KRONEN ARIT SKIN"
+  },
+  "/lotus/language/steamworkshop/nekrosviscerabindsname": {
+    "value": "VISCERA BINDS"
+  },
+  "/lotus/language/steamworkshop/novavisagehelmetname": {
+    "value": "NOVA VISAGE HELMET"
+  },
+  "/lotus/language/steamworkshop/novavisageskinname": {
+    "value": "NOVA VISAGE SKIN"
   },
   "/lotus/language/subtitles/bbalmrstcorgrnmale0010": {
     "value": "All clear, stand down and return to duty."
@@ -54459,7 +54570,7 @@
     "value": "Destroying those Arrays will be a big setback to Grineer operations in this sector. Get to extraction."
   },
   "/lotus/language/subtitles/dasabmissioncomp0130lotus": {
-    "value": "The Grineer were relying on those Extractor Arrays to supply their fleet. Good work, rendezvous with the Liset."
+    "value": "The Grineer were relying on those Extractor Arrays to supply their fleet. Good work, rendezvous with the landing craft."
   },
   "/lotus/language/subtitles/dasabmissionobj0010lotus": {
     "value": "Tenno, this is a strategically important target. Grineer Extractor Arrays are mining these asteroids for fuel and other materials. Your job is to destroy the Arrays."
@@ -65316,13 +65427,13 @@
     "value": "You're wasting precious time Tenno."
   },
   "/lotus/language/subtitles/dtutorial010lotus": {
-    "value": "Wake up Tenno"
+    "value": "Wake up, Tenno"
   },
   "/lotus/language/subtitles/dtutorial020lotus": {
-    "value": "The time has come, choose your Warframe Tenno."
+    "value": "The time has come, choose your Warframe, Tenno."
   },
   "/lotus/language/subtitles/dtutorial021lotus": {
-    "value": "Which one were you Tenno."
+    "value": "Which one were you, Tenno."
   },
   "/lotus/language/subtitles/dtutorial022lotus": {
     "value": "Which Warframe will you take."
@@ -65358,7 +65469,7 @@
     "value": "Quick. Use your power. Defend yourself."
   },
   "/lotus/language/subtitles/dtutorial100lotus": {
-    "value": "Your Warframe is burning with power, use it while it lasts."
+    "value": "Use your power, now!"
   },
   "/lotus/language/subtitles/dtutorial111vor": {
     "value": "What? No! Stop that Tenno!"
@@ -65376,13 +65487,13 @@
     "value": "Ha... ha... ha..."
   },
   "/lotus/language/subtitles/dtutorial170lotus": {
-    "value": "Vor's done something to you... but now"
+    "value": "Vor's done something to you... but now..."
   },
   "/lotus/language/subtitles/dtutorial180vor": {
     "value": "You are mine."
   },
   "/lotus/language/subtitles/dtutorial190lotus": {
-    "value": "...now you have to run. Get to the dropship."
+    "value": "...now you have to run. Get to the drop-ship."
   },
   "/lotus/language/subtitles/dtutorial200vor": {
     "value": "Try. Try and run."
@@ -65391,7 +65502,7 @@
     "value": "Salvage team, why have you not reported in?"
   },
   "/lotus/language/subtitles/dtutorial210lotus": {
-    "value": "An extraction ship is on its way but the Grineer will be hunting you. Your Warframe's power has faded, arm yourself. Find a weapon without Grineer interlock."
+    "value": "An extraction ship is on its way but the Grineer will be hunting you. Arm yourself."
   },
   "/lotus/language/subtitles/dtutorial211vor": {
     "value": "Where is my Tenno prize? I cannot keep my Queen's waiting!"
@@ -65403,7 +65514,7 @@
     "value": "A Tenno's melee weapon honors their warrior tradition. When technology was turned against them, they adapted."
   },
   "/lotus/language/subtitles/dtutorial240lotus": {
-    "value": "A Tenno master respects their enemy but offers no mercy. You have much to relearn but I will be with you as I am with all Tenno that still live."
+    "value": "A Tenno master respects their enemy, but offers no mercy. You have much to relearn but I will be with you as I am with all Tenno that still live."
   },
   "/lotus/language/subtitles/dtutorial260lotus": {
     "value": "What was that?"
@@ -65436,7 +65547,7 @@
     "value": "Fight me. Prove to me you are worthy of this effort."
   },
   "/lotus/language/subtitles/dtutorial370vor": {
-    "value": "I am going to enjoy breaking you Tenno."
+    "value": "I am going to enjoy breaking you, Tenno."
   },
   "/lotus/language/subtitles/dtutorial380vor": {
     "value": "So much spirit in you. I have work to do."
@@ -65472,7 +65583,7 @@
     "value": "I've searched the dismal deserts of these worlds for too long to let you go!"
   },
   "/lotus/language/subtitles/dtutorial463lotus": {
-    "value": "You're not ready to face Vor now. Use your melee weapon to block the beam and get inside. I'm not giving up on you."
+    "value": "You're not ready to face Vor now. Use your melee weapon to block the beam and get inside."
   },
   "/lotus/language/subtitles/dtutorial464vor": {
     "value": "My decrepit heart is pounding! This one is stronger than the rest. Lock the area down! This Tenno is mine!"
@@ -65502,7 +65613,7 @@
     "value": "The Queens want to destroy you, but I need to know more"
   },
   "/lotus/language/subtitles/dtutorial480vor": {
-    "value": "Fight me if you want to learn futility."
+    "value": "Fight me, if you want to learn futility."
   },
   "/lotus/language/subtitles/dtutorial490vor": {
     "value": "Keep running. There is nowhere to go."
@@ -65514,10 +65625,10 @@
     "value": "Tenno, you cannot survive without arming yourself. Choose a weapon before we continue."
   },
   "/lotus/language/subtitles/dtutorial531lotus": {
-    "value": "I'm not sure what Vor has done to your Warframe but we cannot remove it now. Just keep going, the energy sign is up ahead."
+    "value": "I'm not sure what Vor has done to your Warframe but we cannot remove it now. Just keep going, your ship is up ahead."
   },
   "/lotus/language/subtitles/dtutorial550lotus": {
-    "value": "There it is. It is a ship! An old Liset class - hurry, Vor's reinforcements must be on their way."
+    "value": "There it is, your ship. Hurry, Vor's reinforcements must be on their way."
   },
   "/lotus/language/subtitles/dtutorial560lotus": {
     "value": "Disengage the suppression system so we can restart the ship - you'll have to bypass the security on that panel."
@@ -65532,7 +65643,7 @@
     "value": "The Operator is in danger? I will need a few moments to cycle the engines!"
   },
   "/lotus/language/subtitles/dtutorial630lotus": {
-    "value": "Tenno, the ship is ready, its time to leave"
+    "value": "Tenno, the ship is ready, it's time to leave"
   },
   "/lotus/language/subtitles/dtutorial640vor": {
     "value": "Tenno, are you afraid? You cannot hide from these old eyes. I've marked you. You will return to me."
@@ -68579,6 +68690,75 @@
   "/lotus/language/upgrades/avatar_groundfire_damage_modifier": {
     "value": "Damage During Bleedout |val|%"
   },
+  "/lotus/language/upgrades/avatarabilitydurationmoddesc": {
+    "value": "|val|% Power Duration"
+  },
+  "/lotus/language/upgrades/avatarabilityefficiencymoddesc": {
+    "value": "|val|% Power Efficiency"
+  },
+  "/lotus/language/upgrades/avatarabilityrangemoddesc": {
+    "value": "|val|% Power Range"
+  },
+  "/lotus/language/upgrades/avatarabilitystrengthmoddesc": {
+    "value": "|val|% Power Strength"
+  },
+  "/lotus/language/upgrades/avatarauraeffectivenessonmemoddesc": {
+    "value": "|val|% Aura Effectiveness"
+  },
+  "/lotus/language/upgrades/avataraurastrengthmoddesc": {
+    "value": "|val|% Aura Strength"
+  },
+  "/lotus/language/upgrades/avatarcastingspeedmoddesc": {
+    "value": "|val|% Casting Speed"
+  },
+  "/lotus/language/upgrades/avatarenemyradarmoddesc": {
+    "value": "|val| Enemy Radar"
+  },
+  "/lotus/language/upgrades/avatarhealratemoddesc": {
+    "value": "|val| Heal Rate"
+  },
+  "/lotus/language/upgrades/avatarhealthmax": {
+    "value": "|val|% Health"
+  },
+  "/lotus/language/upgrades/avatarknockdownrecoveryspeedmoddesc": {
+    "value": "|val|% Faster Knockdown Recovery"
+  },
+  "/lotus/language/upgrades/avatarlootradarmoddesc": {
+    "value": "|val| Loot Radar"
+  },
+  "/lotus/language/upgrades/avatarparkourboostmoddesc": {
+    "value": "|val|% Parkour Velocity"
+  },
+  "/lotus/language/upgrades/avatarparkourglidemoddesc": {
+    "value": "|val|% Aim Glide/Latch Time"
+  },
+  "/lotus/language/upgrades/avatarpowermaxmoddesc": {
+    "value": "|val|% Power Max"
+  },
+  "/lotus/language/upgrades/avatarshieldmaxmoddesc": {
+    "value": "|val|% Shield Capacity"
+  },
+  "/lotus/language/upgrades/avatarshieldmaxnopercentmoddesc": {
+    "value": "|val| Shield Capacity"
+  },
+  "/lotus/language/upgrades/avatarshieldrechargedelaymoddesc": {
+    "value": ""
+  },
+  "/lotus/language/upgrades/avatarshieldrechargeratemoddesc": {
+    "value": "|val|% Shield Recharge"
+  },
+  "/lotus/language/upgrades/avatarslideboostmoddesc": {
+    "value": "|val|% Slide"
+  },
+  "/lotus/language/upgrades/avatarslidefrictionmoddesc": {
+    "value": "|val|% Friction"
+  },
+  "/lotus/language/upgrades/avatarsprintspeedmoddesc": {
+    "value": "|val| Sprint Speed"
+  },
+  "/lotus/language/upgrades/avatarsuccesschancemoddesc": {
+    "value": "|val|% Success Chance"
+  },
   "/lotus/language/upgrades/blankpower": {
     "value": ""
   },
@@ -69056,8 +69236,17 @@
   "/lotus/language/upgrades/weaponbaseprocchancemoddesc": {
     "value": "|val| Base Status Chance"
   },
+  "/lotus/language/upgrades/weaponchannelingdmgmoddesc": {
+    "value": "|val|% Channeling Damage"
+  },
+  "/lotus/language/upgrades/weaponchannelingefficiencymoddesc": {
+    "value": "|val|% Channeling Efficiency"
+  },
   "/lotus/language/upgrades/weaponchargedamage": {
     "value": "|val|% Charge Damage"
+  },
+  "/lotus/language/upgrades/weaponchargeratemoddesc": {
+    "value": "|val|% Charge Rate"
   },
   "/lotus/language/upgrades/weaponclipmaxmoddesc": {
     "value": "|val|% Magazine Capacity"
@@ -69146,8 +69335,17 @@
   "/lotus/language/upgrades/weaponmeleecritfireratebonusvalue": {
     "value": "|val|% Attack Speed Bonus"
   },
+  "/lotus/language/upgrades/weaponmeleefinisherdmgmoddesc": {
+    "value": "|val|% Finisher Damage"
+  },
+  "/lotus/language/upgrades/weaponmeleeslamdmgbonusmoddesc": {
+    "value": "|val|% Melee Slam Damage"
+  },
   "/lotus/language/upgrades/weaponmultishotmoddesc": {
     "value": "|val|% Multishot"
+  },
+  "/lotus/language/upgrades/weaponparryeffectivenessmoddesc": {
+    "value": "|val|% Damage Block"
   },
   "/lotus/language/upgrades/weaponpoisondamage": {
     "value": "|val|% <DT_POISON>Toxin"
@@ -69175,6 +69373,9 @@
   },
   "/lotus/language/upgrades/weaponrangemoddesc": {
     "value": "|val| Range"
+  },
+  "/lotus/language/upgrades/weaponrangepercentmoddesc": {
+    "value": "|val|% Range"
   },
   "/lotus/language/upgrades/weaponrecoilmoddesc": {
     "value": "|val|% Weapon Recoil"
