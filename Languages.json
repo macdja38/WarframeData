@@ -19937,6 +19937,9 @@
   "/lotus/language/items/baropetmaskname": {
     "value": "KI'TEER SENTINEL MASK"
   },
+  "/lotus/language/items/baropettailname": {
+    "value": "KI'TEER SENTINEL TAIL"
+  },
   "/lotus/language/items/baropetwingsdesc": {
     "value": "Soar to new heights of luxury with these angular Sentinel wings."
   },
@@ -26993,7 +26996,37 @@
   "/lotus/language/items/operatoreyepieceb": {
     "value": "EYE-GUARD"
   },
+  "/lotus/language/items/operatorfemaleheada": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorfemaleheadb": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorfemaleheadc": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorfemaleheadd": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorfemaleheade": {
+    "value": ""
+  },
   "/lotus/language/items/operatorhair": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorhaira": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorhairb": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorhairc": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorhaird": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorhaire": {
     "value": ""
   },
   "/lotus/language/items/operatorhead": {
@@ -27004,6 +27037,21 @@
   },
   "/lotus/language/items/operatorleggingsa": {
     "value": "ZARIMAN LEGGINGS"
+  },
+  "/lotus/language/items/operatormaleheada": {
+    "value": ""
+  },
+  "/lotus/language/items/operatormaleheadb": {
+    "value": ""
+  },
+  "/lotus/language/items/operatormaleheadc": {
+    "value": ""
+  },
+  "/lotus/language/items/operatormaleheadd": {
+    "value": ""
+  },
+  "/lotus/language/items/operatormaleheade": {
+    "value": ""
   },
   "/lotus/language/items/operatorpowerabilityname": {
     "value": "ZENURIK"
@@ -50389,6 +50437,9 @@
   },
   "/lotus/language/sorties/sortieseason6rewardstitle": {
     "value": "SEASON 6 REWARD POOL"
+  },
+  "/lotus/language/sorties/sortieseason7rewardstitle": {
+    "value": "SEASON 7 REWARD POOL"
   },
   "/lotus/language/sorties/sortieseasonrewardscompletedhint": {
     "value": "Sortie completed. You have received the item highlighted below."
