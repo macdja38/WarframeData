@@ -16964,6 +16964,9 @@
   "/lotus/language/game/teshin": {
     "value": "TESHIN"
   },
+  "/lotus/language/game/teshinshadow": {
+    "value": "TESHIN SHADOW"
+  },
   "/lotus/language/game/timeddoor": {
     "value": "DECRYPTING LOCKING MECHANISM"
   },
@@ -22281,13 +22284,13 @@
     "value": "An unused, unfused artifact."
   },
   "/lotus/language/items/enemyarmorreductionbuffdesc": {
-    "value": "Enemy armor reduced"
+    "value": "Enemy armor reduced."
   },
   "/lotus/language/items/enemyarmorreductionbuffname": {
     "value": "Corrosive Projection"
   },
   "/lotus/language/items/enemyshieldreductionbuffdesc": {
-    "value": "Enemy shields reduced"
+    "value": "Enemy shields reduced."
   },
   "/lotus/language/items/enemyshieldreductionbuffname": {
     "value": "Shield Disruption"
@@ -24486,7 +24489,7 @@
     "value": "EMBLEM OF THE HUNT"
   },
   "/lotus/language/items/infestationspeedreductionbuffdesc": {
-    "value": "Reduces speed of Infested enemies"
+    "value": "Reduces speed of Infested enemies."
   },
   "/lotus/language/items/infestationspeedreductionbuffname": {
     "value": "Infested Impedance"
@@ -26939,6 +26942,12 @@
   "/lotus/language/items/oberondeluxeskinfeaturetext": {
     "value": "Emerge from the darkened forest."
   },
+  "/lotus/language/items/obsidianatticadesc": {
+    "value": "A next-generation skin for the Attica."
+  },
+  "/lotus/language/items/obsidianatticaname": {
+    "value": "OBSIDIAN ATTICA SKIN"
+  },
   "/lotus/language/items/obsidiangorgondesc": {
     "value": "A next-generation skin for the Gorgon."
   },
@@ -27588,7 +27597,7 @@
     "value": "Pistol Ammo Mutation"
   },
   "/lotus/language/items/pistolmodconvertammodesc": {
-    "value": "Convert unused ammo drops into Pistol Ammo."
+    "value": "Convert unused ammo drops into Pistol Ammo"
   },
   "/lotus/language/items/pistolmodcorruptedcritdamage": {
     "value": "Hollow Point"
@@ -27711,70 +27720,70 @@
     "value": "COSMIC SPECTER"
   },
   "/lotus/language/items/playerelectricityimmunitybuffdesc": {
-    "value": "Reduced damage from electrical attacks"
+    "value": "Reduced damage from electrical attacks."
   },
   "/lotus/language/items/playerelectricityimmunitybuffname": {
     "value": "Electrical Resistance"
   },
   "/lotus/language/items/playerenemyradarbuffdesc": {
-    "value": "Enemies appear on Mini-map"
+    "value": "Enemies appear on Mini-map."
   },
   "/lotus/language/items/playerenemyradarbuffname": {
     "value": "Enemy Radar"
   },
   "/lotus/language/items/playerenergyregenbuffdesc": {
-    "value": "Warframe energy regenerates"
+    "value": "Warframe energy regenerates."
   },
   "/lotus/language/items/playerenergyregenbuffname": {
     "value": "Energy Siphon"
   },
   "/lotus/language/items/playerfireimmunitybuffdesc": {
-    "value": "Damage from heat reduced"
+    "value": "Damage from heat reduced."
   },
   "/lotus/language/items/playerfireimmunitybuffname": {
     "value": "Heat Resistance"
   },
   "/lotus/language/items/playerfreezeimmunitybuffdesc": {
-    "value": "Reduced damage from freeze attacks"
+    "value": "Reduced damage from cold attacks."
   },
   "/lotus/language/items/playerfreezeimmunitybuffname": {
     "value": "Frost Insulation"
   },
   "/lotus/language/items/playerhealthbuffdesc": {
-    "value": "Maximum health increased"
+    "value": "Maximum health increased."
   },
   "/lotus/language/items/playerhealthbuffname": {
     "value": "Physique"
   },
   "/lotus/language/items/playerhealthregenbuffdesc": {
-    "value": "Team health regenerates"
+    "value": "Team health regenerates."
   },
   "/lotus/language/items/playerhealthregenbuffname": {
     "value": "Rejuvenation"
   },
   "/lotus/language/items/playerholsterspeedbuffdesc": {
-    "value": "Increases weapon holstering and unholstering speed"
+    "value": "Increases weapon draw and holstering speed."
   },
   "/lotus/language/items/playerholsterspeedbuffname": {
     "value": "Speed Holster"
   },
   "/lotus/language/items/playerlaserimmunitybuffdesc": {
-    "value": "Laser damage deflected"
+    "value": "Reduced damage from radiation attacks."
   },
   "/lotus/language/items/playerlaserimmunitybuffname": {
     "value": "Laser Deflection"
   },
   "/lotus/language/items/playerlootradarbuffdesc": {
-    "value": "Mini-map shows loot crates"
+    "value": "Mini-map shows loot crates."
   },
   "/lotus/language/items/playerlootradarbuffname": {
     "value": "Loot Detector"
   },
   "/lotus/language/items/playermeleebuffdesc": {
-    "value": "Melee weapon damage increased"
+    "value": "Melee weapon damage increased."
   },
   "/lotus/language/items/playermeleebuffelectrictydesc": {
-    "value": "Adds lightning damage to melee weapons"
+    "value": "Adds electricity damage to melee weapons."
   },
   "/lotus/language/items/playermeleebuffelectrictyname": {
     "value": "Lightning Blades"
@@ -27783,55 +27792,55 @@
     "value": "Steel Charge"
   },
   "/lotus/language/items/playerpistolammobuffdesc": {
-    "value": "Increased Pistol Ammo recovery"
+    "value": "Increased Pistol Ammo recovery."
   },
   "/lotus/language/items/playerpistolammobuffname": {
     "value": "Pistol Scavenger"
   },
   "/lotus/language/items/playerpistoldamagebuffdesc": {
-    "value": "Pistol damage increased"
+    "value": "Pistol damage increased."
   },
   "/lotus/language/items/playerpistoldamagebuffname": {
     "value": "Pistol Amp"
   },
   "/lotus/language/items/playerpoisonimmunitybuffdesc": {
-    "value": "Damage from toxins reduced"
+    "value": "Damage from toxins reduced."
   },
   "/lotus/language/items/playerpoisonimmunitybuffname": {
     "value": "Toxin Resistance"
   },
   "/lotus/language/items/playerrifleammobuffdesc": {
-    "value": "Increased Rifle Ammo recovery"
+    "value": "Increased Rifle Ammo recovery."
   },
   "/lotus/language/items/playerrifleammobuffname": {
     "value": "Rifle Scavenger"
   },
   "/lotus/language/items/playerrifledamagebuffdesc": {
-    "value": "Rifle damage increased"
+    "value": "Rifle damage increased."
   },
   "/lotus/language/items/playerrifledamagebuffname": {
     "value": "Rifle Amp"
   },
   "/lotus/language/items/playershellammobuffdesc": {
-    "value": "Increased Shotgun Ammo recovery"
+    "value": "Increased Shotgun Ammo recovery."
   },
   "/lotus/language/items/playershellammobuffname": {
     "value": "Shotgun Scavenger"
   },
   "/lotus/language/items/playershelldamagebuffdesc": {
-    "value": "Shotgun damage increased"
+    "value": "Shotgun damage increased."
   },
   "/lotus/language/items/playershelldamagebuffname": {
     "value": "Shotgun Amp"
   },
   "/lotus/language/items/playersniperammobuffdesc": {
-    "value": "Increased Sniper Ammo recovery"
+    "value": "Increased Sniper Ammo recovery."
   },
   "/lotus/language/items/playersniperammobuffname": {
     "value": "Sniper Scavenger"
   },
   "/lotus/language/items/playersniperdamagebuffdesc": {
-    "value": "Sniper Rifle damage increased"
+    "value": "Sniper Rifle damage increased."
   },
   "/lotus/language/items/playersniperdamagebuffname": {
     "value": "Dead Eye"
@@ -27840,7 +27849,7 @@
     "value": "Sprint Boost"
   },
   "/lotus/language/items/playersprintbuffnamedesc": {
-    "value": "Sprint speed increased"
+    "value": "Sprint speed increased."
   },
   "/lotus/language/items/playerxpbuffdesc": {
     "value": "Affinity from kills increased"
@@ -29031,7 +29040,7 @@
     "value": "Rifle Ammo Mutation"
   },
   "/lotus/language/items/riflemodconvertammodesc": {
-    "value": "Convert unused ammo drops into Rifle Ammo."
+    "value": "Convert unused ammo drops into Rifle Ammo"
   },
   "/lotus/language/items/riflemodcorruptedcritratefirerate": {
     "value": "Critical Delay"
@@ -29139,7 +29148,7 @@
     "value": "COMPLETE ROBOTICS SET"
   },
   "/lotus/language/items/robotpooraimbuffdesc": {
-    "value": "Robotic enemies have reduced accuracy"
+    "value": "Robotic enemies have reduced accuracy."
   },
   "/lotus/language/items/robotpooraimbuffname": {
     "value": "EMP Aura"
@@ -29832,7 +29841,7 @@
     "value": "Shotgun Ammo Mutation"
   },
   "/lotus/language/items/shotgunmodconvertammodesc": {
-    "value": "Convert unused ammo drops into Shotgun Ammo."
+    "value": "Convert unused ammo drops into Shotgun Ammo"
   },
   "/lotus/language/items/shotgunmodcorrupteddamagespread": {
     "value": "Vicious Spread"
@@ -30078,7 +30087,7 @@
     "value": "Sniper Ammo Mutation"
   },
   "/lotus/language/items/snipermodconvertammodesc": {
-    "value": "Convert unused ammo drops into Sniper Ammo."
+    "value": "Convert unused ammo drops into Sniper Ammo"
   },
   "/lotus/language/items/snipermodreloaddamage": {
     "value": "Charged Chamber"
@@ -30768,7 +30777,7 @@
     "value": "TEAM AMMO RESTORE"
   },
   "/lotus/language/items/teamarmorydesc": {
-    "value": "Infinite clip size for all team members"
+    "value": "Infinite clip size for all team members."
   },
   "/lotus/language/items/teamarmoryname": {
     "value": "Team Armory"
@@ -36804,7 +36813,7 @@
     "value": "Free Platinum + |value|% OFF"
   },
   "/lotus/language/menu/couponboxtext": {
-    "value": "|value|% OFF"
+    "value": "-|value|%"
   },
   "/lotus/language/menu/coupondesc": {
     "value": "% off your next purchase of Platinum"
@@ -38663,6 +38672,9 @@
   "/lotus/language/menu/detailedpurchase_updatingwishlist": {
     "value": "Updating wishlist, please wait..."
   },
+  "/lotus/language/menu/detailedpurchase_viewhyperlinks": {
+    "value": "LINKED ITEMS"
+  },
   "/lotus/language/menu/details": {
     "value": "DETAILS"
   },
@@ -39244,6 +39256,9 @@
   },
   "/lotus/language/menu/giftfail_recipientbanned": {
     "value": "|PLAYER_NAME|'s gifting privileges have been revoked, you may not send gifts to them."
+  },
+  "/lotus/language/menu/giftfail_recipientuntutored": {
+    "value": "Could not send gift: |PLAYER_NAME| has not finished the tutorial."
   },
   "/lotus/language/menu/giftfail_sendtoself": {
     "value": "You want to give yourself a gift? Don't be so selfish!"
@@ -44889,7 +44904,7 @@
     "value": "DELUXE SKINS"
   },
   "/lotus/language/menu/store_discount": {
-    "value": "|value|% OFF!"
+    "value": "-|value|%"
   },
   "/lotus/language/menu/store_expired": {
     "value": "This time-limited offer has expired, and the item is no longer available."
@@ -46212,7 +46227,7 @@
     "value": "Health Conversion"
   },
   "/lotus/language/mods/healthpickupgivesarmourmoddesc": {
-    "value": "Health orbs grant |ARMOUR| armor, stacking up to |STACKS| times. Taking damage will consume a stack after |DURATION|s."
+    "value": "Health orbs grant |ARMOUR| Armor, stacking up to |STACKS| times. Taking damage will consume a stack after |DURATION|s"
   },
   "/lotus/language/mods/healthregenlongershieldrecharge": {
     "value": "Vital Systems Bypass"
@@ -50630,20 +50645,86 @@
   "/lotus/language/spacesuits/stealtharchwingname": {
     "value": "ITZAL"
   },
+  "/lotus/language/steamworkshop/frostgrostarmarmorname": {
+    "value": "FROST GROST ARMOR"
+  },
+  "/lotus/language/steamworkshop/frostgrosthelmetname": {
+    "value": "FROST GROST HELMET"
+  },
+  "/lotus/language/steamworkshop/frostgrostskinname": {
+    "value": "FROST GROST SKIN"
+  },
+  "/lotus/language/steamworkshop/frosthailstormhelmetname": {
+    "value": "FROST HAILSTORM HELMET"
+  },
+  "/lotus/language/steamworkshop/frosthailstormskinname": {
+    "value": "FROST HAILSTORM SKIN"
+  },
   "/lotus/language/steamworkshop/frostsummithelmetname": {
     "value": "FROST SUMMIT HELMET"
+  },
+  "/lotus/language/steamworkshop/frostvojnikhelmetname": {
+    "value": "FROST VOJNIK HELMET"
+  },
+  "/lotus/language/steamworkshop/frostvojnikskinname": {
+    "value": "FROST VOJNIK SKIN"
+  },
+  "/lotus/language/steamworkshop/frostzastrugahelmetname": {
+    "value": "FROST ZASTRUGA HELMET"
   },
   "/lotus/language/steamworkshop/kronenaritname": {
     "value": "KRONEN ARIT SKIN"
   },
+  "/lotus/language/steamworkshop/magalatahelmetname": {
+    "value": "MAG ALATA HELMET"
+  },
+  "/lotus/language/steamworkshop/magalataskinname": {
+    "value": "MAG ALATA SKIN"
+  },
+  "/lotus/language/steamworkshop/mesadeadeyehelmetname": {
+    "value": "MESA DEAD EYE HELMET"
+  },
   "/lotus/language/steamworkshop/nekrosviscerabindsname": {
     "value": "VISCERA BINDS"
+  },
+  "/lotus/language/steamworkshop/novadevicehelmetname": {
+    "value": "NOVA DEVICE HELMET"
+  },
+  "/lotus/language/steamworkshop/novadeviceskinname": {
+    "value": "NOVA DEVICE SKIN"
+  },
+  "/lotus/language/steamworkshop/novagnovahelmetname": {
+    "value": "NOVA GNOVA HELMET"
+  },
+  "/lotus/language/steamworkshop/novagnovaskinname": {
+    "value": "NOVA GNOVA SKIN"
+  },
+  "/lotus/language/steamworkshop/novalamiahelmetname": {
+    "value": "NOVA LAMIA HELMET"
+  },
+  "/lotus/language/steamworkshop/novalamiaskinname": {
+    "value": "NOVA LAMIA SKIN"
+  },
+  "/lotus/language/steamworkshop/novastingerhelmetname": {
+    "value": "NOVA STINGER HELMET"
+  },
+  "/lotus/language/steamworkshop/novastingerskinname": {
+    "value": "NOVA STINGER SKIN"
+  },
+  "/lotus/language/steamworkshop/novatachyonhelmetname": {
+    "value": "NOVA TACHYON HELMET"
   },
   "/lotus/language/steamworkshop/novavisagehelmetname": {
     "value": "NOVA VISAGE HELMET"
   },
   "/lotus/language/steamworkshop/novavisageskinname": {
     "value": "NOVA VISAGE SKIN"
+  },
+  "/lotus/language/steamworkshop/setkasyandanadesc": {
+    "value": "A syandana for your Warframe, designed by Hitsu San"
+  },
+  "/lotus/language/steamworkshop/setkasyandananame": {
+    "value": "SETKA SYANDANA"
   },
   "/lotus/language/subtitles/bbalmrstcorgrnmale0010": {
     "value": "All clear, stand down and return to duty."
@@ -68762,6 +68843,21 @@
   "/lotus/language/upgrades/avatarcastingspeedmoddesc": {
     "value": "|val|% Casting Speed"
   },
+  "/lotus/language/upgrades/avatardamageresistanceelectricmoddesc": {
+    "value": "|val| <DT_ELECTRICITY>Resist"
+  },
+  "/lotus/language/upgrades/avatardamageresistancefiremoddesc": {
+    "value": "|val| <DT_FIRE>Resist"
+  },
+  "/lotus/language/upgrades/avatardamageresistancefreezemoddesc": {
+    "value": "|val| <DT_FREEZE>Resist"
+  },
+  "/lotus/language/upgrades/avatardamageresistancepoisonmoddesc": {
+    "value": "|val| <DT_POISON>Resist"
+  },
+  "/lotus/language/upgrades/avatardamageresistanceradiationmoddesc": {
+    "value": "|val| <DT_RADIATION>Resist"
+  },
   "/lotus/language/upgrades/avatarenemyradarmoddesc": {
     "value": "|val| Enemy Radar"
   },
@@ -68777,6 +68873,9 @@
   "/lotus/language/upgrades/avatarlootradarmoddesc": {
     "value": "|val| Loot Radar"
   },
+  "/lotus/language/upgrades/avatarmovementspeedmoddesc": {
+    "value": "|val|% Speed"
+  },
   "/lotus/language/upgrades/avatarparkourboostmoddesc": {
     "value": "|val|% Parkour Velocity"
   },
@@ -68785,6 +68884,9 @@
   },
   "/lotus/language/upgrades/avatarpowermaxmoddesc": {
     "value": "|val|% Power Max"
+  },
+  "/lotus/language/upgrades/avatarpowerratemoddesc": {
+    "value": "|val| Power Rate"
   },
   "/lotus/language/upgrades/avatarshieldmaxmoddesc": {
     "value": "|val|% Shield Capacity"
@@ -68816,6 +68918,9 @@
   "/lotus/language/upgrades/bleedoutmodifierdesc": {
     "value": "|val|% Bleedout Reduction"
   },
+  "/lotus/language/upgrades/bowmodconvertammomoddesc": {
+    "value": "Convert unused ammo drops into Arrows"
+  },
   "/lotus/language/upgrades/chancetolootdesc": {
     "value": "|val|% chance to unlock locked lockers"
   },
@@ -68838,7 +68943,7 @@
     "value": "ARCANE |SKIN|"
   },
   "/lotus/language/upgrades/cosmeticenhancerbonusrevive": {
-    "value": "+1 ARCANE REVIVE."
+    "value": "+1 ARCANE REVIVE"
   },
   "/lotus/language/upgrades/cosmeticenhancerdescription": {
     "value": "|CONDITION|: |CHANCE|% chance for |BONUS|."
@@ -69140,6 +69245,9 @@
   "/lotus/language/upgrades/parrymeleedesc": {
     "value": "|val|% Counter Chance"
   },
+  "/lotus/language/upgrades/pistolmodconvertammomoddesc": {
+    "value": "Convert unused ammo drops into Pistol Ammo"
+  },
   "/lotus/language/upgrades/poisonprocresist": {
     "value": "|val|% chance to resist a Toxin damage effect"
   },
@@ -69167,6 +69275,9 @@
   "/lotus/language/upgrades/resistanceknockdownchancedesc": {
     "value": "|val|% Chance to Resist Knockdown"
   },
+  "/lotus/language/upgrades/riflemodconvertammomoddesc": {
+    "value": "Convert unused ammo drops into Rifle Ammo"
+  },
   "/lotus/language/upgrades/ripkasnightwatchmoddamage": {
     "value": "Increase Damage by |val|% and"
   },
@@ -69178,6 +69289,9 @@
   },
   "/lotus/language/upgrades/shieldrevengedamagedesc": {
     "value": "|val|% Chance to do electrical damage when shield struck by melee enemies"
+  },
+  "/lotus/language/upgrades/shotgunmodconvertammomoddesc": {
+    "value": "Convert unused ammo drops into Shotgun Ammo"
   },
   "/lotus/language/upgrades/slashbias": {
     "value": "Converts |val|% of Damage into <DT_SLASH>Slash"
@@ -69191,11 +69305,14 @@
   "/lotus/language/upgrades/slidingaccuracyandrecoil": {
     "value": "|val|% Recoil and Spread when Sliding"
   },
+  "/lotus/language/upgrades/snipermodconvertammomoddesc": {
+    "value": "Convert unused ammo drops into Sniper Ammo"
+  },
   "/lotus/language/upgrades/sobeknightwatchmodparta": {
     "value": "Killing enemies causes them to explode, dealing |val|"
   },
   "/lotus/language/upgrades/sobeknightwatchmodpartb": {
-    "value": "(|val|% Enemy Max Health) Corrosive Damage in a"
+    "value": "(|val|% Enemy Max Health) <DT_CORROSIVE>Corrosive Damage in a"
   },
   "/lotus/language/upgrades/sobeknightwatchmodpartc": {
     "value": "|val|m radius"
@@ -69277,6 +69394,9 @@
   },
   "/lotus/language/upgrades/weaponaimedshotdamagebonusmoddesc": {
     "value": "|val|% Dead Aim"
+  },
+  "/lotus/language/upgrades/weaponammoretrievedmoddesc": {
+    "value": "|val|% Ammo Pickup"
   },
   "/lotus/language/upgrades/weaponarmournegation": {
     "value": "|val|% Armor Negation"
@@ -69364,6 +69484,9 @@
   },
   "/lotus/language/upgrades/weaponimpactdamage": {
     "value": "|val|% <DT_IMPACT>Impact"
+  },
+  "/lotus/language/upgrades/weaponinfiniteclipmoddesc": {
+    "value": "|val| Infinite Clip Size"
   },
   "/lotus/language/upgrades/weaponlifesteal": {
     "value": "|val|% Life Steal"
