@@ -109,10 +109,10 @@ Level: 10-100
   Regen, COMMON, AP_PRECEPT
   Revenge, COMMON, AP_PRECEPT
   Warrior, COMMON, AP_PRECEPT
-  Steel Fiber, COMMON, AP_DEFENSE
-  Vitality, COMMON, AP_DEFENSE
-  Redirection, COMMON, AP_DEFENSE
-  Fast Deflection, UNCOMMON, AP_DEFENSE
+  Metal Fiber, COMMON, AP_DEFENSE
+  Enhanced Vitality, COMMON, AP_DEFENSE
+  Calculated Redirection, COMMON, AP_DEFENSE
+  Accelerated Deflection, UNCOMMON, AP_DEFENSE
   Sanctuary, RARE, AP_PRECEPT
   Swift Deth, COMMON, AP_PRECEPT
   Vaporize, COMMON, AP_PRECEPT
@@ -204,10 +204,10 @@ Level: 10-100
   Regen, COMMON, AP_PRECEPT
   Revenge, COMMON, AP_PRECEPT
   Warrior, COMMON, AP_PRECEPT
-  Steel Fiber, COMMON, AP_DEFENSE
-  Vitality, COMMON, AP_DEFENSE
-  Redirection, COMMON, AP_DEFENSE
-  Fast Deflection, UNCOMMON, AP_DEFENSE
+  Metal Fiber, COMMON, AP_DEFENSE
+  Enhanced Vitality, COMMON, AP_DEFENSE
+  Calculated Redirection, COMMON, AP_DEFENSE
+  Accelerated Deflection, UNCOMMON, AP_DEFENSE
 
 Level: 25-100
   Retribution, RARE, AP_DEFENSE
@@ -301,10 +301,10 @@ Level: 10-100
   Regen, COMMON, AP_PRECEPT
   Revenge, COMMON, AP_PRECEPT
   Warrior, COMMON, AP_PRECEPT
-  Steel Fiber, COMMON, AP_DEFENSE
-  Vitality, COMMON, AP_DEFENSE
-  Redirection, COMMON, AP_DEFENSE
-  Fast Deflection, UNCOMMON, AP_DEFENSE
+  Metal Fiber, COMMON, AP_DEFENSE
+  Enhanced Vitality, COMMON, AP_DEFENSE
+  Calculated Redirection, COMMON, AP_DEFENSE
+  Accelerated Deflection, UNCOMMON, AP_DEFENSE
 
 Level: 25-100
   Handspring, RARE, AP_TACTIC
@@ -397,10 +397,10 @@ Level: 10-100
   Regen, COMMON, AP_PRECEPT
   Revenge, COMMON, AP_PRECEPT
   Warrior, COMMON, AP_PRECEPT
-  Steel Fiber, COMMON, AP_DEFENSE
-  Vitality, COMMON, AP_DEFENSE
-  Redirection, COMMON, AP_DEFENSE
-  Fast Deflection, UNCOMMON, AP_DEFENSE
+  Metal Fiber, COMMON, AP_DEFENSE
+  Enhanced Vitality, COMMON, AP_DEFENSE
+  Calculated Redirection, COMMON, AP_DEFENSE
+  Accelerated Deflection, UNCOMMON, AP_DEFENSE
 
 Level: 25-100
   Thunderbolt, RARE, AP_ATTACK
