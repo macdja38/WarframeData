@@ -740,7 +740,7 @@ DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 
 DROP_MOD (Drop Chance: 3%, Exclusive: no)
 	Pistol Gambit, COMMON, 25.29%
-	Steel Fiber, COMMON, 25.29%
+	Metal Fiber, COMMON, 25.29%
 	Chilling Grasp, UNCOMMON, 11.06%
 	Shotgun Savvy, UNCOMMON, 11.06%
 	Vital Sense, RARE, 0.67%
@@ -1171,7 +1171,7 @@ DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 
 DROP_MOD (Drop Chance: 3%, Exclusive: no)
 	Vaporize, COMMON, 18.97%
-	Vitality, COMMON, 18.97%
+	Enhanced Vitality, COMMON, 18.97%
 	Thief's Wit, COMMON, 18.97%
 	Rush, UNCOMMON, 5.53%
 	Smite Corpus, UNCOMMON, 5.53%
@@ -1749,7 +1749,7 @@ DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 DROP_MOD (Drop Chance: 3%, Exclusive: no)
 	Point Strike, COMMON, 25.29%
 	Insulation, COMMON, 25.29%
-	Vitality, COMMON, 25.29%
+	Enhanced Vitality, COMMON, 25.29%
 	Ammo Stock, UNCOMMON, 5.53%
 	Gunslinger, UNCOMMON, 5.53%
 	Rage, RARE, 2.01%
@@ -1932,7 +1932,7 @@ DROP_MOD (Drop Chance: 3%, Exclusive: no)
 	Sawtooth Clip, COMMON, 75.88%
 	Killing Blow, UNCOMMON, 7.37%
 	Barrel Diffusion, RARE, 0.67%
-	Fast Deflection, UNCOMMON, 7.37%
+	Accelerated Deflection, UNCOMMON, 7.37%
 	Crushing Ruin, RARE, 0.67%
 	Shimmering Blight, UNCOMMON, 7.37%
 	Rare Fusion Core, RARE, 0.67%
@@ -2047,7 +2047,7 @@ DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 
 DROP_MOD (Drop Chance: 3%, Exclusive: no)
 	Vaporize, COMMON, 37.94%
-	Redirection, COMMON, 37.94%
+	Calculated Redirection, COMMON, 37.94%
 	Bane of Infested, UNCOMMON, 5.53%
 	Target Cracker, UNCOMMON, 5.53%
 	Seeking Force, RARE, 1.01%
@@ -2175,7 +2175,7 @@ DROP_MOD (Drop Chance: 3%, Exclusive: no)
 	Fast Deflection, UNCOMMON, 7.37%
 	True Steel, COMMON, 18.97%
 	Trick Mag, COMMON, 18.97%
-	Vitality, COMMON, 18.97%
+	Enhanced Vitality, COMMON, 18.97%
 	Common Fusion Core, COMMON, 18.97%
 	Uncommon Fusion Core, UNCOMMON, 7.37%
 	Rare Fusion Core, RARE, 2.01%
@@ -2332,7 +2332,7 @@ DROP_MOD (Drop Chance: 3%, Exclusive: no)
 	Sawtooth Clip, COMMON, 75.88%
 	Killing Blow, UNCOMMON, 7.37%
 	Barrel Diffusion, RARE, 0.67%
-	Fast Deflection, UNCOMMON, 7.37%
+	Accelerated Deflection, UNCOMMON, 7.37%
 	Crushing Ruin, RARE, 0.67%
 	Battering Maneuver, UNCOMMON, 7.37%
 	Rare Fusion Core, RARE, 0.67%
@@ -2655,7 +2655,7 @@ DROP_MISC_ITEM (Drop Chance: 100%, Exclusive: no)
 	SEVERED BILE SAC, UNCOMMON, 25%
 
 DROP_MOD (Drop Chance: 3%, Exclusive: no)
-	Redirection, COMMON, 18.97%
+	Calculated Redirection, COMMON, 18.97%
 	Rupture, COMMON, 18.97%
 	Regen, COMMON, 18.97%
 	Speed Trigger, UNCOMMON, 7.37%
@@ -2827,7 +2827,7 @@ DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 	Uncommon Resource, COMMON, 100%
 
 DROP_MOD (Drop Chance: 3%, Exclusive: no)
-	Redirection, COMMON, 18.97%
+	Calculated Redirection, COMMON, 18.97%
 	Rupture, COMMON, 18.97%
 	Regen, COMMON, 18.97%
 	Speed Trigger, UNCOMMON, 7.37%
@@ -2913,7 +2913,7 @@ DROP_MOD (Drop Chance: 3%, Exclusive: no)
 	Organ Shatter, COMMON, 15.18%
 	Slip Magazine, COMMON, 15.18%
 	Uncommon Fusion Core, UNCOMMON, 7.37%
-	Fast Deflection, UNCOMMON, 7.37%
+	Accelerated Deflection, UNCOMMON, 7.37%
 	Hornet Strike, UNCOMMON, 7.37%
 	Shredder, COMMON, 15.18%
 	Common Fusion Core, COMMON, 15.18%
@@ -2963,7 +2963,7 @@ DROP_MOD (Drop Chance: 0%, Exclusive: no)
 	Fast Deflection, UNCOMMON, 7.37%
 	True Steel, COMMON, 18.97%
 	Trick Mag, COMMON, 18.97%
-	Vitality, COMMON, 18.97%
+	Enhanced Vitality, COMMON, 18.97%
 	Common Fusion Core, COMMON, 18.97%
 	Uncommon Fusion Core, UNCOMMON, 7.37%
 	Rare Fusion Core, RARE, 2.01%
@@ -3126,7 +3126,7 @@ DROP_MOD (Drop Chance: 3%, Exclusive: no)
 	Link Health, UNCOMMON, 3.69%
 	Link Shields, UNCOMMON, 3.69%
 	Loyal Companion, COMMON, 25.29%
-	Fast Deflection, UNCOMMON, 3.69%
+	Hastened Deflection, UNCOMMON, 3.69%
 	Savagery, RARE, 0.22%
 	Pack Leader, COMMON, 25.29%
 	Maul, UNCOMMON, 3.69%
@@ -3154,7 +3154,7 @@ DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 	Uncommon Resource, COMMON, 100%
 
 DROP_MOD (Drop Chance: 3%, Exclusive: no)
-	Vitality, COMMON, 38.72%
+	Enhanced Vitality, COMMON, 38.72%
 	Thief's Wit, COMMON, 38.72%
 	Shotgun Savvy, UNCOMMON, 7.52%
 	Pathogen Rounds, UNCOMMON, 7.52%
@@ -4186,9 +4186,9 @@ DROP_POWERUP (Drop Chance: 75%, Exclusive: no)
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
 [SpaceDropTables/GrineerSpaceDroneDropTable]
+ - Attack Mutalist (InfestedAttackDroneAvatar)
  - Mutalist Lightning Carrier (CarrierLightningSpaceDroneAvatar)
  - Mutalist Toxic Carrier (CarrierSpaceDroneAvatar)
- - Attack Mutalist (InfestedAttackDroneAvatar)
  - [PLACEHOLDER] Suicide Mutalist (SuicideSpaceDroneAvatar)
  - DREG (GrineerSpaceDroneAvatar)
 
