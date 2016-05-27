@@ -1720,7 +1720,7 @@ Rotation A:
   1 Tactical Retreat, UNCOMMON, 0.6%
   1 Mortal Conduct, UNCOMMON, 0.6%
   1 Soaring Strike, UNCOMMON, 0.6%
-  1 Rapid Consequence, UNCOMMON, 0.6%
+  1 Emergent Aftermath, UNCOMMON, 0.6%
   1 Static Alacrity, UNCOMMON, 0.6%
   1 Thundermiter, UNCOMMON, 0.6%
   1 Shrapnel Rounds, UNCOMMON, 0.6%
@@ -1770,7 +1770,7 @@ Rotation A:
   1 Tactical Retreat, UNCOMMON, 0.6%
   1 Mortal Conduct, UNCOMMON, 0.6%
   1 Soaring Strike, UNCOMMON, 0.6%
-  1 Rapid Consequence, UNCOMMON, 0.6%
+  1 Emergent Aftermath, UNCOMMON, 0.6%
   1 Static Alacrity, UNCOMMON, 0.6%
   1 Thundermiter, UNCOMMON, 0.6%
   1 Shrapnel Rounds, UNCOMMON, 0.6%
@@ -1819,7 +1819,7 @@ Rotation A:
   1 Tactical Retreat, UNCOMMON, 0.6%
   1 Mortal Conduct, UNCOMMON, 0.6%
   1 Soaring Strike, UNCOMMON, 0.6%
-  1 Rapid Consequence, UNCOMMON, 0.6%
+  1 Emergent Aftermath, UNCOMMON, 0.6%
   1 Static Alacrity, UNCOMMON, 0.6%
   1 Thundermiter, UNCOMMON, 0.6%
   1 Shrapnel Rounds, UNCOMMON, 0.6%
