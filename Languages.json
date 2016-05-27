@@ -2243,6 +2243,9 @@
   "/game/avatar_movement_speed": {
     "value": "SPEED"
   },
+  "/game/avatar_npc_hit_chance": {
+    "value": "HIT CHANCE"
+  },
   "/game/avatar_num_jumps": {
     "value": "JUMPS"
   },
@@ -2323,9 +2326,6 @@
   },
   "/game/avatar_sprint_speed": {
     "value": "SPRINT SPEED"
-  },
-  "/game/avatar_stamina": {
-    "value": "STAMINA"
   },
   "/game/avatar_stamina_cost_multiplier": {
     "value": "STAMINA COST REDUCTION"
@@ -14234,6 +14234,9 @@
   "/lotus/language/game/drainmaintenanceexit": {
     "value": "<USE> MAINTENANCE EXIT"
   },
+  "/lotus/language/game/drop_chance": {
+    "value": "DROP CHANCE"
+  },
   "/lotus/language/game/dt_any": {
     "value": "ANY"
   },
@@ -14488,6 +14491,9 @@
   },
   "/lotus/language/game/exterminatesoftabort": {
     "value": "Mission Aborted, Reach Extraction"
+  },
+  "/lotus/language/game/extra_damage": {
+    "value": "EXTRA DAMAGE"
   },
   "/lotus/language/game/extractiontimer": {
     "value": "Get to the extraction point"
@@ -15508,6 +15514,9 @@
   },
   "/lotus/language/game/lootcorpse": {
     "value": "<USE> Loot corpse"
+  },
+  "/lotus/language/game/lunaro_playerscored": {
+    "value": "|PLAYER_NAME| SCORED!"
   },
   "/lotus/language/game/lureavatar": {
     "value": "VOID LURE"
@@ -20061,7 +20070,7 @@
     "value": "Boosting this ability increases the duration of the invulnerability."
   },
   "/lotus/language/items/blessingabilitydesc": {
-    "value": "Restores the health and shields of all allies, while simultaneously providing a degree of damage immunity to the team. The greater the healing, the greater the immunity."
+    "value": "Restore the health and shields of allies within Trinity’s Affinity aura. These allies also receive a degree of damage immunity, the greater the healing the greater the immunity."
   },
   "/lotus/language/items/blueantitoxinblueprintdesc": {
     "value": "Fuses the extracts from both Moonlight and Sunlight variations of Jadeleaf and Dragonlily to create a potent antitoxin."
@@ -20346,7 +20355,7 @@
     "value": "VAPOR SPECTER"
   },
   "/lotus/language/items/bulletattractorability": {
-    "value": "Bullet Attractor"
+    "value": "Magnetize"
   },
   "/lotus/language/items/bulletattractorabilityaugmentdesc": {
     "value": "Placeholder"
@@ -20355,7 +20364,7 @@
     "value": "Boosting this ability increases the area of the magnetic field."
   },
   "/lotus/language/items/bulletattractorabilitydesc": {
-    "value": "Magnetizes a target, causing passing bullets to seek the target. Field detonates if target dies."
+    "value": "Creates a magnetic field around a target, ensnaring nearby enemies and dealing damage over time. The field reacts to bullets and shards created from Polarize to increase the damage."
   },
   "/lotus/language/items/bunnyearsdesc": {
     "value": "A stylish accessory for your Warframe."
@@ -25431,7 +25440,7 @@
     "value": "Protect"
   },
   "/lotus/language/items/kubrowshieldregenmodname": {
-    "value": "Fast Deflection"
+    "value": "Hastened Deflection"
   },
   "/lotus/language/items/kubrowshieldslinkmodname": {
     "value": "Link Shields"
@@ -27390,7 +27399,7 @@
     "value": "Stun nearby enemies with strong accelerant. Increases all fire damage dealt."
   },
   "/lotus/language/items/overloadability": {
-    "value": "Overload"
+    "value": "Discharge"
   },
   "/lotus/language/items/overloadabilityaugmentdesc": {
     "value": "Overload Augment - Converts |SHIELD_PCT|% of damage dealt into shields split between Volt and allied Tenno."
@@ -27402,7 +27411,7 @@
     "value": "Boosting this ability increases its area of effect."
   },
   "/lotus/language/items/overloadabilitydesc": {
-    "value": "Volt emits an energy field, destroying lights and other electronics which will violently explode and damage enemies."
+    "value": "Paralyze nearby hostiles with a damaging electric charge, this also shocks approaching enemies."
   },
   "/lotus/language/items/oxiumdesc": {
     "value": "Oxium is a rare lighter than air alloy of Orokin origin."
@@ -29148,7 +29157,7 @@
     "value": "COMPLETE ROBOTICS SET"
   },
   "/lotus/language/items/robotpooraimbuffdesc": {
-    "value": "Robotic enemies have reduced accuracy."
+    "value": "Corpus enemies have reduced accuracy."
   },
   "/lotus/language/items/robotpooraimbuffname": {
     "value": "EMP Aura"
@@ -29565,7 +29574,7 @@
     "value": "GUNHEAD"
   },
   "/lotus/language/items/sentinelmodarmor": {
-    "value": "Steel Fiber"
+    "value": "Metal Fiber"
   },
   "/lotus/language/items/sentinelmoddropchance": {
     "value": "Spare Parts"
@@ -29574,16 +29583,16 @@
     "value": "Self Destruct"
   },
   "/lotus/language/items/sentinelmodhealthmax": {
-    "value": "Vitality"
+    "value": "Enhanced Vitality"
   },
   "/lotus/language/items/sentinelmodoverheatdamage": {
     "value": "Fired Up"
   },
   "/lotus/language/items/sentinelmodrechargerate": {
-    "value": "Fast Deflection"
+    "value": "Accelerated Deflection"
   },
   "/lotus/language/items/sentinelmodshieldmax": {
-    "value": "Redirection"
+    "value": "Calculated Redirection"
   },
   "/lotus/language/items/sentinelshotgundesc": {
     "value": "Standard issue weapon for Carrier Sentinel. Fires shotgun rounds."
@@ -29670,10 +29679,10 @@
     "value": "Deploys a SHIELD OSPREY EXIMUS unit to fight for you."
   },
   "/lotus/language/items/shieldregenability": {
-    "value": "Shield Polarize"
+    "value": "Polarize"
   },
   "/lotus/language/items/shieldregenabilityaugmentdesc": {
-    "value": "Shield Polarize Augment - Mag gains |SHIELD_PERCENT|% overshields from depleted enemy shields."
+    "value": "Polarize Augment - Mag gains |SHIELD_PERCENT|% overshields from depleted enemy shields."
   },
   "/lotus/language/items/shieldregenabilityaugmentname": {
     "value": "Shield Transference"
@@ -29682,13 +29691,13 @@
     "value": "Shield Overload"
   },
   "/lotus/language/items/shieldregenabilityaugmentpvp1desc": {
-    "value": "Shield Polarize Augment - Increases the time for the target's shields to regenerate by |SHIELD_DELAY| seconds."
+    "value": "Polarize Augment - Increases the time for the target's shields to regenerate by |SHIELD_DELAY| seconds."
   },
   "/lotus/language/items/shieldregenabilityboost": {
     "value": "Boosting this ability increases its range and improves the amount of shield restored or drained."
   },
   "/lotus/language/items/shieldregenabilitydesc": {
-    "value": "Restores or depletes and explodes the shields of surrounding targets, depending if they are friend or foe."
+    "value": "Emit an energy pulse that depletes enemy shields and armor, creating shards which become deadly when mixed with Magnetize. Shields of allies touched by the pulse are restored."
   },
   "/lotus/language/items/shieldregenondamagename": {
     "value": "ARCANE AEGIS"
@@ -30174,7 +30183,7 @@
     "value": "Soul Survivor"
   },
   "/lotus/language/items/soulpunchabilityaugmentpvpdesc": {
-    "value": "Soul Punch Augment - depletes up to |ENERGY| energy from the target, "
+    "value": "Soul Punch Augment - depletes up to |ENERGY| energy from the target."
   },
   "/lotus/language/items/soulpunchabilityaugmentpvpname": {
     "value": "Discharge Strike"
@@ -30252,7 +30261,7 @@
     "value": "Boosting this ability increases its duration."
   },
   "/lotus/language/items/speedabilitydesc": {
-    "value": "Volt energizes his body and nearby Warframes, giving them increased speed and dexterity for a short time."
+    "value": "Gain a brief boost of movement speed and place a Hasten Coil which does the same for allies."
   },
   "/lotus/language/items/speeddebuffkeydesc": {
     "value": "Speed is greatly reduced while key is equipped."
@@ -30878,6 +30887,15 @@
   "/lotus/language/items/tennoclawsname": {
     "value": "VENKA"
   },
+  "/lotus/language/items/tennocon2016badgename": {
+    "value": "TENNOCON BADGE"
+  },
+  "/lotus/language/items/tennoconscarfdesc": {
+    "value": "Bestowed upon those who joined together in celebration at TennoCon."
+  },
+  "/lotus/language/items/tennoconscarfname": {
+    "value": "TENNOCON SYANDANA"
+  },
   "/lotus/language/items/tennodoublebarrelshotgundesc": {
     "value": "The double-barreled Tigris shotgun fires two bursts in rapid succession, easily taking down the toughest prey."
   },
@@ -30900,7 +30918,7 @@
     "value": "A collection of profile icons made by fellow Tenno, from the Warframe community."
   },
   "/lotus/language/items/tennogenavatarpackname": {
-    "value": "<UGC> TENNOGEN PROFILE ICON PACK"
+    "value": "TENNOGEN PROFILE ICON PACK"
   },
   "/lotus/language/items/tennogreatsworddesc": {
     "value": "With massive charged power and the ability to hit up to five foes in a single swing, the Galatine sword is the heavy artillery of melee weapons."
@@ -31712,6 +31730,9 @@
   "/lotus/language/items/vaubanalthelmet2name": {
     "value": "VAUBAN GAMBIT HELMET"
   },
+  "/lotus/language/items/vaubanpassiveability": {
+    "value": "Reinforce"
+  },
   "/lotus/language/items/vaubansoldierhelmetname": {
     "value": "VAUBAN ARMISTICE HELMET"
   },
@@ -32184,7 +32205,7 @@
     "value": "Thief's Wit"
   },
   "/lotus/language/items/warframemodlootradardesc": {
-    "value": "Highlights mods through the environment as well as the minimap"
+    "value": "Highlights mods through the environment as well as the minimap."
   },
   "/lotus/language/items/warframemodmissionresistice": {
     "value": "Warm Coat"
@@ -32421,7 +32442,7 @@
     "value": "Sticky Projectiles"
   },
   "/lotus/language/items/weaponpoisonabilityaugmentdesc": {
-    "value": "Toxic Lash Augment - Melee kills create |RADIUS|m toxic clouds, dealing |DAMAGE|<DT_POISON>/s for |DURATION|s."
+    "value": "Toxic Lash Augment - Melee kills create |RADIUS|m toxic clouds, dealing |DAMAGE| <DT_POISON>Toxin/s for |DURATION|s."
   },
   "/lotus/language/items/weaponpoisonabilityaugmentname": {
     "value": "Contagion Cloud"
@@ -32433,7 +32454,7 @@
     "value": "Toxic Lash"
   },
   "/lotus/language/items/weaponskinscontestbundlename": {
-    "value": "<UGC> TENNOGEN WEAPON SKIN BUNDLE"
+    "value": "TENNOGEN WEAPON SKIN BUNDLE"
   },
   "/lotus/language/items/welloflifeability": {
     "value": "Well Of Life"
@@ -36094,6 +36115,9 @@
   },
   "/lotus/language/menu/chat_helpmotd": {
     "value": "/motd <message>' - Set your clan message of the day. Requires Ruler permissions."
+  },
+  "/lotus/language/menu/chat_helpprofile": {
+    "value": "/profile <user>' - View <user>'s profile"
   },
   "/lotus/language/menu/chat_helpprompt": {
     "value": "Type /? to view available chat commands."
@@ -43523,8 +43547,14 @@
   "/lotus/language/menu/pvpteam1": {
     "value": "SUN"
   },
+  "/lotus/language/menu/pvpteam1_abbreviation": {
+    "value": "SN"
+  },
   "/lotus/language/menu/pvpteam2": {
     "value": "MOON"
+  },
+  "/lotus/language/menu/pvpteam2_abbreviation": {
+    "value": "MN"
   },
   "/lotus/language/menu/pvpteamffa": {
     "value": "PLAYER"
@@ -45068,6 +45098,9 @@
   "/lotus/language/menu/store_saleends": {
     "value": "DARVO'S DEAL ENDS |value|"
   },
+  "/lotus/language/menu/store_saleexpires": {
+    "value": "SALE ENDS IN:"
+  },
   "/lotus/language/menu/store_searchresults": {
     "value": "SEARCH RESULTS"
   },
@@ -46188,7 +46221,7 @@
     "value": "On Kill, |val|% Reload speed for 3 seconds"
   },
   "/lotus/language/mods/fasterreloadonkillsnipermod": {
-    "value": "Rapid Consequence"
+    "value": "Emergent Aftermath"
   },
   "/lotus/language/mods/fasterrofonkillgorgonmod": {
     "value": "Gorgon Frenzy"
@@ -46816,6 +46849,9 @@
   },
   "/lotus/language/ngen/ngenkamaname": {
     "value": "KAMA JADE SKIN"
+  },
+  "/lotus/language/ngen/ngenkamasname": {
+    "value": "DUAL KAMAS JADE SKIN"
   },
   "/lotus/language/ngen/ngenlatrondesc": {
     "value": "This is a next-generation skin for the Latron."
@@ -49097,6 +49133,42 @@
   "/lotus/language/shipdecorations/hulagirlname": {
     "value": "STATUETTE - DANCING DOLL"
   },
+  "/lotus/language/shipdecorations/ornamentarbitershexisdesc": {
+    "value": "A small icon of the Arbiters Hexis to place in your Orbiter."
+  },
+  "/lotus/language/shipdecorations/ornamentarbitershexisname": {
+    "value": "MEDALLION SCULPTURE"
+  },
+  "/lotus/language/shipdecorations/ornamentcephalonsudadesc": {
+    "value": "A small icon of the Cephalon Suda to place in your Orbiter."
+  },
+  "/lotus/language/shipdecorations/ornamentcephalonsudaname": {
+    "value": "DATUM SCULPTURE"
+  },
+  "/lotus/language/shipdecorations/ornamentnewlokadesc": {
+    "value": "A small icon of the New Loka to place in your Orbiter."
+  },
+  "/lotus/language/shipdecorations/ornamentnewlokaname": {
+    "value": "SEED SCULPTURE"
+  },
+  "/lotus/language/shipdecorations/ornamentperrinsequencedesc": {
+    "value": "A small icon of the Perrin Sequence to place in your Orbiter."
+  },
+  "/lotus/language/shipdecorations/ornamentperrinsequencename": {
+    "value": "QUITTANCE SCULPTURE"
+  },
+  "/lotus/language/shipdecorations/ornamentredveildesc": {
+    "value": "A small icon of the Red Veil to place in your Orbiter."
+  },
+  "/lotus/language/shipdecorations/ornamentredveilname": {
+    "value": "MARK SCULPTURE"
+  },
+  "/lotus/language/shipdecorations/ornamentsteelmeridiandesc": {
+    "value": "A small icon of the Steel Meridian to place in your Orbiter."
+  },
+  "/lotus/language/shipdecorations/ornamentsteelmeridianname": {
+    "value": "INSIGNIA SCULPTURE"
+  },
   "/lotus/language/sigils/alliancesigilbasicdesc": {
     "value": "This sigil is worn by the members united within an Alliance."
   },
@@ -49482,7 +49554,7 @@
     "value": "A sigil representing prestige gained with the Arbiters of Hexis."
   },
   "/lotus/language/sigils/syndicatesigilarbitersofhexisgname": {
-    "value": "GROWTH SIGIL"
+    "value": "GRASP SIGIL"
   },
   "/lotus/language/sigils/syndicatesigilarbitersofhexishdesc": {
     "value": "A sigil representing prestige gained with the Arbiters of Hexis."
@@ -49608,7 +49680,7 @@
     "value": "A sigil representing prestige gained with the Conclave."
   },
   "/lotus/language/sigils/syndicatesigilconclavefname": {
-    "value": "VIGILANCE SIGIL"
+    "value": "DILIGENCE SIGIL"
   },
   "/lotus/language/sigils/syndicatesigilconclavegdesc": {
     "value": "A sigil representing prestige gained with the Conclave."
@@ -49939,6 +50011,9 @@
   },
   "/lotus/language/sigils/syndicatesigilsteelmeridiankname": {
     "value": "CHAMPION SIGIL"
+  },
+  "/lotus/language/sigils/tennocon2016sigilname": {
+    "value": "TENNOCON SIGIL"
   },
   "/lotus/language/sigils/tennolive2015sigildesc": {
     "value": "Awarded to players who attended the Tenno Live 2015."
@@ -50719,9 +50794,6 @@
   },
   "/lotus/language/steamworkshop/novavisageskinname": {
     "value": "NOVA VISAGE SKIN"
-  },
-  "/lotus/language/steamworkshop/setkasyandanadesc": {
-    "value": "A syandana for your Warframe, designed by Hitsu San"
   },
   "/lotus/language/steamworkshop/setkasyandananame": {
     "value": "SETKA SYANDANA"
@@ -54310,6 +54382,42 @@
   },
   "/lotus/language/subtitles/daftermodbench410ordis": {
     "value": "I understand if you have to sell Mods. Maybe Ordis will meet a similar fate someday."
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0090elderqueen": {
+    "value": "Ahh! How?!"
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0100elderqueen": {
+    "value": "Stupid child! Release me!"
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0110elderqueen": {
+    "value": "Sister, get this off of me!"
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0120elderqueen": {
+    "value": "Impossible! Impossible!"
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0130elderqueen": {
+    "value": "I can't!"
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0140wormqueen": {
+    "value": "Sister! What's wrong?"
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0150wormqueen": {
+    "value": "I'm trying! I'm trying!"
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0160wormqueen": {
+    "value": "Fight it, sister! Fight it!"
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0170teshin": {
+    "value": "I am free? I AM FREE!"
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0180elderqueen": {
+    "value": "You... you swore an oath-eternal! We are your Golden Lords!"
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0190teshin": {
+    "value": "Not anymore."
+  },
+  "/lotus/language/subtitles/dafterqueensbattle0191teshin": {
+    "value": "You've been replaced."
   },
   "/lotus/language/subtitles/daladscargobeforeextract150aladv": {
     "value": "I must say, I will miss this ship but there are more where it came from and I can assure you, you won't find them all."
@@ -61235,6 +61343,60 @@
   "/lotus/language/subtitles/dmods250ordis": {
     "value": "Ordis is surprised the Operator is neglecting potential upgrades at the Mod bench."
   },
+  "/lotus/language/subtitles/dmountainpeak0010teshin": {
+    "value": "I remember my old life. All too well. As soldier. As teacher. I trained the best of the best Dax. They were young, like you, sisters and brothers who swore an oath-eternal to our Golden Lords. When the enemy broke through the Outer Sphere… I… I cut their training short and lead them myself to Arcs of Neptune… straight into the mouths of a hundred Sentient Worm-ships, lying in ambush."
+  },
+  "/lotus/language/subtitles/dmountainpeak0020teshin": {
+    "value": "I have walked this path long enough, Tenno. Kept alive by the Golden Lords, the Red Queens… by my oath-eternal that compels me to betray you. You, Tenno, young but without an oath to defy your better nature. I am ready."
+  },
+  "/lotus/language/subtitles/dmountainpeak0030teshin": {
+    "value": "I am ready to die."
+  },
+  "/lotus/language/subtitles/dmountainpeak0040operatorvoicea": {
+    "value": "It won't change what's happening… To the others, to my sisters and brothers. Your death won't stop the Queens. I will have to."
+  },
+  "/lotus/language/subtitles/dmountainpeak0040operatorvoiceb": {
+    "value": "It won't change what's happening… To the others, to my sisters and brothers. Your death won't stop the Queens. I will have to."
+  },
+  "/lotus/language/subtitles/dmountainpeak0040operatorvoicec": {
+    "value": "It won't change what's happening… To the others, to my sisters and brothers. Your death won't stop the Queens. I will have to."
+  },
+  "/lotus/language/subtitles/dmountainpeak0040operatorvoiced": {
+    "value": "It won't change what's happening… To the others, to my sisters and brothers. Your death won't stop the Queens. I will have to."
+  },
+  "/lotus/language/subtitles/dmountainpeak0050teshin": {
+    "value": "If you do this I cannot help you."
+  },
+  "/lotus/language/subtitles/dmountainpeak0060operatorvoicea": {
+    "value": "You already did."
+  },
+  "/lotus/language/subtitles/dmountainpeak0060operatorvoiceb": {
+    "value": "You already did."
+  },
+  "/lotus/language/subtitles/dmountainpeak0060operatorvoicec": {
+    "value": "You already did."
+  },
+  "/lotus/language/subtitles/dmountainpeak0060operatorvoiced": {
+    "value": "You already did."
+  },
+  "/lotus/language/subtitles/dmountainpeak0070teshin": {
+    "value": "But you will face them alone."
+  },
+  "/lotus/language/subtitles/dmountainpeak0080teshin": {
+    "value": "If you face them, I cannot help you. You will be alone."
+  },
+  "/lotus/language/subtitles/dmountainpeak0090operatorvoicea": {
+    "value": "No. Not alone."
+  },
+  "/lotus/language/subtitles/dmountainpeak0090operatorvoiceb": {
+    "value": "No. Not alone."
+  },
+  "/lotus/language/subtitles/dmountainpeak0090operatorvoicec": {
+    "value": "No. Not alone."
+  },
+  "/lotus/language/subtitles/dmountainpeak0090operatorvoiced": {
+    "value": "No. Not alone."
+  },
   "/lotus/language/subtitles/dmsnone0001lotus": {
     "value": "Vay Hek's Fomorian assault on our Relays was devastating but he failed to break us. Now we take the fight back to him. Now we exact justice. "
   },
@@ -61651,6 +61813,180 @@
   },
   "/lotus/language/subtitles/dopenrepstore0980newloka": {
     "value": "Use these to cleanse the unclean."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0008ordis": {
+    "value": "I don't know... some old code, I can't stop it!"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0009ordis": {
+    "value": "Operator... unplug!"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0010ordis": {
+    "value": "Operator?! (beat) Operator!? Operator... can you hear me? Wake up... wake up! Don't leave me… alone again."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0020ordis": {
+    "value": "Great job, Ordis. Ship Cephalon? More like Ship Fail-bot. When the Operator needed you most you --"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0030ordis": {
+    "value": "-- you glitch out like a psycho and start spouting Old War cliches. You're a monster! You don't deserve the Operator at all..."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0040operatorvoicea": {
+    "value": "Uh… Okay Ordis, enough."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0040operatorvoiceb": {
+    "value": "Uh… Okay Ordis, enough."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0040operatorvoicec": {
+    "value": "Uh… Okay Ordis, enough."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0040operatorvoiced": {
+    "value": "Uh… Okay Ordis, enough."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0050ordis": {
+    "value": "Operator?! Oh by stars. I am so sorry. I do not know what happened. Please, command me to self-destruct. Let me start it for you... commencing self-destruct in 5--4--3--"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0060operatorvoicea": {
+    "value": "--Stop… just… uh… just get the Transference system powered again. I have to go back."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0060operatorvoiceb": {
+    "value": "--Stop… just… uh… just get the Transference system powered again. I have to go back."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0060operatorvoicec": {
+    "value": "--Stop… just… uh… just get the Transference system powered again. I have to go back."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0060operatorvoiced": {
+    "value": "--Stop… just… uh… just get the Transference system powered again. I have to go back."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0070ordis": {
+    "value": "Sorry. I've been trying. You might need to do your thing again. Re-energize with your… uh… Tenno stuff."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0080operatorvoicea": {
+    "value": "I... I can't. It's... it's gone…"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0080operatorvoiceb": {
+    "value": "I... I can't. It's... it's gone…"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0080operatorvoicec": {
+    "value": "I... I can't. It's... it's gone…"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0080operatorvoiced": {
+    "value": "I... I can't. It's... it's gone…"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0090ordis": {
+    "value": "No. It cannot be. How will you command Warframes without it?"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0100operatorvoicea": {
+    "value": "I don't know. Lotus, where are you?"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0100operatorvoiceb": {
+    "value": "I don't know. Lotus, where are you?"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0100operatorvoicec": {
+    "value": "I don't know. Lotus, where are you?"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0100operatorvoiced": {
+    "value": "I don't know. Lotus, where are you?"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0110ordis": {
+    "value": "If Transference is your link to the Warframes, could it also be your link to the Lotus?"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0120ordis": {
+    "value": "Maybe you should rest Operator. I'm sure Transference will return. Whenever I'm feeling not myself, I just reset and then… RIP AND TEAR... good as new!"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0121ordis": {
+    "value": "Sorry, I've been trying.  You might need to do your Transference... thing again... re-energize with your... Tenno stuff!"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0130ordis": {
+    "value": "An Old War signal, on a private frequency. Not worth your time, obviously it's a trap."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0140operatorvoicea": {
+    "value": "Set a course."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0140operatorvoiceb": {
+    "value": "Set a course."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0140operatorvoicec": {
+    "value": "Set a course."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0140operatorvoiced": {
+    "value": "Set a course."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0150ordis": {
+    "value": "Oh! Good one, Operator! Thankfully my Precepts prevent the Operator from departing the ship, in case I didn't get the joke! Only Warframes may --"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0160operatorvoicea": {
+    "value": "-- I've lost my Warframes, Ordis. I'm cut off. There is no next mission to fix this. I'm the Operator. Set the damn course."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0160operatorvoiceb": {
+    "value": "-- I've lost my Warframes, Ordis. I'm cut off. There is no next mission to fix this. I'm the Operator. Set the damn course."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0160operatorvoicec": {
+    "value": "-- I've lost my Warframes, Ordis. I'm cut off. There is no next mission to fix this. I'm the Operator. Set the damn course."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0160operatorvoiced": {
+    "value": "-- I've lost my Warframes, Ordis. I'm cut off. There is no next mission to fix this. I'm the Operator. Set the damn course."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0171operatorvoicea": {
+    "value": "You infested piece of... (oof)"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0171operatorvoiceb": {
+    "value": "You infested piece of... (oof)"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0171operatorvoicec": {
+    "value": "You infested piece of... (oof)"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0171operatorvoiced": {
+    "value": "You infested piece of... (oof)"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0179teshin": {
+    "value": "They gave up."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0180teshin": {
+    "value": "Yes. Do it."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0190teshin": {
+    "value": "A new sensation for you? We call it 'pain' --"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0200operatorvoicea": {
+    "value": "-- Shut up! I'm not interested in your stupid proverbs."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0200operatorvoiceb": {
+    "value": "-- Shut up! I'm not interested in your stupid proverbs."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0200operatorvoicec": {
+    "value": "-- Shut up! I'm not interested in your stupid proverbs."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0200operatorvoiced": {
+    "value": "-- Shut up! I'm not interested in your stupid proverbs."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0210teshin": {
+    "value": "No proverb this time. Ultimatum. Grow up… or die. Seeing how the slightest pain affects you - I expect you'll soon be in the ice with your friend over there."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0220operatorvoicea": {
+    "value": "So the great Teshin is just a dog… fetching the Queen's stick wherever she throws it."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0220operatorvoiceb": {
+    "value": "So the great Teshin is just a dog… fetching the Queen's stick wherever she throws it."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0220operatorvoicec": {
+    "value": "So the great Teshin is just a dog… fetching the Queen's stick wherever she throws it."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0220operatorvoiced": {
+    "value": "So the great Teshin is just a dog… fetching the Queen's stick wherever she throws it."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0230teshin": {
+    "value": "...And you're just a dainty Penzai tree, stunted in the tray. Hiding behind mother, behind 'frame. No pain. No risk. No growth. Never a real threat to me… or my Queens."
+  },
+  "/lotus/language/subtitles/dorbiterawaken0240operatorvoicea": {
+    "value": "What the hell's a Penzai tree?"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0240operatorvoiceb": {
+    "value": "What the hell's a Penzai tree?"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0240operatorvoicec": {
+    "value": "What the hell's a Penzai tree?"
+  },
+  "/lotus/language/subtitles/dorbiterawaken0240operatorvoiced": {
+    "value": "What the hell's a Penzai tree?"
   },
   "/lotus/language/subtitles/dorbitercradle00190hunhow": {
     "value": "Natah, what is this? A cradle for your adopted child? My Shadow will destroy it."
@@ -62365,6 +62701,216 @@
   },
   "/lotus/language/subtitles/dpvpcountdown0281teshin": {
     "value": "Five, Four, Three, Two, One"
+  },
+  "/lotus/language/subtitles/dqueensconfontation0010wormqueen": {
+    "value": "Stupid beasts! Careful now, you'll break it!"
+  },
+  "/lotus/language/subtitles/dqueensconfontation0020elderqueen": {
+    "value": "Rise dear child. Come join us."
+  },
+  "/lotus/language/subtitles/dqueensconfontation0030operatorvoicea": {
+    "value": "Why don't you hurry up and die? Save me the trouble."
+  },
+  "/lotus/language/subtitles/dqueensconfontation0030operatorvoiceb": {
+    "value": "Why don't you hurry up and die? Save me the trouble."
+  },
+  "/lotus/language/subtitles/dqueensconfontation0030operatorvoicec": {
+    "value": "Why don't you hurry up and die? Save me the trouble."
+  },
+  "/lotus/language/subtitles/dqueensconfontation0030operatorvoiced": {
+    "value": "Why don't you hurry up and die? Save me the trouble."
+  },
+  "/lotus/language/subtitles/dqueensconfontation0035wormqueen": {
+    "value": " "
+  },
+  "/lotus/language/subtitles/dqueensconfontation0040elderqueen": {
+    "value": "Is that any way to speak to yourself? Soon I will have your delicate porcelain as my own. Teshin, teach this child some manners."
+  },
+  "/lotus/language/subtitles/dqueensconfontation0050elderqueen": {
+    "value": "Don't be afraid, child, the flesh is weak but the spirit --"
+  },
+  "/lotus/language/subtitles/dqueensconfontation0060operatorvoicea": {
+    "value": "-- but the spirit endures… Are you even human anymore?"
+  },
+  "/lotus/language/subtitles/dqueensconfontation0060operatorvoiceb": {
+    "value": "-- but the spirit endures… Are you even human anymore?"
+  },
+  "/lotus/language/subtitles/dqueensconfontation0060operatorvoicec": {
+    "value": "-- but the spirit endures… Are you even human anymore?"
+  },
+  "/lotus/language/subtitles/dqueensconfontation0060operatorvoiced": {
+    "value": "-- but the spirit endures… Are you even human anymore?"
+  },
+  "/lotus/language/subtitles/dqueensconfontation0070elderqueen": {
+    "value": "Are you?"
+  },
+  "/lotus/language/subtitles/dqueensconfontation0071elderqueen": {
+    "value": "Kill them!  Kill them both!"
+  },
+  "/lotus/language/subtitles/dqueensconfontation0080operatorvoicea": {
+    "value": "I guess not."
+  },
+  "/lotus/language/subtitles/dqueensconfontation0080operatorvoiceb": {
+    "value": "I guess not."
+  },
+  "/lotus/language/subtitles/dqueensconfontation0080operatorvoicec": {
+    "value": "I guess not."
+  },
+  "/lotus/language/subtitles/dqueensconfontation0080operatorvoiced": {
+    "value": "I guess not."
+  },
+  "/lotus/language/subtitles/dqueenslair0000operatorvoicea": {
+    "value": "Teshin?"
+  },
+  "/lotus/language/subtitles/dqueenslair0000operatorvoiceb": {
+    "value": "Teshin?"
+  },
+  "/lotus/language/subtitles/dqueenslair0000operatorvoicec": {
+    "value": "Teshin?"
+  },
+  "/lotus/language/subtitles/dqueenslair0000operatorvoiced": {
+    "value": "Teshin?"
+  },
+  "/lotus/language/subtitles/dqueenslair0010wormqueen": {
+    "value": "Have you forgotten yourself, Dax? Kneel before my sister."
+  },
+  "/lotus/language/subtitles/dqueenslair0020teshin": {
+    "value": "I have done as you command. You have what you need."
+  },
+  "/lotus/language/subtitles/dqueenslair00230operatorvoicea": {
+    "value": "Aaaarrrg!"
+  },
+  "/lotus/language/subtitles/dqueenslair00230operatorvoiceb": {
+    "value": "Aaaarrrg!"
+  },
+  "/lotus/language/subtitles/dqueenslair00230operatorvoicec": {
+    "value": "Aaaarrrg!"
+  },
+  "/lotus/language/subtitles/dqueenslair00230operatorvoiced": {
+    "value": "Aaaarrrg!"
+  },
+  "/lotus/language/subtitles/dqueenslair0030elderqueen": {
+    "value": "I've been rotting away in this greasy den of beasts like a peasant! Don't tell me what I need. The Tenno are stirring… unearthed like delicate porcelain from our time long lost."
+  },
+  "/lotus/language/subtitles/dqueenslair0040wormqueen": {
+    "value": "She's feeling nostalgic, Dax."
+  },
+  "/lotus/language/subtitles/dqueenslair0050elderqueen": {
+    "value": "You must bring me one. Not a dreamer. One Awake. Bring me my Yuvan!"
+  },
+  "/lotus/language/subtitles/dqueenslair0060teshin": {
+    "value": "Impossible."
+  },
+  "/lotus/language/subtitles/dqueenslair0070elderqueen": {
+    "value": "Teshin Dax. You forget how rash children can be!"
+  },
+  "/lotus/language/subtitles/dqueenslair0080elderqueen": {
+    "value": "Come out child. There's no need to hide from us. You're safe in your cradle, are you not?"
+  },
+  "/lotus/language/subtitles/dqueenslair0090teshin": {
+    "value": "Pupil, you should not be here."
+  },
+  "/lotus/language/subtitles/dqueenslair0100operatorvoicea": {
+    "value": "'Teshin Dax'?"
+  },
+  "/lotus/language/subtitles/dqueenslair0100operatorvoiceb": {
+    "value": "'Teshin Dax'?"
+  },
+  "/lotus/language/subtitles/dqueenslair0100operatorvoicec": {
+    "value": "'Teshin Dax'?"
+  },
+  "/lotus/language/subtitles/dqueenslair0100operatorvoiced": {
+    "value": "'Teshin Dax'?"
+  },
+  "/lotus/language/subtitles/dqueenslair0110operatorvoicea": {
+    "value": "'Teshin Dax'? You're… with them?"
+  },
+  "/lotus/language/subtitles/dqueenslair0110operatorvoiceb": {
+    "value": "'Teshin Dax'? You're… with them?"
+  },
+  "/lotus/language/subtitles/dqueenslair0110operatorvoicec": {
+    "value": "'Teshin Dax'? You're… with them?"
+  },
+  "/lotus/language/subtitles/dqueenslair0110operatorvoiced": {
+    "value": "'Teshin Dax'? You're… with them?"
+  },
+  "/lotus/language/subtitles/dqueenslair0120wormqueen": {
+    "value": "I'm afraid, sister!"
+  },
+  "/lotus/language/subtitles/dqueenslair0130elderqueen": {
+    "value": "Hush worm, let the beasts do their work… Bring me that Infested puppet!"
+  },
+  "/lotus/language/subtitles/dqueenslair0140operatorvoicea": {
+    "value": "What was that?"
+  },
+  "/lotus/language/subtitles/dqueenslair0140operatorvoiceb": {
+    "value": "What was that?"
+  },
+  "/lotus/language/subtitles/dqueenslair0140operatorvoicec": {
+    "value": "What was that?"
+  },
+  "/lotus/language/subtitles/dqueenslair0140operatorvoiced": {
+    "value": "What was that?"
+  },
+  "/lotus/language/subtitles/dqueenslair0150ordis": {
+    "value": "Operator, something in my… Disrupt - Disarm - Ex-ter-min-ate... What am I saying? Operator! Advise you cut Transference immediately --"
+  },
+  "/lotus/language/subtitles/dqueenslair0160operatorvoicea": {
+    "value": "-- And leave my Warframe behind? Forget it!"
+  },
+  "/lotus/language/subtitles/dqueenslair0160operatorvoiceb": {
+    "value": "-- And leave my Warframe behind? Forget it!"
+  },
+  "/lotus/language/subtitles/dqueenslair0160operatorvoicec": {
+    "value": "-- And leave my Warframe behind? Forget it!"
+  },
+  "/lotus/language/subtitles/dqueenslair0160operatorvoiced": {
+    "value": "-- And leave my Warframe behind? Forget it!"
+  },
+  "/lotus/language/subtitles/dqueenslair0170operatorvoicea": {
+    "value": "TESHIN --"
+  },
+  "/lotus/language/subtitles/dqueenslair0170operatorvoiceb": {
+    "value": "TESHIN --"
+  },
+  "/lotus/language/subtitles/dqueenslair0170operatorvoicec": {
+    "value": "TESHIN --"
+  },
+  "/lotus/language/subtitles/dqueenslair0170operatorvoiced": {
+    "value": "TESHIN --"
+  },
+  "/lotus/language/subtitles/dqueenslair0180operatorvoicea": {
+    "value": "-- HELP ME!"
+  },
+  "/lotus/language/subtitles/dqueenslair0180operatorvoiceb": {
+    "value": "-- HELP ME!"
+  },
+  "/lotus/language/subtitles/dqueenslair0180operatorvoicec": {
+    "value": "-- HELP ME!"
+  },
+  "/lotus/language/subtitles/dqueenslair0180operatorvoiced": {
+    "value": "-- HELP ME!"
+  },
+  "/lotus/language/subtitles/dqueenslair0190ordis": {
+    "value": "Operator- by Orokin decree, you- what are you waiting for? Cut the signal!"
+  },
+  "/lotus/language/subtitles/dqueenslair0200operatorvoicea": {
+    "value": "I'm trying! I-I can't!"
+  },
+  "/lotus/language/subtitles/dqueenslair0200operatorvoiceb": {
+    "value": "I'm trying! I-I can't!"
+  },
+  "/lotus/language/subtitles/dqueenslair0200operatorvoicec": {
+    "value": "I'm trying! I-I can't!"
+  },
+  "/lotus/language/subtitles/dqueenslair0200operatorvoiced": {
+    "value": "I'm trying! I-I can't!"
+  },
+  "/lotus/language/subtitles/dqueenslair0210elderqueen": {
+    "value": "Hiding behind this curtain, you thought you were safe. A god from the machine."
+  },
+  "/lotus/language/subtitles/dqueenslair0220elderqueen": {
+    "value": "But you are no god to us, child. You know why? Because… We. Made. You."
   },
   "/lotus/language/subtitles/dquestiona00030lotus": {
     "value": "I know. Forgive me. This is who you really are. A Tenno. More than human… but once a child like any other. What do you remember?"
@@ -66116,6 +66662,51 @@
   "/lotus/language/subtitles/dualmissionobjectivesabotagea": {
     "value": "It appears we now need to sabotage this location. Destroy the Reactor Core."
   },
+  "/lotus/language/subtitles/dumbraflashback0010ballas": {
+    "value": "What would you do… to save them?"
+  },
+  "/lotus/language/subtitles/dumbraflashback0020mysterydax": {
+    "value": "Anything."
+  },
+  "/lotus/language/subtitles/dumbraflashback0030ballas": {
+    "value": "All miracles require sacrifice."
+  },
+  "/lotus/language/subtitles/dumbraflashback0040mysterydax": {
+    "value": "GET - - - OUT - - -!"
+  },
+  "/lotus/language/subtitles/dumbraflashback0050teshin": {
+    "value": "Pupil! We have to go! NOW!"
+  },
+  "/lotus/language/subtitles/dumbraflashback0060operatorvoicea": {
+    "value": "Teshin, what was that? What is Umbra?"
+  },
+  "/lotus/language/subtitles/dumbraflashback0060operatorvoiceb": {
+    "value": "Teshin, what was that? What is Umbra?"
+  },
+  "/lotus/language/subtitles/dumbraflashback0060operatorvoicec": {
+    "value": "Teshin, what was that? What is Umbra?"
+  },
+  "/lotus/language/subtitles/dumbraflashback0060operatorvoiced": {
+    "value": "Teshin, what was that? What is Umbra?"
+  },
+  "/lotus/language/subtitles/dumbraflashback0070teshin": {
+    "value": "A fury untamed by Tenno control. A rogue Warframe."
+  },
+  "/lotus/language/subtitles/dumbraflashback0080operatorvoicea": {
+    "value": "How is that possible?"
+  },
+  "/lotus/language/subtitles/dumbraflashback0080operatorvoiceb": {
+    "value": "How is that possible?"
+  },
+  "/lotus/language/subtitles/dumbraflashback0080operatorvoicec": {
+    "value": "How is that possible?"
+  },
+  "/lotus/language/subtitles/dumbraflashback0080operatorvoiced": {
+    "value": "How is that possible?"
+  },
+  "/lotus/language/subtitles/dumbraflashback0090teshin": {
+    "value": "It is beyond me. Focus on the now. We must escape. Your life depends on it!"
+  },
   "/lotus/language/subtitles/dvampire290vayhek": {
     "value": "Thank you for your service, Brother."
   },
@@ -67053,7 +67644,7 @@
     "value": "Show me that you know of the old ways. Eliminate all targets using your melee weapon."
   },
   "/lotus/language/subtitles/lotusdojo5introa": {
-    "value": "You have proven your skills with weapons, Tenno but what of your endurance? Can you survive this onslaught?"
+    "value": "You have proven your skills with weapons, Tenno, but what of your endurance? Can you survive this onslaught?"
   },
   "/lotus/language/subtitles/lotusdojo6introa": {
     "value": "Tenno are more than just fighters. Prove your intellect by hacking these terminals."
@@ -67701,40 +68292,40 @@
     "value": "I await your return when you have learned more. Farewell."
   },
   "/lotus/language/suits/passiveabilityash": {
-    "value": "Ash enhances the duration and damage from Bleed effects."
+    "value": "Bleed effects inflicted on enemies do more damage and last longer."
   },
   "/lotus/language/suits/passiveabilityashprime": {
-    "value": "Ash Prime enhances the duration and damage from Bleed effects."
+    "value": "Bleed effects inflicted on enemies do more damage and last longer."
   },
   "/lotus/language/suits/passiveabilityatlas": {
-    "value": "While traversing along the ground, Atlas becomes immune to Knockdown effects."
+    "value": "Becomes immune to Knockdown effects while on the ground."
   },
   "/lotus/language/suits/passiveabilityatlasprime": {
-    "value": "While traversing along the ground, Atlas Prime becomes immune to Knockdown effects."
+    "value": "Becomes immune to Knockdown effects while on the ground."
   },
   "/lotus/language/suits/passiveabilitybanshee": {
-    "value": "Banshee dampens the sound of weapons she uses, rendering them silent."
+    "value": "Weapon noises are hushed so that enemies cannot hear them."
   },
   "/lotus/language/suits/passiveabilitybansheeprime": {
-    "value": "Banshee Prime dampens the sound of weapons she uses, rendering them silent."
+    "value": "Weapon noises are hushed so that enemies cannot hear them."
   },
   "/lotus/language/suits/passiveabilitychroma": {
-    "value": "Chroma can attune his abilities to different elements, based on the Energy color he uses."
+    "value": "Chosen Energy color dictates the type of Elemental damage dealt by abilities."
   },
   "/lotus/language/suits/passiveabilitychromaprime": {
-    "value": "Chroma Prime can attune his abilities to different elements, based on the Energy color he uses."
+    "value": "Chosen Energy color dictates the type of Elemental damage dealt by abilities."
   },
   "/lotus/language/suits/passiveabilityember": {
-    "value": "When Ember ignites an enemy, she gains increased Damage on her abilities and regenerates her Energy."
+    "value": "Regenerates Energy and deals more damage while on Fire. "
   },
   "/lotus/language/suits/passiveabilityemberprime": {
-    "value": "When Ember Prime ignites an enemy, she gains increased Damage on her abilities and regenerates her Energy."
+    "value": "Regenerates Energy and deals more damage while on Fire. "
   },
   "/lotus/language/suits/passiveabilityequinox": {
-    "value": "Equinox recovers a small amount of Energy from Health Orbs, and a small amount of Health from Energy Orbs."
+    "value": "Health Orbs generate a little Energy, while Energy Orbs restore a bit of Health."
   },
   "/lotus/language/suits/passiveabilityequinoxprime": {
-    "value": "Equinox Prime recovers a small amount of Energy from Health Orbs, and a small amount of Health from Energy Orbs."
+    "value": "Health Orbs generate a little Energy, while Energy Orbs restore a bit of Health."
   },
   "/lotus/language/suits/passiveabilityexcalibur": {
     "value": "Excalibur deals increased damage and attacks faster when wielding swords."
@@ -67743,118 +68334,136 @@
     "value": "Excalibur Prime deals increased damage and attacks faster when wielding swords."
   },
   "/lotus/language/suits/passiveabilityfrost": {
-    "value": "Melee attacks made against Frost have a chance to freeze the attacker."
+    "value": "Striking Frost with a melee attack may freeze the attacker."
   },
   "/lotus/language/suits/passiveabilityfrostprime": {
-    "value": "Melee attacks made against Frost Prime have a chance to freeze the attacker."
+    "value": "Striking Frost with a melee attack may freeze the attacker."
   },
   "/lotus/language/suits/passiveabilityhydroid": {
-    "value": "Regenerates health when standing in a water source."
+    "value": "Slam Attacks have a chance to summon a tentacle."
   },
   "/lotus/language/suits/passiveabilityhydroidprime": {
-    "value": "Regenerates health when standing in a water source."
+    "value": "Slam Attacks have a chance to summon a tentacle."
   },
   "/lotus/language/suits/passiveabilityinaros": {
-    "value": "Inaros withdraws into a Sarcophagus to protect him upon taking fatal damage. He can revive himself by draining the life force from nearby enemies and allies before bleeding out."
+    "value": "While bleeding-out, Inaros becomes entombed in a protective Sarcophagus. He can revive himself by draining the life-force from nearby enemies and allies. "
   },
   "/lotus/language/suits/passiveabilityinarosprime": {
-    "value": "Inaros Prime withdraws into a Sarcophagus to protect him upon taking fatal damage. He can revive himself by draining the life force from nearby enemies and allies before bleeding out."
+    "value": "While bleeding-out, Inaros Prime becomes entombed in a protective Sarcophagus. He can revive himself by draining the life-force from nearby enemies and allies. "
   },
   "/lotus/language/suits/passiveabilityivara": {
-    "value": "Ivara can sense nearby enemies."
+    "value": "Senses nearby enemies."
   },
   "/lotus/language/suits/passiveabilityivaraprime": {
-    "value": "Ivara Prime can sense nearby enemies."
+    "value": "Senses nearby enemies."
+  },
+  "/lotus/language/suits/passiveabilitylimbo": {
+    "value": "Increased movement, reload and holster speed while inside the Rift."
+  },
+  "/lotus/language/suits/passiveabilitylimboprime": {
+    "value": "Increased movement, reload and holster speed while inside the Rift."
+  },
+  "/lotus/language/suits/passiveabilityloki": {
+    "value": "Wall hangs indefinitely."
+  },
+  "/lotus/language/suits/passiveabilitylokiprime": {
+    "value": "Wall hangs indefinitely."
   },
   "/lotus/language/suits/passiveabilitymag": {
-    "value": "Mag is unaffected by gravity while bullet jumping."
+    "value": "Bullet jumping pulls-in nearby items for easy collection."
   },
   "/lotus/language/suits/passiveabilitymagprime": {
-    "value": "Mag Prime is unaffected by gravity while bullet jumping."
+    "value": "Bullet jumping pulls-in nearby items for easy collection."
   },
   "/lotus/language/suits/passiveabilitymesa": {
-    "value": "Mesa has enhanced proficiency while using secondary weapons, and can gain additional health when not equipping a melee weapon."
+    "value": "Shoot dual-wielded sidearms faster and reload single-handed sidearms more rapidly. Gain bonus health when not using melee weapons."
   },
   "/lotus/language/suits/passiveabilitymesaprime": {
-    "value": "Mesa Prime has enhanced proficiency while using secondary weapons, and can gain additional health when not equipping a melee weapon."
+    "value": "Shoot dual-wielded sidearms faster and reload single-handed sidearms more rapidly. Gain bonus health when not using melee weapons."
   },
   "/lotus/language/suits/passiveabilitymirage": {
-    "value": "Mirage has enhanced proficiency with aerial and acrobatic maneuvres."
+    "value": "Faster bullet-jump and acrobatic maneuvers."
   },
   "/lotus/language/suits/passiveabilitymirageprime": {
-    "value": "Mirage Prime has enhanced proficiency with aerial and acrobatic maneuvres."
+    "value": "Faster bullet-jump and acrobatic maneuvers."
   },
   "/lotus/language/suits/passiveabilitynekros": {
-    "value": "When an enemy dies near Nekros, he draws in their life force regaining a small amount of health."
+    "value": "Restore a small amount of health with every nearby enemy death."
   },
   "/lotus/language/suits/passiveabilitynekrosprime": {
-    "value": "When an enemy dies near Nekros Prime, he draws in their life force regaining a small amount of health."
+    "value": "Restore a small amount of health with every nearby enemy death."
   },
   "/lotus/language/suits/passiveabilitynezha": {
-    "value": "Nezha is capable of sliding great distances."
+    "value": "Slide faster and go further."
   },
   "/lotus/language/suits/passiveabilitynezhaprime": {
-    "value": "Nezha Prime is capable of sliding great distances."
+    "value": "Slide faster and go further."
   },
   "/lotus/language/suits/passiveabilitynova": {
-    "value": "Nova releases a burst of anti-matter, knocking down nearby enemies when she herself is knocked down."
+    "value": "When knocked-over, emit a defensive burst that topples attacking enemies."
   },
   "/lotus/language/suits/passiveabilitynovaprime": {
-    "value": "Nova Prime releases a burst of anti-matter, knocking down nearby enemies when she herself is knocked down."
+    "value": "When knocked-over, emit a defensive burst that topples attacking enemies."
   },
   "/lotus/language/suits/passiveabilitynyx": {
-    "value": "Enemies affected by Nyx's abilities have a chance to discard their weapon."
+    "value": "Enemies affected by Nyx’s abilities may suddenly choose to lay down their arms."
   },
   "/lotus/language/suits/passiveabilitynyxprime": {
-    "value": "Enemies affected by Nyx Prime's abilities have a chance to discard their weapon."
+    "value": "Enemies affected by Nyx Prime’s abilities may suddenly choose to lay down their arms."
+  },
+  "/lotus/language/suits/passiveabilityoberon": {
+    "value": "Nearby wildlife fight along-side Oberon."
+  },
+  "/lotus/language/suits/passiveabilityoberonprime": {
+    "value": "Nearby wildlife fight along-side Oberon Prime."
   },
   "/lotus/language/suits/passiveabilityrhino": {
-    "value": "Rhino emits a shockwave upon landing after falling from a great height."
+    "value": "Emit a shockwave after landing from a great height."
   },
   "/lotus/language/suits/passiveabilityrhinoprime": {
-    "value": "Rhino Prime emits a shockwave upon landing after falling from a great height."
+    "value": "Emit a shockwave after landing from a great height."
   },
   "/lotus/language/suits/passiveabilitysaryn": {
-    "value": "Saryn increases the duration of any Status Effects she applies."
+    "value": "Status Effects inflicted upon enemies last longer."
   },
   "/lotus/language/suits/passiveabilitysarynprime": {
-    "value": "Saryn Prime increases the duration of any Status Effects she applies."
+    "value": "Status Effects inflicted upon enemies last longer."
   },
   "/lotus/language/suits/passiveabilitytrinity": {
-    "value": "Trinity is able to revive fallen allies faster and from a greater distance."
+    "value": "Revive fallen allies faster and from further away."
   },
   "/lotus/language/suits/passiveabilitytrinityprime": {
-    "value": "Trinity Prime is able to revive fallen allies faster and from a greater distance."
+    "value": "Revive fallen allies faster and from further away."
   },
   "/lotus/language/suits/passiveabilityvalkyr": {
-    "value": "Valkyr recovers from Knockdown effects much faster than other Warframes."
+    "value": "Faster recovery from being knockdown."
   },
   "/lotus/language/suits/passiveabilityvalkyrprime": {
-    "value": "Valkyr Prime recovers from Knockdown effects much faster than other Warframes."
+    "value": "Faster recovery from being knockdown."
   },
   "/lotus/language/suits/passiveabilityvauban": {
-    "value": "Vauban's Armor increases with each ally nearby."
+    "value": "Armor increases with each ally nearby."
   },
   "/lotus/language/suits/passiveabilityvaubanprime": {
-    "value": "Vauban Prime's Armor increases with each ally nearby."
+    "value": "Armor increases with each ally nearby."
   },
   "/lotus/language/suits/passiveabilityvolt": {
-    "value": "While traversing along the ground, Volt generates an electrical charge that is discharged on his next melee attack."
+    "value": "Grounded movement generates an electrical charge that is unleashed with the next attack."
   },
   "/lotus/language/suits/passiveabilityvoltprime": {
-    "value": "While traversing along the ground, Volt Prime generates an electrical charge that is discharged on his next melee attack."
+    "value": "Grounded movement generates an electrical charge that is unleashed with the next attack."
   },
   "/lotus/language/suits/passiveabilitywukong": {
-    "value": "Wukong can maintain a combo from consecutive melee attacks for an extended duration."
+    "value": "Increased combo duration."
   },
   "/lotus/language/suits/passiveabilitywukongprime": {
-    "value": "Wukong Prime can maintain a combo from consecutive melee attacks for an extended duration."
+    "value": "Increased combo duration."
   },
   "/lotus/language/suits/passiveabilityzephyr": {
-    "value": "Zephyr has a higher degree of mobility while in the air, and falls at a slower rate."
+    "value": "Move with increased agility while airborne and fall more slowly."
   },
   "/lotus/language/suits/passiveabilityzephyrprime": {
-    "value": "Zephyr Prime has a higher degree of mobility while in the air, and falls at a slower rate."
+    "value": "Move with increased agility while airborne and fall more slowly."
   },
   "/lotus/language/syndicaterewards/acridmod": {
     "value": "Toxic Sequence"
@@ -68775,10 +69384,10 @@
     "value": "<CYCLE_POWER_PREV> <CYCLE_POWER_NEXT> Switch powers"
   },
   "/lotus/language/tutorial/tutorialusepowertwomag_ps4": {
-    "value": "<ACTIVATE_ABILITY_2> Bullet Attractor"
+    "value": "<ACTIVATE_ABILITY_2> Magnetize"
   },
   "/lotus/language/tutorial/tutorialusepowertwomag_windows": {
-    "value": "<ACTIVATE_ABILITY_2> Bullet Attractor"
+    "value": "<ACTIVATE_ABILITY_2> Magnetize"
   },
   "/lotus/language/tutorial/tutorialusepowertwomag_xbone": {
     "value": "<CYCLE_POWER_PREV> <CYCLE_POWER_NEXT> Switch powers"
@@ -68819,9 +69428,6 @@
   "/lotus/language/upgrades/attackspeedbuffdesc": {
     "value": "|val|% Attack Speed"
   },
-  "/lotus/language/upgrades/avatar_groundfire_damage_modifier": {
-    "value": "Damage During Bleedout |val|%"
-  },
   "/lotus/language/upgrades/avatarabilitydurationmoddesc": {
     "value": "|val|% Power Duration"
   },
@@ -68840,26 +69446,59 @@
   "/lotus/language/upgrades/avataraurastrengthmoddesc": {
     "value": "|val|% Aura Strength"
   },
+  "/lotus/language/upgrades/avatarautoparrychancemoddesc": {
+    "value": "|val|% Auto Parry Chance"
+  },
   "/lotus/language/upgrades/avatarcastingspeedmoddesc": {
     "value": "|val|% Casting Speed"
   },
   "/lotus/language/upgrades/avatardamageresistanceelectricmoddesc": {
-    "value": "|val| <DT_ELECTRICITY>Resist"
+    "value": "|val| <DT_ELECTRICITY>Electricity Resist"
+  },
+  "/lotus/language/upgrades/avatardamageresistanceelectricpercentmoddesc": {
+    "value": "|val|% <DT_ELECTRICITY>Electricity Resist"
+  },
+  "/lotus/language/upgrades/avatardamageresistanceexplosionmoddesc": {
+    "value": "|val| <DT_EXPLOSION>Blast Resist"
+  },
+  "/lotus/language/upgrades/avatardamageresistanceexplosionpercentmoddesc": {
+    "value": "|val|% <DT_EXPLOSION>Blast Resist"
   },
   "/lotus/language/upgrades/avatardamageresistancefiremoddesc": {
-    "value": "|val| <DT_FIRE>Resist"
+    "value": "|val| <DT_FIRE>Heat Resist"
+  },
+  "/lotus/language/upgrades/avatardamageresistancefirepercentmoddesc": {
+    "value": "|val|% <DT_FIRE>Heat Resist"
   },
   "/lotus/language/upgrades/avatardamageresistancefreezemoddesc": {
-    "value": "|val| <DT_FREEZE>Resist"
+    "value": "|val| <DT_FREEZE>Cold Resist"
+  },
+  "/lotus/language/upgrades/avatardamageresistancefreezepercentmoddesc": {
+    "value": "|val|% <DT_FREEZE>Cold Resist"
   },
   "/lotus/language/upgrades/avatardamageresistancepoisonmoddesc": {
-    "value": "|val| <DT_POISON>Resist"
+    "value": "|val| <DT_POISON>Toxin Resist"
+  },
+  "/lotus/language/upgrades/avatardamageresistancepoisonpercentmoddesc": {
+    "value": "|val|% <DT_POISON>Toxin Resist"
   },
   "/lotus/language/upgrades/avatardamageresistanceradiationmoddesc": {
-    "value": "|val| <DT_RADIATION>Resist"
+    "value": "|val| <DT_RADIATION>Radiation Resist"
+  },
+  "/lotus/language/upgrades/avatardamageresistanceradiationpercentmoddesc": {
+    "value": "|val|% <DT_RADIATION>Radiation Resist"
   },
   "/lotus/language/upgrades/avatarenemyradarmoddesc": {
     "value": "|val| Enemy Radar"
+  },
+  "/lotus/language/upgrades/avatarexplosiondamagemoddesc": {
+    "value": "|val| Explosion Damage"
+  },
+  "/lotus/language/upgrades/avatarexplosionradiusmoddesc": {
+    "value": "|val| Explosion Radius"
+  },
+  "/lotus/language/upgrades/avatargroundfiredamagemoddesc": {
+    "value": "|val|% Damage during Bleedout"
   },
   "/lotus/language/upgrades/avatarhealratemoddesc": {
     "value": "|val| Heal Rate"
@@ -68888,6 +69527,24 @@
   "/lotus/language/upgrades/avatarpowerratemoddesc": {
     "value": "|val| Power Rate"
   },
+  "/lotus/language/upgrades/avatarproctimemoddesc": {
+    "value": "|val|% Status Duration on Self"
+  },
+  "/lotus/language/upgrades/avatarsentinelarmourlinkmoddesc": {
+    "value": "|val|% Armor-Link"
+  },
+  "/lotus/language/upgrades/avatarsentinelhealthlinkmoddesc": {
+    "value": "|val|% Health-Link"
+  },
+  "/lotus/language/upgrades/avatarsentinellifesteallinkmoddesc": {
+    "value": "|val|% Lifesteal-link"
+  },
+  "/lotus/language/upgrades/avatarsentinelmasterbleedoutmodifiermoddesc": {
+    "value": "|val|% Bleedout-Link"
+  },
+  "/lotus/language/upgrades/avatarsentinelshieldlinkmoddesc": {
+    "value": "|val|% Shield-Link"
+  },
   "/lotus/language/upgrades/avatarshieldmaxmoddesc": {
     "value": "|val|% Shield Capacity"
   },
@@ -68895,7 +69552,7 @@
     "value": "|val| Shield Capacity"
   },
   "/lotus/language/upgrades/avatarshieldrechargedelaymoddesc": {
-    "value": ""
+    "value": "|val|% Shield Recharge Delay"
   },
   "/lotus/language/upgrades/avatarshieldrechargeratemoddesc": {
     "value": "|val|% Shield Recharge"
@@ -69021,7 +69678,7 @@
     "value": "|val|% Ice Resistance"
   },
   "/lotus/language/upgrades/damageresistknockdowndesc": {
-    "value": "|val|% Damage Resistance On Knockdown"
+    "value": "|val|% Damage Resistance on Knockdown"
   },
   "/lotus/language/upgrades/damageresistlaserdesc": {
     "value": "|val|% Radiation Damage Resistance"
@@ -69030,7 +69687,7 @@
     "value": "|val|% Toxin Resistance"
   },
   "/lotus/language/upgrades/damageresiststundesc": {
-    "value": "|val|% Damage Resistance On Stun"
+    "value": "|val|% Damage Resistance on Stun"
   },
   "/lotus/language/upgrades/damagetoenergydesc": {
     "value": "Convert |val|% of Damage on Health to Energy"
@@ -69094,6 +69751,9 @@
   },
   "/lotus/language/upgrades/hinddamageonfifthhit_desc": {
     "value": "On Four hits within 0.5 seconds, increase damage by |val|% for 0.5 seconds"
+  },
+  "/lotus/language/upgrades/hitchance": {
+    "value": "|val|% HIT CHANCE"
   },
   "/lotus/language/upgrades/impactbias": {
     "value": "Converts |val|% of Damage into <DT_IMPACT>Impact"
@@ -69288,7 +69948,7 @@
     "value": "|val| Shields Per Second"
   },
   "/lotus/language/upgrades/shieldrevengedamagedesc": {
-    "value": "|val|% Chance to do electrical damage when shield struck by melee enemies"
+    "value": "|val|% Chance to deal Electrical Damage when shield struck by melee enemies."
   },
   "/lotus/language/upgrades/shotgunmodconvertammomoddesc": {
     "value": "Convert unused ammo drops into Shotgun Ammo"
@@ -69425,6 +70085,9 @@
   "/lotus/language/upgrades/weaponcorrosivedamage": {
     "value": "|val|% <DT_CORROSIVE>Corrosive"
   },
+  "/lotus/language/upgrades/weaponcorrosivedamagenopercent": {
+    "value": "|val| <DT_CORROSIVE>Corrosive"
+  },
   "/lotus/language/upgrades/weaponcritchance": {
     "value": "|val|% Critical Chance"
   },
@@ -69440,11 +70103,17 @@
   "/lotus/language/upgrades/weaponelectricitydamage": {
     "value": "|val|% <DT_ELECTRICITY>Electricity"
   },
+  "/lotus/language/upgrades/weaponelectricitydamagenopercent": {
+    "value": "|val| <DT_ELECTRICITY>Electricity"
+  },
   "/lotus/language/upgrades/weaponexplodechance": {
     "value": "|val|% Chance to Explode (Use with Caution)"
   },
   "/lotus/language/upgrades/weaponexplosiondamage": {
     "value": "|val|% <DT_EXPLOSION>Blast"
+  },
+  "/lotus/language/upgrades/weaponexplosiondamagenopercent": {
+    "value": "|val| <DT_EXPLOSION>Blast"
   },
   "/lotus/language/upgrades/weaponexplosionradiusdesc": {
     "value": "|val|% Blast Radius"
@@ -69464,14 +70133,23 @@
   "/lotus/language/upgrades/weaponfiredamage": {
     "value": "|val|% <DT_FIRE>Heat"
   },
+  "/lotus/language/upgrades/weaponfiredamagenopercent": {
+    "value": "|val| <DT_FIRE>Heat"
+  },
   "/lotus/language/upgrades/weaponfirerate": {
     "value": "|val|% Fire Rate (x2 for Bows)"
   },
   "/lotus/language/upgrades/weaponfreezedamage": {
     "value": "|val|% <DT_FREEZE>Cold"
   },
+  "/lotus/language/upgrades/weaponfreezedamagenopercent": {
+    "value": "|val| <DT_FREEZE>Cold"
+  },
   "/lotus/language/upgrades/weapongasdamage": {
     "value": "|val|% <DT_GAS>Gas"
+  },
+  "/lotus/language/upgrades/weapongasdamagenopercent": {
+    "value": "|val| <DT_GAS>Gas"
   },
   "/lotus/language/upgrades/weaponhealthonkillchance": {
     "value": "|val|% Chance to Restore Health on Kill"
@@ -69485,6 +70163,9 @@
   "/lotus/language/upgrades/weaponimpactdamage": {
     "value": "|val|% <DT_IMPACT>Impact"
   },
+  "/lotus/language/upgrades/weaponimpactdamagenopercent": {
+    "value": "|val| <DT_IMPACT>Impact"
+  },
   "/lotus/language/upgrades/weaponinfiniteclipmoddesc": {
     "value": "|val| Infinite Clip Size"
   },
@@ -69493,6 +70174,9 @@
   },
   "/lotus/language/upgrades/weaponmagneticdamage": {
     "value": "|val|% <DT_MAGNETIC>Magnetic"
+  },
+  "/lotus/language/upgrades/weaponmagneticdamagenopercent": {
+    "value": "|val| <DT_MAGNETIC>Magnetic"
   },
   "/lotus/language/upgrades/weaponmaxammomoddesc": {
     "value": "|val|% Ammo Maximum"
@@ -69518,11 +70202,17 @@
   "/lotus/language/upgrades/weaponmultishotmoddesc": {
     "value": "|val|% Multishot"
   },
+  "/lotus/language/upgrades/weaponoverheatdamagemoddesc": {
+    "value": "|val|% Max Overheat Damage"
+  },
   "/lotus/language/upgrades/weaponparryeffectivenessmoddesc": {
     "value": "|val|% Damage Block"
   },
   "/lotus/language/upgrades/weaponpoisondamage": {
     "value": "|val|% <DT_POISON>Toxin"
+  },
+  "/lotus/language/upgrades/weaponpoisondamagenopercent": {
+    "value": "|val| <DT_POISON>Toxin"
   },
   "/lotus/language/upgrades/weaponpowerdamagemax": {
     "value": "Store up to |val| Bonus Damage"
@@ -69539,11 +70229,17 @@
   "/lotus/language/upgrades/weaponpuncturedamage": {
     "value": "|val|% <DT_PUNCTURE>Puncture"
   },
+  "/lotus/language/upgrades/weaponpuncturedamagenopercent": {
+    "value": "|val| <DT_PUNCTURE>Puncture"
+  },
   "/lotus/language/upgrades/weaponpuncturedepthmoddesc": {
     "value": "|val| Punch Through"
   },
   "/lotus/language/upgrades/weaponradiationdamage": {
     "value": "|val|% <DT_RADIATION>Radiation"
+  },
+  "/lotus/language/upgrades/weaponradiationdamagenopercent": {
+    "value": "|val| <DT_RADIATION>Radiation"
   },
   "/lotus/language/upgrades/weaponrangemoddesc": {
     "value": "|val| Range"
@@ -69566,6 +70262,9 @@
   "/lotus/language/upgrades/weaponslashdamage": {
     "value": "|val|% <DT_SLASH>Slash"
   },
+  "/lotus/language/upgrades/weaponslashdamagenopercent": {
+    "value": "|val| <DT_SLASH>Slash"
+  },
   "/lotus/language/upgrades/weaponstaminabonus": {
     "value": "|val| Stamina on Melee Kill"
   },
@@ -69574,6 +70273,9 @@
   },
   "/lotus/language/upgrades/weaponviraldamage": {
     "value": "|val|% <DT_VIRAL>Viral"
+  },
+  "/lotus/language/upgrades/weaponviraldamagenopercent": {
+    "value": "|val| <DT_VIRAL>Viral"
   },
   "/lotus/language/upgrades/weaponzoommoddesc": {
     "value": "|val|% Zoom"
