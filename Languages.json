@@ -26102,6 +26102,12 @@
   "/lotus/language/items/magprimename": {
     "value": "MAG PRIME"
   },
+  "/lotus/language/items/magprimevaultbannerdesc": {
+    "value": "Now Available for a Limited Time"
+  },
+  "/lotus/language/items/magprimevaultname": {
+    "value": "PRIME VAULT – MAG PRIME PACK"
+  },
   "/lotus/language/items/magskinupgradedesc": {
     "value": "Mag Skin upgrade."
   },
@@ -27014,37 +27020,7 @@
   "/lotus/language/items/operatoreyepieceb": {
     "value": "EYE-GUARD"
   },
-  "/lotus/language/items/operatorfemaleheada": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorfemaleheadb": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorfemaleheadc": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorfemaleheadd": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorfemaleheade": {
-    "value": ""
-  },
   "/lotus/language/items/operatorhair": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorhaira": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorhairb": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorhairc": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorhaird": {
-    "value": ""
-  },
-  "/lotus/language/items/operatorhaire": {
     "value": ""
   },
   "/lotus/language/items/operatorhead": {
@@ -27055,21 +27031,6 @@
   },
   "/lotus/language/items/operatorleggingsa": {
     "value": "ZARIMAN LEGGINGS"
-  },
-  "/lotus/language/items/operatormaleheada": {
-    "value": ""
-  },
-  "/lotus/language/items/operatormaleheadb": {
-    "value": ""
-  },
-  "/lotus/language/items/operatormaleheadc": {
-    "value": ""
-  },
-  "/lotus/language/items/operatormaleheadd": {
-    "value": ""
-  },
-  "/lotus/language/items/operatormaleheade": {
-    "value": ""
   },
   "/lotus/language/items/operatorpowerabilityname": {
     "value": "ZENURIK"
@@ -27402,7 +27363,7 @@
     "value": "Discharge"
   },
   "/lotus/language/items/overloadabilityaugmentdesc": {
-    "value": "Overload Augment - Converts |SHIELD_PCT|% of damage dealt into shields split between Volt and allied Tenno."
+    "value": "Discharge Augment - Converts |SHIELD_PCT|% of damage dealt into shields split between Volt and allied Tenno."
   },
   "/lotus/language/items/overloadabilityaugmentname": {
     "value": "Capacitance"
@@ -28478,14 +28439,47 @@
   "/lotus/language/items/pvpdualdaggersstanceone": {
     "value": "Bitting Piranha"
   },
+  "/lotus/language/items/pvpdualswordstanceone": {
+    "value": "Dividing Blades"
+  },
+  "/lotus/language/items/pvpfiststanceone": {
+    "value": "Quaking Hand"
+  },
+  "/lotus/language/items/pvpglaivestanceone": {
+    "value": "Celestial Nightfall"
+  },
+  "/lotus/language/items/pvphammerstanceone": {
+    "value": "Crashing Havoc"
+  },
+  "/lotus/language/items/pvpkatanastanceone": {
+    "value": "Fateful Truth"
+  },
   "/lotus/language/items/pvploadoutslotitem": {
     "value": "Conclave Loadout Slot"
   },
   "/lotus/language/items/pvploadoutslotitemdesc": {
     "value": "Grants an extra Conclave loadout slot"
   },
+  "/lotus/language/items/pvpmachetestanceone": {
+    "value": "Rending Wind"
+  },
   "/lotus/language/items/pvpmeleestancedesc": {
     "value": "Fighting form devised for Conclave."
+  },
+  "/lotus/language/items/pvpnunchakustanceone": {
+    "value": "Mafic Rain"
+  },
+  "/lotus/language/items/pvppolearmstanceone": {
+    "value": "Argent Scourge"
+  },
+  "/lotus/language/items/pvppunchkickstanceone": {
+    "value": "Vicious Approach"
+  },
+  "/lotus/language/items/pvpscythestanceone": {
+    "value": "Shadow Harvest"
+  },
+  "/lotus/language/items/pvpswordshieldstanceone": {
+    "value": "Last Herald"
   },
   "/lotus/language/items/pvpswordwhipstanceone": {
     "value": "Tainted Hydra"
@@ -34886,6 +34880,126 @@
   "/lotus/language/melee/pvpdualdaggerscomboone": {
     "value": "Flashing Razor"
   },
+  "/lotus/language/melee/pvpdualswordcomboa": {
+    "value": "Converging Edge"
+  },
+  "/lotus/language/melee/pvpdualswordcombob": {
+    "value": "Combined Strike"
+  },
+  "/lotus/language/melee/pvpdualswordcomboone": {
+    "value": "Cross Cuts"
+  },
+  "/lotus/language/melee/pvpfistcomboa": {
+    "value": "Spinning Palms"
+  },
+  "/lotus/language/melee/pvpfistcombob": {
+    "value": "Descending Impact"
+  },
+  "/lotus/language/melee/pvpfistcomboone": {
+    "value": "One Two Three"
+  },
+  "/lotus/language/melee/pvpglaivecomboa": {
+    "value": "Expanding Spiral"
+  },
+  "/lotus/language/melee/pvpglaivecombob": {
+    "value": "Radial Wounding"
+  },
+  "/lotus/language/melee/pvpglaivecomboone": {
+    "value": "Whirling Touch"
+  },
+  "/lotus/language/melee/pvphammercomboa": {
+    "value": "Fist and Hammer"
+  },
+  "/lotus/language/melee/pvpheavybladecomboa": {
+    "value": "Rushing Bull"
+  },
+  "/lotus/language/melee/pvpheavybladecombob": {
+    "value": "Plunging Edge"
+  },
+  "/lotus/language/melee/pvpheavybladecomboone": {
+    "value": "Skull Smasher"
+  },
+  "/lotus/language/melee/pvpkatanacomboa": {
+    "value": "Leading Blade"
+  },
+  "/lotus/language/melee/pvpkatanacombob": {
+    "value": "Sudden Spring"
+  },
+  "/lotus/language/melee/pvpkatanacomboone": {
+    "value": "Keen Cuts"
+  },
+  "/lotus/language/melee/pvpmachetecomboa": {
+    "value": "Brisk Current"
+  },
+  "/lotus/language/melee/pvpmachetecombob": {
+    "value": "Impending Tide"
+  },
+  "/lotus/language/melee/pvpmachetecomboone": {
+    "value": "Ascending Surf"
+  },
+  "/lotus/language/melee/pvpnunchakucomboa": {
+    "value": "Searing Sleet"
+  },
+  "/lotus/language/melee/pvpnunchakucombob": {
+    "value": "Torrid Torrent"
+  },
+  "/lotus/language/melee/pvpnunchakucomboone": {
+    "value": "Blazing Deluge"
+  },
+  "/lotus/language/melee/pvppolearmcomboa": {
+    "value": "Roaring Whirlwind"
+  },
+  "/lotus/language/melee/pvppolearmcombob": {
+    "value": "Shrieking Wind"
+  },
+  "/lotus/language/melee/pvppolearmcomboone": {
+    "value": "Cutting Tempest"
+  },
+  "/lotus/language/melee/pvppunchkickcomboa": {
+    "value": "Savagery at Hand"
+  },
+  "/lotus/language/melee/pvppunchkickcombob": {
+    "value": "Impending Danger"
+  },
+  "/lotus/language/melee/pvppunchkickcomboone": {
+    "value": "Cruel Advance"
+  },
+  "/lotus/language/melee/pvpscythecomboa": {
+    "value": "Reaping Leap"
+  },
+  "/lotus/language/melee/pvpscythecombob": {
+    "value": "Soul Dance"
+  },
+  "/lotus/language/melee/pvpscythecomboone": {
+    "value": "Reparation"
+  },
+  "/lotus/language/melee/pvpstavescomboa": {
+    "value": "Bending Branch"
+  },
+  "/lotus/language/melee/pvpstavescombob": {
+    "value": "Falling Leaves"
+  },
+  "/lotus/language/melee/pvpstavescomboone": {
+    "value": "Sweeping Limb"
+  },
+  "/lotus/language/melee/pvpswordandshieldcomboa": {
+    "value": "Spiral Ward"
+  },
+  "/lotus/language/melee/pvpswordandshieldcombob": {
+    "value": "Driving Shield"
+  },
+  "/lotus/language/melee/pvpswordandshieldcomboone": {
+    "value": "Bulwark"
+  },
+  "/lotus/language/melee/pvpswordcomboa": {
+    "value": "Blade Wipe"
+  },
+  "/lotus/language/melee/pvpswordcombob": {
+    "value": "Forward Edge"
+  },
+  "/lotus/language/melee/pvpswordcomboone": {
+    "value": "Hack and Slash"
+  },
   "/lotus/language/melee/pvpswordwhipcomboa": {
     "value": "Heart of the Imoogi"
   },
@@ -38955,7 +39069,7 @@
     "value": "<CAPACITY> POOL"
   },
   "/lotus/language/menu/focustree_commitchangesline": {
-    "value": "|NAME|  <FOCUS>|NUM|"
+    "value": "|NAME| <FOCUS>|NUM|"
   },
   "/lotus/language/menu/focustree_commitsuccess": {
     "value": "Focus transactions committed successfully!"
@@ -69357,10 +69471,10 @@
     "value": "<CYCLE_POWER_PREV> <CYCLE_POWER_NEXT> Switch powers"
   },
   "/lotus/language/tutorial/tutorialusepowerthreevolt_ps4": {
-    "value": "<ACTIVATE_ABILITY_3> Overload"
+    "value": "<ACTIVATE_ABILITY_3> Discharge"
   },
   "/lotus/language/tutorial/tutorialusepowerthreevolt_windows": {
-    "value": "<ACTIVATE_ABILITY_3> Overload"
+    "value": "<ACTIVATE_ABILITY_3> Discharge"
   },
   "/lotus/language/tutorial/tutorialusepowerthreevolt_xbone": {
     "value": "<CYCLE_POWER_PREV> <CYCLE_POWER_NEXT> Switch powers"
@@ -69753,7 +69867,7 @@
     "value": "On Four hits within 0.5 seconds, increase damage by |val|% for 0.5 seconds"
   },
   "/lotus/language/upgrades/hitchance": {
-    "value": "|val|% HIT CHANCE"
+    "value": "|val|% Hit Chance"
   },
   "/lotus/language/upgrades/impactbias": {
     "value": "Converts |val|% of Damage into <DT_IMPACT>Impact"
