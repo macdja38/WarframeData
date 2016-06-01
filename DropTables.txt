@@ -2513,10 +2513,10 @@ DROP_SIGIL (Drop Chance: 100%, Exclusive: no)
 	ZANUKA SIGIL, RARE, 100%
 
 [HyenaAgentDropTable]
- - Hyena Pb (HyenaGunAvatar)
  - Hyena Th (HyenaElecAvatar)
  - Hyena NG (HyenaFireAvatar)
  - Hyena LN2 (HyenaIceAvatar)
+ - Hyena Pb (HyenaGunAvatar)
  - HYENA PACK (MiniRobotAvatar)
 
 DROP_AMMO (Drop Chance: 70%, Exclusive: no)
