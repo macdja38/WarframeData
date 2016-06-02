@@ -11435,6 +11435,9 @@
   "/lotus/language/g1quests/forestinterceptioneventnodename": {
     "value": "Tethra's Doom"
   },
+  "/lotus/language/g1quests/formagifttitle": {
+    "value": "A Gift From the Lotus"
+  },
   "/lotus/language/g1quests/free_master_sigil_desc": {
     "value": "Enjoy your free 'Mastery' Sigil: A Sigil that dynamically changes icon based on Mastery rank!"
   },
@@ -17345,6 +17348,9 @@
   "/lotus/language/gametips/upgrades_aurasaddcapacity": {
     "value": "Aura mods add to your total mod capacity."
   },
+  "/lotus/language/gametips/upgrades_capacitymath": {
+    "value": "Capacity is the larger of a Weapon's Rank and your Mastery Rank, and is doubled if an Orokin Reactor or Catalyst is installed."
+  },
   "/lotus/language/gametips/upgrades_colddamage": {
     "value": "Cold <DT_FREEZE> damage can slow down enemies and deal damage."
   },
@@ -19948,6 +19954,9 @@
   },
   "/lotus/language/items/baropetmaskname": {
     "value": "KI'TEER SENTINEL MASK"
+  },
+  "/lotus/language/items/baropettaildesc": {
+    "value": "A statement piece for any Sentinel."
   },
   "/lotus/language/items/baropettailname": {
     "value": "KI'TEER SENTINEL TAIL"
@@ -26483,11 +26492,23 @@
   "/lotus/language/items/monkeypokeability": {
     "value": "Iron Jab"
   },
+  "/lotus/language/items/monkeypokeabilityaugmentdesc": {
+    "value": "Iron Jab Augment - Aiming Iron Jab at the ground launches Wukong into the air. Executing a slam attack increases range by |RANGE|m and applies |DAMAGE|% extra damage."
+  },
+  "/lotus/language/items/monkeypokeabilityaugmentname": {
+    "value": "Iron Vault"
+  },
   "/lotus/language/items/monkeypokeabilitydesc": {
     "value": "Explode the iron staff to it’s true length, knocking down anything in its path."
   },
   "/lotus/language/items/monkeystaffability": {
     "value": "Primal Fury"
+  },
+  "/lotus/language/items/monkeystaffabilityaugmentdesc": {
+    "value": "Primal Fury Augment - Killing an enemy increases Critical Chance by |CHANCE|%. The increase decays by |DECAY|% per second."
+  },
+  "/lotus/language/items/monkeystaffabilityaugmentname": {
+    "value": "Primal Rage"
   },
   "/lotus/language/items/monkeystaffabilitydesc": {
     "value": "Summon the iron staff and unleash fury."
@@ -27020,7 +27041,37 @@
   "/lotus/language/items/operatoreyepieceb": {
     "value": "EYE-GUARD"
   },
+  "/lotus/language/items/operatorfemaleheada": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorfemaleheadb": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorfemaleheadc": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorfemaleheadd": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorfemaleheade": {
+    "value": ""
+  },
   "/lotus/language/items/operatorhair": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorhaira": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorhairb": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorhairc": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorhaird": {
+    "value": ""
+  },
+  "/lotus/language/items/operatorhaire": {
     "value": ""
   },
   "/lotus/language/items/operatorhead": {
@@ -27031,6 +27082,21 @@
   },
   "/lotus/language/items/operatorleggingsa": {
     "value": "ZARIMAN LEGGINGS"
+  },
+  "/lotus/language/items/operatormaleheada": {
+    "value": ""
+  },
+  "/lotus/language/items/operatormaleheadb": {
+    "value": ""
+  },
+  "/lotus/language/items/operatormaleheadc": {
+    "value": ""
+  },
+  "/lotus/language/items/operatormaleheadd": {
+    "value": ""
+  },
+  "/lotus/language/items/operatormaleheade": {
+    "value": ""
   },
   "/lotus/language/items/operatorpowerabilityname": {
     "value": "ZENURIK"
@@ -27822,7 +27888,7 @@
     "value": "Sprint speed increased."
   },
   "/lotus/language/items/playerxpbuffdesc": {
-    "value": "Affinity from kills increased"
+    "value": "Affinity from kills increased."
   },
   "/lotus/language/items/playerxpbuffname": {
     "value": "Affinity Amp"
@@ -28484,6 +28550,12 @@
   "/lotus/language/items/pvpswordwhipstanceone": {
     "value": "Tainted Hydra"
   },
+  "/lotus/language/items/pvptonfastanceone": {
+    "value": "Star Divide"
+  },
+  "/lotus/language/items/pvpwhipstanceone": {
+    "value": "Lashing Coil"
+  },
   "/lotus/language/items/pyrasugatradesc": {
     "value": "During the height of the Old War, Tenno raiders used these flaming sugatras to intimidate and distract enemies."
   },
@@ -28672,6 +28744,12 @@
   },
   "/lotus/language/items/rangerquiverholdtoswitch": {
     "value": "Press <ACTIVATE_ABILITY_0> to switch arrows"
+  },
+  "/lotus/language/items/rangerstealabilityaugmentdesc": {
+    "value": "Prowl Augment - Ivara is able to bypass laser barriers and gains |SPEED|% movement speed."
+  },
+  "/lotus/language/items/rangerstealabilityaugmentname": {
+    "value": "Infiltrate"
   },
   "/lotus/language/items/rangerstealabilitydesc": {
     "value": "Become invisible and steal loot from unsuspecting enemies or take out prey with deadly headshots."
@@ -30988,6 +31066,12 @@
   },
   "/lotus/language/items/tennouziname": {
     "value": "AKSTILETTO"
+  },
+  "/lotus/language/items/terrortotemabilityaugmentdesc": {
+    "value": "Terrify Augment - Affected enemies have |SLOW_PCT|% reduced movement speed."
+  },
+  "/lotus/language/items/terrortotemabilityaugmentname": {
+    "value": "Creeping Terrify"
   },
   "/lotus/language/items/terrortotemabilitydesc": {
     "value": "Cast fear into the hearts of nearby enemies, causing them to run away in terror."
@@ -35008,6 +35092,24 @@
   },
   "/lotus/language/melee/pvpswordwipcomboone": {
     "value": "Talons of the Wyrm"
+  },
+  "/lotus/language/melee/pvptonfacomboa": {
+    "value": "Wandering Scourge"
+  },
+  "/lotus/language/melee/pvptonfacombob": {
+    "value": "Dire Fall"
+  },
+  "/lotus/language/melee/pvptonfacomboone": {
+    "value": "Bitter Grudge"
+  },
+  "/lotus/language/melee/pvpwhipcomboa": {
+    "value": "Whispering Bite"
+  },
+  "/lotus/language/melee/pvpwhipcombob": {
+    "value": "Burning Hum"
+  },
+  "/lotus/language/melee/pvpwhipcomboone": {
+    "value": "Screaming Gust"
   },
   "/lotus/language/melee/rapierbranchadefaults": {
     "value": "Duel Secrets"
@@ -46676,6 +46778,9 @@
   "/lotus/language/mods/sentinelweaknessscanpreceptdesc": {
     "value": "Upon completing research on an enemy, subsequent scans will reveal their weak points."
   },
+  "/lotus/language/mods/shotgunmodnoisereduction": {
+    "value": "Peacekeeper"
+  },
   "/lotus/language/mods/slideattackcritchancemod": {
     "value": "Maiming Strike"
   },
@@ -54533,6 +54638,9 @@
   "/lotus/language/subtitles/dafterqueensbattle0191teshin": {
     "value": "You've been replaced."
   },
+  "/lotus/language/subtitles/dafterqueensbattle0200wormqueen": {
+    "value": "UMBRA!"
+  },
   "/lotus/language/subtitles/daladscargobeforeextract150aladv": {
     "value": "I must say, I will miss this ship but there are more where it came from and I can assure you, you won't find them all."
   },
@@ -61935,7 +62043,7 @@
     "value": "Operator... unplug!"
   },
   "/lotus/language/subtitles/dorbiterawaken0010ordis": {
-    "value": "Operator?! (beat) Operator!? Operator... can you hear me? Wake up... wake up! Don't leave me… alone again."
+    "value": "Operator?! Operator!? Operator... can you hear me? Wake up... wake up! Don't leave me… alone again."
   },
   "/lotus/language/subtitles/dorbiterawaken0020ordis": {
     "value": "Great job, Ordis. Ship Cephalon? More like Ship Fail-bot. When the Operator needed you most you --"
@@ -62040,16 +62148,16 @@
     "value": "-- I've lost my Warframes, Ordis. I'm cut off. There is no next mission to fix this. I'm the Operator. Set the damn course."
   },
   "/lotus/language/subtitles/dorbiterawaken0171operatorvoicea": {
-    "value": "You infested piece of... (oof)"
+    "value": "You infested piece of..."
   },
   "/lotus/language/subtitles/dorbiterawaken0171operatorvoiceb": {
-    "value": "You infested piece of... (oof)"
+    "value": "You infested piece of..."
   },
   "/lotus/language/subtitles/dorbiterawaken0171operatorvoicec": {
-    "value": "You infested piece of... (oof)"
+    "value": "You infested piece of..."
   },
   "/lotus/language/subtitles/dorbiterawaken0171operatorvoiced": {
-    "value": "You infested piece of... (oof)"
+    "value": "You infested piece of..."
   },
   "/lotus/language/subtitles/dorbiterawaken0179teshin": {
     "value": "They gave up."
@@ -68478,10 +68586,10 @@
     "value": "Increased movement, reload and holster speed while inside the Rift."
   },
   "/lotus/language/suits/passiveabilityloki": {
-    "value": "Wall hangs indefinitely."
+    "value": "Able to hang from walls for extended durations of time."
   },
   "/lotus/language/suits/passiveabilitylokiprime": {
-    "value": "Wall hangs indefinitely."
+    "value": "Able to hang from walls for extended durations of time."
   },
   "/lotus/language/suits/passiveabilitymag": {
     "value": "Bullet jumping pulls-in nearby items for easy collection."
