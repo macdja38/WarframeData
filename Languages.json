@@ -2988,7 +2988,7 @@
     "value": "WEAPON RECOIL"
   },
   "/game/weapon_reflection_modifier": {
-    "value": "Bounce"
+    "value": "BOUNCE"
   },
   "/game/weapon_reload": {
     "value": "RELOAD"
@@ -6216,16 +6216,16 @@
     "value": "Awarded to Tenno recruited by an ally of The Lotus."
   },
   "/lotus/language/changyou/cy17173badgename": {
-    "value": "17173 BADGE"
+    "value": "17173 EMBLEM"
   },
   "/lotus/language/changyou/cyccbbadgedesc": {
-    "value": "This badge is awarded to participants of the Warframe Controlled Closed Beta."
+    "value": "This emblem is awarded to participants of the Warframe Controlled Closed Beta."
   },
   "/lotus/language/changyou/cyccbbadgename": {
-    "value": "COMMEMORATIVE BADGE"
+    "value": "COMMEMORATIVE EMBLEM"
   },
   "/lotus/language/changyou/cyccbcommemorativebundledesc": {
-    "value": "A bundle awarded to Warframe CCB participants, containing the Rakta Syandana, Gorgon Wraith and a Commemorative Badge."
+    "value": "A bundle awarded to Warframe CCB participants, containing the Rakta Syandana, Gorgon Wraith and a Commemorative Emblem."
   },
   "/lotus/language/changyou/cyccbcommemorativebundlename": {
     "value": "COMMEMORATIVE BUNDLE"
@@ -6234,7 +6234,7 @@
     "value": "Awarded to Tenno recruited by an ally of The Lotus."
   },
   "/lotus/language/changyou/cyduowanbadgename": {
-    "value": "DUOWAN BADGE"
+    "value": "DUOWAN EMBLEM"
   },
   "/lotus/language/changyou/cydyeabandonchangesconfirm": {
     "value": "You have color changes that have not been purchased. Abandon color changes and back out?"
@@ -6324,7 +6324,7 @@
     "value": "NEKROS COMPLETE PACK"
   },
   "/lotus/language/changyou/cyopenbetabadgedesc": {
-    "value": "This badge is awarded to the most dedicated of Tenno during the Warframe Open Beta."
+    "value": "This emblem is awarded to the most dedicated of Tenno during the Warframe Open Beta."
   },
   "/lotus/language/changyou/cyopenbetabadgename": {
     "value": "INFINITY EMBLEM"
@@ -6363,13 +6363,13 @@
     "value": "This Drakgoon has been been laced with filaments of burnished bronze."
   },
   "/lotus/language/changyou/cyrubedoskindrakgoonname": {
-    "value": "BRONZE DRAKGOON SKIN"
+    "value": "DRAKGOON BRONZE SKIN"
   },
   "/lotus/language/changyou/cyrubedoskingalatinedesc": {
     "value": "This Galatine has been been laced with filaments of burnished bronze."
   },
   "/lotus/language/changyou/cyrubedoskingalatinename": {
-    "value": "BRONZE GALATINE SKIN"
+    "value": "GALATINE BRONZE SKIN"
   },
   "/lotus/language/changyou/cyrubedoskinhelmetdesc": {
     "value": "This helmet has been laced with filaments of burnished bronze. "
@@ -6381,7 +6381,7 @@
     "value": "This Rhino Warframe has been been laced with filaments of burnished bronze."
   },
   "/lotus/language/changyou/cyrubedoskinrhinoname": {
-    "value": "BRONZE RHINO SKIN"
+    "value": "RHINO BRONZE SKIN"
   },
   "/lotus/language/changyou/cysaryncompletebundledesc": {
     "value": "The complete Frost Warframe experience, containing the Saryn Warframe, Saryn Immortal Skin, Chlora Saryn Helmet, Hemlock Saryn Helmet, and the Saryn Profile Icon Pack."
@@ -11367,7 +11367,7 @@
     "value": "Operation False Profit"
   },
   "/lotus/language/g1quests/falseprofit_reward1_title": {
-    "value": "Operation False Profit: Badge"
+    "value": "Operation False Profit: Emblem"
   },
   "/lotus/language/g1quests/falseprofit_reward2_title": {
     "value": "Operation False Profit: Mods for Your Fight"
@@ -11631,7 +11631,7 @@
     "value": "Alad V is Back"
   },
   "/lotus/language/g1quests/hiveeventrewardonemessagedesc": {
-    "value": "You have made solid progress against Alad V's hives. The threat is still very real and you have much work to do. Take this badge and wear it with pride while you fight."
+    "value": "You have made solid progress against Alad V's hives. The threat is still very real and you have much work to do. Take this emblem and wear it with pride while you fight."
   },
   "/lotus/language/g1quests/hiveeventrewardonemessagetitle": {
     "value": "A Good Start"
@@ -12462,7 +12462,7 @@
     "value": "Above and Beyond"
   },
   "/lotus/language/g1quests/sealabsevent_badge_title": {
-    "value": "Tubemen of Regor: Badge"
+    "value": "Tubemen of Regor: Emblem"
   },
   "/lotus/language/g1quests/sealabsevent_end_aladdetract_title": {
     "value": "An Olive Branch"
@@ -17477,6 +17477,12 @@
   "/lotus/language/items/affinityboostername": {
     "value": "AFFINITY BOOSTER"
   },
+  "/lotus/language/items/affinityboostersevendayname": {
+    "value": "7 DAY AFFINITY BOOSTER"
+  },
+  "/lotus/language/items/affinityboosterthreedayname": {
+    "value": "3 DAY AFFINITY BOOSTER"
+  },
   "/lotus/language/items/aggressioneventcorpusbadedesc": {
     "value": "An insignia marking Tenno who aligned with the Corpus during the Gradivus Dilemma."
   },
@@ -19814,9 +19820,6 @@
   "/lotus/language/items/axechargecomboa": {
     "value": "Crowd Fall"
   },
-  "/lotus/language/items/axeequippedattacksdefault": {
-    "value": "Skull Splitter"
-  },
   "/lotus/language/items/axegroundhitsdefault": {
     "value": "Tunneling Spike"
   },
@@ -20447,8 +20450,29 @@
   "/lotus/language/items/carryabilityname": {
     "value": "Void Carry"
   },
+  "/lotus/language/items/catbrowcatseyepreceptdesc": {
+    "value": "Allies in range receive +100% Crit Chance for a short duration."
+  },
+  "/lotus/language/items/catbrowcatseyepreceptname": {
+    "value": "Keen Senses"
+  },
+  "/lotus/language/items/catbrowdistractpreceptdesc": {
+    "value": "Manifests an image of itself to distract enemies while entering stealth."
+  },
+  "/lotus/language/items/catbrowdistractpreceptname": {
+    "value": "Displacer"
+  },
   "/lotus/language/items/catbrowhoardpreceptname": {
     "value": "Hoard"
+  },
+  "/lotus/language/items/catbrowluckpreceptdesc": {
+    "value": "Occasionally grants a boon of good fortune."
+  },
+  "/lotus/language/items/catbrowluckpreceptname": {
+    "value": "Omen"
+  },
+  "/lotus/language/items/catbrowreflectpreceptname": {
+    "value": "Kinetic Bristles"
   },
   "/lotus/language/items/catbrowroarpreceptname": {
     "value": "Roar"
@@ -21336,7 +21360,7 @@
     "value": "An insignia awarded to the Tenno who proved themselves during Arid Fear event."
   },
   "/lotus/language/items/corpusvoidbadgename": {
-    "value": "ARID FEAR BADGE"
+    "value": "ARID FEAR EMBLEM"
   },
   "/lotus/language/items/corpusvoidcipherdesc": {
     "value": "A cipher used to decode Corpus intel. Crafting component required to create a CORPUS VOID KEY"
@@ -21418,6 +21442,12 @@
   },
   "/lotus/language/items/creditboostername": {
     "value": "CREDIT BOOSTER"
+  },
+  "/lotus/language/items/creditboostersevendayname": {
+    "value": "7 DAY CREDIT BOOSTER"
+  },
+  "/lotus/language/items/creditboosterthreedayname": {
+    "value": "3 DAY CREDIT BOOSTER"
   },
   "/lotus/language/items/creditbundlea": {
     "value": "FRUGAL CREDIT BUNDLE"
@@ -21636,7 +21666,7 @@
     "value": "Replaces the edges of the Scindo with multiple Rubedo blades."
   },
   "/lotus/language/items/daggeraxeskinname": {
-    "value": "DAGGER AXE SKIN"
+    "value": "SCINDO DAGGER-AXE SKIN"
   },
   "/lotus/language/items/daggerbranchabdefaults": {
     "value": "Life Eater"
@@ -21709,6 +21739,12 @@
   },
   "/lotus/language/items/darkexcaliburname": {
     "value": "EXCALIBUR UMBRA"
+  },
+  "/lotus/language/items/darksworddaggerhybriddesc": {
+    "value": "Use as a devastating heavy sword or apply a Dual Melee stance and split the weapon into two ferocious blades."
+  },
+  "/lotus/language/items/darksworddaggerhybridname": {
+    "value": "DARK SPLIT-SWORD"
   },
   "/lotus/language/items/darksworddesc": {
     "value": "A blade forged using dark metals, capable of delivering innate Radiation damage with attacks."
@@ -22077,7 +22113,7 @@
     "value": "Replaces the edges of the Dual Zoren with multiple Rubedo blades."
   },
   "/lotus/language/items/dualdaggeraxeskinname": {
-    "value": "DAGGER ZOREN SKIN"
+    "value": "DUAL ZOREN DAGGER-AXE SKIN"
   },
   "/lotus/language/items/dualdaggerdesc": {
     "value": "These matching stilettos have increased attack speed and can unleash a flurry of multi-hit attacks."
@@ -22640,8 +22676,20 @@
   "/lotus/language/items/facialmarkingsj": {
     "value": "SOMATICS TT-11"
   },
+  "/lotus/language/items/fairyagileanims": {
+    "value": "TITANIA AGILE ANIMATION SET"
+  },
+  "/lotus/language/items/fairyagileanimsdesc": {
+    "value": "The Agile Animation Set for Titania."
+  },
+  "/lotus/language/items/fairynobleanims": {
+    "value": "TITANIA NOBLE ANIMATION SET"
+  },
+  "/lotus/language/items/fairynobleanimsdesc": {
+    "value": "The Noble Animation Set for Titania."
+  },
   "/lotus/language/items/falseprofitaccessoriesdesc": {
-    "value": "A sigil and a badge commemorating the Tenno's victory over Nef Anyo."
+    "value": "A sigil and an emblem commemorating the Tenno's victory over Nef Anyo."
   },
   "/lotus/language/items/falseprofitaccessoriesname": {
     "value": "FALSE PROFIT ACCESSORIES"
@@ -22650,7 +22698,7 @@
     "value": "An emblem awarded to all those who helped foil the machinations of Nef Anyo."
   },
   "/lotus/language/items/falseprofiteventbadgename": {
-    "value": "FALSE PROFIT BADGE"
+    "value": "FALSE PROFIT EMBLEM"
   },
   "/lotus/language/items/falseprofiteventmodpackdesc": {
     "value": "A collection of Mods that apply bonus Impact damage."
@@ -22992,31 +23040,31 @@
     "value": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Sentinel or Weapon and then resets their affinity to Level 1. This can only be used on Level 30 Warframes, Sentinels and Weapons."
   },
   "/lotus/language/items/foundersbadgediscipledesc": {
-    "value": "This badge signifies the wearer as being a Disciple within the Tenno ranks."
+    "value": "This emblem signifies the wearer as being a Disciple within the Tenno ranks."
   },
   "/lotus/language/items/foundersbadgedisciplename": {
     "value": "DISCIPLE'S EMBLEM"
   },
   "/lotus/language/items/foundersbadgegrandmasterdesc": {
-    "value": "This badge signifies the wearer as being a Grand Master within the Tenno ranks."
+    "value": "This emblem signifies the wearer as being a Grand Master within the Tenno ranks."
   },
   "/lotus/language/items/foundersbadgegrandmastername": {
-    "value": "GRANDMASTER'S EMBLEM"
+    "value": "GRAND MASTER EMBLEM"
   },
   "/lotus/language/items/foundersbadgehunterdesc": {
-    "value": "This badge signifies the wearer as being a Hunter within the Tenno ranks."
+    "value": "This emblem signifies the wearer as being a Hunter within the Tenno ranks."
   },
   "/lotus/language/items/foundersbadgehuntername": {
     "value": "HUNTER'S EMBLEM"
   },
   "/lotus/language/items/foundersbadgemasterdesc": {
-    "value": "This badge signifies the wearer as being a Master within the Tenno ranks."
+    "value": "This emblem signifies the wearer as being a Master within the Tenno ranks."
   },
   "/lotus/language/items/foundersbadgemastername": {
     "value": "MASTER'S EMBLEM"
   },
   "/lotus/language/items/foundersigilgrandmaster": {
-    "value": "GRANDMASTER SIGIL"
+    "value": "GRAND MASTER SIGIL"
   },
   "/lotus/language/items/freezeability": {
     "value": "Freeze"
@@ -23188,6 +23236,12 @@
   },
   "/lotus/language/items/genericcosmeticenhancername": {
     "value": "ARCANE"
+  },
+  "/lotus/language/items/genericoperatoraccessorydescription": {
+    "value": "A fashionable accessory for your operator."
+  },
+  "/lotus/language/items/genericoperatorhairdescription": {
+    "value": "An intricate hair style for your operator."
   },
   "/lotus/language/items/genericsuitcustomizationdesc": {
     "value": "Item to be infused"
@@ -23493,7 +23547,7 @@
     "value": "This variation of the Hammer has 5% faster swing speed, but 10% lower channeling efficiency."
   },
   "/lotus/language/items/grineerheavyhammername": {
-    "value": "BROKK HAMMER SKIN"
+    "value": "FRAGOR BROKK SKIN"
   },
   "/lotus/language/items/grineerheavypistoldesc": {
     "value": "The Kraken is a heavy pistol of Grineer design that fires two quick shots with a single pull of the trigger. Skilled marksmen will appreciate the value in this deadly accurate weapon."
@@ -23673,7 +23727,7 @@
     "value": "An emblem awarded the Tenno who fought to destroy Tyl Regor's cloning labs."
   },
   "/lotus/language/items/grnsealabeventbadgename": {
-    "value": "TUBEMEN OF REGOR BADGE"
+    "value": "TUBEMEN OF REGOR EMBLEM"
   },
   "/lotus/language/items/grnsealabeventweaponpackdesc": {
     "value": "Determined by the winning side of the Operation."
@@ -24288,7 +24342,7 @@
     "value": "Awarded to Tenno for the contributions they made during the Breeding Grounds event."
   },
   "/lotus/language/items/hivesabotageeventbadgename": {
-    "value": "BREEDING GROUNDS BADGE"
+    "value": "BREEDING GROUNDS EMBLEM"
   },
   "/lotus/language/items/holidayfrostskindesc": {
     "value": "A festive skin for the Frost Warframe."
@@ -24476,6 +24530,9 @@
   "/lotus/language/items/imperatorvandalname": {
     "value": "<ARCHWING> IMPERATOR VANDAL"
   },
+  "/lotus/language/items/imprintedtraitname": {
+    "value": " "
+  },
   "/lotus/language/items/incendiaryballisticenhancerdesc": {
     "value": "The Incendiary Ballistic Enhancer increases your ballistic weapon damage by a small percentage.  The extra damage is incendiary damage, which is effective against flesh."
   },
@@ -24651,25 +24708,25 @@
     "value": "Awarded to Tenno who participated in the Mutalist Incursions event."
   },
   "/lotus/language/items/inftacalertdiseasedancientbadgename": {
-    "value": "BROOD MOTHER BADGE"
+    "value": "BROOD MOTHER EMBLEM"
   },
   "/lotus/language/items/inftacalertnanitemoabadgedesc": {
     "value": "Awarded to Tenno who participated in the Mutalist Incursions  event."
   },
   "/lotus/language/items/inftacalertnanitemoabadgename": {
-    "value": "SWARM-MUTALIST MOA BADGE"
+    "value": "SWARM-MUTALIST MOA EMBLEM"
   },
   "/lotus/language/items/inftacalertpussancientbadgedesc": {
     "value": "Awarded to Tenno who participated in the Mutalist Incursions  event."
   },
   "/lotus/language/items/inftacalertpussancientbadgename": {
-    "value": "BOILER BADGE"
+    "value": "BOILER EMBLEM"
   },
   "/lotus/language/items/inftacalertslowbombmoabadgedesc": {
     "value": "Awarded to Tenno who participated in the Mutalist Incursions event."
   },
   "/lotus/language/items/inftacalertslowbombmoabadgename": {
-    "value": "TAR-MUTALIST MOA BADGE"
+    "value": "TAR-MUTALIST MOA EMBLEM"
   },
   "/lotus/language/items/insectshipdesc": {
     "value": "This insect-like landing craft features Med-Tower air-support."
@@ -24785,6 +24842,24 @@
   "/lotus/language/items/jadedesc": {
     "value": "Mind control and psychic attacks make Nyx a very dangerous foe. Her ability to reach into enemy consciousness and manipulate their behavior can turn the tide of battle."
   },
+  "/lotus/language/items/jadedualheatswordsdesc": {
+    "value": "A next generation skin for the Heat Sword."
+  },
+  "/lotus/language/items/jadedualheatswordsname": {
+    "value": "HEAT SWORD JADE SKIN"
+  },
+  "/lotus/language/items/jadeheatdaggerdesc": {
+    "value": "A next generation skin for the Heat Dagger."
+  },
+  "/lotus/language/items/jadeheatdaggername": {
+    "value": "HEAT DAGGER JADE SKIN"
+  },
+  "/lotus/language/items/jadeheatsworddesc": {
+    "value": "A next generation skin for the Dual Heat Swords."
+  },
+  "/lotus/language/items/jadeheatswordname": {
+    "value": "DUAL HEAT SWORDS JADE SKIN"
+  },
   "/lotus/language/items/jadeimperatorsyandanadesc": {
     "value": "A next-generation syandana."
   },
@@ -24849,7 +24924,7 @@
     "value": "An emblem awarded to all those who helped destroy the Grineer toxin during the Cicero Crisis."
   },
   "/lotus/language/items/jungleeventbadgename": {
-    "value": "CICERO CRISIS BADGE"
+    "value": "CICERO CRISIS EMBLEM"
   },
   "/lotus/language/items/karakwraithdesc": {
     "value": "A different take on the Grineer assault rifle, the Karak Wraith features unique styling."
@@ -24900,7 +24975,7 @@
     "value": "Awarded to those who stood against Kela De Thaym and her Executioners."
   },
   "/lotus/language/items/kelaeventbadgename": {
-    "value": "RATHUUM BADGE"
+    "value": "RATHUUM EMBLEM"
   },
   "/lotus/language/items/kelaeventdogtagdesc": {
     "value": "To be delivered to Steel Meridian or chosen Syndicate in the relay."
@@ -25986,7 +26061,7 @@
     "value": "Awarded to Tenno who assist the Lotus by helping other Tenno."
   },
   "/lotus/language/items/lotusguidebadgename": {
-    "value": "TENNO MENTOR BADGE"
+    "value": "TENNO MENTOR EMBLEM"
   },
   "/lotus/language/items/lotusmask": {
     "value": "LOTUS SENTINEL MASK"
@@ -26133,7 +26208,7 @@
     "value": "A Heavy Axe variation that grants additional damage but with a decrease in swing speed."
   },
   "/lotus/language/items/manticoreaxeskinname": {
-    "value": "MANTICORE AXE SKIN"
+    "value": "SCINDO MANTICORE SKIN"
   },
   "/lotus/language/items/marineprofileicondesc": {
     "value": "A profile icon of a Grineer Lancer"
@@ -26982,7 +27057,7 @@
     "value": "A next-generation skin for the Attica."
   },
   "/lotus/language/items/obsidianatticaname": {
-    "value": "OBSIDIAN ATTICA SKIN"
+    "value": "ATTICA OBSIDIAN SKIN"
   },
   "/lotus/language/items/obsidiangorgondesc": {
     "value": "A next-generation skin for the Gorgon."
@@ -27026,6 +27101,12 @@
   "/lotus/language/items/operatorbodysuita": {
     "value": "ZARIMAN SUIT"
   },
+  "/lotus/language/items/operatorcircleta": {
+    "value": "SOFREN DIADEM"
+  },
+  "/lotus/language/items/operatorcircletlaurel": {
+    "value": "YAKINI DIADEM"
+  },
   "/lotus/language/items/operatordefenseabilityname": {
     "value": "VAZARIN"
   },
@@ -27040,6 +27121,9 @@
   },
   "/lotus/language/items/operatoreyepieceb": {
     "value": "EYE-GUARD"
+  },
+  "/lotus/language/items/operatoreyepiecec": {
+    "value": "OCULAR SENSORS"
   },
   "/lotus/language/items/operatorfemaleheada": {
     "value": ""
@@ -27098,6 +27182,9 @@
   "/lotus/language/items/operatormaleheade": {
     "value": ""
   },
+  "/lotus/language/items/operatorpiercinga": {
+    "value": "UDO PIERCINGS"
+  },
   "/lotus/language/items/operatorpowerabilityname": {
     "value": "ZENURIK"
   },
@@ -27106,6 +27193,15 @@
   },
   "/lotus/language/items/operatortacticabilityname": {
     "value": "NARAMON"
+  },
+  "/lotus/language/items/operatortempledots": {
+    "value": "COGNITIVE RELAY"
+  },
+  "/lotus/language/items/operatortemplehorndouble": {
+    "value": "SATYRI DIADEM"
+  },
+  "/lotus/language/items/operatortemplehornsingle": {
+    "value": "SHADAVA DIADEM"
   },
   "/lotus/language/items/operatorvoicea": {
     "value": "HERON"
@@ -27348,7 +27444,7 @@
     "value": "Awarded to Tenno for their contribution during Operation Gate Crash."
   },
   "/lotus/language/items/orokinsabotageeventbadgename": {
-    "value": "GATE CRASH BADGE"
+    "value": "GATE CRASH EMBLEM"
   },
   "/lotus/language/items/orokinsabotageeventmodpackdesc": {
     "value": "A collection of Mods that enhance Slash damage."
@@ -27408,7 +27504,7 @@
     "value": "A mysterious emblem of unknown origin."
   },
   "/lotus/language/items/orokittybadgename": {
-    "value": "KURIA BADGE"
+    "value": "KURIA EMBLEM"
   },
   "/lotus/language/items/orthospolearmdesc": {
     "value": "The Tenno forged Orthos is a rare double bladed staff. Those who take the time to master it speak of its impressive striking distance and ability to hit multiple targets."
@@ -27547,6 +27643,12 @@
   },
   "/lotus/language/items/parrotwingsname": {
     "value": "PARA SENTINEL WINGS"
+  },
+  "/lotus/language/items/pcgamerdarksworddaggerhybriddesc": {
+    "value": "Red, white and black emblazon the Dark Split-Sword."
+  },
+  "/lotus/language/items/pcgamerdarksworddaggerhybridname": {
+    "value": "DARK SPLIT-SWORD DULUS SKIN"
   },
   "/lotus/language/items/pentaloginrewardname": {
     "value": "CARMINE PENTA"
@@ -27888,7 +27990,7 @@
     "value": "Sprint speed increased."
   },
   "/lotus/language/items/playerxpbuffdesc": {
-    "value": "Affinity from kills increased."
+    "value": "Affinity from kills increased"
   },
   "/lotus/language/items/playerxpbuffname": {
     "value": "Affinity Amp"
@@ -28272,7 +28374,7 @@
     "value": "An insignia dropped by an Acolyte of the Stalker."
   },
   "/lotus/language/items/projectsinisterbadgename": {
-    "value": "ACOLYTE BADGE"
+    "value": "ACOLYTE EMBLEM"
   },
   "/lotus/language/items/projectsinisterbonuskey": {
     "value": "Sinister Endurance"
@@ -28302,7 +28404,7 @@
     "value": "Rewards for completing Phase Two of Shadow Debt"
   },
   "/lotus/language/items/projectsinisterphasetworewardsname": {
-    "value": "OROKIN REACTOR & ACOLYTE BADGE"
+    "value": "OROKIN REACTOR & ACOLYTE EMBLEM"
   },
   "/lotus/language/items/promoparisdesc": {
     "value": "With it’s constantly shifting finish of polished cloud-stone, the Paris Abra Skin is sure to impress."
@@ -28543,6 +28645,9 @@
   },
   "/lotus/language/items/pvpscythestanceone": {
     "value": "Shadow Harvest"
+  },
+  "/lotus/language/items/pvpstavesstanceone": {
+    "value": "Crashing Timber"
   },
   "/lotus/language/items/pvpswordshieldstanceone": {
     "value": "Last Herald"
@@ -28893,7 +28998,7 @@
     "value": "Awarded for the safe return of Red Veil Operatives during the Specters of Liberty operation."
   },
   "/lotus/language/items/rescueeventbadgename": {
-    "value": "SPECTERS OF LIBERTY BADGE"
+    "value": "SPECTERS OF LIBERTY EMBLEM"
   },
   "/lotus/language/items/researchanditem": {
     "value": "|ITEM| RESEARCH"
@@ -28904,11 +29009,23 @@
   "/lotus/language/items/resourceamountboostername": {
     "value": "RESOURCE BOOSTER"
   },
+  "/lotus/language/items/resourceamountboostersevendayname": {
+    "value": "7 DAY RESOURCE BOOSTER"
+  },
+  "/lotus/language/items/resourceamountboosterthreedayname": {
+    "value": "3 DAY RESOURCE BOOSTER"
+  },
   "/lotus/language/items/resourcedropchanceboosterdesc": {
     "value": "Doubles the chance of resource drops."
   },
   "/lotus/language/items/resourcedropchanceboostername": {
     "value": "RESOURCE DROP CHANCE BOOSTER"
+  },
+  "/lotus/language/items/resourcedropchanceboostersevendayname": {
+    "value": "7 DAY RESOURCE DROP CHANCE BOOSTER"
+  },
+  "/lotus/language/items/resourcedropchanceboosterthreedayname": {
+    "value": "3 DAY RESOURCE DROP CHANCE BOOSTER"
   },
   "/lotus/language/items/resurrectability": {
     "value": "Resurrect"
@@ -29286,13 +29403,13 @@
     "value": "These Twin Vipers have been adorned with a fine layer of Rubedo plating."
   },
   "/lotus/language/items/rubedoskintwinvipername": {
-    "value": "RUBEDO PLATED TWIN VIPERS SKIN"
+    "value": "TWIN VIPERS RUBEDO PLATED SKIN"
   },
   "/lotus/language/items/rubedoskinviperdesc": {
     "value": "This Viper has been adorned with a fine layer of Rubedo plating."
   },
   "/lotus/language/items/rubedoskinvipername": {
-    "value": "RUBEDO PLATED VIPER SKIN"
+    "value": "VIPER RUBEDO PLATED SKIN"
   },
   "/lotus/language/items/rubedoskinyamakosyandanadesc": {
     "value": "This syandana has been adorned with a fine layer of Rubedo plating."
@@ -30030,19 +30147,19 @@
     "value": "Awarded to Tenno who achieved a Bronze Rank on the retired Global Leaderboards."
   },
   "/lotus/language/items/skullbadgebronzename": {
-    "value": "BRONZE SKULL BADGE"
+    "value": "BRONZE SKULL EMBLEM"
   },
   "/lotus/language/items/skullbadgegolddesc": {
     "value": "Awarded to Tenno who achieved a Gold Rank on the retired Global Leaderboards."
   },
   "/lotus/language/items/skullbadgegoldname": {
-    "value": "GOLD SKULL BADGE"
+    "value": "GOLD SKULL EMBLEM"
   },
   "/lotus/language/items/skullbadgesilverdesc": {
     "value": "Awarded to Tenno who achieved a Silver Rank on the retired Global Leaderboards."
   },
   "/lotus/language/items/skullbadgesilvername": {
-    "value": "SILVER SKULL BADGE"
+    "value": "SILVER SKULL EMBLEM"
   },
   "/lotus/language/items/slashdamagemeleemod": {
     "value": "Jagged Edge"
@@ -30621,7 +30738,7 @@
     "value": "An insignia awarded to the Tenno who proved themselves during Survival event."
   },
   "/lotus/language/items/survivaleventbadgename": {
-    "value": "SURVIVAL BADGE"
+    "value": "SURVIVAL EMBLEM"
   },
   "/lotus/language/items/swanthromaghelmetname": {
     "value": "MAG ANTHRO HELMET"
@@ -30960,7 +31077,7 @@
     "value": "VENKA"
   },
   "/lotus/language/items/tennocon2016badgename": {
-    "value": "TENNOCON BADGE"
+    "value": "TENNOCON EMBLEM"
   },
   "/lotus/language/items/tennoconscarfdesc": {
     "value": "Bestowed upon those who joined together in celebration at TennoCon."
@@ -31203,7 +31320,7 @@
     "value": "TOXIN INJECTOR"
   },
   "/lotus/language/items/translatorbadgedesc": {
-    "value": "A special badge worn only by a select few Tenno."
+    "value": "A special emblem worn only by a select few Tenno."
   },
   "/lotus/language/items/translatorbadgename": {
     "value": "TENNO OPERATIVE EMBLEM"
@@ -31537,6 +31654,12 @@
   },
   "/lotus/language/items/unlockexcaliburnobledesc": {
     "value": "This item lets you use EXCALIBUR's noble animation set with any warframe of your choosing."
+  },
+  "/lotus/language/items/unlockfairyagiledesc": {
+    "value": "This item lets you use TITANIA's agile animation set with any warframe of your choosing."
+  },
+  "/lotus/language/items/unlockfairynobledesc": {
+    "value": "This item lets you use TITANIA's noble animation set with any warframe of your choosing."
   },
   "/lotus/language/items/unlockfrostagile": {
     "value": "FROST's Agile Animations"
@@ -32565,7 +32688,7 @@
     "value": "Powerful arcing strikes with energetic flips."
   },
   "/lotus/language/items/wikiabadgedesc": {
-    "value": "A special badge worn only by a select few Tenno."
+    "value": "A special emblem worn only by a select few Tenno."
   },
   "/lotus/language/items/wikiabadgename": {
     "value": "TENNO CHRONICLER EMBLEM"
@@ -35399,6 +35522,9 @@
   "/lotus/language/menu/activecompanion": {
     "value": "ACTIVE KUBROW"
   },
+  "/lotus/language/menu/activemissionname": {
+    "value": "MANEUVER"
+  },
   "/lotus/language/menu/addcomponents": {
     "value": "ADD COMPONENTS"
   },
@@ -36209,6 +36335,15 @@
   "/lotus/language/menu/categorywarframe": {
     "value": "WARFRAME"
   },
+  "/lotus/language/menu/cephalonfragment_filterselector": {
+    "value": "Select Image Filter"
+  },
+  "/lotus/language/menu/cephalonfragment_scaleslider": {
+    "value": "Scale Image"
+  },
+  "/lotus/language/menu/cephalonfragment_swapimage": {
+    "value": "Swap Image"
+  },
   "/lotus/language/menu/challenges": {
     "value": "CHALLENGES"
   },
@@ -36867,7 +37002,7 @@
     "value": "BACK SIGIL"
   },
   "/lotus/language/menu/cosmetics_badges": {
-    "value": "BADGES AND EMBLEMS"
+    "value": "EMBLEMS"
   },
   "/lotus/language/menu/cosmetics_basecolor": {
     "value": "BASE COLOR"
@@ -36891,13 +37026,13 @@
     "value": "COPY WARFRAME COLORS"
   },
   "/lotus/language/menu/cosmetics_custombadge": {
-    "value": "RIGHT BADGE"
+    "value": "RIGHT EMBLEM"
   },
   "/lotus/language/menu/cosmetics_defaultcolors": {
     "value": "DEFAULT COLORS"
   },
   "/lotus/language/menu/cosmetics_eventbadge": {
-    "value": "LEFT BADGE"
+    "value": "LEFT EMBLEM"
   },
   "/lotus/language/menu/cosmetics_face": {
     "value": "AUXILIARY"
@@ -39114,7 +39249,7 @@
     "value": "Your Focus cap will replenish daily and will allow you to allot even more towards your Tenno Way as time progresses."
   },
   "/lotus/language/menu/focus_cappreviewtitle": {
-    "value": "FEATURE BETA: |CAP| EXTRA <FOCUS> POSSIBLE"
+    "value": "FEATURE BETA: DAILY FOCUS CAP <FOCUS>|CAP|"
   },
   "/lotus/language/menu/focus_previewmessage": {
     "value": "Expect changes as we evolve this new system! Install a Focus Lens on maxed-out gear. Affinity is converted into Focus for your Tenno!"
@@ -39509,11 +39644,8 @@
   "/lotus/language/menu/giftreceivedbody_nocustommessage": {
     "value": "|GIFTER_NAME| has sent you a gift. How thoughtful!"
   },
-  "/lotus/language/menu/giftreceivedconfirmationbody": {
-    "value": "The |TYPE_NAME| you sent to |RECIPIENT_NAME| has been unwrapped! You are very generous!"
-  },
   "/lotus/language/menu/giftreceivedconfirmationsubject": {
-    "value": "Gift to |RECIPIENT_NAME| unwrapped!"
+    "value": "Gift to |RECIPIENT_NAME| delivered"
   },
   "/lotus/language/menu/giftreceivedsubject": {
     "value": "A gift from |GIFTER_NAME|"
@@ -39696,22 +39828,22 @@
     "value": "XP"
   },
   "/lotus/language/menu/gm_thanksa": {
-    "value": "The Tenno have gained great strength thanks to you, Grandmaster |PLAYER_NAME|."
+    "value": "The Tenno have gained great strength thanks to you, Grand Master |PLAYER_NAME|."
   },
   "/lotus/language/menu/gm_thanksb": {
-    "value": "The Lotus is pleased to be in the presence of a Grandmaster. Thank you |PLAYER_NAME|."
+    "value": "The Lotus is pleased to be in the presence of a Grand Master. Thank you |PLAYER_NAME|."
   },
   "/lotus/language/menu/gm_thanksc": {
-    "value": "We are in your debt Grandmaster |PLAYER_NAME|. Thank you."
+    "value": "We are in your debt Grand Master |PLAYER_NAME|. Thank you."
   },
   "/lotus/language/menu/gm_thanksd": {
-    "value": "With your support Grandmaster |PLAYER_NAME|, the Tenno will rise again."
+    "value": "With your support Grand Master |PLAYER_NAME|, the Tenno will rise again."
   },
   "/lotus/language/menu/gm_thankse": {
-    "value": "Now the Tenno are stronger by your hand Grandmaster |PLAYER_NAME|."
+    "value": "Now the Tenno are stronger by your hand Grand Master |PLAYER_NAME|."
   },
   "/lotus/language/menu/gm_thanksnotinyet": {
-    "value": "The Tenno have gained great strength thanks to you, Grandmaster |PLAYER_NAME|. Note: Your location is being added soon!"
+    "value": "The Tenno have gained great strength thanks to you, Grand Master |PLAYER_NAME|. Note: Your location is being added soon!"
   },
   "/lotus/language/menu/grid_firstpage": {
     "value": "<PAGINATION_FIRST> FIRST"
@@ -42587,6 +42719,12 @@
   "/lotus/language/menu/options_controls_aimassist_old": {
     "value": "Enable Gamepad Aim Assist"
   },
+  "/lotus/language/menu/options_controls_archwing_sensitivity": {
+    "value": "Archwing Sensitivity"
+  },
+  "/lotus/language/menu/options_controls_archwing_sensitivity_controller": {
+    "value": "Archwing Sensitivity (controller)"
+  },
   "/lotus/language/menu/options_controls_autorun": {
     "value": "Auto Sprint"
   },
@@ -42643,6 +42781,9 @@
   },
   "/lotus/language/menu/options_controls_interface_keyboardmouse": {
     "value": "Keyboard & Mouse"
+  },
+  "/lotus/language/menu/options_controls_inverttapholdabilities": {
+    "value": "Invert Tap/Hold Abilities"
   },
   "/lotus/language/menu/options_controls_invertx": {
     "value": "Invert X Axis"
@@ -47633,6 +47774,12 @@
   "/lotus/language/primes/nekrosprimename": {
     "value": "NEKROS PRIME"
   },
+  "/lotus/language/primes/nikanaprimemeleedangledesc": {
+    "value": "An ornamental sugatra unique to the Nikana Prime."
+  },
+  "/lotus/language/primes/nikanaprimemeleedanglename": {
+    "value": "NIKANA PRIME SUGATRA"
+  },
   "/lotus/language/primes/oberonprimedesc": {
     "value": "Oberon Prime unleashes dogmatic retribution upon enemies, and supports allies with divine benevolence in equal measure. Featuring altered mod polarities for greater customization."
   },
@@ -49351,6 +49498,12 @@
   },
   "/lotus/language/shipdecorations/hulagirlname": {
     "value": "STATUETTE - DANCING DOLL"
+  },
+  "/lotus/language/shipdecorations/orbiterpictureframe": {
+    "value": "IMAGE VIEWER"
+  },
+  "/lotus/language/shipdecorations/orbiterpictureframedesc": {
+    "value": "Display your codex images proudly on your ship"
   },
   "/lotus/language/shipdecorations/ornamentarbitershexisdesc": {
     "value": "A small icon of the Arbiters Hexis to place in your Orbiter."
@@ -70471,6 +70624,9 @@
   },
   "/lotus/language/upgrades/weaponrecoilmoddesc": {
     "value": "|val|% Weapon Recoil"
+  },
+  "/lotus/language/upgrades/weaponreflectionmodifiermoddesc": {
+    "value": "|val| Bounce"
   },
   "/lotus/language/upgrades/weaponreloadspeedmoddesc": {
     "value": "|val|% Reload Speed"
