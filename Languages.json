@@ -26579,11 +26579,11 @@
   "/lotus/language/items/monkeystaffability": {
     "value": "Primal Fury"
   },
-  "/lotus/language/items/monkeystaffabilityaugmentdesc": {
-    "value": "Primal Fury Augment - Killing an enemy increases Critical Chance by |CHANCE|%. The increase decays by |DECAY|% per second."
-  },
-  "/lotus/language/items/monkeystaffabilityaugmentname": {
+  "/lotus/language/items/monkeystaffabilityaugment1": {
     "value": "Primal Rage"
+  },
+  "/lotus/language/items/monkeystaffabilityaugment1desc": {
+    "value": "Primal Fury Augment - Killing an enemy increases Critical Chance by |CHANCE|%. The increase decays by |DECAY|% per second."
   },
   "/lotus/language/items/monkeystaffabilitydesc": {
     "value": "Summon the iron staff and unleash fury."
