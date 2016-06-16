@@ -866,8 +866,8 @@ DROP_POWERUP (Drop Chance: 25%, Exclusive: no)
 	150-300 CREDITS, RARE, 2.01%
 
 [CorpusRifleSpacemanAgentDropTable]
- - CREWMAN (RifleSpacemanAvatarLeader)
  - CREWMAN (RifleSpacemanAvatar)
+ - CREWMAN (RifleSpacemanAvatarLeader)
 
 DROP_AMMO (Drop Chance: 70%, Exclusive: no)
 	20 RIFLE AMMO, COMMON, 25%
@@ -929,13 +929,10 @@ DROP_AMMO (Drop Chance: 70%, Exclusive: no)
 DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 10%, Exclusive: no)
-	Ammo Drum, COMMON, 25.29%
-	Revenge, COMMON, 25.29%
-	North Wind, UNCOMMON, 11.06%
-	Smite Grineer, UNCOMMON, 11.06%
-	Common Fusion Core, COMMON, 25.29%
-	Life Strike, RARE, 2.01%
+DROP_MOD (Drop Chance: 15%, Exclusive: no)
+	North Wind, UNCOMMON, 45.83%
+	Smite Grineer, UNCOMMON, 45.83%
+	Life Strike, RARE, 8.33%
 
 DROP_POWERUP (Drop Chance: 25%, Exclusive: no)
 	25 ENERGY, COMMON, 37.94%
@@ -979,13 +976,10 @@ DROP_AMMO (Drop Chance: 70%, Exclusive: no)
 DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 10%, Exclusive: no)
-	Ammo Drum, COMMON, 25.29%
-	Revenge, COMMON, 25.29%
-	Molten Impact, UNCOMMON, 11.06%
-	Smite Grineer, UNCOMMON, 11.06%
-	Common Fusion Core, COMMON, 25.29%
-	Tempo Royale, RARE, 2.01%
+DROP_MOD (Drop Chance: 15%, Exclusive: no)
+	Molten Impact, UNCOMMON, 45.83%
+	Smite Grineer, UNCOMMON, 45.83%
+	Tempo Royale, RARE, 8.33%
 
 DROP_POWERUP (Drop Chance: 25%, Exclusive: no)
 	25 ENERGY, COMMON, 37.94%
@@ -1029,13 +1023,10 @@ DROP_AMMO (Drop Chance: 70%, Exclusive: no)
 DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 10%, Exclusive: no)
-	Ammo Drum, COMMON, 25.29%
-	Revenge, COMMON, 25.29%
-	Shocking Touch, UNCOMMON, 11.06%
-	Smite Grineer, UNCOMMON, 11.06%
-	Common Fusion Core, COMMON, 25.29%
-	Astral Twilight, RARE, 2.01%
+DROP_MOD (Drop Chance: 15%, Exclusive: no)
+	Shocking Touch, UNCOMMON, 45.83%
+	Smite Grineer, UNCOMMON, 45.83%
+	Astral Twilight, RARE, 8.33%
 
 DROP_POWERUP (Drop Chance: 25%, Exclusive: no)
 	25 ENERGY, COMMON, 37.94%
@@ -1127,10 +1118,10 @@ DROP_POWERUP (Drop Chance: 25%, Exclusive: no)
 	150-300 CREDITS, RARE, 2.01%
 
 [CorpusSniperSpacemanAgentDropTable]
+ - NULLIFIER CREWMAN (NullifySpacemanAvatar)
  - NULLIFIER CREWMAN (NullifySpacemanAvatarLeader)
  - SNIPER CREWMAN (SniperSpacemanAvatar)
  - SNIPER CREWMAN (SniperSpacemanAvatarLeader)
- - NULLIFIER CREWMAN (NullifySpacemanAvatar)
 
 DROP_AMMO (Drop Chance: 70%, Exclusive: no)
 	20 RIFLE AMMO, COMMON, 25%
@@ -1516,6 +1507,30 @@ DROP_MOD (Drop Chance: 20%, Exclusive: no)
 	Common Fusion Core, COMMON, 75.88%
 	Uncommon Fusion Core, UNCOMMON, 22.11%
 	Rare Fusion Core, RARE, 2.01%
+
+[GrineerChampionHeavyDropTable]
+ - EXECUTIONER DHURNAM (GrineerChampionHeavyAvatar)
+
+DROP_MOD (Drop Chance: 20%, Exclusive: no)
+	Common Fusion Core, COMMON, 75.88%
+	Uncommon Fusion Core, UNCOMMON, 11.06%
+	Rare Fusion Core, RARE, 2.01%
+	Silent Battery, UNCOMMON, 11.06%
+
+[GrineerChampionNightmareDropTable]
+ - EXECUTIONER VAY MOLTA (NightmareGrineerChampionJetpackAvatar)
+ - EXECUTIONER ZURA (NightmareGrineerChampionBeastmasterAvatar)
+ - EXECUTIONER GARESH (NightmareGrineerChampionChargerAvatar)
+ - EXECUTIONER RETH (NightmareGrineerChampionEngineerAvatar)
+ - EXECUTIONER NOK (NightmareGrineerChampionGruntAvatar)
+ - EXECUTIONER DOK THUL (NightmareGrineerChampionHealerAvatar)
+ - EXECUTIONER DHURNAM (NightmareGrineerChampionHeavyAvatar)
+ - EXECUTIONER HARKONAR (NightmareGrineerChampionSniperAvatar)
+ - EXECUTIONER GORTH (NightmareGrineerChampionTankAvatar)
+
+DROP_MOD (Drop Chance: 20%, Exclusive: no)
+	Uncommon Fusion Core, UNCOMMON, 91.67%, Bias 0.16
+	Rare Fusion Core, RARE, 8.33%
 
 [GrineerDoubleBossCaptainVorDropTable]
 
@@ -2086,21 +2101,21 @@ DROP_POWERUP (Drop Chance: 25%, Exclusive: no)
 	150-300 CREDITS, RARE, 2.01%
 
 [GrineerRifleLancerDropTable]
+ - LANCER (RifleLancerAvatar)
  - NIGHTWATCH REAVER (JetpackHeavyMarineAvatar)
  - HELLION (JetpackMarineAvatar)
  - NIGHTWATCH REAVER (JetpackHeavyMarineAvatarLeader)
  - NIGHTWATCH REAVER (JetpackHeavyMarineAvatarRare)
  - LANCER (RifleLancerAvatarLeader)
- - LANCER (RifleLancerAvatar)
  - FRONTIER HEAVY GUNNER (HeavyFemaleGrineerAvatarDesert)
  - FRONTIER HEAVY GUNNER (HeavyFemaleGrineerAvatarDesertLeader)
+ - ARID LANCER (RifleLancerAvatar)
  - HEAVY GUNNER (HeavyFemaleGrineerAvatar)
  - ARID HELLION (JetpackMarineAvatar)
  - ARID LANCER (RifleLancerAvatarLeader)
- - ARID LANCER (RifleLancerAvatar)
+ - FRONTIER LANCER (RifleLancerAvatar)
  - FRONTIER HELLION (JetpackMarineAvatar)
  - FRONTIER LANCER (RifleLancerAvatarLeader)
- - FRONTIER LANCER (RifleLancerAvatar)
  - DREKAR SCORPION (FemaleGrineerMacheteAvatar)
  - DREKAR SCORPION (FemaleGrineerMacheteAvatarLeader)
 
@@ -2130,8 +2145,8 @@ DROP_POWERUP (Drop Chance: 25%, Exclusive: no)
 	150-300 CREDITS, RARE, 2.01%
 
 [GrineerRocketBombardDropTable]
- - BOMBARD (RocketBombardAvatarLeader)
  - BOMBARD (RocketBombardAvatar)
+ - BOMBARD (RocketBombardAvatarLeader)
 
 DROP_AMMO (Drop Chance: 70%, Exclusive: no)
 	20 RIFLE AMMO, COMMON, 25%
@@ -2303,10 +2318,9 @@ DROP_MISC_ITEM (Drop Chance: 100%, Exclusive: no)
 
 DROP_MOD (Drop Chance: 30%, Exclusive: no)
 	Organ Shatter, COMMON, 25.29%
-	Firewalker, RARE, 1.01%
+	Firewalker, RARE, 2.01%
 	Common Fusion Core, COMMON, 25.29%
 	Continuous Misery, COMMON, 25.29%
-	Rare Fusion Core, RARE, 1.01%
 	Terminal Velocity, UNCOMMON, 22.11%
 
 DROP_POWERUP (Drop Chance: 100%, Exclusive: no)
@@ -2344,10 +2358,10 @@ DROP_POWERUP (Drop Chance: 25%, Exclusive: no)
 	150-300 CREDITS, RARE, 2.01%
 
 [GrineerSeaLabRifleLancerDropTable]
+ - DREKAR LANCER (RifleLancerAvatar)
  - DREKAR ELITE LANCER (EliteRifleLancerAvatar)
  - DREKAR ELITE LANCER (EliteRifleLancerAvatarLeader)
  - DREKAR LANCER (RifleLancerAvatarLeader)
- - DREKAR LANCER (RifleLancerAvatar)
 
 DROP_AMMO (Drop Chance: 70%, Exclusive: no)
 	20 RIFLE AMMO, COMMON, 25%
@@ -2609,8 +2623,8 @@ DROP_POWERUP (Drop Chance: 25%, Exclusive: no)
 	150-300 CREDITS, RARE, 2.01%
 
 [InfestationHealingAncientDropTable]
- - ANCIENT HEALER (HealingAncientAvatarLeader)
  - ANCIENT HEALER (HealingAncientAvatar)
+ - ANCIENT HEALER (HealingAncientAvatarLeader)
  - SWARM-MUTALIST MOA (NaniteCloudBipedAvatar)
  - SWARM-MUTALIST MOA (NaniteCloudBipedAvatarLeader)
 
@@ -3989,7 +4003,7 @@ DROP_AMMO (Drop Chance: 0%, Exclusive: no)
 DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 3%, Exclusive: no)
+DROP_MOD (Drop Chance: 20%, Exclusive: no)
 	Common Fusion Core, COMMON, 37.94%
 	Uncommon Fusion Core, UNCOMMON, 11.06%
 	Sudden Impact, COMMON, 37.94%
@@ -4068,12 +4082,13 @@ DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 	Uncommon Resource, COMMON, 100%
 
 DROP_MOD (Drop Chance: 3%, Exclusive: no)
-	Common Fusion Core, COMMON, 38.72%
-	Uncommon Fusion Core, UNCOMMON, 5.64%
-	Extend, COMMON, 38.72%
-	Energy Amplifier, UNCOMMON, 5.64%
-	Venomous Clip, UNCOMMON, 5.64%
-	Electrified Barrel, UNCOMMON, 5.64%
+	Common Fusion Core, COMMON, 37.94%
+	Uncommon Fusion Core, UNCOMMON, 5.53%
+	Extend, COMMON, 37.94%
+	Energy Amplifier, UNCOMMON, 5.53%
+	Venomous Clip, UNCOMMON, 5.53%
+	Electrified Barrel, UNCOMMON, 5.53%
+	Morphic Transformer, RARE, 2.01%
 
 DROP_POWERUP (Drop Chance: 75%, Exclusive: no)
 	25 ENERGY, COMMON, 25%
@@ -4202,12 +4217,13 @@ DROP_MISC_ITEM (Drop Chance: 7%, Exclusive: no)
 	Uncommon Resource, COMMON, 100%
 
 DROP_MOD (Drop Chance: 3%, Exclusive: no)
-	Common Fusion Core, COMMON, 19.36%
-	Uncommon Fusion Core, UNCOMMON, 11.28%
-	Argon Plating, COMMON, 19.36%
-	Parallax Scope, COMMON, 19.36%
-	Cutting Edge, COMMON, 19.36%
-	Combustion Rounds, UNCOMMON, 11.28%
+	Common Fusion Core, COMMON, 18.97%
+	Uncommon Fusion Core, UNCOMMON, 11.06%
+	Argon Plating, COMMON, 18.97%
+	Parallax Scope, COMMON, 18.97%
+	Cutting Edge, COMMON, 18.97%
+	Combustion Rounds, UNCOMMON, 11.06%
+	Morphic Transformer, RARE, 2.01%
 
 DROP_POWERUP (Drop Chance: 75%, Exclusive: no)
 	25 ENERGY, COMMON, 25%
