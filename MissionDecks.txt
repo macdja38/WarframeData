@@ -1163,6 +1163,7 @@ Rotation A:
   1 Tranquil Cleave, RARE, 0.4%
 
 [KelaEventRewardsHard]
+ - Sedna, Vodyanoi, MT_ARENA, FC_GRINEER
  - Sedna, Yam, MT_ARENA, FC_GRINEER
 
 Rotation A:
