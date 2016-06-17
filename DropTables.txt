@@ -1510,12 +1510,12 @@ DROP_MOD (Drop Chance: 20%, Exclusive: no)
 
 [GrineerChampionHeavyDropTable]
  - EXECUTIONER DHURNAM (GrineerChampionHeavyAvatar)
+ - EXECUTIONER DHURNAM (NightmareGrineerChampionHeavyAvatar)
 
 DROP_MOD (Drop Chance: 20%, Exclusive: no)
-	Common Fusion Core, COMMON, 75.88%
-	Uncommon Fusion Core, UNCOMMON, 11.06%
-	Rare Fusion Core, RARE, 2.01%
-	Silent Battery, UNCOMMON, 11.06%
+	Uncommon Fusion Core, UNCOMMON, 45.83%
+	Rare Fusion Core, RARE, 8.33%
+	Silent Battery, UNCOMMON, 45.83%
 
 [GrineerChampionNightmareDropTable]
  - EXECUTIONER VAY MOLTA (NightmareGrineerChampionJetpackAvatar)
@@ -1524,7 +1524,6 @@ DROP_MOD (Drop Chance: 20%, Exclusive: no)
  - EXECUTIONER RETH (NightmareGrineerChampionEngineerAvatar)
  - EXECUTIONER NOK (NightmareGrineerChampionGruntAvatar)
  - EXECUTIONER DOK THUL (NightmareGrineerChampionHealerAvatar)
- - EXECUTIONER DHURNAM (NightmareGrineerChampionHeavyAvatar)
  - EXECUTIONER HARKONAR (NightmareGrineerChampionSniperAvatar)
  - EXECUTIONER GORTH (NightmareGrineerChampionTankAvatar)
 
