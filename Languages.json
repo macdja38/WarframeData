@@ -9819,7 +9819,7 @@
     "value": "[Placeholder] This should not be shipping with Update 14."
   },
   "/lotus/language/dojo/sectorwarsmid03name": {
-    "value": "PLACEHOLDER"
+    "value": "[Placeholder]"
   },
   "/lotus/language/dojo/sectorwarsmid04desc": {
     "value": "Several generators power the defense grid protecting this room. Do not let your enemies destroy them."
@@ -11562,7 +11562,7 @@
     "value": "Mercury"
   },
   "/lotus/language/fragments/mercury1desc": {
-    "value": "Now the Galleon fleets keep watch over the Grineer mining operations that penetrate Mercury’s asteroid field. Cavernous rooms and twisting metal corridors mark where labourers have stripped the region for crucial resources, transforming the natural landscape to support Grineer occupancy. Operator! What a gift this is... one of my lost memories... restored!"
+    "value": "Galleon fleets keep watch over the Grineer mining operations that penetrate Mercury’s asteroid field. Cavernous rooms and twisting metal corridors mark where labourers have stripped the region for crucial resources, transforming the natural landscape to support Grineer occupancy."
   },
   "/lotus/language/fragments/mercury1flavor": {
     "value": "The Grineer serve us here, deep inside the hellish subterranean mines. The beasts feed our greatness."
@@ -21126,7 +21126,7 @@
     "value": "Magnetize"
   },
   "/lotus/language/items/bulletattractorabilityaugmentdesc": {
-    "value": "Placeholder"
+    "value": "[Placeholder]"
   },
   "/lotus/language/items/bulletattractorabilityaugmentname": {
     "value": "[Placeholder] MAGNETIZE AUGMENT"
@@ -29838,7 +29838,7 @@
     "value": "Leaping Slash"
   },
   "/lotus/language/items/pvpdualdaggersstanceone": {
-    "value": "Bitting Piranha"
+    "value": "Biting Piranha"
   },
   "/lotus/language/items/pvpdualswordstanceone": {
     "value": "Dividing Blades"
@@ -34167,7 +34167,7 @@
     "value": "This is a moderately effective antitoxin."
   },
   "/lotus/language/items/yellowantitoxinname": {
-    "value": "CIRTINE ANTITOXIN"
+    "value": "CITRINE ANTITOXIN"
   },
   "/lotus/language/items/yinyangauradesc": {
     "value": "In Night Form reduces damage inflicted by nearby enemies. In Day Form increases Power Strength of nearby allies."
@@ -42615,7 +42615,7 @@
     "value": "LUNARO"
   },
   "/lotus/language/menu/loadout_lunaroscoop": {
-    "value": "[PLACEHOLDER] SCOOP"
+    "value": "ARCATA"
   },
   "/lotus/language/menu/loadout_maxpveloadoutsreached": {
     "value": "You already used your |SLOTS| loadout slots. You can get an extra slot for every two mastery ranks."
@@ -43944,7 +43944,7 @@
     "value": "You need to unlock |REGION| to play this event."
   },
   "/lotus/language/menu/needtutorialagain": {
-    "value": "Welcome back Tenno. You will now play through a short tutorial mission which explains some features which may be new to you since you last played Warframe. Your old equipment and progress has not been lost and will be waiting for you when you complete this mission."
+    "value": "Welcome back, Tenno. You will now play through a short tutorial mission which explains some features which may be new to you since you last played Warframe. Your old equipment and progress has not been lost and will be waiting for you when you complete this mission."
   },
   "/lotus/language/menu/nettest_analyzingnetwork": {
     "value": "Analyzing network..."
@@ -51249,7 +51249,7 @@
     "value": "A relic? A trinket? How did it get here? What does it say? Who wrote this?"
   },
   "/lotus/language/shipdecorations/bobbleheadorokinfelisname": {
-    "value": "STATUETTE - KURIA"
+    "value": "STATUETTE - - KURIA"
   },
   "/lotus/language/shipdecorations/bobbleheadrhinodesc": {
     "value": "A small wobbly statue of Rhino."
@@ -63888,7 +63888,7 @@
     "value": "It won't change what's happening… To the others, to my sisters and brothers. Your death won't stop the Queens. I will have to."
   },
   "/lotus/language/subtitles/dmountainpeak0050teshin": {
-    "value": "If you do this I cannot help you."
+    "value": "If you do this, I cannot help you."
   },
   "/lotus/language/subtitles/dmountainpeak0060operatorvoicea": {
     "value": "You already did."
@@ -64347,7 +64347,7 @@
     "value": "Operator?! Operator!? Operator... can you hear me? Wake up... wake up! Don't leave me… alone again."
   },
   "/lotus/language/subtitles/dorbiterawaken0020ordis": {
-    "value": "Great job, Ordis. Ship Cephalon? More like Ship Fail-bot. When the Operator needed you most you --"
+    "value": "Great job, Ordis. Ship Cephalon? More like Ship Fail-bot. When the Operator needed you most, you --"
   },
   "/lotus/language/subtitles/dorbiterawaken0030ordis": {
     "value": "-- you glitch out like a psycho and start spouting Old War cliches. You're a monster! You don't deserve the Operator at all..."
@@ -64359,13 +64359,13 @@
     "value": "Uh… Okay Ordis, enough."
   },
   "/lotus/language/subtitles/dorbiterawaken0040operatorvoicec": {
-    "value": "Uh… Okay Ordis, enough."
+    "value": "Uh… Okay, Ordis, enough."
   },
   "/lotus/language/subtitles/dorbiterawaken0040operatorvoiced": {
     "value": "Uh… Okay Ordis, enough."
   },
   "/lotus/language/subtitles/dorbiterawaken0050ordis": {
-    "value": "Operator?! Oh by stars. I am so sorry. I do not know what happened. Please, command me to self-destruct. Let me start it for you... commencing self-destruct in 5--4--3--"
+    "value": "Operator?! Oh, by stars. I am so sorry. I do not know what happened. Please, command me to self-destruct. Let me start it for you... commencing self-destruct in 5--4--3--"
   },
   "/lotus/language/subtitles/dorbiterawaken0060operatorvoicea": {
     "value": "--Stop… just… uh… just get the Transference system powered again. I have to go back."
@@ -64413,13 +64413,13 @@
     "value": "If Transference is your link to the Warframes, could it also be your link to the Lotus?"
   },
   "/lotus/language/subtitles/dorbiterawaken0120ordis": {
-    "value": "Maybe you should rest Operator. I'm sure Transference will return. Whenever I'm feeling not myself, I just reset and then… RIP AND TEAR... good as new!"
+    "value": "Maybe you should rest, Operator. I'm sure Transference will return. Whenever I'm feeling not myself, I just reset and then… RIP AND TEAR... good as new!"
   },
   "/lotus/language/subtitles/dorbiterawaken0121ordis": {
     "value": "Sorry, I've been trying.  You might need to do your Transference... thing again... re-energize with your... Tenno stuff!"
   },
   "/lotus/language/subtitles/dorbiterawaken0130ordis": {
-    "value": "An Old War signal, on a private frequency. Not worth your time, obviously it's a trap."
+    "value": "An Old War signal on a private frequency. Not worth your time, obviously it's a trap."
   },
   "/lotus/language/subtitles/dorbiterawaken0140operatorvoicea": {
     "value": "Set a course."
@@ -65247,7 +65247,7 @@
     "value": "Stupid beasts! Careful now, you'll break it!"
   },
   "/lotus/language/subtitles/dqueensconfontation0020elderqueen": {
-    "value": "Rise dear child. Come join us."
+    "value": "Rise, dear child. Come join us."
   },
   "/lotus/language/subtitles/dqueensconfontation0030operatorvoicea": {
     "value": "Why don't you hurry up and die? Save me the trouble."
@@ -65268,7 +65268,7 @@
     "value": "Is that any way to speak to yourself? Soon I will have your delicate porcelain as my own. Teshin, teach this child some manners."
   },
   "/lotus/language/subtitles/dqueensconfontation0050elderqueen": {
-    "value": "Don't be afraid, child, the flesh is weak but the spirit --"
+    "value": "Don't be afraid, child, the flesh is weak, but the spirit --"
   },
   "/lotus/language/subtitles/dqueensconfontation0060operatorvoicea": {
     "value": "-- but the spirit endures… Are you even human anymore?"
@@ -65337,7 +65337,7 @@
     "value": "She's feeling nostalgic, Dax."
   },
   "/lotus/language/subtitles/dqueenslair0050elderqueen": {
-    "value": "You must bring me one. Not a dreamer. One Awake. Bring me my Yuvan!"
+    "value": "You must bring me one. Not a dreamer. One awake. Bring me my Yuvan!"
   },
   "/lotus/language/subtitles/dqueenslair0060teshin": {
     "value": "Impossible."
@@ -65346,40 +65346,40 @@
     "value": "Teshin Dax. You forget how rash children can be!"
   },
   "/lotus/language/subtitles/dqueenslair0080elderqueen": {
-    "value": "Come out child. There's no need to hide from us. You're safe in your cradle, are you not?"
+    "value": "Come out, child. There's no need to hide from us. You're safe in your cradle, are you not?"
   },
   "/lotus/language/subtitles/dqueenslair0090teshin": {
     "value": "Pupil, you should not be here."
   },
   "/lotus/language/subtitles/dqueenslair0100operatorvoicea": {
-    "value": "'Teshin Dax'?"
+    "value": "Teshin Dax?"
   },
   "/lotus/language/subtitles/dqueenslair0100operatorvoiceb": {
-    "value": "'Teshin Dax'?"
+    "value": "Teshin Dax?"
   },
   "/lotus/language/subtitles/dqueenslair0100operatorvoicec": {
-    "value": "'Teshin Dax'?"
+    "value": "Teshin Dax?"
   },
   "/lotus/language/subtitles/dqueenslair0100operatorvoiced": {
-    "value": "'Teshin Dax'?"
+    "value": "Teshin Dax?"
   },
   "/lotus/language/subtitles/dqueenslair0110operatorvoicea": {
-    "value": "'Teshin Dax'? You're… with them?"
+    "value": "Teshin Dax? You're… with them?"
   },
   "/lotus/language/subtitles/dqueenslair0110operatorvoiceb": {
-    "value": "'Teshin Dax'? You're… with them?"
+    "value": "Teshin Dax? You're… with them?"
   },
   "/lotus/language/subtitles/dqueenslair0110operatorvoicec": {
-    "value": "'Teshin Dax'? You're… with them?"
+    "value": "Teshin Dax? You're… with them?"
   },
   "/lotus/language/subtitles/dqueenslair0110operatorvoiced": {
-    "value": "'Teshin Dax'? You're… with them?"
+    "value": "Teshin Dax? You're… with them?"
   },
   "/lotus/language/subtitles/dqueenslair0120wormqueen": {
     "value": "I'm afraid, sister!"
   },
   "/lotus/language/subtitles/dqueenslair0130elderqueen": {
-    "value": "Hush worm, let the beasts do their work… Bring me that Infested puppet!"
+    "value": "Hush, worm, let the beasts do their work… Bring me that Infested puppet!"
   },
   "/lotus/language/subtitles/dqueenslair0140operatorvoicea": {
     "value": "What was that?"
