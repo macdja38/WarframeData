@@ -21,6 +21,7 @@ Rotation C:
   1 NEURAL SENSORS, UNCOMMON, 7.37%
   1 Uncommon Fusion Core, COMMON, 25.29%
 
+
 [ArchwingExterminateRewards]
  - Venus, Montes, MT_EXTERMINATION, FC_CORPUS
 
@@ -32,6 +33,7 @@ Rotation A:
   1 PHAEDRA RECEIVER, UNCOMMON, 5.64%
   1 Extend, COMMON, 25.81%
   1 Shell Rush, UNCOMMON, 5.64%
+
 
 [ArchwingMobileDRewards]
  - Earth, Erpo, MT_MOBILE_DEFENSE, FC_GRINEER
@@ -46,6 +48,7 @@ Rotation A:
   1 Superior Defenses, COMMON, 15.49%
   1 ONORIX HANDLE, COMMON, 15.49%
 
+
 [ArchwingSabotageRewards]
  - Jupiter, Galilea, MT_SABOTAGE, FC_CORPUS
 
@@ -59,12 +62,14 @@ Rotation A:
   1 FLUCTUS BARREL, UNCOMMON, 7.52%
   1 CENTAUR AEGIS, COMMON, 15.49%
 
+
 [BossMissionRewards/AtlasRewards]
 
 Rotation A:
   1 ATLAS HELMET BLUEPRINT, COMMON, 38.72%
   1 ATLAS CHASSIS BLUEPRINT, COMMON, 38.72%
   1 ATLAS SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
 
 [BossMissionRewards/BerserkerRewards]
  - Jupiter, Themisto, MT_ASSASSINATION, FC_CORPUS
@@ -74,12 +79,14 @@ Rotation A:
   1 VALKYR CHASSIS BLUEPRINT, COMMON, 38.72%
   1 VALKYR SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
 
+
 [BossMissionRewards/CowgirlRewards]
 
 Rotation A:
   1 MESA HELMET BLUEPRINT, COMMON, 38.72%
   1 MESA CHASSIS BLUEPRINT, COMMON, 38.72%
   1 MESA SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
 
 [BossMissionRewards/EmberRewards]
  - Saturn, Tethys, MT_ASSASSINATION, FC_GRINEER
@@ -89,6 +96,7 @@ Rotation A:
   1 EMBER CHASSIS BLUEPRINT, COMMON, 38.72%
   1 EMBER SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
 
+
 [BossMissionRewards/ExcaliburRewards]
  - Pluto, Hades, MT_ASSASSINATION, FC_CORPUS
 
@@ -96,6 +104,7 @@ Rotation A:
   1 EXCALIBUR HELMET BLUEPRINT, COMMON, 38.72%
   1 EXCALIBUR CHASSIS BLUEPRINT, COMMON, 38.72%
   1 EXCALIBUR SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
 
 [BossMissionRewards/FrostRewards]
  - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER
@@ -105,6 +114,7 @@ Rotation A:
   1 FROST CHASSIS BLUEPRINT, COMMON, 38.72%
   1 FROST SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
 
+
 [BossMissionRewards/HydroidRewards]
  - Earth, Oro, MT_ASSASSINATION, FC_GRINEER
 
@@ -112,6 +122,7 @@ Rotation A:
   1 HYDROID HELMET BLUEPRINT, COMMON, 38.72%
   1 HYDROID CHASSIS BLUEPRINT, COMMON, 38.72%
   1 HYDROID SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
 
 [BossMissionRewards/LokiRewards]
  - Neptune, Psamathe, MT_ASSASSINATION, FC_CORPUS
@@ -121,6 +132,7 @@ Rotation A:
   1 LOKI CHASSIS BLUEPRINT, COMMON, 38.72%
   1 LOKI SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
 
+
 [BossMissionRewards/MagRewards]
  - Mars, War, MT_ASSASSINATION, FC_CORPUS
 
@@ -128,6 +140,7 @@ Rotation A:
   1 MAG HELMET BLUEPRINT, COMMON, 38.72%
   1 MAG CHASSIS BLUEPRINT, COMMON, 38.72%
   1 MAG SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
 
 [BossMissionRewards/MiterGremlinsRewards]
  - Phobos, Iliad, MT_ASSASSINATION, FC_GRINEER
@@ -140,6 +153,7 @@ Rotation A:
   1 MITER BLUEPRINT, COMMON, 16.67%
   1 TWIN GREMLINS BLUEPRINT, COMMON, 16.67%
 
+
 [BossMissionRewards/NovaRewards]
  - Europa, Naamah, MT_ASSASSINATION, FC_CORPUS
 
@@ -148,12 +162,14 @@ Rotation A:
   1 NOVA CHASSIS BLUEPRINT, COMMON, 38.72%
   1 NOVA SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
 
+
 [BossMissionRewards/NyxRewards]
 
 Rotation A:
   1 NYX HELMET BLUEPRINT, COMMON, 38.72%
   1 NYX CHASSIS BLUEPRINT, COMMON, 38.72%
   1 NYX SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
 
 [BossMissionRewards/RhinoRewards]
  - Venus, Fossa, MT_ASSASSINATION, FC_CORPUS
@@ -163,6 +179,7 @@ Rotation A:
   1 RHINO CHASSIS BLUEPRINT, COMMON, 38.72%
   1 RHINO SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
 
+
 [BossMissionRewards/SarynRewards]
  - Sedna, Merrow, MT_ASSASSINATION, FC_GRINEER
 
@@ -170,6 +187,7 @@ Rotation A:
   1 SARYN HELMET BLUEPRINT, COMMON, 38.72%
   1 SARYN CHASSIS BLUEPRINT, COMMON, 38.72%
   1 SARYN SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
 
 [BossMissionRewards/SeerPistolRewards]
  - Mercury, Tolstoj, MT_ASSASSINATION, FC_GRINEER
@@ -179,12 +197,14 @@ Rotation A:
   1 SEER PISTOL BARREL, COMMON, 38.72%
   1 SEER PISTOL RECEIVER, UNCOMMON, 22.56%
 
+
 [BossMissionRewards/TrinityRewards]
 
 Rotation A:
   1 TRINITY HELMET BLUEPRINT, COMMON, 38.72%
   1 TRINITY CHASSIS BLUEPRINT, COMMON, 38.72%
   1 TRINITY SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
 
 [BossMissionRewards/YinYangRewards]
  - Uranus, Titania, MT_ASSASSINATION, FC_GRINEER
@@ -199,8 +219,12 @@ Rotation A:
   1 EQUINOX DAY HELMET BLUEPRINT, COMMON, 12.91%
   1 EQUINOX DAY SYSTEMS BLUEPRINT, COMMON, 12.91%
 
+
 [CacheRewardsEasy]
  - Mercury, Neruda, MT_SABOTAGE, FC_GRINEER
+ - Venus, Tessera, MT_SABOTAGE, FC_CORPUS
+ - Mars, Tharsis, MT_SABOTAGE, FC_GRINEER
+ - Mars, Gradivus, MT_SABOTAGE, FC_CORPUS
 
 Rotation A:
   1 1000 CREDITS, COMMON, 25%
@@ -234,7 +258,12 @@ Rotation C:
   1 NITAIN EXTRACT, RARE, 0.67%
   1 XIPHOS FUSELAGE BLUEPRINT, LEGENDARY, 0.5%
 
+
 [CacheRewardsHard]
+ - Neptune, Halimede, MT_SABOTAGE, FC_CORPUS
+ - Pluto, Charon, MT_SABOTAGE, FC_CORPUS
+ - Pluto, Cypress, MT_SABOTAGE, FC_CORPUS
+ - Ceres, Thon, MT_SABOTAGE, FC_GRINEER
 
 Rotation A:
   1 4000 CREDITS, COMMON, 38.72%
@@ -268,8 +297,11 @@ Rotation C:
   1 NITAIN EXTRACT, RARE, 2%
   1 XIPHOS AVIONICS BLUEPRINT, LEGENDARY, 0.5%
 
+
 [CacheRewardsMedium]
+ - Saturn, Pallene, MT_SABOTAGE, FC_GRINEER
  - Uranus, Portia, MT_SABOTAGE, FC_GRINEER
+ - Europa, Gamygyn, MT_SABOTAGE, FC_CORPUS
 
 Rotation A:
   1 2500 CREDITS, COMMON, 33.33%
@@ -302,6 +334,7 @@ Rotation C:
   1 ARGON CRYSTAL, RARE, 1%
   1 NITAIN EXTRACT, RARE, 1%
   1 XIPHOS ENGINES BLUEPRINT, LEGENDARY, 0.5%
+
 
 [CaptureMissionRewardsA]
  - Mercury, Caloris, MT_CAPTURE, FC_GRINEER
@@ -358,6 +391,7 @@ Rotation A:
   1 TOWER II SURVIVAL KEY, RARE, 0.17%
   1 TOWER III EXTERMINATE KEY, RARE, 0.17%
 
+
 [ClemCloneRewards]
 
 Rotation A:
@@ -368,6 +402,7 @@ Rotation B:
 
 Rotation C:
   1 CLEM CLONE BLUEPRINT, COMMON, 100%
+
 
 [CorpusInfestedSabotageRewards]
  - Eris, Candiru, MT_HIVE, FC_INFESTATION
@@ -407,6 +442,7 @@ Rotation C:
   1 Shell Shock, UNCOMMON, 4.51%
   1 Firestorm, UNCOMMON, 4.51%
 
+
 [DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy]
  - Neptune, Salacia, MT_DEFENSE, FC_CORPUS
 
@@ -434,6 +470,7 @@ Rotation C:
   1 CORVAS STOCK, COMMON, 25.81%
   1 PHAEDRA STOCK, COMMON, 25.81%
   1 KASZAS BLADE, UNCOMMON, 11.28%
+
 
 [DefenseMissionRewards/BadlandsDefenseMissionRewards]
  - Venus, Romula, MT_DEFENSE, FC_INFESTATION
@@ -515,6 +552,7 @@ Rotation C:
   1 Enduring Strike, RARE, 0.4%
   1 Life Strike, RARE, 0.4%
 
+
 [DefenseMissionRewards/DefenseMissionRewardsEasy]
  - Mercury, Lares, MT_DEFENSE, FC_GRINEER
  - Venus, Venera, MT_DEFENSE, FC_CORPUS
@@ -572,6 +610,7 @@ Rotation C:
   1 TOWER I MOBILE DEFENSE KEY, COMMON, 15.49%
   1 TOWER I EXTERMINATE KEY, COMMON, 15.49%
   1 TOWER I SURVIVAL KEY, COMMON, 15.49%
+
 
 [DefenseMissionRewards/DefenseMissionRewardsHard]
  - Earth, Stöfler, MT_DEFENSE, FC_GRINEER
@@ -637,6 +676,7 @@ Rotation C:
   1 TOWER III EXTERMINATE KEY, COMMON, 15.49%
   1 TOWER III SURVIVAL KEY, COMMON, 15.49%
 
+
 [DefenseMissionRewards/DefenseMissionRewardsMedium]
  - Saturn, Helene, MT_DEFENSE, FC_GRINEER
  - Saturn, Birog, MT_DEFENSE, FC_GRINEER
@@ -699,6 +739,7 @@ Rotation C:
   1 TOWER II EXTERMINATE KEY, COMMON, 15.49%
   1 TOWER II SURVIVAL KEY, COMMON, 15.49%
 
+
 [DerelictDefenseRewards]
 
 Rotation A:
@@ -716,15 +757,17 @@ Rotation B:
   1 MUTALIST ALAD V NAV COORDINATE, UNCOMMON, 22.56%
 
 Rotation C:
-  1 TRINITY PRIME BLUEPRINT, COMMON, 12.91%, 30 Ducats
+  1 TRINITY PRIME BLUEPRINT, COMMON, 11.06%, 30 Ducats
   1 DUAL KAMAS PRIME HANDLE, UNCOMMON, 7.52%, 20 Ducats
   1 SOMA PRIME STOCK, UNCOMMON, 7.52%, 50 Ducats
-  1 TOWER II MOBILE DEFENSE KEY, COMMON, 12.91%
-  1 TOWER II CAPTURE KEY, COMMON, 12.91%
-  1 TOWER II EXTERMINATE KEY, COMMON, 12.91%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 11.06%
+  1 TOWER II CAPTURE KEY, COMMON, 11.06%
+  1 TOWER II EXTERMINATE KEY, COMMON, 11.06%
   1 FORMA BLUEPRINT, UNCOMMON, 7.52%
-  1 TOWER II DEFENSE KEY, COMMON, 12.91%
-  1 TOWER II SURVIVAL KEY, COMMON, 12.91%
+  1 TOWER II DEFENSE KEY, COMMON, 11.06%
+  1 TOWER II SURVIVAL KEY, COMMON, 11.06%
+  1 MAG PRIME SYSTEMS BLUEPRINT, COMMON, 11.06%, 20 Ducats
+
 
 [DerelictSurvivalRewards]
 
@@ -748,6 +791,7 @@ Rotation C:
   1 TOWER II EXTERMINATE KEY, COMMON, 19.36%
   1 NOVA PRIME SYSTEMS BLUEPRINT, UNCOMMON, 11.28%, 50 Ducats
   1 FORMA BLUEPRINT, UNCOMMON, 11.28%
+
 
 [ExtractionMissionRewards/ExtractionLowLevelRewards]
 
@@ -782,6 +826,7 @@ Rotation C:
   1 Reflex Coil, COMMON, 7.69%
   1 Gemini Cross, COMMON, 7.69%
 
+
 [ExtractionMissionRewards/LimboChassisQuestExcavationRewards]
 
 Rotation A:
@@ -798,6 +843,7 @@ Rotation C:
   1 2000 CREDITS, COMMON, 33.33%
   1 3000 CREDITS, COMMON, 33.33%
   1 LIMBO CHASSIS BLUEPRINT, COMMON, 33.33%
+
 
 [ExtractionMissionRewards/LimboHelmetQuestExcavationRewards]
 
@@ -816,6 +862,7 @@ Rotation C:
   1 3000 CREDITS, COMMON, 33.33%
   1 LIMBO HELMET BLUEPRINT, COMMON, 33.33%
 
+
 [ExtractionMissionRewards/LimboSystemsQuestExcavationRewards]
 
 Rotation A:
@@ -832,6 +879,7 @@ Rotation C:
   1 2000 CREDITS, COMMON, 33.33%
   1 3000 CREDITS, COMMON, 33.33%
   1 LIMBO SYSTEMS BLUEPRINT, COMMON, 33.33%
+
 
 [ForestSabotageRewards]
  - Earth, Mariana, MT_SABOTAGE, FC_GRINEER
@@ -858,11 +906,13 @@ Rotation C:
   1 FORMA BLUEPRINT, COMMON, 33.33%
   1 HEALTH RESTORE, COMMON, 33.33%
 
+
 [FusionCoreRewards]
 
 Rotation A:
   5 Rare Fusion Core, COMMON, 77.44%
   10 Rare Fusion Core, UNCOMMON, 22.56%
+
 
 [GolemMissionRewards]
 
@@ -870,6 +920,7 @@ Rotation A:
   1 NEKROS CHASSIS BLUEPRINT, UNCOMMON, 33.33%
   1 NEKROS HELMET BLUEPRINT, UNCOMMON, 33.33%
   1 NEKROS SYSTEMS BLUEPRINT, UNCOMMON, 33.33%
+
 
 [HalloweenExtermEventRewards]
 
@@ -907,6 +958,7 @@ Rotation C:
   1 Focus Energy, UNCOMMON, 3.76%
   1 Rending Strike, UNCOMMON, 3.76%
 
+
 [InfestedIncursionsSurvivalRewards]
 
 Rotation A:
@@ -928,6 +980,7 @@ Rotation C:
   1 Voltaic Strike, UNCOMMON, 5.64%
   1 Shell Shock, UNCOMMON, 5.64%
   1 High Voltage, UNCOMMON, 5.64%
+
 
 [InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard]
  - Uranus, Caelus, MT_TERRITORY, FC_GRINEER
@@ -967,6 +1020,7 @@ Rotation C:
   1 CENTAUR BLADE, COMMON, 11.11%
   1 FLUCTUS LIMBS, COMMON, 11.11%
   1 CORVAS RECEIVER, COMMON, 11.11%
+
 
 [InterceptionMissionRewards/InterceptionMissionRewardsEasy]
  - Mercury, Odin, MT_TERRITORY, FC_GRINEER
@@ -1014,6 +1068,7 @@ Rotation C:
   1 TOWER I EXTERMINATE KEY, COMMON, 16.24%
   1 TOWER I SABOTAGE KEY, COMMON, 16.24%
 
+
 [InterceptionMissionRewards/InterceptionMissionRewardsHard]
  - Uranus, Stephano, MT_TERRITORY, FC_GRINEER
  - Pluto, Cerberus, MT_TERRITORY, FC_CORPUS
@@ -1044,6 +1099,7 @@ Rotation C:
   1 TOWER IV SURVIVAL KEY, COMMON, 32.47%
   1 TOWER IV DEFENSE KEY, COMMON, 32.47%
   1 TOWER IV INTERCEPTION KEY, COMMON, 32.47%
+
 
 [InterceptionMissionRewards/InterceptionMissionRewardsMedium]
  - Mars, Augustus, MT_TERRITORY, FC_CORPUS
@@ -1089,6 +1145,7 @@ Rotation C:
   1 TOWER IV MOBILE DEFENSE KEY, COMMON, 24.35%
   1 TOWER IV EXTERMINATE KEY, COMMON, 24.35%
   1 TOWER IV CAPTURE KEY, COMMON, 24.35%
+
 
 [InterceptRewardsGrineer]
 
@@ -1150,6 +1207,7 @@ Rotation C:
   1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 2.21%
   1 TOWER III SURVIVAL KEY, UNCOMMON, 2.21%
 
+
 [KelaEventRewardsEasy]
  - Sedna, Undine, MT_ARENA, FC_GRINEER
 
@@ -1161,6 +1219,7 @@ Rotation A:
   1 High Noon, RARE, 0.4%
   1 Four Riders, RARE, 0.4%
   1 Tranquil Cleave, RARE, 0.4%
+
 
 [KelaEventRewardsHard]
  - Sedna, Yam, MT_ARENA, FC_GRINEER
@@ -1175,6 +1234,7 @@ Rotation A:
   1 Tempo Royale, LEGENDARY, 0.25%
   1 Vengeful Revenant, LEGENDARY, 0.25%
 
+
 [KelaEventRewardsMedium]
  - Sedna, Nakki, MT_ARENA, FC_GRINEER
 
@@ -1187,6 +1247,7 @@ Rotation A:
   1 Vermillion Storm, RARE, 0.34%
   1 Stalking Fan, RARE, 0.34%
   1 Decisive Judgement, RARE, 0.34%
+
 
 [MacheteMayhemBonusRewards]
 
@@ -1204,10 +1265,12 @@ Rotation A:
   1 High Voltage, UNCOMMON, 5.53%
   1 Shell Shock, UNCOMMON, 5.53%
 
+
 [MirageRewards]
 
 Rotation A:
   1 OROKIN CIPHER, COMMON, 100%
+
 
 [MissionRewardsCorpus]
 
@@ -1269,6 +1332,7 @@ Rotation C:
   1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 2.21%
   1 TOWER III SURVIVAL KEY, UNCOMMON, 2.21%
 
+
 [MissionRewardsGrineer]
 
 Rotation A:
@@ -1328,6 +1392,7 @@ Rotation C:
   1 TOWER III DEFENSE KEY, UNCOMMON, 2.21%
   1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 2.21%
   1 TOWER III SURVIVAL KEY, UNCOMMON, 2.21%
+
 
 [MissionRewardsInfested]
 
@@ -1389,6 +1454,7 @@ Rotation C:
   1 TOWER III MOBILE DEFENSE KEY, UNCOMMON, 2.21%
   1 TOWER III SURVIVAL KEY, UNCOMMON, 2.21%
 
+
 [NightmareModeRewards]
 
 Rotation A:
@@ -1408,6 +1474,7 @@ Rotation A:
   1 Armored Agility, RARE, 0.67%
   1 Animal Instinct, UNCOMMON, 5.53%
   1 Seeking Fury, COMMON, 8.43%
+
 
 [OceanSabotageRewards]
  - Uranus, Ariel, MT_SABOTAGE, FC_GRINEER
@@ -1445,6 +1512,7 @@ Rotation C:
   1 Toxic Flight, UNCOMMON, 4.51%
   5 Rare Fusion Core, UNCOMMON, 4.51%
 
+
 [OrokinDerelictSabotageRewards]
 
 Rotation A:
@@ -1480,6 +1548,7 @@ Rotation C:
   5 Rare Fusion Core, UNCOMMON, 3.76%
   1 Enemy Sense, UNCOMMON, 3.76%
   1 Master Thief, UNCOMMON, 3.76%
+
 
 [OrokinSabotageEventRewards]
  - Ceres, Gate Crash, MT_SABOTAGE, FC_GRINEER
@@ -1529,6 +1598,7 @@ Rotation C:
   1 NEURAL SENSORS, UNCOMMON, 3.76%
   1 Rare Fusion Core, COMMON, 25.81%
 
+
 [ProjectFriendlyFireRewardsBasic]
 
 Rotation A:
@@ -1541,6 +1611,7 @@ Rotation A:
   5 Rare Fusion Core, COMMON, 18.97%
   10 Rare Fusion Core, UNCOMMON, 22.11%
 
+
 [ProjectFriendlyFireRewardsBonus]
 
 Rotation A:
@@ -1552,6 +1623,7 @@ Rotation A:
   1 Pistol Pestilence, COMMON, 19.36%
   1 Malignant Force, COMMON, 19.36%
   1 Toxic Barrage, COMMON, 19.36%
+
 
 [ProjectPanaceaBonusRewards]
 
@@ -1576,6 +1648,7 @@ Rotation A:
   2 Vazarin Transmute Core, UNCOMMON, 3.16%
   1 Naramon Transmute Core, UNCOMMON, 3.16%
 
+
 [ProjectSinisterRewardsBasic]
 
 Rotation A:
@@ -1587,6 +1660,7 @@ Rotation A:
   1 3000 CREDITS, COMMON, 18.97%
   5 Rare Fusion Core, COMMON, 18.97%
   10 Rare Fusion Core, UNCOMMON, 11.06%
+
 
 [ProjectSinisterRewardsBonus]
 
@@ -1622,6 +1696,7 @@ Rotation C:
   1 Pressurized Magazine, RARE, 0.67%
   1 Narrow Barrel, RARE, 0.67%
 
+
 [ProjectSinisterRewardsFinal]
 
 Rotation A:
@@ -1646,6 +1721,7 @@ Rotation A:
   1 Narrow Barrel, RARE, 0.67%
   1 Focused Defense, COMMON, 10.84%
 
+
 [ProjectUndermineBonusRewards]
 
 Rotation A:
@@ -1662,6 +1738,7 @@ Rotation A:
   1 High Voltage, UNCOMMON, 2.26%
   1 Shell Shock, UNCOMMON, 2.26%
 
+
 [ProjectUndermineRewards]
 
 Rotation A:
@@ -1677,6 +1754,7 @@ Rotation A:
   1 Jolt, RARE, 1.19%
   1 High Voltage, UNCOMMON, 18.33%
   1 Shell Shock, RARE, 1.19%
+
 
 [PVPMissionRewards/CTFRewards]
  - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER
@@ -1728,6 +1806,7 @@ Rotation A:
   1 Skull Shots, UNCOMMON, 0.6%
   1 Brain Storm, UNCOMMON, 0.6%
 
+
 [PVPMissionRewards/DMRewards]
  - Saturn, Annihilation, MT_PVP, FC_GRINEER
  - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER
@@ -1778,6 +1857,7 @@ Rotation A:
   1 Skull Shots, UNCOMMON, 0.6%
   1 Brain Storm, UNCOMMON, 0.6%
 
+
 [PVPMissionRewards/TDMRewards]
  - Saturn, Team Annihilation, MT_PVP, FC_GRINEER
 
@@ -1827,6 +1907,7 @@ Rotation A:
   1 Skull Shots, UNCOMMON, 0.6%
   1 Brain Storm, UNCOMMON, 0.6%
 
+
 [RaidRewards/GolemRaid]
 
 Rotation A:
@@ -1840,6 +1921,7 @@ Rotation A:
   1 ARCANE CONSEQUENCE, COMMON, 10%, 100 Ducats, Daily Cooldown
   1 ARCANE ARACHNE, COMMON, 10%, 100 Ducats, Daily Cooldown
   1 ARCANE ENERGIZE, COMMON, 10%, 100 Ducats, Daily Cooldown
+
 
 [RaidRewards/HekRaid]
 
@@ -1865,6 +1947,7 @@ Rotation A:
   1 ARCANE HEALING, RARE, 0.29%, 100 Ducats, Daily Cooldown
   1 ARCANE DEFLECTION, RARE, 0.29%, 100 Ducats, Daily Cooldown
 
+
 [RaidRewards/NightmareHekRaid]
 
 Rotation A:
@@ -1876,6 +1959,7 @@ Rotation A:
   1 ARCANE HEALING, COMMON, 14.29%, 100 Ducats, Daily Cooldown
   1 ARCANE DEFLECTION, COMMON, 14.29%, 100 Ducats, Daily Cooldown
 
+
 [RaidRewards/NightmareResourceHekRaid]
 
 Rotation A:
@@ -1883,6 +1967,7 @@ Rotation A:
   1 NEURODES BLUEPRINT, UNCOMMON, 7.52%, Daily Cooldown
   1 OROKIN CELL BLUEPRINT, UNCOMMON, 7.52%, Daily Cooldown
   1 4000 CREDITS, COMMON, 77.44%
+
 
 [RescueMissionRewards/RescueMissionRewardsEasy]
  - Venus, V Prime, MT_RESCUE, FC_CORPUS
@@ -1899,6 +1984,7 @@ Rotation B:
 
 Rotation C:
   1 PHASE SPECTER BLUEPRINT, COMMON, 100%
+
 
 [RescueMissionRewards/RescueMissionRewardsHard]
  - Earth, Zeipel, MT_RESCUE, FC_CORPUS
@@ -1921,6 +2007,7 @@ Rotation B:
 Rotation C:
   1 COSMIC SPECTER BLUEPRINT, COMMON, 100%
 
+
 [RescueMissionRewards/RescueMissionRewardsMedium]
  - Uranus, Mab, MT_RESCUE, FC_GRINEER
  - Uranus, Caliban, MT_RESCUE, FC_GRINEER
@@ -1939,6 +2026,7 @@ Rotation B:
 Rotation C:
   1 FORCE SPECTER BLUEPRINT, COMMON, 100%
 
+
 [RescueMissionRewards/RescueMissionRewardsNightmare]
 
 Rotation A:
@@ -1949,6 +2037,7 @@ Rotation B:
 
 Rotation C:
   1 COSMIC SPECTER BLUEPRINT, COMMON, 100%
+
 
 [SortieRewards]
 
@@ -1973,6 +2062,7 @@ Rotation A:
   1 UNAIRU LENS, COMMON, 7.55%
   50 Rare Fusion Core, LEGENDARY, 0.17%
 
+
 [SortieRewardsB]
 
 Rotation A:
@@ -1991,6 +2081,7 @@ Rotation A:
   50 Rare Fusion Core, LEGENDARY, 0.17%
   1 OROKIN CATALYST BLUEPRINT, RARE, 1%
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+
 
 [SortieRewardsC]
 
@@ -2014,6 +2105,7 @@ Rotation A:
   1 NEZHA HELMET BLUEPRINT, COMMON, 7.55%
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
+
 [SortieRewardsD]
 
 Rotation A:
@@ -2035,6 +2127,7 @@ Rotation A:
   1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
   1 NEZHA HELMET BLUEPRINT, COMMON, 7.55%
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
 
 [SortieRewardsE]
 
@@ -2058,6 +2151,7 @@ Rotation A:
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
 
+
 [SortieRewardsF]
 
 Rotation A:
@@ -2080,6 +2174,7 @@ Rotation A:
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
 
+
 [SortieRewardsG]
 
 Rotation A:
@@ -2101,6 +2196,7 @@ Rotation A:
   1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
   1 NEZHA HELMET BLUEPRINT, COMMON, 7.55%
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
 
 [SpyMissionRewards/SpyHighMissionRewards]
  - Neptune, Sao, MT_INTEL, FC_CORPUS
@@ -2151,6 +2247,7 @@ Rotation C:
   1 IVARA HELMET BLUEPRINT, UNCOMMON, 7.52%
   1 IVARA BLUEPRINT, UNCOMMON, 7.52%
 
+
 [SpyMissionRewards/SpyLowMissionRewards]
  - Mercury, Suisei, MT_INTEL, FC_GRINEER
  - Venus, Vesper, MT_INTEL, FC_CORPUS
@@ -2189,6 +2286,7 @@ Rotation C:
   1 Volcanic Edge, COMMON, 9.09%
   1 Vicious Frost, COMMON, 9.09%
   1 IVARA SYSTEMS BLUEPRINT, COMMON, 9.09%
+
 
 [SpyMissionRewards/SpyMediumMissionRewards]
  - Saturn, Aegaeon, MT_INTEL, FC_GRINEER
@@ -2246,6 +2344,7 @@ Rotation C:
   1 TOWER IV SABOTAGE KEY, COMMON, 12.91%
   1 IVARA CHASSIS BLUEPRINT, UNCOMMON, 5.64%
 
+
 [SpyMissionRewards/SpyMoonMissionRewards]
  - Earth, Pavlov, MT_INTEL, FC_CORPUS
 
@@ -2290,6 +2389,7 @@ Rotation C:
   1 Cleaving Whirlwind, RARE, 2.01%
   1 TOWER IV SABOTAGE KEY, COMMON, 15.18%
   1 IVARA CHASSIS BLUEPRINT, UNCOMMON, 7.37%
+
 
 [SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards]
  - Uranus, Assur, MT_SURVIVAL, FC_INFESTATION
@@ -2344,6 +2444,7 @@ Rotation C:
   1 Enduring Strike, COMMON, 4.35%
   1 Life Strike, COMMON, 4.35%
 
+
 [SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards]
  - Earth, Tikal, MT_EXCAVATE, FC_INFESTATION
 
@@ -2385,6 +2486,7 @@ Rotation C:
   1 Shotgun Ammo Mutation, COMMON, 5%
   1 Pistol Ammo Mutation, COMMON, 5%
   1 True Punishment, COMMON, 5%
+
 
 [SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards]
  - Venus, Malva, MT_EXCAVATE, FC_INFESTATION
@@ -2439,6 +2541,7 @@ Rotation C:
   1 Quickening, COMMON, 4.55%
   1 Enduring Strike, COMMON, 4.55%
 
+
 [SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards]
  - Pluto, Hieracon, MT_EXCAVATE, FC_INFESTATION
  - Ceres, Gabii, MT_SURVIVAL, FC_INFESTATION
@@ -2491,6 +2594,7 @@ Rotation C:
   1 Enduring Strike, COMMON, 4.35%
   1 Life Strike, COMMON, 4.35%
 
+
 [SurvivalMissionRewards/SurvivalGeneticFoundryRewards]
 
 Rotation B:
@@ -2502,6 +2606,7 @@ Rotation C:
   1 2000 CREDITS, COMMON, 33.33%
   1 4000 CREDITS, COMMON, 33.33%
   1 Rare Fusion Core, COMMON, 33.33%
+
 
 [SurvivalMissionRewards/SurvivalHighLevelRewards]
  - Earth, Tycho, MT_SURVIVAL, FC_CORPUS
@@ -2563,6 +2668,7 @@ Rotation C:
   1 Sniper Ammo Mutation, COMMON, 5.26%
   1 Shotgun Ammo Mutation, COMMON, 5.26%
 
+
 [SurvivalMissionRewards/SurvivalLowLevelRewards]
  - Mercury, Apollodorus, MT_SURVIVAL, FC_GRINEER
  - Venus, E Gate, MT_EXCAVATE, FC_CORPUS
@@ -2607,6 +2713,7 @@ Rotation C:
   1 Sniper Ammo Mutation, COMMON, 5.26%
   1 Shotgun Ammo Mutation, COMMON, 5.26%
   1 Pistol Ammo Mutation, COMMON, 5.26%
+
 
 [SurvivalMissionRewards/SurvivalMidLevelRewards]
  - Jupiter, Elara, MT_SURVIVAL, FC_CORPUS
@@ -2659,6 +2766,7 @@ Rotation C:
   1 Sniper Ammo Mutation, COMMON, 5.26%
   1 Shotgun Ammo Mutation, COMMON, 5.26%
 
+
 [VaultRewards]
 
 Rotation A:
@@ -2687,6 +2795,7 @@ Rotation A:
   1 Transient Fortitude, UNCOMMON, 4.17%
   1 Depleted Reload, UNCOMMON, 4.17%
 
+
 [VoidKeyMissionRewards/OrokinCaptureRewardsA]
 
 Rotation A:
@@ -2698,16 +2807,19 @@ Rotation A:
   1 LEX PRIME RECEIVER, UNCOMMON, 5.64%, 30 Ducats
   1 TOWER II CAPTURE KEY, COMMON, 25.81%
 
+
 [VoidKeyMissionRewards/OrokinCaptureRewardsB]
 
 Rotation A:
-  1 ORTHOS PRIME HANDLE, UNCOMMON, 14.29%, 10 Ducats
-  1 PARIS PRIME STRING, UNCOMMON, 14.29%, 10 Ducats
-  1 FORMA BLUEPRINT, UNCOMMON, 14.29%
-  1 ORTHOS PRIME BLADE, UNCOMMON, 14.29%, 10 Ducats
-  1 VOLT PRIME BLUEPRINT, UNCOMMON, 14.29%, 30 Ducats
-  1 NYX PRIME BLUEPRINT, UNCOMMON, 14.29%, 50 Ducats
-  1 KAVASA PRIME BAND, UNCOMMON, 14.29%, 50 Ducats
+  1 ORTHOS PRIME HANDLE, UNCOMMON, 12.5%, 10 Ducats
+  1 PARIS PRIME STRING, UNCOMMON, 12.5%, 10 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 12.5%
+  1 ORTHOS PRIME BLADE, UNCOMMON, 12.5%, 10 Ducats
+  1 VOLT PRIME BLUEPRINT, UNCOMMON, 12.5%, 30 Ducats
+  1 NYX PRIME BLUEPRINT, UNCOMMON, 12.5%, 50 Ducats
+  1 KAVASA PRIME BAND, UNCOMMON, 12.5%, 50 Ducats
+  1 MAG PRIME HELMET BLUEPRINT, UNCOMMON, 12.5%, 20 Ducats
+
 
 [VoidKeyMissionRewards/OrokinCaptureRewardsC]
 
@@ -2720,15 +2832,18 @@ Rotation A:
   1 BURSTON PRIME BARREL, COMMON, 25.81%, 20 Ducats
   1 LEX PRIME BARREL, COMMON, 25.81%, 20 Ducats
 
+
 [VoidKeyMissionRewards/OrokinCaptureRewardsD]
 
 Rotation A:
   1 NYX PRIME SYSTEMS BLUEPRINT, COMMON, 19.36%, 10 Ducats
   1 FORMA BLUEPRINT, COMMON, 19.36%
   1 BRONCO PRIME RECEIVER, COMMON, 19.36%, 20 Ducats
-  1 VOLT PRIME BLUEPRINT, UNCOMMON, 11.28%, 30 Ducats
+  1 VOLT PRIME BLUEPRINT, UNCOMMON, 7.52%, 30 Ducats
   1 AKBRONCO PRIME LINK, COMMON, 19.36%, 30 Ducats
-  5 Rare Fusion Core, UNCOMMON, 11.28%
+  5 Rare Fusion Core, UNCOMMON, 7.52%
+  1 DAKRA PRIME BLADE, UNCOMMON, 7.52%, 20 Ducats
+
 
 [VoidKeyMissionRewards/OrokinDefenseRewardsA]
 
@@ -2753,6 +2868,7 @@ Rotation C:
   1 HIKOU PRIME STARS, COMMON, 25.81%, 20 Ducats
   1 SCINDO PRIME HANDLE, COMMON, 25.81%, 30 Ducats
 
+
 [VoidKeyMissionRewards/OrokinDefenseRewardsB]
 
 Rotation A:
@@ -2775,6 +2891,7 @@ Rotation C:
   1 PARIS PRIME UPPER LIMB, UNCOMMON, 20%, 10 Ducats
   1 FANG PRIME BLUEPRINT, UNCOMMON, 20%, 20 Ducats
 
+
 [VoidKeyMissionRewards/OrokinDefenseRewardsC]
 
 Rotation A:
@@ -2791,13 +2908,15 @@ Rotation B:
   1 BURSTON PRIME BLUEPRINT, UNCOMMON, 20%, 20 Ducats
 
 Rotation C:
-  1 BRATON PRIME BARREL, UNCOMMON, 7.52%, 30 Ducats
-  1 BRATON PRIME RECEIVER, UNCOMMON, 7.52%, 30 Ducats
+  1 BRATON PRIME BARREL, UNCOMMON, 5.64%, 30 Ducats
+  1 BRATON PRIME RECEIVER, UNCOMMON, 5.64%, 30 Ducats
   1 FORMA BLUEPRINT, COMMON, 19.36%
-  1 ASH PRIME BLUEPRINT, UNCOMMON, 7.52%, 50 Ducats
+  1 ASH PRIME BLUEPRINT, UNCOMMON, 5.64%, 50 Ducats
   1 BRATON PRIME STOCK, COMMON, 19.36%, 20 Ducats
   1 NYX PRIME BLUEPRINT, COMMON, 19.36%, 50 Ducats
   1 FRAGOR PRIME HANDLE, COMMON, 19.36%, 10 Ducats
+  1 BOAR PRIME BARREL, UNCOMMON, 5.64%, 20 Ducats
+
 
 [VoidKeyMissionRewards/OrokinDefenseRewardsD]
 
@@ -2824,6 +2943,7 @@ Rotation C:
   1 HIKOU PRIME POUCH, COMMON, 19.36%, 20 Ducats
   5 Rare Fusion Core, UNCOMMON, 5.64%
 
+
 [VoidKeyMissionRewards/OrokinExterminateRewardsA]
 
 Rotation A:
@@ -2834,16 +2954,19 @@ Rotation A:
   1 TOWER II EXTERMINATE KEY, COMMON, 25.81%
   1 BURSTON PRIME STOCK, COMMON, 25.81%, 10 Ducats
 
+
 [VoidKeyMissionRewards/OrokinExterminateRewardsB]
 
 Rotation A:
   1 CARRIER PRIME CEREBRUM, UNCOMMON, 7.52%, 50 Ducats
-  1 VOLT PRIME HELMET BLUEPRINT, COMMON, 19.36%, 20 Ducats
-  1 NOVA PRIME BLUEPRINT, COMMON, 19.36%, 10 Ducats
-  1 FORMA BLUEPRINT, COMMON, 19.36%
+  1 VOLT PRIME HELMET BLUEPRINT, COMMON, 15.49%, 20 Ducats
+  1 NOVA PRIME BLUEPRINT, COMMON, 15.49%, 10 Ducats
+  1 FORMA BLUEPRINT, COMMON, 15.49%
   1 ORTHOS PRIME BLUEPRINT, UNCOMMON, 7.52%, 10 Ducats
-  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, 19.36%, 50 Ducats
+  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, 15.49%, 50 Ducats
   1 VOLT PRIME SYSTEMS BLUEPRINT, UNCOMMON, 7.52%, 30 Ducats
+  1 MAG PRIME CHASSIS BLUEPRINT, COMMON, 15.49%, 10 Ducats
+
 
 [VoidKeyMissionRewards/OrokinExterminateRewardsC]
 
@@ -2855,6 +2978,7 @@ Rotation A:
   1 SARYN PRIME BLUEPRINT, UNCOMMON, 5.64%, 30 Ducats
   1 NYX PRIME SYSTEMS BLUEPRINT, COMMON, 38.72%, 10 Ducats
 
+
 [VoidKeyMissionRewards/OrokinExterminateRewardsD]
 
 Rotation A:
@@ -2865,6 +2989,7 @@ Rotation A:
   1 SARYN PRIME BLUEPRINT, UNCOMMON, 5.64%, 30 Ducats
   1 VECTIS PRIME RECEIVER, UNCOMMON, 5.64%, 50 Ducats
   5 Rare Fusion Core, COMMON, 25.81%
+
 
 [VoidKeyMissionRewards/OrokinInterceptionRewardsD]
 
@@ -2881,23 +3006,27 @@ Rotation B:
   1 FORMA BLUEPRINT, UNCOMMON, 25%
 
 Rotation C:
-  1 AKSTILETTO PRIME BARREL, COMMON, 14.29%, 30 Ducats
-  1 SOMA PRIME BARREL, COMMON, 14.29%, 10 Ducats
-  1 FANG PRIME HANDLE, COMMON, 14.29%, 20 Ducats
-  1 LEX PRIME RECEIVER, COMMON, 14.29%, 30 Ducats
-  1 PARIS PRIME GRIP, COMMON, 14.29%, 30 Ducats
-  1 BRONCO PRIME BARREL, COMMON, 14.29%, 50 Ducats
-  1 FORMA BLUEPRINT, COMMON, 14.29%
+  1 AKSTILETTO PRIME BARREL, COMMON, 12.5%, 30 Ducats
+  1 SOMA PRIME BARREL, COMMON, 12.5%, 10 Ducats
+  1 FANG PRIME HANDLE, COMMON, 12.5%, 20 Ducats
+  1 LEX PRIME RECEIVER, COMMON, 12.5%, 30 Ducats
+  1 PARIS PRIME GRIP, COMMON, 12.5%, 30 Ducats
+  1 BRONCO PRIME BARREL, COMMON, 12.5%, 50 Ducats
+  1 FORMA BLUEPRINT, COMMON, 12.5%
+  1 DAKRA PRIME HANDLE, COMMON, 12.5%, 10 Ducats
+
 
 [VoidKeyMissionRewards/OrokinMobileDefenseRewardsA]
 
 Rotation A:
   1 SARYN PRIME HELMET BLUEPRINT, UNCOMMON, 7.52%, 30 Ducats
   1 VECTIS PRIME BLUEPRINT, UNCOMMON, 7.52%, 50 Ducats
-  1 BRATON PRIME BARREL, COMMON, 25.81%, 30 Ducats
+  1 BRATON PRIME BARREL, COMMON, 19.36%, 30 Ducats
   1 FORMA BLUEPRINT, UNCOMMON, 7.52%
-  1 TOWER I CAPTURE KEY, COMMON, 25.81%
-  1 TOWER II MOBILE DEFENSE KEY, COMMON, 25.81%
+  1 TOWER I CAPTURE KEY, COMMON, 19.36%
+  1 TOWER II MOBILE DEFENSE KEY, COMMON, 19.36%
+  1 BOAR PRIME RECEIVER, COMMON, 19.36%, 10 Ducats
+
 
 [VoidKeyMissionRewards/OrokinMobileDefenseRewardsB]
 
@@ -2908,6 +3037,7 @@ Rotation A:
   1 BRATON PRIME BLUEPRINT, COMMON, 19.36%, 20 Ducats
   1 VASTO PRIME BARREL, COMMON, 19.36%, 10 Ducats
   1 SPIRA PRIME BLUEPRINT, COMMON, 19.36%, 10 Ducats
+
 
 [VoidKeyMissionRewards/OrokinMobileDefenseRewardsC]
 
@@ -2920,25 +3050,29 @@ Rotation A:
   1 SOMA PRIME BARREL, COMMON, 25.81%, 10 Ducats
   1 BURSTON PRIME RECEIVER, COMMON, 25.81%, 30 Ducats
 
+
 [VoidKeyMissionRewards/OrokinMobileDefenseRewardsD]
 
 Rotation A:
-  1 CARRIER PRIME CARAPACE, UNCOMMON, 16.67%, 50 Ducats
-  1 KAVASA PRIME COLLAR BLUEPRINT, UNCOMMON, 16.67%, 30 Ducats
-  1 VASTO PRIME RECEIVER, UNCOMMON, 16.67%, 30 Ducats
-  1 FORMA BLUEPRINT, UNCOMMON, 16.67%
-  1 SPIRA PRIME BLUEPRINT, UNCOMMON, 16.67%, 10 Ducats
-  5 Rare Fusion Core, UNCOMMON, 16.67%
+  1 CARRIER PRIME CARAPACE, UNCOMMON, 3.76%, 50 Ducats
+  1 KAVASA PRIME COLLAR BLUEPRINT, UNCOMMON, 3.76%, 30 Ducats
+  1 VASTO PRIME RECEIVER, UNCOMMON, 3.76%, 30 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 3.76%
+  1 SPIRA PRIME BLUEPRINT, UNCOMMON, 3.76%, 10 Ducats
+  5 Rare Fusion Core, UNCOMMON, 3.76%
+  1 BOAR PRIME BLUEPRINT, COMMON, 77.44%, 20 Ducats
+
 
 [VoidKeyMissionRewards/OrokinSabotageRewardsA]
 
 Rotation A:
-  1 SCINDO PRIME HANDLE, UNCOMMON, 11.28%, 30 Ducats
-  1 ODONATA PRIME HARNESS BLUEPRINT, UNCOMMON, 11.28%, 30 Ducats
+  1 SCINDO PRIME HANDLE, UNCOMMON, 7.52%, 30 Ducats
+  1 ODONATA PRIME HARNESS BLUEPRINT, UNCOMMON, 7.52%, 30 Ducats
   1 HIKOU PRIME STARS, COMMON, 19.36%, 20 Ducats
   1 NOVA PRIME BLUEPRINT, COMMON, 19.36%, 10 Ducats
   1 ODONATA PRIME SYSTEMS BLUEPRINT, COMMON, 19.36%, 30 Ducats
   1 VASTO PRIME BARREL, COMMON, 19.36%, 10 Ducats
+  1 DAKRA PRIME BLUEPRINT, UNCOMMON, 7.52%, 20 Ducats
 
 Rotation B:
   1 Uncommon Fusion Core, COMMON, 77.44%
@@ -2956,6 +3090,7 @@ Rotation C:
   1 Rare Fusion Core, UNCOMMON, 11.28%
   1 Uncommon Fusion Core, UNCOMMON, 11.28%
   1 Common Fusion Core, COMMON, 19.36%
+
 
 [VoidKeyMissionRewards/OrokinSabotageRewardsB]
 
@@ -2984,6 +3119,7 @@ Rotation C:
   1 Common Fusion Core, COMMON, 19.36%
   1 Uncommon Fusion Core, UNCOMMON, 11.28%
   1 Rare Fusion Core, UNCOMMON, 11.28%
+
 
 [VoidKeyMissionRewards/OrokinSabotageRewardsC]
 
@@ -3014,6 +3150,7 @@ Rotation C:
   1 Uncommon Fusion Core, UNCOMMON, 11.28%
   1 Common Fusion Core, COMMON, 19.36%
 
+
 [VoidKeyMissionRewards/OrokinSabotageRewardsD]
 
 Rotation A:
@@ -3042,6 +3179,7 @@ Rotation C:
   1 Uncommon Fusion Core, UNCOMMON, 11.28%
   1 Common Fusion Core, COMMON, 19.36%
 
+
 [VoidKeyMissionRewards/OrokinSurvivalRewardsA]
 
 Rotation A:
@@ -3063,9 +3201,11 @@ Rotation C:
   1 SCINDO PRIME HANDLE, UNCOMMON, 7.52%, 30 Ducats
   1 PARIS PRIME UPPER LIMB, UNCOMMON, 7.52%, 10 Ducats
   1 VOLT PRIME SYSTEMS BLUEPRINT, UNCOMMON, 7.52%, 30 Ducats
-  1 PARIS PRIME LOWER LIMB, COMMON, 25.81%, 10 Ducats
-  1 BURSTON PRIME STOCK, COMMON, 25.81%, 10 Ducats
-  1 NOVA PRIME HELMET BLUEPRINT, COMMON, 25.81%, 20 Ducats
+  1 PARIS PRIME LOWER LIMB, COMMON, 19.36%, 10 Ducats
+  1 BURSTON PRIME STOCK, COMMON, 19.36%, 10 Ducats
+  1 NOVA PRIME HELMET BLUEPRINT, COMMON, 19.36%, 20 Ducats
+  1 BOAR PRIME STOCK, COMMON, 19.36%, 20 Ducats
+
 
 [VoidKeyMissionRewards/OrokinSurvivalRewardsB]
 
@@ -3091,6 +3231,7 @@ Rotation C:
   1 NIKANA PRIME BLADE, UNCOMMON, 7.52%, 50 Ducats
   1 BRONCO PRIME BLUEPRINT, COMMON, 19.36%, 10 Ducats
   1 TRINITY PRIME CHASSIS BLUEPRINT, COMMON, 19.36%, 30 Ducats
+
 
 [VoidKeyMissionRewards/OrokinSurvivalRewardsC]
 
@@ -3118,6 +3259,7 @@ Rotation C:
   1 NOVA PRIME CHASSIS BLUEPRINT, UNCOMMON, 5.53%, 50 Ducats
   1 FORMA, RARE, 2.01%
 
+
 [VoidKeyMissionRewards/OrokinSurvivalRewardsD]
 
 Rotation A:
@@ -3133,11 +3275,13 @@ Rotation B:
   1 LEX PRIME BARREL, COMMON, 25%, 20 Ducats
 
 Rotation C:
-  1 AKSTILETTO PRIME LINK, UNCOMMON, 14.29%, 30 Ducats
-  1 BRATON PRIME BLUEPRINT, UNCOMMON, 14.29%, 20 Ducats
-  1 FORMA BLUEPRINT, UNCOMMON, 14.29%
-  1 ODONATA PRIME WINGS BLUEPRINT, UNCOMMON, 14.29%, 30 Ducats
-  1 VASTO PRIME BLUEPRINT, UNCOMMON, 14.29%, 50 Ducats
-  1 ASH PRIME HELMET BLUEPRINT, UNCOMMON, 14.29%, 30 Ducats
-  5 Rare Fusion Core, UNCOMMON, 14.29%
+  1 AKSTILETTO PRIME LINK, UNCOMMON, 3.22%, 30 Ducats
+  1 BRATON PRIME BLUEPRINT, UNCOMMON, 3.22%, 20 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, 3.22%
+  1 ODONATA PRIME WINGS BLUEPRINT, UNCOMMON, 3.22%, 30 Ducats
+  1 VASTO PRIME BLUEPRINT, UNCOMMON, 3.22%, 50 Ducats
+  1 ASH PRIME HELMET BLUEPRINT, UNCOMMON, 3.22%, 30 Ducats
+  5 Rare Fusion Core, UNCOMMON, 3.22%
+  1 MAG PRIME BLUEPRINT, COMMON, 77.44%, 10 Ducats
+
 
