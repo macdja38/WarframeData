@@ -40143,6 +40143,19 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 [/Lotus/Language/Lore/Vor]
 "CAPTAIN VOR"
 
+[/Lotus/Language/Marketing/TennoUnited2016Body]
+"Friends,
+
+It’s party time again, take these fireworks and make them sing.
+
+By the way, have you seen the deals in the market right now? Twenty percent off every Warframe. Now that’s a deal! (Don’t forget to mention my name, I get a cut)
+
+Have fun,
+Darvo"
+
+[/Lotus/Language/Marketing/TennoUnited2016Title]
+"Party Time!"
+
 [/Lotus/Language/Melee/AxeBranchADefaults]
 "Landing Dragon"
 
@@ -47592,6 +47605,9 @@ https://support.warframe.com"
 
 [/Lotus/Language/Menu/Mailbox_UnwrapGiftResult]
 "You got a |ITEM_NAME|!"
+
+[/Lotus/Language/Menu/Mailbox_WarframeLocSender]
+"Warframe Localization Team"
 
 [/Lotus/Language/Menu/Mailbox_WarframeSender]
 "Lotus"
