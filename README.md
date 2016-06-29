@@ -1,7 +1,7 @@
 # WarframeData
-This repository is a collection of data files that have been extracted and parsed from WARFRAME. Warning, this may contain spoilers.
+This repository is an assemblage of data files that have been extracted and parsed from the WARFRAME application. Warning, this may contain spoilers.
 
-This repository was created as an effort to publicize all of the datamined information that is made available through an application, exclusive to four (two active) private developers. If you use this datamined information as a source for anything you post, please do this repository a favor and give credit to it. I would love this repository to expand to other users that want access to it.
+This repository was inaugurated to reveal all of the private information that is stored in the WARFRAME application. If you use this repository as a source of anything that you post, claim, or argue, please accredit it. This will allow this repository to become more accessible to uninformed users.
 
 # Warning
 This repository violates the Terms of Service Agreement. Because of this, I do not recommend that you leave a link to this repository
