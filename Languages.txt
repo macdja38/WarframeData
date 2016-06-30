@@ -21972,10 +21972,10 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "<ARCHWING> ONORIX"
 
 [/Lotus/Language/Items/ArchBurstGunDesc]
-"[Placeholder] Description"
+"Unload deadly accurate bursts of mayhem."
 
 [/Lotus/Language/Items/ArchBurstGunName]
-"[Placeholder] ARCH BURST GUN"
+"CYNGAS"
 
 [/Lotus/Language/Items/ArchCannonDesc]
 "When fully charged, this flak-cannon delivers a devastating shot. Perfect for taking down fast-moving interceptors."
@@ -22011,10 +22011,10 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "<ARCHWING> DUAL DECURION"
 
 [/Lotus/Language/Items/ArchHookSwordDesc]
-"[Placeholder] Description"
+"Tear apart incoming enemies with this massive hooked blade."
 
 [/Lotus/Language/Items/ArchHookSwordName]
-"[Placeholder] ARCH HOOK SWORD"
+"AGKUZA"
 
 [/Lotus/Language/Items/ArchLongRifleDesc]
 "Devastate free-space enemies with Phaedra, the Soma's big-sister."
@@ -24725,20 +24725,14 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/CarryAbilityName]
 "Void Carry"
 
-[/Lotus/Language/Items/CatbrowArmorADesc]
-"[Placeholder] Description"
-
 [/Lotus/Language/Items/CatbrowArmorAName]
-"[Placeholder] CatbrowA"
-
-[/Lotus/Language/Items/CatbrowArmorBDesc]
-"[Placeholder] Description"
+"WYSAR KAVAT ARMOR"
 
 [/Lotus/Language/Items/CatbrowArmorBName]
-"[Placeholder] CatbrowB"
+"SARABA KAVAT ARMOR"
 
-[/Lotus/Language/Items/CatbrowArmorGrnQueenDesc]
-"[Placeholder] Description"
+[/Lotus/Language/Items/CatbrowArmorDesc]
+"Decorative armor fitted for a Kavat."
 
 [/Lotus/Language/Items/CatbrowArmorGrnQueenName]
 "[Placeholder] CatbrowGrnQueen"
@@ -24762,10 +24756,10 @@ Note: This item requires two open slots."
 "[Placeholder] CATBROW EGG"
 
 [/Lotus/Language/Items/CatbrowGeneticSignature]
-"[Placeholder] Kavat Genetic Signature"
+"Kavat Genetic Code"
 
 [/Lotus/Language/Items/CatbrowGeneticSignatureDesc]
-"[Placeholder] Kavat Genetic Signature Desc"
+"Contains the genetic code sequence of a Kavat."
 
 [/Lotus/Language/Items/CatbrowHoardPreceptDesc]
 "[Placeholder] The kavat sniffs out loot hidden in crates and dropped by enemies, retrieving these items for its master."
@@ -24780,40 +24774,52 @@ Note: This item requires two open slots."
 "Omen"
 
 [/Lotus/Language/Items/CatbrowMarkTerritoryPreceptDesc]
-"[Placeholder] Mark Territory Desc"
+"The Kavat marks their territory, pacifying any wild creature within it."
 
 [/Lotus/Language/Items/CatbrowMarkTerritoryPreceptName]
-"[Placeholder] Mark Territory"
+"Territorial Aggression"
+
+[/Lotus/Language/Items/CatbrowPetPatternADesc]
+"An intricate fur pattern for your Kavat."
+
+[/Lotus/Language/Items/CatbrowPetPatternAName]
+"HYACINTH FUR PATTERN"
 
 [/Lotus/Language/Items/CatbrowPouncePreceptDesc]
-"[Placeholder] Pounce Desc"
+"The Kavat pounces at an enemy, stunning them for a short duration."
 
 [/Lotus/Language/Items/CatbrowPouncePreceptName]
-"[Placeholder] Pounce"
+"Pounce"
 
 [/Lotus/Language/Items/CatbrowReflectPreceptName]
 "Kinetic Bristles"
 
 [/Lotus/Language/Items/CatbrowRoarPreceptDesc]
-"[Placeholder]The kavat cries out with a blood-curdling roar that strikes fear into its foes."
+"The Kavat unleashes a blood-curdling roar, striking fear into its enemies."
 
 [/Lotus/Language/Items/CatbrowRoarPreceptName]
 "Roar"
 
 [/Lotus/Language/Items/CatbrowShredPreceptDesc]
-"[Placeholder] Shred Desc"
+"A vicious attack that sunders armour and rends flesh."
 
 [/Lotus/Language/Items/CatbrowShredPreceptName]
-"[Placeholder] Shred"
+"Sharpened Claws"
+
+[/Lotus/Language/Items/CatbrowSwipePreceptDescA]
+"Attacks strike |val| extra enemies"
+
+[/Lotus/Language/Items/CatbrowSwipePreceptDescB]
+" within |val|m"
 
 [/Lotus/Language/Items/CatbrowSwipePreceptName]
-"[Placeholder] Swipe"
+"Swipe"
 
 [/Lotus/Language/Items/CatbrowTremorSensePreceptDesc]
-"[Placeholder] Tremor Sense Desc"
+"The Kavat alerts their master of nearby enemies."
 
 [/Lotus/Language/Items/CatbrowTremorSensePreceptName]
-"[Placeholder] Tremor Sense"
+"Sense Danger"
 
 [/Lotus/Language/Items/CephalonSudaProfileIconDesc]
 "A profile icon of the Cephalon Suda"
@@ -26645,6 +26651,12 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/DualDaggerStanceBDesc]
 "Lunging punctures with impaling spirals."
+
+[/Lotus/Language/Items/DualDaggerStanceC]
+"Spinning Needle"
+
+[/Lotus/Language/Items/DualDaggerStanceCDesc]
+"Swift stabs, twisting slashes"
 
 [/Lotus/Language/Items/DualEtherDaggerDesc]
 "A shorter version of the Ether blade that allows for a more focused attack on a single target."
@@ -29665,10 +29677,10 @@ Blueprint is reusable and will not be consumed."
 "Mind control and psychic attacks make Nyx a very dangerous foe. Her ability to reach into enemy consciousness and manipulate their behavior can turn the tide of battle."
 
 [/Lotus/Language/Items/JadeDualHeatSwordsDesc]
-"A next generation skin for the Heat Sword."
+"A next generation skin for the Dual Heat Swords."
 
 [/Lotus/Language/Items/JadeDualHeatSwordsName]
-"HEAT SWORD JADE SKIN"
+"DUAL HEAT SWORDS JADE SKIN"
 
 [/Lotus/Language/Items/JadeHeatDaggerDesc]
 "A next generation skin for the Heat Dagger."
@@ -29677,10 +29689,10 @@ Blueprint is reusable and will not be consumed."
 "HEAT DAGGER JADE SKIN"
 
 [/Lotus/Language/Items/JadeHeatSwordDesc]
-"A next generation skin for the Dual Heat Swords."
+"A next generation skin for the Heat Sword."
 
 [/Lotus/Language/Items/JadeHeatSwordName]
-"DUAL HEAT SWORDS JADE SKIN"
+"HEAT SWORD JADE SKIN"
 
 [/Lotus/Language/Items/JadeImperatorSyandanaDesc]
 "A next-generation syandana."
@@ -29781,6 +29793,59 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/KatanaStanceCDesc]
 "Reverse grip style emphasizing slashing and impaling strikes"
 
+[/Lotus/Language/Items/KavatColorBaseAName]
+"EXECUTIONER GREY"
+
+[/Lotus/Language/Items/KavatColorBaseBName]
+"JADELEAF YELLOW"
+
+[/Lotus/Language/Items/KavatColorBaseCName]
+"ANTI MOA PURPLE"
+
+[/Lotus/Language/Items/KavatColorBaseDName]
+"DRAGONLILY PINK"
+
+[/Lotus/Language/Items/KavatColorSecondaryAName]
+"HYACINTH BLUE"
+
+[/Lotus/Language/Items/KavatColorSecondaryBName]
+"ANCIENT GREEN"
+
+[/Lotus/Language/Items/KavatColorSecondaryCName]
+"CONCULYST BROWN"
+
+[/Lotus/Language/Items/KavatColorSecondaryDName]
+"DRAHK PURPLE"
+
+[/Lotus/Language/Items/KavatColorTertiaryAName]
+"REGOR GREEN"
+
+[/Lotus/Language/Items/KavatColorTertiaryBName]
+"THRESHBARK BROWN"
+
+[/Lotus/Language/Items/KavatColorTertiaryCName]
+"BOILER RED"
+
+[/Lotus/Language/Items/KavatColorTertiaryDName]
+"DRAGA BLUE"
+
+[/Lotus/Language/Items/KavatColourDesc]
+"Splices the genes in your pet Kavat to change the color of its fur."
+
+[/Lotus/Language/Items/KavatStarterKit]
+"KAVAT STARTER KIT"
+
+[/Lotus/Language/Items/KavatStarterKitDesc]
+"Contains all of the components to begin gene-splicing a Kavat!
+
+Requires: Installed KAVAT INCUBATOR UPGRADE SEGMENT"
+
+[/Lotus/Language/Items/KazBaroCapeDesc]
+"Define style with this crystalline cape."
+
+[/Lotus/Language/Items/KazBaroCapeName]
+"KI'TEER DIAX SYANDANA"
+
 [/Lotus/Language/Items/KazeruPrimeSugatraDesc]
 "Arcing bolts of electricity highlight this golden chain Sugatra."
 
@@ -29851,7 +29916,7 @@ Blueprint is reusable and will not be consumed."
 "Decorative armor fitted for a Kubrow."
 
 [/Lotus/Language/Items/KubrowArmorAName]
-"ROSTAM ARMOR"
+"ROSTAM KUBROW ARMOR"
 
 [/Lotus/Language/Items/KubrowArmorBaroDesc]
 "Fashioned for the most refined breed of Kubrow."
@@ -29866,10 +29931,10 @@ Blueprint is reusable and will not be consumed."
 "Next generation armor fitted for a Kubrow."
 
 [/Lotus/Language/Items/KubrowArmorBJadeName]
-"VALINN JADE ARMOR"
+"VALINN JADE KUBROW ARMOR"
 
 [/Lotus/Language/Items/KubrowArmorBName]
-"VALINN ARMOR"
+"VALINN KUBROW ARMOR"
 
 [/Lotus/Language/Items/KubrowArmorCDesc]
 "Decorative armor fitted for a Kubrow."
@@ -29878,7 +29943,7 @@ Blueprint is reusable and will not be consumed."
 "Adorn your kubrow in fiery armor"
 
 [/Lotus/Language/Items/KubrowArmorCName]
-"IFRIT ARMOR"
+"IFRIT KUBROW ARMOR"
 
 [/Lotus/Language/Items/KubrowArmorLinkModName]
 "Link Armor"
@@ -29929,7 +29994,19 @@ Blueprint is reusable and will not be consumed."
 "A common adornment used to distinguish a Kubrow that is loyal to its master."
 
 [/Lotus/Language/Items/KubrowCollarName]
-"TAICHEN COLLAR"
+"TAICHEN KUBROW COLLAR"
+
+[/Lotus/Language/Items/KubrowColorAccentsAName]
+"GRINEER GREEN"
+
+[/Lotus/Language/Items/KubrowColorAccentsBName]
+"PRIME GOLD"
+
+[/Lotus/Language/Items/KubrowColorAccentsCName]
+"DREG RED"
+
+[/Lotus/Language/Items/KubrowColorAccentsDName]
+"DREKAR PURPLE"
 
 [/Lotus/Language/Items/KubrowColorMidAName]
 "SEDNA GREY"
@@ -30211,19 +30288,19 @@ Blueprint is reusable and will not be consumed."
 "Pack Leader"
 
 [/Lotus/Language/Items/KubrowPackLeaderModDesc]
-"Heals your Kubrow by a percentage of the damage you deal with melee attacks."
+"Heals your pet by a percentage of the damage you deal with melee attacks."
 
 [/Lotus/Language/Items/KubrowPetCollarDesc]
 "Records the genetic memory and DNA sequence of a Kubrow, allowing it to be reconstructed in the Incubator."
 
 [/Lotus/Language/Items/KubrowPetCollarName]
-"NAI-ZHEN COLLAR"
+"NAI-ZHEN KUBROW COLLAR"
 
 [/Lotus/Language/Items/KubrowPetCollarPrimeADesc]
 "Records the genetic memory and DNA sequence of a Kubrow, allowing it to be reconstructed in the Incubator."
 
 [/Lotus/Language/Items/KubrowPetCollarPrimeAName]
-"KAVASA PRIME COLLAR"
+"KAVASA PRIME KUBROW COLLAR"
 
 [/Lotus/Language/Items/KubrowPetDiamondDesc]
 "This tool provides all of the genetic information to mask a Kubrow's innate DNA structure and allows a Tenno to customize its fur coloration."
@@ -30372,7 +30449,7 @@ Blueprint is reusable and will not be consumed."
 Requires: Installed INCUBATOR SEGMENT"
 
 [/Lotus/Language/Items/KubrowThiefPreceptDesc]
-"|val|% chance for the Kubrow to pry open a locked locker."
+"|val|% chance for the pet to pry open a locked locker."
 
 [/Lotus/Language/Items/KubrowThiefPreceptName]
 "Scavenge"
@@ -30611,7 +30688,7 @@ This skin requires a Nikana or a Dragon Nikana to use."
 "LIMBO CHASSIS THEOREM"
 
 [/Lotus/Language/Items/LimboHelmetKey]
-"LIMBO THEOREM"
+"LIMBO NEUROPTICS THEOREM"
 
 [/Lotus/Language/Items/LimboNobleAnims]
 "LIMBO NOBLE ANIMATION SET"
@@ -33156,13 +33233,23 @@ This pack may only be purchased once per account and is available for a limited 
 "EXCLUSIVE PRESTIGE PACK IV"
 
 [/Lotus/Language/Items/PrestigePackSixBannerDesc]
-"[Placeholder] Description"
+"Now Available for a Limited Time"
 
 [/Lotus/Language/Items/PrestigePackSixDesc]
-"[Placeholder] Description"
+"Show your Xbox One allegiance with the all-new Prestige Pack VI!
+
+Run into battle, Tenno! Inflict a fiery heat upon your enemies with the Jade-skinned Heat Sword and Heat Dagger. Plus, give your Arsenal a boost with the included Platinum!
+
+Prestige Pack VI includes:
+- Xbox One Exclusive Heat Sword Jade Skin (includes Heat Sword)
+- Xbox One Exclusive Heat Dagger Jade Skin (includes Heat Dagger)
+- Heat Sword Jade Skin may also be applied to Dual Heat Sword (weapon not included)
+- 170 Platinum
+
+This Pack may only be purchased once per account and is available for a limited time."
 
 [/Lotus/Language/Items/PrestigePackSixName]
-"[Placeholder] JADE PACK 6"
+"EXCLUSIVE PRESTIGE PACK VI"
 
 [/Lotus/Language/Items/PrestigePackThreeBannerDesc]
 "Take Xbox One pride and allegiance into the unknown with the all-new Prestige Pack III!"
@@ -33739,7 +33826,7 @@ Note: This item requires two open slots."
 "Crashing Havoc"
 
 [/Lotus/Language/Items/PvPHeavyBladeStanceOne]
-"[Placeholder] Heavy Blade"
+"Noble Cadence"
 
 [/Lotus/Language/Items/PvPKatanaStanceOne]
 "Fateful Truth"
@@ -33766,7 +33853,7 @@ Note: This item requires two open slots."
 "Vicious Approach"
 
 [/Lotus/Language/Items/PvPRapierStanceOne]
-"[Placeholder] Rapier"
+"Cunning Aspect"
 
 [/Lotus/Language/Items/PvPScytheStanceOne]
 "Shadow Harvest"
@@ -33778,7 +33865,7 @@ Note: This item requires two open slots."
 "Last Herald"
 
 [/Lotus/Language/Items/PvPSwordStanceOne]
-"[Placeholder]PVP Sword"
+"Rising Steel"
 
 [/Lotus/Language/Items/PvPSwordWhipStanceOne]
 "Tainted Hydra"
@@ -35112,7 +35199,7 @@ Sell this item to remove the decorations at any time."
 "INCUBATOR SEGMENT"
 
 [/Lotus/Language/Items/ShipFeatureGeneticFoundryCatbrowUpgrade]
-"[Placeholder]INCUBATOR UPGRADE SEGMENT"
+"KAVAT INCUBATOR UPGRADE SEGMENT"
 
 [/Lotus/Language/Items/ShipFeatureGeneticFoundryCatbrowUpgradeDesc]
 "[Placeholder]Upgrades the Orbiter's Incubator with the following features:"
@@ -35976,11 +36063,35 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 [/Lotus/Language/Items/SuperJumpAbilityDesc]
 "Excalibur launches into the air, jumping 3 times higher than normal."
 
+[/Lotus/Language/Items/SupportAnchorsAbilityDesc]
+"Creates beacons that draw enemy fire, converting the damage into healing pulses."
+
+[/Lotus/Language/Items/SupportAnchorsAbilityName]
+"Benevolent Decoy"
+
 [/Lotus/Language/Items/SupportArchwingDesc]
-"[Placeholder] Description"
+"Transform into a winged guardian."
 
 [/Lotus/Language/Items/SupportArchwingName]
-"[Placeholder] SupportArchwing"
+"<ARCHWING> AMESHA"
+
+[/Lotus/Language/Items/SupportDronesAbilityDesc]
+"Tiny drones orbit the Warframe or an ally, and intercept enemy fire."
+
+[/Lotus/Language/Items/SupportDronesAbilityName]
+"Watchful Swarm"
+
+[/Lotus/Language/Items/SupportEnergyAbilityDesc]
+"All damage taken is transformed into Energy, while abilities gain enhanced range, duration and power. Affects the Warframe and nearby allies."
+
+[/Lotus/Language/Items/SupportEnergyAbilityName]
+"Vengeful Rush"
+
+[/Lotus/Language/Items/SupportWardAbilityDesc]
+"Renders the Warframe and nearby allies immune to Status Effects, while slowing nearby enemies."
+
+[/Lotus/Language/Items/SupportWardAbilityName]
+"Warding Grace"
 
 [/Lotus/Language/Items/SupremeSomaSetDesc]
 "This bundle features the Soma assault rifle, Dual Raza battle hachets and Aksomati pistols. Sharing a unique visual style, the weapons in this set will inspire awe in your allies and fear in your foes."
@@ -36638,10 +36749,10 @@ Blueprint is reusable and will not be consumed."
 "VASTO"
 
 [/Lotus/Language/Items/TennoSaiDesc]
-"[Placeholder] Description"
+"Perforate enemies with these two needle-sharp sai."
 
 [/Lotus/Language/Items/TennoSaiName]
-"[Placeholder] TENNO SAIS"
+"OKINA"
 
 [/Lotus/Language/Items/TennoShurikenDesc]
 "As an alternative to Kunai, these Tenno throwing stars do less damage but they come with expanded ammo capacity and a higher rate of fire."
@@ -37541,29 +37652,11 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 [/Lotus/Language/Items/VoidSkinVaubanName]
 "VAUBAN PHASED SKIN"
 
-[/Lotus/Language/Items/VoidTearDropT1]
-"T1 LUMINOUS"
+[/Lotus/Language/Items/VoidTearDrop]
+"LUMINOUS"
 
-[/Lotus/Language/Items/VoidTearDropT1Desc]
-"Material required to fill TIER 1 VOID PROJECTION"
-
-[/Lotus/Language/Items/VoidTearDropT2]
-"T2 LUMINOUS"
-
-[/Lotus/Language/Items/VoidTearDropT2Desc]
-"Material required to fill TIER 2 VOID PROJECTION"
-
-[/Lotus/Language/Items/VoidTearDropT3]
-"T3 LUMINOUS"
-
-[/Lotus/Language/Items/VoidTearDropT3Desc]
-"Material required to fill TIER 3 VOID PROJECTION"
-
-[/Lotus/Language/Items/VoidTearDropT4]
-"T4 LUMINOUS"
-
-[/Lotus/Language/Items/VoidTearDropT4Desc]
-"Material required to fill TIER 4 VOID PROJECTION"
+[/Lotus/Language/Items/VoidTearDropDesc]
+"[PLACEHOLDER] Material used to upgrade Void Projections."
 
 [/Lotus/Language/Items/VoidTraderResourceDroneDesc]
 "Featuring unrivaled Orokin engineering, this advanced model was designed for peak volume extraction in the harshest of conditions."
