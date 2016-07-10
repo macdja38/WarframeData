@@ -2259,7 +2259,7 @@ You will receive an email from your 2K contact when the console has been approve
 "ENEMY RADAR"
 
 [/Game/AVATAR_ENERGY_GAIN_MULTIPLIER]
-"[Placeholder] ENERGY GAIN MULTIPLIER"
+"ENERGY GAIN MULTIPLIER"
 
 [/Game/AVATAR_ENERGY_ON_FULL_SHIELD_REGEN]
 "ENERGY ON FULL SHIELD REGEN"
@@ -2692,6 +2692,9 @@ You will receive an email from your 2K contact when the console has been approve
 
 [/Game/NoteAction]
 "HOLD <PICKUP>"
+
+[/Game/OMEGA]
+"Omega"
 
 [/Game/Open]
 "<MELEE_ACTION> OPEN"
@@ -3287,6 +3290,9 @@ You will receive an email from your 2K contact when the console has been approve
 [/Lotus/Language/Actions/PickupUpgrade]
 "<USE> TAKE UPGRADE"
 
+[/Lotus/Language/Actions/PickupVoidSealer]
+"<USE> PICK UP REACTANT"
+
 [/Lotus/Language/Actions/PistolAmmo]
 "PISTOL AMMO"
 
@@ -3374,6 +3380,45 @@ You will receive an email from your 2K contact when the console has been approve
 [/Lotus/Language/Actions/WakeUp]
 "<USE> WAKE UP"
 
+[/Lotus/Language/ActiveMissions/CaptureDesc1]
+"A double-agent for the |FACTION| has been exposed and tracked down. Find him at |LOCATION| and recover the stolen data at any cost."
+
+[/Lotus/Language/ActiveMissions/CounterIntelDesc1]
+"A security breach has presented the opportunity to reroute the communication systems of a |FACTION| base. Reprogram the console at |LOCATION| before the window closes."
+
+[/Lotus/Language/ActiveMissions/DefenseDesc1]
+"A Tenno cryopod has been discovered at |LOCATION| by a squad of |FACTION| units. Defend it from harm while an extraction force is established."
+
+[/Lotus/Language/ActiveMissions/ExcavateDesc1]
+"Tenno operatives have uncovered a large Cyrotic deposit at |LOCATION|. However, |FACTION| units have arrived to claim it for themselves. Excavate as much as you can before the dig site is overrun."
+
+[/Lotus/Language/ActiveMissions/ExterminationDesc1]
+"A solitary group of |FACTION| units has been found at |LOCATION|. Eliminate the threat before backup can arrive."
+
+[/Lotus/Language/ActiveMissions/HiveDesc1]
+"A breeding grounds for |FACTION| larvae has been detected at |LOCATION|. Destroy the hives before an outbreak occurs."
+
+[/Lotus/Language/ActiveMissions/IntelDesc1]
+"Storage vaults of |FACTION| data have been located at |LOCATION|. Retrieve sensitive information without being detected by the advanced security systems on site."
+
+[/Lotus/Language/ActiveMissions/MobileDefenseDesc1]
+"A compromised |FACTION| network has been found. Datamasses have been deployed to |LOCATION|; locate them and upload their contents to the terminals on site."
+
+[/Lotus/Language/ActiveMissions/RescueDesc1]
+"A Tenno operative possessing critical security information has been captured by |FACTION| units. Rescue him from the prison base located at |LOCATION| before he is tortured and executed."
+
+[/Lotus/Language/ActiveMissions/RetrievalDesc1]
+"An exposed |FACTION| power core has been found at a |LOCATION| assembly plant. Retrieve it for our own purposes."
+
+[/Lotus/Language/ActiveMissions/SabotageDesc1]
+"A hidden |FACTION| base has been discovered at |LOCATION|. Destroy its essential machinery while the opportunity presents itself."
+
+[/Lotus/Language/ActiveMissions/SurvivalDesc1]
+"Provide a distraction at |LOCATION| while Tenno operatives recover an artifact guarded by |FACTION| units."
+
+[/Lotus/Language/ActiveMissions/TerritoryDesc1]
+"Unencrypted |FACTION| transmissions have been detected at |LOCATION|. Intercept these signals while they are still in flight."
+
 [/Lotus/Language/ActivityFeed/ActivityFeedCrafted]
 "|PLAYER_NAME| has crafted"
 
@@ -3388,6 +3433,24 @@ You will receive an email from your 2K contact when the console has been approve
 
 [/Lotus/Language/Alerts/AladCargoEvent]
 "Suspicious Shipment"
+
+[/Lotus/Language/Alerts/AlertRewardCategoryAura]
+"Aura"
+
+[/Lotus/Language/Alerts/AlertRewardCategoryBlueprint]
+"Blueprint"
+
+[/Lotus/Language/Alerts/AlertRewardCategoryItem]
+"Item"
+
+[/Lotus/Language/Alerts/AlertRewardCategoryMod]
+"Mod"
+
+[/Lotus/Language/Alerts/AlertRewardCategoryResource]
+"Resource"
+
+[/Lotus/Language/Alerts/AlertRewardCategoryStance]
+"Stance Mod"
 
 [/Lotus/Language/Alerts/AssassinationDesc1]
 "Enemy VIP Located"
@@ -5004,6 +5067,9 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bosses/BossTylRegor]
 "Tyl Regor"
 
+[/Lotus/Language/Bosses/CorpusCommander]
+"Corpus Commander"
+
 [/Lotus/Language/Bosses/Darvo]
 "Darvo"
 
@@ -5195,6 +5261,15 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Challenges/Challenge_BrawlerProficiency3_Name]
 "Brawler Proficiency III"
+
+[/Lotus/Language/Challenges/Challenge_CJCompleteQuest_Name]
+"Complete Quest: THE ARCHWING"
+
+[/Lotus/Language/Challenges/Challenge_CJKillBossLechKril_Name]
+"Defeat VOR and KRIL at EXTA on CERES"
+
+[/Lotus/Language/Challenges/Challenge_CJSurvivalTime_Name]
+"Survive 20 minutes or more at DRACO on CERES"
 
 [/Lotus/Language/Challenges/Challenge_ComboKill_Description]
 "Use two of weapon/melee/powers to kill opponent"
@@ -5454,6 +5529,33 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_EggTimer_Name]
 "Egg Timer"
 
+[/Lotus/Language/Challenges/Challenge_EMCompleteQuest_Name]
+"Complete Quest: ONCE AWAKE"
+
+[/Lotus/Language/Challenges/Challenge_EMGetKills_Name]
+"Defeat 150 FRONTIER GRINEER enemies on EARTH"
+
+[/Lotus/Language/Challenges/Challenge_EMPlayAlert_Name]
+"Complete any ALERT mission"
+
+[/Lotus/Language/Challenges/Challenge_EMSabotageInjectors_Name]
+"Sabotage 3 TOXIN INJECTORS at E PRIME"
+
+[/Lotus/Language/Challenges/Challenge_EVApplyMod_Name]
+"Apply 4 MODS to your Warframe or Weapon upgrade slots"
+
+[/Lotus/Language/Challenges/Challenge_EVCollectMods_Name]
+"Collect 10 MODS or FUSION CORES"
+
+[/Lotus/Language/Challenges/Challenge_EVCompleteQuest_Name]
+"Complete Quest: VOR'S PRIZE"
+
+[/Lotus/Language/Challenges/Challenge_EVKillEximus_Name]
+"Defeat 3 EXIMUS enemies on EARTH"
+
+[/Lotus/Language/Challenges/Challenge_EVUpgradeMod_Name]
+"Upgrade any MOD to RANK 2 or higher through the fusion process"
+
 [/Lotus/Language/Challenges/Challenge_Failed]
 "Failed"
 
@@ -5564,6 +5666,30 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Challenges/Challenge_IntoTheVoid_Name]
 "Into the Void "
+
+[/Lotus/Language/Challenges/Challenge_JECompleteQuest_Name]
+"Complete Quest: STOLEN DREAMS"
+
+[/Lotus/Language/Challenges/Challenge_JECraftMRWeapon_Name]
+"Craft a weapon requiring MASTERY RANK 1 or higher"
+
+[/Lotus/Language/Challenges/Challenge_JECraftSpecter_Name]
+"Craft a Warframe SPECTER"
+
+[/Lotus/Language/Challenges/Challenge_JEInfestedOutbreak_Name]
+"Complete an INFESTED OUTBREAK mission"
+
+[/Lotus/Language/Challenges/Challenge_JSCompleteQuest_Name]
+"Complete Quest: THE NEW STRANGE"
+
+[/Lotus/Language/Challenges/Challenge_JSKillBossAladV_Name]
+"Defeat ALAD V at THEMISTO on JUPITER"
+
+[/Lotus/Language/Challenges/Challenge_JSSpyExtractions_Name]
+"Complete a Corpus SPY mission with 3 successful data extractions on JUPITER"
+
+[/Lotus/Language/Challenges/Challenge_JSVoidTears_Name]
+"[Placeholder] TBD"
 
 [/Lotus/Language/Challenges/Challenge_Kaboom_Description]
 "Kill 10 or more enemies with a single explosion (Tonkor, etc)"
@@ -5730,6 +5856,18 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_Looter_Name]
 "Looter"
 
+[/Lotus/Language/Challenges/Challenge_MCGetKills_Name]
+"Defeat 300 ARID GRINEER enemies on MARS"
+
+[/Lotus/Language/Challenges/Challenge_MCKillBossKril_Name]
+"Defeat LT LECH KRIL at WAR on MARS"
+
+[/Lotus/Language/Challenges/Challenge_MCKillBossSergeant_Name]
+"Defeat THE SERGEANT at ILIAD on PHOBOS"
+
+[/Lotus/Language/Challenges/Challenge_MCVoidProjectionUpgrade_Name]
+"Refine a VOID RELIC once at the console in your Orbiter"
+
 [/Lotus/Language/Challenges/Challenge_MeleeCombo100_Message]
 "Martial Prowess"
 
@@ -5747,6 +5885,15 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Challenges/Challenge_Mercenary_Name]
 "Mercenary "
+
+[/Lotus/Language/Challenges/Challenge_MPGetKills_Name]
+"Defeat 150 enemies in a single mission on MARS"
+
+[/Lotus/Language/Challenges/Challenge_MPSupportInvasion_Name]
+"Support either the Corpus or Grineer in an INVASION mission"
+
+[/Lotus/Language/Challenges/Challenge_MPVoidTears_Name]
+"Seal 3 LITH FISSURES"
 
 [/Lotus/Language/Challenges/Challenge_MultiKill_Description]
 "Kill 4 opponents within 3 seconds"
@@ -5777,6 +5924,15 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Challenges/Challenge_NoWitnesses_Name]
 "No Witnesses "
+
+[/Lotus/Language/Challenges/Challenge_NPCompleteQuest_Name]
+"Complete Quest: THE SECOND DREAM"
+
+[/Lotus/Language/Challenges/Challenge_NPInterceptionBeacons_Name]
+"Intercept 3 signals at CAELUS on URANUS"
+
+[/Lotus/Language/Challenges/Challenge_NPNightmareMode_Name]
+"Complete 3 NIGHTMARE difficulty missions"
 
 [/Lotus/Language/Challenges/Challenge_Own10Warframes_Description]
 "Obtain 10 Warframes."
@@ -5813,6 +5969,15 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Challenges/Challenge_Payback_Name]
 "Payback"
+
+[/Lotus/Language/Challenges/Challenge_PEDefenseWaves_Name]
+"Complete 20 waves of DEFENSE at STÖFLER on LUA in a single mission"
+
+[/Lotus/Language/Challenges/Challenge_PEKillBossPhorid_Name]
+"Defeat PHORID during an INFESTED OUTBREAK"
+
+[/Lotus/Language/Challenges/Challenge_PEVoidTears_Name]
+"Seal 3 MESO FISSURES"
 
 [/Lotus/Language/Challenges/Challenge_PistolMaster_Description]
 "Get 20 kills with your Pistol"
@@ -6125,6 +6290,18 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Challenges/Challenge_PrimaryWeaponMastery_Message]
 "Formidable Performance"
+
+[/Lotus/Language/Challenges/Challenge_PSCraftMRWeapon_Name]
+"Craft a weapon requiring MASTERY RANK 5 or higher"
+
+[/Lotus/Language/Challenges/Challenge_PSGetKills_Name]
+"Defeat 10 SENTIENT enemies on LUA"
+
+[/Lotus/Language/Challenges/Challenge_PSKillBossVayHek_Name]
+"Defeat VAY HEK at ORO on EARTH"
+
+[/Lotus/Language/Challenges/Challenge_PSPrincipleMods_Name]
+"Collect any 3 MODS from the Orokin Principle challenge rooms on LUA"
 
 [/Lotus/Language/Challenges/Challenge_PublicEnemy_Description]
 "Kill each opponent at least once before being killed"
@@ -6676,7 +6853,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Sentinel Proficiency III"
 
 [/Lotus/Language/Challenges/Challenge_SevenPrinciples_Description]
-"Complete all seven tests on the moon"
+"Complete all seven tests on Lua"
 
 [/Lotus/Language/Challenges/Challenge_SevenPrinciples_Name]
 "Seven Principles"
@@ -6825,6 +7002,15 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_SuicideAssist_Name]
 "Intimidation"
 
+[/Lotus/Language/Challenges/Challenge_SUKillBossSargasRuk_Name]
+"Defeat SARGAS RUK at TETHYS on SATURN"
+
+[/Lotus/Language/Challenges/Challenge_SUKillBossVorKril_Name]
+"Defeat VOR and KRIL at WAR on MARS"
+
+[/Lotus/Language/Challenges/Challenge_SUVoidTears_Name]
+"Seal 3 NEO FISSURES"
+
 [/Lotus/Language/Challenges/Challenge_Swordsman_Description]
 "Get 10 Melee kills."
 
@@ -6885,8 +7071,32 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_Uber_Name]
 "From Within"
 
+[/Lotus/Language/Challenges/Challenge_UNCompleteQuest_Name]
+"Complete Quest: NATAH"
+
+[/Lotus/Language/Challenges/Challenge_UNFindCaches_Name]
+"Open 3 CACHES during any SABOTAGE mission on URANUS"
+
+[/Lotus/Language/Challenges/Challenge_UNKillBossTylRegor_Name]
+"Defeat TYL REGOR at TITANIA on URANUS"
+
+[/Lotus/Language/Challenges/Challenge_UNMeleeOnly_Name]
+"Complete any 5 missions on URANUS with only your MELEE weapon equipped"
+
 [/Lotus/Language/Challenges/Challenge_UsedUltimateAbility_Message]
 "The Void Unleashed"
+
+[/Lotus/Language/Challenges/Challenge_VMDefenseWaves_Name]
+"Complete 10 waves of DEFENSE at TESSERA in a single mission"
+
+[/Lotus/Language/Challenges/Challenge_VMKillBossJackal_Name]
+"Defeat JACKAL at FOSSA"
+
+[/Lotus/Language/Challenges/Challenge_VMKillEximus_Name]
+"Defeat 10 EXIMUS enemies on VENUS"
+
+[/Lotus/Language/Challenges/Challenge_VMRescueHostage_Name]
+"Rescue a HOSTAGE from LINEA"
 
 [/Lotus/Language/Challenges/Challenge_WarframeMastery_Message]
 "Conduit of the Void"
@@ -7093,56 +7303,62 @@ But the experiment was only a partial success. Without pain, Dhurnam grew weak a
 [/Lotus/Language/ChangeInfo/SCEAAPPVER_01.16_SCEAMASTERVER_01.00_SCEEAPPVER_01.14_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
 "Archwing"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.17_SCEAMASTERVER_01.00_SCEEAPPVER_01.15_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.17_SCEAMASTERVER_01.00_SCEEAPPVER_01.15_SCEEMASTERVER_01.00]
 "Mesa"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.18_SCEAMASTERVER_01.00_SCEEAPPVER_01.17_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.18_SCEAMASTERVER_01.00_SCEEAPPVER_01.17_SCEEMASTERVER_01.00]
 "Eyes of Blight"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.19_SCEAMASTERVER_01.00_SCEEAPPVER_01.18_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.19_SCEAMASTERVER_01.00_SCEEAPPVER_01.18_SCEEMASTERVER_01.00]
 "Stolen Dreams"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.20_SCEAMASTERVER_01.00_SCEEAPPVER_01.19_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.20_SCEAMASTERVER_01.00_SCEEAPPVER_01.19_SCEEMASTERVER_01.00]
 "Sanctuary"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.21_SCEAMASTERVER_01.00_SCEEAPPVER_01.20_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.21_SCEAMASTERVER_01.00_SCEEAPPVER_01.20_SCEEMASTERVER_01.00]
 "Tubemen of Regor"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.22_SCEAMASTERVER_01.00_SCEEAPPVER_01.21_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.22_SCEAMASTERVER_01.00_SCEEAPPVER_01.21_SCEEMASTERVER_01.00]
 "Tubemen of Regor"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.23_SCEAMASTERVER_01.00_SCEEAPPVER_01.22_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.23_SCEAMASTERVER_01.00_SCEEAPPVER_01.22_SCEEMASTERVER_01.00]
 "Tubemen of Regor"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.24_SCEAMASTERVER_01.00_SCEEAPPVER_01.23_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.24_SCEAMASTERVER_01.00_SCEEAPPVER_01.23_SCEEMASTERVER_01.00]
 "Tubemen of Regor"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.25_SCEAMASTERVER_01.00_SCEEAPPVER_01.24_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.25_SCEAMASTERVER_01.00_SCEEAPPVER_01.24_SCEEMASTERVER_01.00]
 "Echoes of the Sentient"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.26_SCEAMASTERVER_01.00_SCEEAPPVER_01.25_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.26_SCEAMASTERVER_01.00_SCEEAPPVER_01.25_SCEEMASTERVER_01.00]
 "Echoes of the Sentient"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.27_SCEAMASTERVER_01.00_SCEEAPPVER_01.26_SCEEMASTERVER_01.00_SCEZAPPVER_01.01_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.27_SCEAMASTERVER_01.00_SCEEAPPVER_01.26_SCEEMASTERVER_01.00]
 "The Jordas Precept"
 
 [/Lotus/Language/ChangeInfo/SCEAAPPVER_01.28_SCEAMASTERVER_01.00_SCEEAPPVER_01.27_SCEEMASTERVER_01.00_SCEZAPPVER_01.02_SCEZMASTERVER_01.00]
 "The Second Dream"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.29_SCEAMASTERVER_01.00_SCEEAPPVER_01.28_SCEEMASTERVER_01.00_SCEZAPPVER_01.02_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.29_SCEAMASTERVER_01.00_SCEEAPPVER_01.28_SCEEMASTERVER_01.00]
 "Ring of Fire"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.30_SCEAMASTERVER_01.00_SCEEAPPVER_01.29_SCEEMASTERVER_01.00_SCEZAPPVER_01.02_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.30_SCEAMASTERVER_01.00_SCEEAPPVER_01.29_SCEEMASTERVER_01.00]
 "Ring of Fire"
 
-[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.31_SCEAMASTERVER_01.00_SCEEAPPVER_01.30_SCEEMASTERVER_01.00_SCEZAPPVER_01.03_SCEZMASTERVER_01.00]
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.31_SCEAMASTERVER_01.00_SCEEAPPVER_01.30_SCEEMASTERVER_01.00]
 "Sands of Inaros"
 
 [/Lotus/Language/ChangeInfo/SCEAAPPVER_01.32_SCEAMASTERVER_01.00_SCEEAPPVER_01.31_SCEEMASTERVER_01.00_SCEZAPPVER_01.03_SCEZMASTERVER_01.00]
 "Sands of Inaros"
 
 [/Lotus/Language/ChangeInfo/SCEAAPPVER_01.33_SCEAMASTERVER_01.00_SCEEAPPVER_01.32_SCEEMASTERVER_01.00_SCEZAPPVER_01.04_SCEZMASTERVER_01.00]
-"Sands of Inaros"
+"Operation Rathuum"
+
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.34_SCEAMASTERVER_01.00_SCEEAPPVER_01.33_SCEEMASTERVER_01.00]
+"Operation Rathuum"
+
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.35_SCEAMASTERVER_01.00_SCEEAPPVER_01.34_SCEEMASTERVER_01.00]
+"Lunaro"
 
 [/Lotus/Language/Changyou/AliasNameConfirm]
 "Use '|NEW_NAME|' as your Warframe alias?"
@@ -7203,7 +7419,8 @@ I am counting on you Tenno.
 "COMMEMORATIVE EMBLEM"
 
 [/Lotus/Language/Changyou/CYCCBCommemorativeBundleDesc]
-"A bundle awarded to Warframe CCB participants, containing the Rakta Syandana, Gorgon Wraith and a Commemorative Emblem."
+"A bundle awarded to Warframe CCB participants, containing the Rakta Syandana, Gorgon Wraith and a Commemorative Emblem
+."
 
 [/Lotus/Language/Changyou/CYCCBCommemorativeBundleName]
 "COMMEMORATIVE BUNDLE"
@@ -7446,12 +7663,12 @@ Be diligent, Tenno!
 [/Lotus/Language/Changyou/VaubanDefenseBody]
 "Pupil,
 
-You showed a new level of stamina and fortitude in that last battle. Take this Vauban Helmet Blueprint as a reward. You earned it.
+You showed a new level of stamina and fortitude in that last battle. Take this Vauban Neuroptics Blueprint as a reward. You earned it.
 
 -Teshin"
 
 [/Lotus/Language/Changyou/VaubanDefenseSubject]
-"Tools of War: Vauban Helmet Blueprint"
+"Tools of War: Vauban Neuroptics Blueprint"
 
 [/Lotus/Language/Changyou/VaubanIntroBody]
 "Pupil,
@@ -8668,7 +8885,7 @@ Warframe Support Team"
 "Take flight, Tenno! Aerial attacks in the Conclave will keep your opponents on their toes. Bring scythes, heavy melees, machetes or polearms to improve in-air combat!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip162]
-"Sniper feeling a bit dull in the Conclave? Visit Teshin in the Relays to get your hands on the Lie in Wait mod to increase Aimed Damaged by 60% and decrease Recoil by 200% at max rank!"
+"Sniper feeling a bit dull in the Conclave? Visit Teshin in the Relays to get your hands on the Lie in Wait mod to increase Aimed Damage by 60% and decrease Recoil by 200% at max rank!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip163]
 "Looking for an all-purpose elemental damage? <DT_CORROSIVE>Corrosive and <DT_FREEZE>Cold damage have some effect on each enemy faction!"
@@ -10930,8 +11147,7 @@ Blueprint Replication <CREDITS>|PRICE|"
 "Would you like to cancel the trade or resume it later?"
 
 [/Lotus/Language/Dojo/ReusableBlueprintOwned]
-"You already have this blueprint
-in your inventory"
+"You already have this blueprint in your inventory"
 
 [/Lotus/Language/Dojo/RockStatueStonePileDesc]
 "Stones stacked together, marking a memorial to those lost forevermore."
@@ -11500,6 +11716,9 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 [/Lotus/Language/Dojo/TradePlayerLeftSessionHub]
 "|PLAYER_NAME| closed the trading session"
 
+[/Lotus/Language/Dojo/TradeProjectionRewardDesc]
+"Can drop the following: |ITEMLIST|"
+
 [/Lotus/Language/Dojo/TradeRequest]
 "|PLAYER_NAME| wants to trade with you. Would you like to join their trading session?"
 
@@ -11507,13 +11726,13 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "|PLAYER_NAME| is already in a trading session."
 
 [/Lotus/Language/Dojo/TradeSessionAutoRejectedBelowMinRank]
-"[PLACEHOLDER] |PLAYER_NAME| does not have sufficient rank to trade."
+"|PLAYER_NAME| does not have sufficient rank to trade."
 
 [/Lotus/Language/Dojo/TradeSessionAutoRejectedDuel]
 "|PLAYER_NAME| is in a duel with another player and cannot trade at the moment."
 
 [/Lotus/Language/Dojo/TradeSessionAutoRejectedNoTradesRemaining]
-"[PLACEHOLDER] |PLAYER_NAME| has no more trades remaining today."
+"|PLAYER_NAME| has no more trades remaining today."
 
 [/Lotus/Language/Dojo/TradeSessionDenied]
 "|PLAYER_NAME| denied your trade request."
@@ -11556,6 +11775,9 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 
 [/Lotus/Language/Dojo/TradeTypePlatinum]
 "<PLATINUM_CREDITS>Platinum"
+
+[/Lotus/Language/Dojo/TradeTypeProjections]
+"Relics"
 
 [/Lotus/Language/Dojo/TradeTypeSchematic]
 "Blueprint"
@@ -11999,46 +12221,55 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "SHRUG"
 
 [/Lotus/Language/Enemies/ReplicantChroma]
-"CHROMA GHOST"
+"CHROMA SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantEmber]
-"EMBER GHOST"
+"EMBER SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantEquinox]
-"EQUINOX GHOST"
+"EQUINOX SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantExcalibur]
-"EXCALIBUR GHOST"
+"EXCALIBUR SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantFrost]
-"FROST GHOST"
+"FROST SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantHydroid]
-"HYDROID GHOST"
+"HYDROID SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantLoki]
-"LOKI GHOST"
+"LOKI SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantMag]
-"MAG GHOST"
+"MAG SPECTER"
+
+[/Lotus/Language/Enemies/ReplicantMesa]
+"MESA SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantNova]
-"NOVA GHOST"
+"NOVA SPECTER"
+
+[/Lotus/Language/Enemies/ReplicantPaladin]
+"OBERON SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantPlaceholder]
-"[Placeholder] GHOST"
+"SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantRhino]
-"RHINO GHOST"
+"RHINO SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantSaryn]
-"SARYN GHOST"
+"SARYN SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantTrinity]
-"TRINITY GHOST"
+"TRINITY SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantValkyr]
-"VALKYR GHOST"
+"VALKYR SPECTER"
+
+[/Lotus/Language/Enemies/ReplicantVolt]
+"VOLT SPECTER"
 
 [/Lotus/Language/EnemyLeaders/BlastLeaderDesc]
 "Defends itself with a radial Blast Attack"
@@ -12721,14 +12952,395 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 [/Lotus/Language/Focus/Warrior_WeaponAimBonusShotgunName]
 "SHOTGUN MASTER"
 
+[/Lotus/Language/Fragments/ArchaicWeapons1]
+"ARCHAIC WEAPONS"
+
+[/Lotus/Language/Fragments/ArchaicWeapons1Desc]
+"The Old War found humanity facing a technologically superior force, and their own weapons were turned against them. Melee and ballistic weapons, inspired by primitive counterparts, became part of the Tenno arsenal to circumvent the Sentient interference of more technologically-involved weaponry. "
+
+[/Lotus/Language/Fragments/ArchaicWeapons1Flavor]
+"Archaic Weapons"
+
+[/Lotus/Language/Fragments/Ceres1]
+"CERES"
+
+[/Lotus/Language/Fragments/Ceres1Desc]
+"Ceres is the extreme example of the Grineer’s utilitarian ignorance of the natural landscape. Their expanding shipyard operations pollute and shroud the planet in smog and industrial waste as they manufacture machines of war. These foundries are scattered across the Solar System, giving them near-limitless reach with their fleets."
+
+[/Lotus/Language/Fragments/Ceres1Flavor]
+"Ceres"
+
+[/Lotus/Language/Fragments/Citizens1]
+"CITIZENS"
+
+[/Lotus/Language/Fragments/Citizens1Desc]
+"While the major warring factions combat each other across the Solar System, non-militant organizations and civilian merchants populate the many regional Tenno Relays. Travelling merchant collectors that offer rare goods, mentors that offer training and knowledge, and convictional syndicates that preach their own rituals and doctrine."
+
+[/Lotus/Language/Fragments/Citizens1Flavor]
+"Citizens"
+
+[/Lotus/Language/Fragments/Corpus1]
+"CORPUS"
+
+[/Lotus/Language/Fragments/Corpus1Desc]
+"Lead by innovatory and elusive industrialists, and claiming to be descendants of Orokin lineage, the Corpus are dedicated to the accumulation of wealth. This elite ruling class operates an insular trade organization using humans and robotics for labour and security, and have been condemned by the Seven as a merchant cult."
+
+[/Lotus/Language/Fragments/Corpus1Flavor]
+"Corpus"
+
+[/Lotus/Language/Fragments/CorpusCrew1]
+"CORPUS CREW"
+
+[/Lotus/Language/Fragments/CorpusCrew1Desc]
+"Predominantly a merchant guild, Corpus labour and security forces are composed mostly of purpose-bread humanoid crewmen, and animal-like robots; both equally indoctrinated into a ritualized and propagandist devotion to labour and work."
+
+[/Lotus/Language/Fragments/CorpusCrew1Flavor]
+"Corpus Crew"
+
+[/Lotus/Language/Fragments/CorpusWeapons1]
+"CORPUS WEAPONS"
+
+[/Lotus/Language/Fragments/CorpusWeapons1Desc]
+"Weapons research and manufacturing is a large component of Corpus industry. Their designs are clean and precisely engineered, and they are the largest supplier of energy-based weapons in the solar system. These cunning profiteers prefer to avoid conflict in times of war, dealing arms indiscriminately to any side that can afford the price."
+
+[/Lotus/Language/Fragments/CorpusWeapons1Flavor]
+"Corpus Weapons"
+
+[/Lotus/Language/Fragments/DefaultImage]
+"DEFAULT IMAGE"
+
+[/Lotus/Language/Fragments/Dojo1]
+"DOJO"
+
+[/Lotus/Language/Fragments/Dojo1Desc]
+"Newly awakened, and with no permanent location to call home, Tenno warriors have aligned to construct secret temples of their own. The architecture within is distinctly Tenno in origin, but these hidden palaces of bonding, training and meditation are undeniably influenced by Orokin architecture."
+
+[/Lotus/Language/Fragments/Dojo1Flavor]
+"Dojo"
+
+[/Lotus/Language/Fragments/Earth1]
+"EARTH"
+
+[/Lotus/Language/Fragments/Earth1Desc]
+"Earth has been long abandoned due to its toxic atmosphere. It is now overgrown with mutated jungle structures that have devoured most of the prior signs of civilization. Infestation and roaming wildlife still inhabit its surface but anything of value was stripped by scavengers generations ago."
+
+[/Lotus/Language/Fragments/Earth1Flavor]
+"Earth"
+
+[/Lotus/Language/Fragments/EarthSettlements1]
+"EARTH SETTLEMENTS"
+
+[/Lotus/Language/Fragments/EarthSettlements1Desc]
+"Like most living organisms, the Grineer require water to survive. Beneath Earth’s towering forest canopy are rich reserves of fresh water that the Grineer have fought hard to maintain for many years. Evidence of their long-standing occupation is found among their many outposts that have been taken hold by giant roots, moss, and other layers of vegetation over time."
+
+[/Lotus/Language/Fragments/EarthSettlements1Flavor]
+"Earth Settlements"
+
+[/Lotus/Language/Fragments/Eris1]
+"ERIS"
+
+[/Lotus/Language/Fragments/Eris1Desc]
+"There are no longer any active military or research campaigns in the Eris region – it is overrun.  Long evacuated Corpus and Grineer vessels drift aimlessly in orbit, slowly being devoured by the techno-organic parasite known as the “Infestation”.  What remains is a twisted graveyard of partially-digested ships that are disfigured versions of their original forms… Abandoned, but not unoccupied."
+
+[/Lotus/Language/Fragments/Eris1Flavor]
+"Eris"
+
+[/Lotus/Language/Fragments/Europa1]
+"EUROPA"
+
+[/Lotus/Language/Fragments/Europa1Desc]
+"The icy moon of Jupiter, known as Europa, is home to one of the largest crash sites of the modern war. The scattered remains of a vast Corpus Obelisk litters the snowy landscape while the battle above wages on. On the otherwise lifeless surface, Corpus crew work to recover lost assets, tunneling their way through the glacial interior and restoring any and all salvageable items until financial losses are recouped."
+
+[/Lotus/Language/Fragments/Europa1Flavor]
+"Europa"
+
+[/Lotus/Language/Fragments/EuropaLandscape1]
+"EUROPA LANDSCAPE"
+
+[/Lotus/Language/Fragments/EuropaLandscape1Desc]
+"Living conditions are harsh on Europa. The surface of Jupiter’s moon is flat and desolate, with a horizon of hard compacted snow that appears endless. The jagged forms of a crashed Corpus Obelisk are the only real observable landmarks above ground. Underground are caverns and tunnels of opaque ice, and crystal lakes that may have formed naturally or from the residual heat of the crashsite."
+
+[/Lotus/Language/Fragments/EuropaLandscape1Flavor]
+"Europa Landscape"
+
+[/Lotus/Language/Fragments/Grineer1]
+"GRINEER"
+
+[/Lotus/Language/Fragments/Grineer1Desc]
+"The sprawling military ranks of the Grineer empire are formed of rotting hordes of simpleton clones, bent on consuming everything that remains of the Solar System. They live short, violent lives, much of it an inheritance of their genetic stunting by their former Orokin masters."
+
+[/Lotus/Language/Fragments/Grineer1Flavor]
+"Grineer"
+
+[/Lotus/Language/Fragments/GrineerLabour1]
+"GRINEER LABOUR"
+
+[/Lotus/Language/Fragments/GrineerLabour1Desc]
+"Strict laws on organic engineering impose severe mental and physical health limitations on the Grineer labour force. Whatever standard human stock they were originally derived from has been lost. Compliant and high-performing variants are often technically augmented to extend their lifespans beyond the few decades they can normally expect in operation."
+
+[/Lotus/Language/Fragments/GrineerLabour1Flavor]
+"Grineer Labour"
+
+[/Lotus/Language/Fragments/GrineerLeadership1]
+"GRINEER LEADERSHIP"
+
+[/Lotus/Language/Fragments/GrineerLeadership1Desc]
+"Grineer are all clones from a genetic pool of ‘Originals’. They are able to extend their lifespans with recycled cloned parts, but their genetic material has degraded over time, and haphazard repairs have made many of them look oddly deformed and susceptible to skin diseases. Through decades of service, many of the Grineer elite can cover the expense to have flawed organic parts replaced with cybernetic augmentations."
+
+[/Lotus/Language/Fragments/GrineerLeadership1Flavor]
+"Grineer Leadership"
+
+[/Lotus/Language/Fragments/GrineerTechnology1]
+"GRINEER TECHNOLOGY"
+
+[/Lotus/Language/Fragments/GrineerTechnology1Desc]
+"Unlike the Corpus, the Grineer are not celebrated for their ingenuity and craftsmanship. Their notoriety is steeped in violence and military proficiency. However, the Grineer have proven quite inventive and capable of developing their own technologies throughout history. Hiding beneath scrap metal plates, fading paint, and recycled components are qualified devices used for research, manufacturing, and warfare."
+
+[/Lotus/Language/Fragments/GrineerTechnology1Flavor]
+"Grineer Technology"
+
+[/Lotus/Language/Fragments/Infestation1]
+"INFESTATION"
+
+[/Lotus/Language/Fragments/Infestation1Desc]
+"The Infestation spreads across the Origin System – a techno-organic parasite that attaches itself to natural and synthetic forms, slowly digesting the host subject and transforming it on a molecular level. Organic materials morph into new homogeneous organisms while harder, inorganic materials, like metals, will change structurally into a pseudo-organic substance that holds the characteristics of its previous forms."
+
+[/Lotus/Language/Fragments/Infestation1Flavor]
+"Infestation"
+
+[/Lotus/Language/Fragments/Infested1]
+"INFESTED"
+
+[/Lotus/Language/Fragments/Infested1Desc]
+"Infestation of a living natural organism and the transformation of its molecular structure happens much more rapidly than with large synthetic ships or machinery. Infested nanites quickly break down organic tissue and begin to evolve the existing specimen into a new organism with characteristics and functions ideal for survival and self-defense. In many cases, visible traces of the victim's original form are still visible in the new mutated form – a stark and horrifying memorial."
+
+[/Lotus/Language/Fragments/Infested1Flavor]
+"Infested"
+
+[/Lotus/Language/Fragments/Jupiter1]
+"JUPITER"
+
+[/Lotus/Language/Fragments/Jupiter1Desc]
+"It is not impossible to mine a star. Rich with liquid metallic resources, the gas-giant Jupiter challenges harvesters with increased gravity, intense magnetic fields, and extreme temperatures. Only the most tenacious profiteers would dare operate here. Prevailing science of Corpus industry thrives in the clouds of Jupiter’s outer atmosphere."
+
+[/Lotus/Language/Fragments/Jupiter1Flavor]
+"Jupiter"
+
+[/Lotus/Language/Fragments/LandingCraft1]
+"LANDING CRAFT"
+
+[/Lotus/Language/Fragments/LandingCraft1Desc]
+"Warframe operative insertion craft come in many designs, but they are all commonly classified as short-range stealth aircraft. Fuselage insertion stingers will torpedo the Warframe into the hull of the target undetected, and the landing craft will re-position at the extraction point. Between engagements, the landing craft is latched to its sister component, an Orbiter. "
+
+[/Lotus/Language/Fragments/LandingCraft1Flavor]
+"Landing Craft"
+
+[/Lotus/Language/Fragments/Lephantis1]
+"LEPHANTIS"
+
+[/Lotus/Language/Fragments/Lephantis1Desc]
+"Functioning agents of the Infestation appear in a variety of horrific forms. While some infested organisms take the relative shape and physical properties of a newly acquired host, older entities have taken unique and transformative shapes of their own, adapting to their environment over time, and absorbing new victims to feed their evolution."
+
+[/Lotus/Language/Fragments/Lephantis1Flavor]
+"Lephantis"
+
+[/Lotus/Language/Fragments/Lotus1]
+"LOTUS"
+
+[/Lotus/Language/Fragments/Lotus1Desc]
+"Guiding light to the newly-awakened Tenno, the Lotus is a mysterious companion and mentor who works from an unknown remote location. Her past is rich with storied history, and her knowledge of the known universe, past and present, rivals even the most studious Cephalon intelligence. Her reach is far, her allies are many, but her ultimate intentions are of dubious propriety."
+
+[/Lotus/Language/Fragments/Lotus1Flavor]
+"Lotus"
+
+[/Lotus/Language/Fragments/Mars1]
+"PHOBOS"
+
+[/Lotus/Language/Fragments/Mars1Desc]
+"Phobos has always been a highly contested area. Skirmishes between the tireless Grineer and Corpus factions occur in orbit and on the Martian moon surface. Unanswered questions about this natural satellite still remain as all research is endlessly delayed by war."
+
+[/Lotus/Language/Fragments/Mars1Flavor]
+"Mars"
+
 [/Lotus/Language/Fragments/Mercury1]
-"Mercury"
+"MERCURY"
 
 [/Lotus/Language/Fragments/Mercury1Desc]
 "Galleon fleets keep watch over the Grineer mining operations that penetrate Mercury’s asteroid field. Cavernous rooms and twisting metal corridors mark where labourers have stripped the region for crucial resources, transforming the natural landscape to support Grineer occupancy."
 
 [/Lotus/Language/Fragments/Mercury1Flavor]
-"The Grineer serve us here, deep inside the hellish subterranean mines. The beasts feed our greatness."
+"Mercury"
+
+[/Lotus/Language/Fragments/Moon1]
+"LUA"
+
+[/Lotus/Language/Fragments/Moon1Desc]
+"Gold rings circle and encapsulate the desolate moonscape – lavish architecture signifying the Orokin mastery over all things natural and technological during their reign. The opalescent halls stitching together what the enemy destroyed have been vacated since that era came to an end."
+
+[/Lotus/Language/Fragments/Moon1Flavor]
+"Lua"
+
+[/Lotus/Language/Fragments/Neptune1]
+"NEPTUNE"
+
+[/Lotus/Language/Fragments/Neptune1Desc]
+"The Corpus have perfected automated manufacturing and continue to demonstrate maximum efficiency producing the robotic proxies they build to serve them. Immaculate production lines and flawless technical engineering ensure that the production of robotics and intelligent, synthetic machines continues in perpetuity."
+
+[/Lotus/Language/Fragments/Neptune1Flavor]
+"Neptune"
+
+[/Lotus/Language/Fragments/Orbiter1]
+"ORBITER"
+
+[/Lotus/Language/Fragments/Orbiter1Desc]
+"Tenno operatives are a highly mobile strike force, and their property must be equally itinerant. Smaller landing crafts dock with the larger Orbiter shuttle where transient warriors can house their arsenal, foundry, and research systems."
+
+[/Lotus/Language/Fragments/Orbiter1Flavor]
+"Orbiter"
+
+[/Lotus/Language/Fragments/Orokin1]
+"OROKIN"
+
+[/Lotus/Language/Fragments/Orokin1Desc]
+"The highly revered Orokin civilization built sovereignty on a culture of art, technology and architecture. To prove oneself worthy of elevated social status, one must face Orokin trials in the golden and majestic Halls of Ascension. At one time a utopian society of omniscient leadership, the great Orokin Era ended in a divine realization of their own ignorance."
+
+[/Lotus/Language/Fragments/Orokin1Flavor]
+"Orokin"
+
+[/Lotus/Language/Fragments/OrokinDerelict1]
+"OROKIN DERELICT"
+
+[/Lotus/Language/Fragments/OrokinDerelict1Desc]
+"Even the most culturally and technologically advanced civilization in history could not contain the menace of the Infestation. After an unknown cataclysmic event propelled them from the Void, Orokin vessels were left adrift, becoming uninhabited and overgrown. The tireless force of probing infested tendrils penetrate and dislodge the once majestic and opulent halls of these Orokin vessels."
+
+[/Lotus/Language/Fragments/OrokinDerelict1Flavor]
+"Orokin Derelict"
+
+[/Lotus/Language/Fragments/Phobos1]
+"MARS"
+
+[/Lotus/Language/Fragments/Phobos1Desc]
+"A primitive and devout civilization was carved into the dust-filled canyons of Mars. These aging and severely eroded habitations miraculously remain intact, regardless of how much Grineer machinery has be fastened to it. Rusty metal and oil-soaked sand mark the territory of its new proprietors."
+
+[/Lotus/Language/Fragments/Phobos1Flavor]
+"Phobos"
+
+[/Lotus/Language/Fragments/PhobosSettlement1]
+"MARS SETTLEMENT"
+
+[/Lotus/Language/Fragments/PhobosSettlement1Desc]
+"The Grineer have reclaimed the abandoned dwellings of an ancient society which sprung up around a massive Orokin terra-forming device. Content to make use of the existing structures, Mars’ current occupants have established a base of military operations in one of the few regions that has a habitable climate moderated by Orokin technology."
+
+[/Lotus/Language/Fragments/PhobosSettlement1Flavor]
+"Phobos Settlement"
+
+[/Lotus/Language/Fragments/Pluto1]
+"PLUTO"
+
+[/Lotus/Language/Fragments/Pluto1Desc]
+"Pluto is small and cold, and organic tissue does not fare well in its extreme climate. But the merchant spacemen always seek opportunity for profit in regions where others dare not travel. Robotic proxies act as security in the largely un-manned manufacturing facilities that operate in the area."
+
+[/Lotus/Language/Fragments/Pluto1Flavor]
+"Pluto"
+
+[/Lotus/Language/Fragments/Robotics1]
+"ROBOTICS"
+
+[/Lotus/Language/Fragments/Robotics1Desc]
+"Computing devices, weapons, ship parts and robotics – the Corpus are on the bleeding edge of high-technology development. Precisely machined metals and flexible synthetic composites are signature to the animalistic robots that the Corpus have built as their proxies. Artificial intelligence in these robotics is robust, but intentionally restricted, ensuring a capable but subservient workforce."
+
+[/Lotus/Language/Fragments/Robotics1Flavor]
+"Robotics"
+
+[/Lotus/Language/Fragments/Saturn1]
+"SATURN"
+
+[/Lotus/Language/Fragments/Saturn1Desc]
+"The historically well-travelled merchant shipping lanes of Saturn are now dominated by Grineer blockades. Heavy military influence populates this area where Grineer Commanders believe they have a strategic foothold on travel throughout the System. Under the safeguard of patrolling Galleons, the Grineer ceaselessly train their expanding forces, making the region nigh impossible to overtake."
+
+[/Lotus/Language/Fragments/Saturn1Flavor]
+"Saturn"
+
+[/Lotus/Language/Fragments/Sedna1]
+"SEDNA"
+
+[/Lotus/Language/Fragments/Sedna1Desc]
+"If there are new discoveries to make or ancient tools of war yet to be excavated, the Grineer want to be there first — at the frontier of space exploration. Always seeking the upper-hand against their foes, they have numerous deployments that border the known reaches of our solar system, poised to enter brave new territory and unexplored space on command."
+
+[/Lotus/Language/Fragments/Sedna1Flavor]
+"Sedna"
+
+[/Lotus/Language/Fragments/Sentinels1]
+"SENTINELS"
+
+[/Lotus/Language/Fragments/Sentinels1Desc]
+"On the border of charted space, an enclave of small, strange, seemingly intelligent creatures was discovered by Tenno explorers. They are mechanical entities, almost organic in appearance, with a precarious resemblance to the fearsome Sentients that had decimated human civilization. However, these small creatures showed no signs of aggression, and they immediately began carrying out helpful tasks in peculiar alliance with the Tenno."
+
+[/Lotus/Language/Fragments/Sentinels1Flavor]
+"Sentinels"
+
+[/Lotus/Language/Fragments/TheCollapse1]
+"THE COLLAPSE"
+
+[/Lotus/Language/Fragments/TheCollapse1Desc]
+"On the heels of the Tenno’s victory against the Sentients, the end of the Old War, the golden structures of Orokin civilization collapsed.The absolute cause of this ruination is unknown, but speculation has pointed to natural disaster, political uprising and universal warfare as potential agents of cataclysm. Archived details for this event have never been recovered."
+
+[/Lotus/Language/Fragments/TheCollapse1Flavor]
+"The Collapse"
+
+[/Lotus/Language/Fragments/Uranus1]
+"URANUS"
+
+[/Lotus/Language/Fragments/Uranus1Desc]
+"Submerged deep below Uranus’ oceanic surface, and hidden from prying eyes, is a research facility for cloning and reproduction. Water pressure at these extreme depths put massive strain on the glass and steel structures housing these operations, but as freshly sprung leaks remind of the impending crushing force surrounding them, the Grineer forge ahead with their experiments."
+
+[/Lotus/Language/Fragments/Uranus1Flavor]
+"Uranus"
+
+[/Lotus/Language/Fragments/Venus1]
+"VENUS"
+
+[/Lotus/Language/Fragments/Venus1Desc]
+"Hidden and entrenched in the mountainous peaks of Venus, the Corpus practice their industrious craft. The superstructures built here are a testament to the inventive Corpus engineers that have settled in regions where lingering Orokin technology still moderates surface temperatures."
+
+[/Lotus/Language/Fragments/Venus1Flavor]
+"Venus"
+
+[/Lotus/Language/Fragments/Void1]
+"VOID"
+
+[/Lotus/Language/Fragments/Void1Desc]
+"Originally we studied Void occurrences from afar, observing and cataloguing the distribution of galaxies and refining cosmological evolution models. We are in a new age of cosmic exploration. Advancements in space travel partnered with determined curiosity have brought us closer to our object of study, and with it, revelation. "
+
+[/Lotus/Language/Fragments/Void1Flavor]
+"Void"
+
+[/Lotus/Language/Fragments/Warframes1]
+"WARFRAME TECHNOLOGY"
+
+[/Lotus/Language/Fragments/Warframes1Desc]
+"A mysterious weaponized armor controlled solely by the Tenno. Through the Warframe, Tenno can cheat death, channel the forbidden Void energies and face scores of enemies without fatigue. Due to apparent resistances of their Bio-Metal exoskeletons, Warframes can be safely deployed to Infestation Outbreaks, should they occur. In-depth information of the Warframe mandate is forbidden to all but the Seven."
+
+[/Lotus/Language/Fragments/Warframes1Flavor]
+"Warframe Technology"
+
+[/Lotus/Language/Fragments/Warframes2]
+"WARFRAMES"
+
+[/Lotus/Language/Fragments/Warframes2Desc]
+"The true nature of the Warframes and their Tenno connection is a secret lost to the Old War. Together, they represent our best hope in turning the tide of the machine war. Warframes are unique from Dax and other Infantry, deploying dangerous and esoteric Void energy, and equipped with often mundane physical weapons – this is key to fighting an enemy that had turned our technology against us. "
+
+[/Lotus/Language/Fragments/Warframes2Flavor]
+"Warframes"
+
+[/Lotus/Language/Fragments/Wildlife1]
+"WILDLIFE"
+
+[/Lotus/Language/Fragments/Wildlife1Desc]
+"Most of the wildlife observed today can be traced back to creatures of Earth. In the Orokin age, organic manipulation was used to modify earth lifeforms to a purpose: war, agriculture, pets. Long after their Orokin masters perished, some of these species managed to survive through adaptation, and can be found roaming in natural environments."
+
+[/Lotus/Language/Fragments/Wildlife1Flavor]
+"Wildlife"
 
 [/Lotus/Language/G1Quests/AbandonDailySimarisTask]
 "<SIMARIS> I cannot complete this synthesis."
@@ -13350,13 +13962,13 @@ A Grineer General, Vor, stands over you...
 "Return to Cephalon Simaris"
 
 [/Lotus/Language/G1Quests/DragonQuestLisetCraftChassisBlueprint]
-"Craft Chroma Chassis"
+"Craft Scorched Beacon"
 
 [/Lotus/Language/G1Quests/DragonQuestLisetCraftHelmetBlueprint]
-"Craft Chroma Helmet"
+"Craft Chroma Signal"
 
 [/Lotus/Language/G1Quests/DragonQuestLisetCraftSystemsBlueprint]
-"Craft Chroma Systems"
+"Craft Chroma Mark"
 
 [/Lotus/Language/G1Quests/DragonQuestMission1Desc]
 "Investigate the Grineer Prison where they last made contact"
@@ -13952,13 +14564,13 @@ Lotus"
 "Sabotage Alad's Infested ships"
 
 [/Lotus/Language/G1Quests/IAVQHiveSabotageObjectiveBrugia]
-"Sabotage Alad's Infested ship on Brugia"
+"Sabotage Alad's Infested ship at Brugia"
 
-[/Lotus/Language/G1Quests/IAVQHiveSabotageObjectiveCosis]
-"Sabotage Alad's Infested ships on Cosis"
+[/Lotus/Language/G1Quests/IAVQHiveSabotageObjectiveKala]
+"Sabotage Alad's Infested ship at Kala-azar"
 
-[/Lotus/Language/G1Quests/IAVQHiveSabotageObjectiveCyath]
-"Sabotage Alad's Infested ships on Cyath"
+[/Lotus/Language/G1Quests/IAVQHiveSabotageObjectiveSaxis]
+"Sabotage Alad's Infested ship at Saxis"
 
 [/Lotus/Language/G1Quests/IAVQIntelObjective]
 "Find out what the Corpus know about Alad V"
@@ -14383,10 +14995,10 @@ Piece together the Limbo Theorem to uncover its source"
 "Gather Proof Fragments and craft the Limbo Chassis Theorem"
 
 [/Lotus/Language/G1Quests/LimboQMissionObjCraftHelmet]
-"Recover a Limbo Helmet Blueprint and craft the Limbo Helmet"
+"Recover a Limbo Neuroptics Blueprint and craft the Limbo Neuroptics"
 
 [/Lotus/Language/G1Quests/LimboQMissionObjCraftHelmetTheorem]
-"Gather Proof Fragments and craft the Limbo Helmet Theorem"
+"Gather Proof Fragments and craft the Limbo Neuroptics Theorem"
 
 [/Lotus/Language/G1Quests/LimboQMissionObjCraftSystem]
 "Recover a Limbo Systems Blueprint and craft the Limbo Systems"
@@ -14485,7 +15097,7 @@ Our operatives have uncovered a hidden cache containing weapon data of Grineer o
 "HIDDEN MESSAGES"
 
 [/Lotus/Language/G1Quests/MirageQuest1]
-"Find the Mirage Warframe Helmet"
+"Find the Mirage Warframe Neuroptics"
 
 [/Lotus/Language/G1Quests/MirageQuest2]
 "Find the Mirage Warframe Systems"
@@ -14500,7 +15112,7 @@ Our operatives have uncovered a hidden cache containing weapon data of Grineer o
 "Solve the riddle from the Inbox message"
 
 [/Lotus/Language/G1Quests/MirageQuestHint2]
-"Craft the Mirage Helmet with your blueprint"
+"Craft the Mirage Neuroptics with your blueprint"
 
 [/Lotus/Language/G1Quests/MirageQuestHint3]
 "Craft the Mirage Systems with your blueprint"
@@ -14528,9 +15140,9 @@ Ordis, Ship’s Cephalon"
 [/Lotus/Language/G1Quests/MirageQuestInboxBMessage]
 "Operator, 
 
-To think, Ordis thought that mess of words was nothing but the scrawling of some long dead hack. You saw more. Now you have the helmet for a whole new class of Warframe. Very impressive Operator. 
+To think, Ordis thought that mess of words was nothing but the scrawling of some long dead hack. You saw more. Now you have the Neuroptics for a whole new class of Warframe. Very impressive Operator. 
 
-Exciting news. Ordis found more writing on the inside of Mirage’s helmet:
+Exciting news. Ordis found more writing on the inside of Mirage’s Neuroptics:
 
 To build the one you think witty,
 seek the nymph who sang oh so pretty.
@@ -14675,7 +15287,7 @@ Baro Ki'Teer"
 "Fulfill the third vessel’s challenge"
 
 [/Lotus/Language/G1Quests/MummyQuestStageTombVisit01]
-"Explore the tomb on Phobos"
+"Explore the tomb"
 
 [/Lotus/Language/G1Quests/MummyQuestStageTombVisit02]
 "Return the burial vessel to the tomb"
@@ -16421,7 +17033,7 @@ Our enemies are abundant and their strength continues to grow. Your skills are f
 "Raid the Corpus resource caches"
 
 [/Lotus/Language/G1Quests/VorsPrize5]
-"Obtain the Mercury Nav Segment"
+"Obtain the Nav Segment"
 
 [/Lotus/Language/G1Quests/VorsPrize6]
 "Confront Captain Vor"
@@ -16480,6 +17092,16 @@ Your Queens"
 
 [/Lotus/Language/G1Quests/VorTauntF]
 "You look weak. Nervous. I hope that expression comes out for my trophy case."
+
+[/Lotus/Language/G1Quests/WelcomeBackInboxBody]
+"Tenno,
+
+Welcome back. In your absence, chaos has brewed unchecked. The System needs you now more than ever. Take this Affinity Booster and use it to grow even stronger.
+
+-The Lotus"
+
+[/Lotus/Language/G1Quests/WelcomeBackInboxTitle]
+"Welcome back"
 
 [/Lotus/Language/G1Quests/XmasAlert1Desc]
 "Tenno,
@@ -17236,7 +17858,7 @@ Arming: Turrets"
 "Fast with claw and missile attacks"
 
 [/Lotus/Language/Game/AlloyPlateContainer]
-"ALLOY PLATE CACHE [PLACEHOLDER]"
+"ALLOY PLATE CACHE"
 
 [/Lotus/Language/Game/AmmoHud]
 "Your HUD shows clip and total ammo."
@@ -17272,7 +17894,7 @@ Arming: Turrets"
 "Zealous and patient"
 
 [/Lotus/Language/Game/ArgonCrystalContainer]
-"ARGON CRYSTAL CACHE [PLACEHOLDER]"
+"ARGON CRYSTAL CACHE"
 
 [/Lotus/Language/Game/AridDeployableCover]
 "ARID BLUNT"
@@ -17404,7 +18026,7 @@ Arming: Turrets"
 "CHAIN LINKS"
 
 [/Lotus/Language/Game/CircuitsContainer]
-"CIRCUITS CACHE [PLACEHOLDER]"
+"CIRCUITS CACHE"
 
 [/Lotus/Language/Game/ClaimNewPet]
 "CLAIM YOUR PET"
@@ -17460,7 +18082,7 @@ SEGMENT REQUIRED"
 "Arrogant and calculating"
 
 [/Lotus/Language/Game/ControlModuleContainer]
-"CONTROL MODULE CACHE [PLACEHOLDER]"
+"CONTROL MODULE CACHE"
 
 [/Lotus/Language/Game/ControlRiotMoaDesc]
 "Corrals its prey for rapid destruction"
@@ -18214,7 +18836,7 @@ Your Battle Cards are ready now... Go!"
 "KAVAT"
 
 [/Lotus/Language/Game/FerriteContainer]
-"FERRITE CACHE [PLACEHOLDER]"
+"FERRITE CACHE"
 
 [/Lotus/Language/Game/FinisherAction_PS4]
 "STEALTH ATTACK"
@@ -18298,7 +18920,7 @@ Your Battle Cards are ready now... Go!"
 "+|AMOUNT| POWER"
 
 [/Lotus/Language/Game/GalliumContainer]
-"GALLIUM CACHE [PLACEHOLDER]"
+"GALLIUM CACHE"
 
 [/Lotus/Language/Game/GenericObjectiveCompleteXp]
 "Objective"
@@ -18680,6 +19302,9 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/GrnFortressStandingGunName]
 "[PLACEHOLDER] IMPERIAL RAMPART"
+
+[/Lotus/Language/Game/GrnMegaExplodingBarrel]
+"LARGE GRINEER EXPLODING BARREL"
 
 [/Lotus/Language/Game/HackComputer]
 "GRINEER SYSTEM"
@@ -19088,11 +19713,11 @@ Your Battle Cards are ready now... Go!"
 
 
 
-    Now they are needed once more. The GRINEER, with their vast armies, are spreading throughout the solar system.
+Now they are needed once more. The GRINEER, with their vast armies, are spreading throughout the solar system.
 
 
 
-    A call echoes across the stars - as a menace approaches..."
+A call echoes across the stars - as a menace approaches..."
 
 [/Lotus/Language/Game/IntroTextA]
 "WARFRAME"
@@ -19132,6 +19757,9 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/JUMP_METERS]
 "JUMP (METERS)"
+
+[/Lotus/Language/Game/JunctionActivate]
+"ACTIVATE JUNCTION"
 
 [/Lotus/Language/Game/JuniorGolemName]
 "JORDAS GOLEM"
@@ -19230,7 +19858,7 @@ Your Battle Cards are ready now... Go!"
 "<USE> Loot corpse"
 
 [/Lotus/Language/Game/LoreFragment]
-"[PLACEHOLDER] Cephalon Fragment"
+"CEPHALON FRAGMENT"
 
 [/Lotus/Language/Game/Lunaro_FirstHalf]
 "FIRST HALF"
@@ -19439,6 +20067,9 @@ Your Battle Cards are ready now... Go!"
 [/Lotus/Language/Game/MissionName_Hive]
 "HIVE"
 
+[/Lotus/Language/Game/MissionName_Junction]
+"SOLAR RAIL JUNCTION"
+
 [/Lotus/Language/Game/MissionName_Mastery]
 "MASTERY TEST"
 
@@ -19455,7 +20086,7 @@ Your Battle Cards are ready now... Go!"
 "CONCLAVE"
 
 [/Lotus/Language/Game/MissionName_Race]
-"[Placeholder] RACE"
+"RUSH"
 
 [/Lotus/Language/Game/MissionName_Raid]
 "TRIAL"
@@ -19554,7 +20185,7 @@ Your Battle Cards are ready now... Go!"
 "<USE> CHARGE MIND ARBORIFORM"
 
 [/Lotus/Language/Game/MorphicsContainer]
-"MORPHICS CACHE [PLACEHOLDER]"
+"MORPHICS CACHE"
 
 [/Lotus/Language/Game/MOTES]
 "MOTES"
@@ -19566,7 +20197,7 @@ Your Battle Cards are ready now... Go!"
 "Name your pet Kubrow"
 
 [/Lotus/Language/Game/NanoSporesContainer]
-"NANO SPORES CACHE [PLACEHOLDER]"
+"NANO SPORES CACHE"
 
 [/Lotus/Language/Game/Neptune]
 "Neptune"
@@ -19575,7 +20206,7 @@ Your Battle Cards are ready now... Go!"
 "Home of the Corpus and site of their indoctrination temples. Warframe and Robotics R&D hidden here."
 
 [/Lotus/Language/Game/NeurodesContainer]
-"NEURODES CACHE [PLACEHOLDER]"
+"NEURODES CACHE"
 
 [/Lotus/Language/Game/NightCommonPlant]
 "MOONLIGHT THRESHCONE"
@@ -19780,7 +20411,7 @@ Your Battle Cards are ready now... Go!"
 "CORRUPTED BOMBARD"
 
 [/Lotus/Language/Game/OrokinCellContainer]
-"OROKIN CELL CACHE [PLACEHOLDER]"
+"OROKIN CELL CACHE"
 
 [/Lotus/Language/Game/OrokinDrone]
 "OROKIN DRONE"
@@ -19858,7 +20489,7 @@ Your Battle Cards are ready now... Go!"
 "Pet Kavat"
 
 [/Lotus/Language/Game/PetCatbrowLongDesc]
-"[PLACEHOLDER] Kavats are born via black magic. Woo!"
+"Kavats are engineered from genetic strains taken from their hyekka and feral kavat descendants."
 
 [/Lotus/Language/Game/PetKubrowDesc]
 "Pet Kubrow"
@@ -19882,7 +20513,7 @@ Your Battle Cards are ready now... Go!"
 "Your first weapon: Pistol."
 
 [/Lotus/Language/Game/PlastidsContainer]
-"PLASTIDS CACHE [PLACEHOLDER]"
+"PLASTIDS CACHE"
 
 [/Lotus/Language/Game/PlayerAcceptedDuel]
 "|PLAYER_A| has accepted a challenge to duel from |PLAYER_B|"
@@ -19967,6 +20598,39 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/ProxMine]
 "Prox Mine"
+
+[/Lotus/Language/Game/PursuitEngineDisabled]
+"Disabled"
+
+[/Lotus/Language/Game/PursuitEngineEnabled]
+"Enabled"
+
+[/Lotus/Language/Game/PursuitEngineStatus]
+"Engine Status"
+
+[/Lotus/Language/Game/PursuitObjective]
+"Locate and Disable the Courier Ship"
+
+[/Lotus/Language/Game/PursuitPhaseOneObj]
+"Locate the Ship"
+
+[/Lotus/Language/Game/PursuitPhaseThreeObj]
+"Defend the Ship"
+
+[/Lotus/Language/Game/PursuitPhaseTwoObj]
+"Disable the Ship"
+
+[/Lotus/Language/Game/PursuitShieldGenerators]
+"Shield Generators"
+
+[/Lotus/Language/Game/PursuitShipIntegrity]
+"Ship Integrity"
+
+[/Lotus/Language/Game/PursuitShipName]
+"Courier"
+
+[/Lotus/Language/Game/PursuitTurretName]
+"Turret"
 
 [/Lotus/Language/Game/PveDeathMatchCompetitiveMods]
 "Modifiers: One Life + Health Drain + Scaling Enemies"
@@ -20147,6 +20811,18 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/QuestVoidClock]
 "DISRUPT VOID COMPASSES"
+
+[/Lotus/Language/Game/RaceDistanceToSupplyShips]
+"Leader Distance"
+
+[/Lotus/Language/Game/RaceOrbiterName]
+"ORBITER"
+
+[/Lotus/Language/Game/RaceSupplyShipName]
+"TRANSPORT"
+
+[/Lotus/Language/Game/RaceSupplyShipsDestroyedCounter]
+"Transports Destroyed"
 
 [/Lotus/Language/Game/RaidAntidoteFailedMeterFull]
 "Armor Integrity at Maximum"
@@ -20374,7 +21050,7 @@ Your Battle Cards are ready now... Go!"
 "ROUND"
 
 [/Lotus/Language/Game/RubedoContainer]
-"RUBEDO CACHE [PLACEHOLDER]"
+"RUBEDO CACHE"
 
 [/Lotus/Language/Game/SabotageCacheFound]
 "Cache Found"
@@ -20389,7 +21065,7 @@ Your Battle Cards are ready now... Go!"
 "OVERLOAD REACTOR"
 
 [/Lotus/Language/Game/SalvageContainer]
-"SALVAGE CACHE [PLACEHOLDER]"
+"SALVAGE CACHE"
 
 [/Lotus/Language/Game/SandmanTennoClone]
 "SAND SHADOW"
@@ -21449,6 +22125,276 @@ Very effective against flesh."
 "Volt can create and harness electrical elements.
 This is a high-damage Warframe perfect for players who want a potent alternative to gun-play."
 
+[/Lotus/Language/HolsterCustomizations/BowUpperBack]
+"BOW STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/BowUpperBackDesc]
+"Standard holster for Bows."
+
+[/Lotus/Language/HolsterCustomizations/ClawsHips]
+"CLAWS STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/ClawsHipsDesc]
+"Standard holster for Claws."
+
+[/Lotus/Language/HolsterCustomizations/DaggerLowerBack]
+"DAGGER STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/DaggerLowerBackDesc]
+"Standard holster for Daggers."
+
+[/Lotus/Language/HolsterCustomizations/DualDaggerLowerBack]
+"DUAL DAGGERS STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/DualDaggerLowerBackDesc]
+"Standard holster for Dual Daggers."
+
+[/Lotus/Language/HolsterCustomizations/DualDaggerUpperBack]
+"DUAL DAGGERS SHOULDER HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/DualDaggerUpperBackDesc]
+"Dual Daggers are holstered on each shoulder."
+
+[/Lotus/Language/HolsterCustomizations/DualSwordHighLow]
+"DUAL BLADES STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/DualSwordHighLowDesc]
+"Standard holster for Dual Blades."
+
+[/Lotus/Language/HolsterCustomizations/DualSwordHips]
+"DUAL BLADES HIP HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/DualSwordHipsDesc]
+"Dual Blades are holstered at the hips."
+
+[/Lotus/Language/HolsterCustomizations/DualSwordStraight]
+"DUAL BLADES SHOULDER HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/DualSwordStraightDesc]
+"Dual Blades are holstered on each shoulder."
+
+[/Lotus/Language/HolsterCustomizations/GauntletsInPlace]
+"FISTS STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/GauntletsInPlaceDesc]
+"Standard holster for Fists."
+
+[/Lotus/Language/HolsterCustomizations/GlaiveInPlace]
+"GLAIVES STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/GlaiveInPlaceDesc]
+"Standard holster for Glaives."
+
+[/Lotus/Language/HolsterCustomizations/GreatSwordCrossed]
+"GREATSWORD REVERSE HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/GreatSwordCrossedDesc]
+"Greatswords are holstered across the right shoulder."
+
+[/Lotus/Language/HolsterCustomizations/GreatSwordHips]
+"GREATSWORD STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/GreatSwordHipsDesc]
+"Greatswords are holstered at the hips."
+
+[/Lotus/Language/HolsterCustomizations/GunbladeHipsL]
+"GUNBLADE LEFT HIP HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/GunbladeHipsLDesc]
+"Gunblades are holstered at the left hip."
+
+[/Lotus/Language/HolsterCustomizations/GunbladeHipsR]
+"GUNBLADE RIGHT HIP HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/GunbladeHipsRDesc]
+"Gunblades are holstered at the right hip."
+
+[/Lotus/Language/HolsterCustomizations/GunbladeLowerBack]
+"GUNBLADE LOWER BACK HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/GunbladeLowerBackDesc]
+"Gunblades are holstered across the lower back."
+
+[/Lotus/Language/HolsterCustomizations/GunbladeUpperBack]
+"GUNBLADE STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/GunbladeUpperBackDesc]
+"Standard holster for Gunblades."
+
+[/Lotus/Language/HolsterCustomizations/HeavyHipsL]
+"HEAVY WEAPON LEFT HIP HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/HeavyHipsLDesc]
+"Heavy weapons are holstered at the left hip."
+
+[/Lotus/Language/HolsterCustomizations/HeavyHipsR]
+"HEAVY WEAPON RIGHT HIP HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/HeavyHipsRDesc]
+"Heavy weapons are holstered at the right hip."
+
+[/Lotus/Language/HolsterCustomizations/HeavyLowerBack]
+"HEAVY WEAPON LOWER BACK HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/HeavyLowerBackDesc]
+"Heavy weapons are holstered across the lower back."
+
+[/Lotus/Language/HolsterCustomizations/HeavyUpperBack]
+"HEAVY WEAPON STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/HeavyUpperBackDesc]
+"Standard holster for Heavy weapons."
+
+[/Lotus/Language/HolsterCustomizations/KatanaCrossedL]
+"KATANA LEFT SHOULDER HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/KatanaCrossedLDesc]
+"Katanas are holstered across the left shoulder."
+
+[/Lotus/Language/HolsterCustomizations/KatanaCrossedR]
+"KATANA RIGHT SHOULDER HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/KatanaCrossedRDesc]
+"Katanas are holstered across the right shoulder."
+
+[/Lotus/Language/HolsterCustomizations/KatanaHipsL]
+"KATANA STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/KatanaHipsLDesc]
+"Standard holster for Katanas."
+
+[/Lotus/Language/HolsterCustomizations/KatanaHipsLZato]
+"KATANA BLIND JUSTICE DRAW"
+
+[/Lotus/Language/HolsterCustomizations/KatanaHipsLZatoDesc]
+"A unique way of drawing a katana."
+
+[/Lotus/Language/HolsterCustomizations/NunchakuCrossed]
+"NUNCHAKU SHOULDER HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/NunchakuCrossedDesc]
+"Nunchakus are holstered across the right shoulder."
+
+[/Lotus/Language/HolsterCustomizations/NunchakuHips]
+"NUNCHAKU HIP HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/NunchakuHipsDesc]
+"Nunchakus are holstered at the left hip."
+
+[/Lotus/Language/HolsterCustomizations/NunchakuLowerBack]
+"NUNCHAKU STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/NunchakuLowerBackDesc]
+"Standard holster for Nunchakus."
+
+[/Lotus/Language/HolsterCustomizations/PistolHipsDual]
+"AKIMBO PISTOL STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/PistolHipsDualDesc]
+"Standard holster for Akimbo Pistols."
+
+[/Lotus/Language/HolsterCustomizations/PistolHipsR]
+"PISTOL STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/PistolHipsRDesc]
+"Standard holster for Pistols."
+
+[/Lotus/Language/HolsterCustomizations/PunchKickInPlace]
+"SPARRING STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/PunchKickInPlaceDesc]
+"Standard holster for Sparring weapons."
+
+[/Lotus/Language/HolsterCustomizations/RapierHipsL]
+"RAPIER STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/RapierHipsLDesc]
+"Standard holster for Rapiers."
+
+[/Lotus/Language/HolsterCustomizations/RifleUpperBack]
+"RIFLE STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/RifleUpperBackDesc]
+"Standard holster for Primary weapons."
+
+[/Lotus/Language/HolsterCustomizations/StaffCrossed]
+"STAFF STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/StaffCrossedDesc]
+"Standard holster for Staffs."
+
+[/Lotus/Language/HolsterCustomizations/StaffLowerBack]
+"STAFF LOWER BACK HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/StaffLowerBackDesc]
+"Staffs are holstered across the lower back."
+
+[/Lotus/Language/HolsterCustomizations/StaffStraight]
+"STAFF STRAIGHT HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/StaffStraightDesc]
+"Staffs are holstered on the the left shoulder."
+
+[/Lotus/Language/HolsterCustomizations/SwordHipsL]
+"SWORD LEFT HIP HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/SwordHipsLDesc]
+"Swords are holstered at the left hip."
+
+[/Lotus/Language/HolsterCustomizations/SwordHipsR]
+"SWORD RIGHT HIP HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/SwordHipsRDesc]
+"Swords are holstered at the right hip."
+
+[/Lotus/Language/HolsterCustomizations/SwordShieldDefault]
+"SWORD AND SHIELD STANDARD DRAW"
+
+[/Lotus/Language/HolsterCustomizations/SwordShieldDefaultDesc]
+"Standard way of drawing Sword and Shields."
+
+[/Lotus/Language/HolsterCustomizations/SwordShieldDownward]
+"SWORD AND SHIELD LOW DRAW"
+
+[/Lotus/Language/HolsterCustomizations/SwordShieldDownwardDesc]
+"A unique way of drawing a Sword and Shields."
+
+[/Lotus/Language/HolsterCustomizations/SwordShieldUpward]
+"SWORD AND SHIELD HIGH DRAW"
+
+[/Lotus/Language/HolsterCustomizations/SwordShieldUpwardDesc]
+"A unique way of drawing a Sword and Shields."
+
+[/Lotus/Language/HolsterCustomizations/SwordUpperBack]
+"SWORD STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/SwordUpperBackDesc]
+"Standard holster for Sword weapons."
+
+[/Lotus/Language/HolsterCustomizations/SwordWhipLowerBack]
+"BLADE AND WHIP STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/SwordWhipLowerBackDesc]
+"Standard holster for Blade and Whips."
+
+[/Lotus/Language/HolsterCustomizations/TonfaCrossed]
+"TONFA REVERSE HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/TonfaCrossedDesc]
+"Tonfas are holstered on opposite shoulders."
+
+[/Lotus/Language/HolsterCustomizations/TonfaHips]
+"TONFA HIP HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/TonfaHipsDesc]
+"Tonfas are holstered at the hips."
+
+[/Lotus/Language/HolsterCustomizations/TonfaUpperBack]
+"TONFA STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/TonfaUpperBackDesc]
+"Standard holster for Tonfas."
+
 [/Lotus/Language/IRC/ChannelBan]
 "Your access to this channel has been suspended."
 
@@ -21533,6 +22479,12 @@ We do not enforce trades for promises, clan membership, and other favors. Trade 
 
 [/Lotus/Language/Items/AbsorbAbility]
 "Absorb"
+
+[/Lotus/Language/Items/AbsorbAbilityAugmentDesc]
+"[PLACEHOLDER] Absorb Augment - Nyx can move at |SPEED|% speed while using Absorb, but the bubble is |SIZE|% its original size."
+
+[/Lotus/Language/Items/AbsorbAbilityAugmentName]
+"[PLACEHOLDER] ABSORB AUGMENT"
 
 [/Lotus/Language/Items/AbsorbAbilityAugmentPvPDesc]
 "Absorb Augment - Creates a ring every 3 seconds that drags in enemies at |PULL_STR| meters per second."
@@ -21975,7 +22927,7 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "Unload deadly accurate bursts of mayhem."
 
 [/Lotus/Language/Items/ArchBurstGunName]
-"CYNGAS"
+"<ARCHWING> CYNGAS"
 
 [/Lotus/Language/Items/ArchCannonDesc]
 "When fully charged, this flak-cannon delivers a devastating shot. Perfect for taking down fast-moving interceptors."
@@ -22014,7 +22966,7 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "Tear apart incoming enemies with this massive hooked blade."
 
 [/Lotus/Language/Items/ArchHookSwordName]
-"AGKUZA"
+"<ARCHWING> AGKUZA"
 
 [/Lotus/Language/Items/ArchLongRifleDesc]
 "Devastate free-space enemies with Phaedra, the Soma's big-sister."
@@ -24313,6 +25265,12 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/BlessingAbility]
 "Blessing"
 
+[/Lotus/Language/Items/BlessingAbilityAugment1]
+"[PLACEHOLDER] BLESSING AUGMENT"
+
+[/Lotus/Language/Items/BlessingAbilityAugment1Desc]
+"[PLACEHOLDER] Blessing - Allies will gain a |DAMAGE|% damage boost, a |PARKOUR|% Bullet Jump boost, and |KNOCKDOWN|% knockdown resistance."
+
 [/Lotus/Language/Items/BlessingAbilityBoost]
 "Boosting this ability increases the duration of the invulnerability."
 
@@ -24738,25 +25696,25 @@ Note: This item requires two open slots."
 "[Placeholder] CatbrowGrnQueen"
 
 [/Lotus/Language/Items/CatbrowCatsEyePreceptDesc]
-"Allies in range receive +100% Crit Chance for a short duration."
+"Adarza Kavat grants increased critical chance to all nearby Tenno for a short duration."
 
 [/Lotus/Language/Items/CatbrowCatsEyePreceptName]
-"Keen Senses"
+"Cat’s Eye"
 
 [/Lotus/Language/Items/CatbrowDistractPreceptDesc]
-"Manifests an image of itself to distract enemies while entering stealth."
+"Allows Smeeta Kavat to become invisible while a decoy kavat draws fire by running toward the enemy."
 
 [/Lotus/Language/Items/CatbrowDistractPreceptName]
-"Displacer"
+"Mischief"
 
 [/Lotus/Language/Items/CatbrowEggDesc]
-"[Placeholder] CATBROW EGG Desc"
+"Genetic biomass that will evolve into a Kavat. "
 
 [/Lotus/Language/Items/CatbrowEggName]
-"[Placeholder] CATBROW EGG"
+"KAVAT GENE-MATTER"
 
 [/Lotus/Language/Items/CatbrowGeneticSignature]
-"Kavat Genetic Code"
+"KAVAT GENETIC CODE"
 
 [/Lotus/Language/Items/CatbrowGeneticSignatureDesc]
 "Contains the genetic code sequence of a Kavat."
@@ -24768,10 +25726,10 @@ Note: This item requires two open slots."
 "Hoard"
 
 [/Lotus/Language/Items/CatbrowLuckPreceptDesc]
-"Occasionally grants a boon of good fortune."
+"Smeeta Kavat bestows its owner with good fortune during the course of a mission."
 
 [/Lotus/Language/Items/CatbrowLuckPreceptName]
-"Omen"
+"Charm"
 
 [/Lotus/Language/Items/CatbrowMarkTerritoryPreceptDesc]
 "The Kavat marks their territory, pacifying any wild creature within it."
@@ -24785,14 +25743,35 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/CatbrowPetPatternAName]
 "HYACINTH FUR PATTERN"
 
+[/Lotus/Language/Items/CatbrowPetPatternBDesc]
+"An intricate fur pattern for your Kavat."
+
+[/Lotus/Language/Items/CatbrowPetPatternBName]
+"STRIX FUR PATTERN"
+
+[/Lotus/Language/Items/CatbrowPetPatternCDesc]
+"An intricate fur pattern for your Kavat."
+
+[/Lotus/Language/Items/CatbrowPetPatternCName]
+"NESYR FUR PATTERN"
+
+[/Lotus/Language/Items/CatbrowPetPatternDDesc]
+"An intricate fur pattern for your Kavat."
+
+[/Lotus/Language/Items/CatbrowPetPatternDName]
+"KREST FUR PATTERN"
+
 [/Lotus/Language/Items/CatbrowPouncePreceptDesc]
 "The Kavat pounces at an enemy, stunning them for a short duration."
 
 [/Lotus/Language/Items/CatbrowPouncePreceptName]
 "Pounce"
 
+[/Lotus/Language/Items/CatbrowReflectPreceptDesc]
+"Adarza Kavat will occasionally reflect and amplify damage back to an enemy."
+
 [/Lotus/Language/Items/CatbrowReflectPreceptName]
-"Kinetic Bristles"
+"Reflect"
 
 [/Lotus/Language/Items/CatbrowRoarPreceptDesc]
 "The Kavat unleashes a blood-curdling roar, striking fear into its enemies."
@@ -24806,11 +25785,8 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/CatbrowShredPreceptName]
 "Sharpened Claws"
 
-[/Lotus/Language/Items/CatbrowSwipePreceptDescA]
-"Attacks strike |val| extra enemies"
-
-[/Lotus/Language/Items/CatbrowSwipePreceptDescB]
-" within |val|m"
+[/Lotus/Language/Items/CatbrowSwipePreceptDesc]
+"Strikes additional enemies and gains increased range."
 
 [/Lotus/Language/Items/CatbrowSwipePreceptName]
 "Swipe"
@@ -24820,6 +25796,12 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/CatbrowTremorSensePreceptName]
 "Sense Danger"
+
+[/Lotus/Language/Items/CenturionCapeDesc]
+"Take command with this imposing cloak."
+
+[/Lotus/Language/Items/CenturionCapeName]
+"CENTURIA SYANDANA"
 
 [/Lotus/Language/Items/CephalonSudaProfileIconDesc]
 "A profile icon of the Cephalon Suda"
@@ -24898,10 +25880,10 @@ Note: This item requires two open slots."
 This bundle of 1 Detonite Ampule can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/CheshireCatbrowDesc]
-"[Placeholder] CHESHIRE CATBROW Desc"
+"This sly feline is playful yet devious."
 
 [/Lotus/Language/Items/CheshireCatbrowName]
-"CHESHIRE KAVAT"
+"SMEETA KAVAT"
 
 [/Lotus/Language/Items/ChromaAgileAnims]
 "CHROMA AGILE ANIMATION SET"
@@ -27179,7 +28161,7 @@ This item may only be purchased once per account."
 "Vents out the Archwing's propulsion core, confusing enemy projectiles and causing them to detonate."
 
 [/Lotus/Language/Items/ExhaustTrailAugmentDesc]
-"Blast damage ignites exhaust fumes for |DURATION| secs. Enemies passing through the flames take |DAMAGE| Heat damage."
+"Core Vent Augment - Blast damage ignites exhaust fumes for |DURATION| secs. Enemies passing through the flames take |DAMAGE| Heat damage."
 
 [/Lotus/Language/Items/ExhaustTrailAugmentName]
 "Afterburner"
@@ -27392,7 +28374,7 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 "Forms a protective energy shell around the Warframe"
 
 [/Lotus/Language/Items/FireShieldAugmentAbilityDesc]
-"Energy Shell applies to allies within |val|m."
+"Energy Shell Augment - Energy Shell applies to allies within |val|m."
 
 [/Lotus/Language/Items/FireShieldAugmentAbilityName]
 "Energy Field"
@@ -27636,6 +28618,12 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/FormaDesc]
 "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Sentinel or Weapon and then resets their affinity to Level 1. This can only be used on Level 30 Warframes, Sentinels and Weapons."
+
+[/Lotus/Language/Items/FormaPackDesc]
+"A collection of three Formas."
+
+[/Lotus/Language/Items/FormaPackName]
+"FORMA BUNDLE"
 
 [/Lotus/Language/Items/FoundersBadgeDiscipleDesc]
 "This emblem signifies the wearer as being a Disciple within the Tenno ranks."
@@ -27942,6 +28930,12 @@ This bundle of 1 Gallium can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/GLARifleName]
 "GRINLOK"
 
+[/Lotus/Language/Items/GlyphDesc]
+"Launches a magnetic prism to display your chosen Glyph. Only one may be deployed at a time."
+
+[/Lotus/Language/Items/GlyphName]
+"GLYPH PRISM"
+
 [/Lotus/Language/Items/GoldSpectre]
 "FORCE SPECTER"
 
@@ -27996,6 +28990,12 @@ This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve pro
 
 [/Lotus/Language/Items/GrandFinale]
 "Prism"
+
+[/Lotus/Language/Items/GrandFinaleAbilityAugmentDesc]
+"[PLACEHOLDER] Prism Augment - Prism has a |CHANCE|% chance to cause a random elemental status effect on every hit."
+
+[/Lotus/Language/Items/GrandFinaleAbilityAugmentName]
+"[PLACEHOLDER] PRISM AUGMENT"
 
 [/Lotus/Language/Items/GrandFinaleAbilityAugmentPvPDesc]
 "Prism Augment - Prism follows above Mirage for |DURATION| seconds."
@@ -29088,6 +30088,12 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/Holster_DualSwordStraight]
 "[Placeholder] Straight"
 
+[/Lotus/Language/Items/Holster_GreatSwordCrossed]
+"[Placeholder] Crossed"
+
+[/Lotus/Language/Items/Holster_GreatSwordHips]
+"[Placeholder] Hips"
+
 [/Lotus/Language/Items/Holster_GunbladeHipsL]
 "[Placeholder] Hips Left"
 
@@ -29177,6 +30183,12 @@ Blueprint is reusable and will not be consumed."
 
 [/Lotus/Language/Items/Holster_TonfaUpperBack]
 "[Placeholder] Upper Back"
+
+[/Lotus/Language/Items/HolsterSeriesOnePackDesc]
+"A collection of alternate styles for holstering and drawing a range of melee weapons."
+
+[/Lotus/Language/Items/HolsterSeriesOnePackName]
+"ADI HOLSTER COLLECTION"
 
 [/Lotus/Language/Items/HornSkullScarfDefaultDesc]
 "Used for festive ceremonies, this Syandana was often worn during social gatherings."
@@ -29793,11 +30805,29 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/KatanaStanceCDesc]
 "Reverse grip style emphasizing slashing and impaling strikes"
 
+[/Lotus/Language/Items/KavatBaseColorPackDesc]
+"Change a kavat's coat coloration and pattern to match that of the Adarza or Smeeta Kavat species."
+
+[/Lotus/Language/Items/KavatBaseColorPackName]
+"KAVAT GENE-MASKING KIT"
+
+[/Lotus/Language/Items/KavatColorAccentsAName]
+"LOKA BROWN"
+
+[/Lotus/Language/Items/KavatColorAccentsBName]
+"HARKONAR ORANGE"
+
+[/Lotus/Language/Items/KavatColorAccentsCName]
+"SEQUENCE BLUE"
+
+[/Lotus/Language/Items/KavatColorAccentsDName]
+"HEXIS BLACK"
+
 [/Lotus/Language/Items/KavatColorBaseAName]
 "EXECUTIONER GREY"
 
 [/Lotus/Language/Items/KavatColorBaseBName]
-"JADELEAF YELLOW"
+"MESA YELLOW"
 
 [/Lotus/Language/Items/KavatColorBaseCName]
 "ANTI MOA PURPLE"
@@ -29805,29 +30835,41 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/KavatColorBaseDName]
 "DRAGONLILY PINK"
 
+[/Lotus/Language/Items/KavatColorPackKrestDesc]
+"Customize a Kavat’s fur color with these isolated DNA sequences."
+
+[/Lotus/Language/Items/KavatColorPackKrestName]
+"KREST GENE-MASKING KIT"
+
+[/Lotus/Language/Items/KavatColorPackNesyrDesc]
+"Customize a Kavat’s fur color with these isolated DNA sequences."
+
+[/Lotus/Language/Items/KavatColorPackNesyrName]
+"NESYR GENE-MASKING KIT"
+
 [/Lotus/Language/Items/KavatColorSecondaryAName]
 "HYACINTH BLUE"
 
 [/Lotus/Language/Items/KavatColorSecondaryBName]
-"ANCIENT GREEN"
-
-[/Lotus/Language/Items/KavatColorSecondaryCName]
 "CONCULYST BROWN"
 
+[/Lotus/Language/Items/KavatColorSecondaryCName]
+"DRAGA BLUE"
+
 [/Lotus/Language/Items/KavatColorSecondaryDName]
-"DRAHK PURPLE"
+"ASTEROID GREY"
 
 [/Lotus/Language/Items/KavatColorTertiaryAName]
 "REGOR GREEN"
 
 [/Lotus/Language/Items/KavatColorTertiaryBName]
-"THRESHBARK BROWN"
+"ANCIENT GREEN"
 
 [/Lotus/Language/Items/KavatColorTertiaryCName]
 "BOILER RED"
 
 [/Lotus/Language/Items/KavatColorTertiaryDName]
-"DRAGA BLUE"
+"DREG RED"
 
 [/Lotus/Language/Items/KavatColourDesc]
 "Splices the genes in your pet Kavat to change the color of its fur."
@@ -29995,18 +31037,6 @@ Requires: Installed KAVAT INCUBATOR UPGRADE SEGMENT"
 
 [/Lotus/Language/Items/KubrowCollarName]
 "TAICHEN KUBROW COLLAR"
-
-[/Lotus/Language/Items/KubrowColorAccentsAName]
-"GRINEER GREEN"
-
-[/Lotus/Language/Items/KubrowColorAccentsBName]
-"PRIME GOLD"
-
-[/Lotus/Language/Items/KubrowColorAccentsCName]
-"DREG RED"
-
-[/Lotus/Language/Items/KubrowColorAccentsDName]
-"DREKAR PURPLE"
 
 [/Lotus/Language/Items/KubrowColorMidAName]
 "SEDNA GREY"
@@ -31382,10 +32412,10 @@ Pack Includes:
 "MIRE"
 
 [/Lotus/Language/Items/MirrorCatbrowDesc]
-"[Placeholder] MIRROR CATBROW Desc"
+"Piercing eyes reflect deadly instincts."
 
 [/Lotus/Language/Items/MirrorCatbrowName]
-"MIRROR KAVAT"
+"ADARZA KAVAT"
 
 [/Lotus/Language/Items/MisaPrimeSyandanaDesc]
 "Discovered in the vaults of a drifting derelict, this Syandana was worn by Temple Guardians before the fall of the Orokin Empire"
@@ -31853,11 +32883,23 @@ This bundle of 1 Neurode can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/NezhaRingAbility]
 "Blazing Chakram"
 
+[/Lotus/Language/Items/NezhaRingAbilityAugmentDesc]
+"[PLACEHOLDER] Blazing Chakram - The chakram seeks out enemies within |ANGLE| degrees while doing |INCREASE|% more damage and healing per enemy hit."
+
+[/Lotus/Language/Items/NezhaRingAbilityAugmentName]
+"[PLACEHOLDER] BLAZING CHAKRAM AUGMENT"
+
 [/Lotus/Language/Items/NezhaRingAbilityDesc]
 "Hurl a flaming ring that burns enemies and causes them to emit a healing blast on death. Reactivate to instantly travel to the ring's location."
 
 [/Lotus/Language/Items/NezhaSashAbility]
 "Warding Halo"
+
+[/Lotus/Language/Items/NezhaSashAbilityAugment1]
+"[PLACEHOLDER] WARDING HALO AUGMENT"
+
+[/Lotus/Language/Items/NezhaSashAbilityAugment1Desc]
+"[PLACEHOLDER] Warding Halo - Warding Halo can now be cast on allied Tenno with |MULT|% effectiveness."
 
 [/Lotus/Language/Items/NezhaSashAbilityAugmentPvPDesc]
 "Warding Halo Augment - |ENERGY_PCT|% of the casting cost returned based on how much protection is left."
@@ -31870,6 +32912,12 @@ This bundle of 1 Neurode can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/NezhaSpearAbility]
 "Divine Spears"
+
+[/Lotus/Language/Items/NezhaSpearAbilityAugmentDesc]
+"[PLACEHOLDER] Divine Spears - Hurting impaled enemies will heal |PERCENT|% of the damage dealt up to |CAP| health."
+
+[/Lotus/Language/Items/NezhaSpearAbilityAugmentName]
+"[PLACEHOLDER] DIVINE SPEARS AUGMENT"
 
 [/Lotus/Language/Items/NezhaSpearAbilityDesc]
 "Impale nearby enemies on spears that erupt from the ground."
@@ -32140,7 +33188,7 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 "Produced by a Fomorian’s power core, these particles only appear on or around planets where a Fomorian is present."
 
 [/Lotus/Language/Items/OmegaRifleMod]
-"[Placeholder] <OMEGA> Rifle Mod"
+"[Placeholder] |RANK| <OMEGA>"
 
 [/Lotus/Language/Items/OperatorAttackAbilityName]
 "MADURAI"
@@ -32276,6 +33324,12 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 
 [/Lotus/Language/Items/OrangeAntitoxinName]
 "TOPAZ ANTITOXIN"
+
+[/Lotus/Language/Items/OrbiterDisplayBundleDesc]
+"This bundle contains an assortment of displays to decorate your orbiter."
+
+[/Lotus/Language/Items/OrbiterDisplayBundleName]
+"DISPLAY PACK"
 
 [/Lotus/Language/Items/OrokinCaptureKeyADesc]
 "A Capture mission within the Void"
@@ -32565,6 +33619,12 @@ This bundle of 1 Orokin Cell can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/OverheatAbility]
 "Accelerant"
+
+[/Lotus/Language/Items/OverheatAbilityAugment1]
+"[PLACEHOLDER] ACCELERANT AUGMENT"
+
+[/Lotus/Language/Items/OverheatAbilityAugment1Desc]
+"[PLACEHOLDER] Accelerant Augment - Accelerant increases casting speed by |SPEED|% for allies within range."
 
 [/Lotus/Language/Items/OverheatAbilityBoost]
 "Boosting this ability increases its duration and damage."
@@ -33557,6 +34617,12 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/PrismaYamakoScarfName]
 "PRISMA YAMAKO SYANDANA"
 
+[/Lotus/Language/Items/ProjectionDescription]
+"An artifact containing Orokin secrets. It can only be opened through the power of the Void."
+
+[/Lotus/Language/Items/ProjectionRandomKey]
+"RELIC PACK"
+
 [/Lotus/Language/Items/ProjectSinisterBadgeDesc]
 "An insignia dropped by an Acolyte of the Stalker."
 
@@ -33986,6 +35052,9 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/RandomKeyDesc]
 "5 Random Void Keys, one guaranteed Rare Key. What secret missions exist within the Void?"
+
+[/Lotus/Language/Items/RandomProjectionDesc]
+"5 Random Relics, one guaranteed Rare. What secrets exist within them?"
 
 [/Lotus/Language/Items/RangerAgileAnims]
 "IVARA AGILE ANIMATION SET"
@@ -34693,6 +35762,12 @@ This bundle of 450 Rubedo can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/Salvage]
 "SALVAGE"
 
+[/Lotus/Language/Items/Salvage1000]
+"1000 SALVAGE"
+
+[/Lotus/Language/Items/Salvage500]
+"500 SALVAGE"
+
 [/Lotus/Language/Items/SalvageDesc]
 "High value metals collected from war salvage."
 
@@ -35202,7 +36277,7 @@ Sell this item to remove the decorations at any time."
 "KAVAT INCUBATOR UPGRADE SEGMENT"
 
 [/Lotus/Language/Items/ShipFeatureGeneticFoundryCatbrowUpgradeDesc]
-"[Placeholder]Upgrades the Orbiter's Incubator with the following features:"
+"Allows the Incubator to breed Kavats."
 
 [/Lotus/Language/Items/ShipFeatureGeneticFoundryUpgrade]
 "INCUBATOR UPGRADE SEGMENT"
@@ -35239,6 +36314,9 @@ Sell this item to remove the decorations at any time."
 
 [/Lotus/Language/Items/ShipFeatureUpgraded]
 "|SEGMENT| INSTALLED"
+
+[/Lotus/Language/Items/ShipFeatureVoidProjection]
+"VOID RELIC SEGMENT"
 
 [/Lotus/Language/Items/ShipLayerCNYDesc]
 "For a limited time, adds festive decorations to your Landing Craft! 
@@ -35986,7 +37064,7 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "Fighter Escort"
 
 [/Lotus/Language/Items/StealthArchwingGravInstabilityAugmentDesc]
-"The black hole saps the area of heat, freezing enemies in range. Enemies near the black hole are completely frozen for |val| seconds."
+"Cosmic Crush Augment - The black hole saps the area of heat, freezing enemies in range. Enemies near the black hole are completely frozen for |val| seconds."
 
 [/Lotus/Language/Items/StealthArchwingGravInstabilityAugmentName]
 "Cold Snap"
@@ -36519,11 +37597,101 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 [/Lotus/Language/Items/SyndicateRandomKeyDesc]
 "3 Random Void Keys, one guaranteed Rare Key. What secret missions exist within the Void?"
 
+[/Lotus/Language/Items/SyndicateRandomProjection]
+"RELIC PACK"
+
+[/Lotus/Language/Items/SyndicateRandomProjectionDesc]
+"3 Random Relics, one guaranteed Rare. What secrets exist within them?"
+
 [/Lotus/Language/Items/SyringeComponent]
 "ANTISERUM INJECTOR FRAGMENT"
 
 [/Lotus/Language/Items/SyringeComponentDesc]
 "A component of the Antiserum Injector"
+
+[/Lotus/Language/Items/t1voidprojectiona]
+"LITH S1 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectionb]
+"LITH S2 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectionc]
+"LITH F1 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectiond]
+"LITH V1 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectione]
+"LITH F2 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectionf]
+"LITH M1 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectiong]
+"LITH A1 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectiona]
+"MESO D1 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectionb]
+"MESO N1 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectionc]
+"MESO C1 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectiond]
+"MESO V2 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectione]
+"MESO N2 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectionf]
+"MESO B1 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectiong]
+"MESO V1 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectiona]
+"NEO S1 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectionb]
+"NEO S2 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectionc]
+"NEO N1 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectiond]
+"NEO N2 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectione]
+"NEO V1 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectionf]
+"NEO D1 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectiong]
+"NEO S3 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectiona]
+"AXI S1 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectionb]
+"AXI V1 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectionc]
+"AXI K1 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectiond]
+"AXI N1 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectione]
+"AXI A1 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectionf]
+"AXI V1 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectiong]
+"AXI N2 RELIC"
 
 [/Lotus/Language/Items/TacticFocusAbilityDesc]
 "Path of the Sky Rogue"
@@ -36754,6 +37922,12 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/TennoSaiName]
 "OKINA"
 
+[/Lotus/Language/Items/TennoSaisBundleDesc]
+"This bundle contains the deadly Okina sais and the Spinning Needle stance."
+
+[/Lotus/Language/Items/TennoSaisBundleName]
+"OKINA MASTER PACK"
+
 [/Lotus/Language/Items/TennoShurikenDesc]
 "As an alternative to Kunai, these Tenno throwing stars do less damage but they come with expanded ammo capacity and a higher rate of fire."
 
@@ -36805,6 +37979,12 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/TerrorTotemAbilityName]
 "Terrify"
 
+[/Lotus/Language/Items/TeshinDiscWeaponDesc]
+"[Placeholder] Teshin's disc has mind altering abilities"
+
+[/Lotus/Language/Items/TeshinDiscWeaponName]
+"[Placeholder] TESHIN DISC"
+
 [/Lotus/Language/Items/TeshinKatanaDesc]
 "[Placeholder] Teshin's Katana is super great"
 
@@ -36849,6 +38029,18 @@ Blueprint is reusable and will not be consumed."
 
 [/Lotus/Language/Items/TidalWaveAbilityDesc]
 "Crash through enemies in a ferocious wall of water"
+
+[/Lotus/Language/Items/TierFourProjection]
+"AXI RELIC"
+
+[/Lotus/Language/Items/TierOneProjection]
+"LITH RELIC"
+
+[/Lotus/Language/Items/TierThreeProjection]
+"NEO RELIC"
+
+[/Lotus/Language/Items/TierTwoProjection]
+"MESO RELIC"
 
 [/Lotus/Language/Items/TigrisRedeemerSetPackDesc]
 "A stylish repertoire of weapons incorporating bladed designs for razor-sharp gunplay."
@@ -37604,6 +38796,9 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 [/Lotus/Language/Items/VoidKeyName]
 "OROKIN VOID KEY"
 
+[/Lotus/Language/Items/VoidProjectionGeneric]
+"VOID RELIC"
+
 [/Lotus/Language/Items/VoidSkinAnkyrosDesc]
 "The Void's corrupting energy has scarred this weapon, leaving it permanently out of phase with conventional space."
 
@@ -37653,10 +38848,10 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "VAUBAN PHASED SKIN"
 
 [/Lotus/Language/Items/VoidTearDrop]
-"LUMINOUS"
+"VOID TRACES"
 
 [/Lotus/Language/Items/VoidTearDropDesc]
-"[PLACEHOLDER] Material used to upgrade Void Projections."
+"A substance used to increase the power within Relics."
 
 [/Lotus/Language/Items/VoidTraderResourceDroneDesc]
 "Featuring unrivaled Orokin engineering, this advanced model was designed for peak volume extraction in the harshest of conditions."
@@ -38607,6 +39802,21 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/ZephyrTurbulenceAbilityDesc]
 "Creates a wind shield around Zephyr, redirecting all incoming projectiles."
 
+[/Lotus/Language/Junction/RegionDesc]
+"Complete all the tasks listed below to gain access to a new planet"
+
+[/Lotus/Language/Junction/RegionTitle]
+"|REGION| Junction"
+
+[/Lotus/Language/Junction/RewardTitle]
+"REWARD |X|/|Y| - |REWARD|"
+
+[/Lotus/Language/Junction/TaskListPrompt]
+"View Tasks"
+
+[/Lotus/Language/Junction/TaskListTitle]
+"Junction Tasks"
+
 [/Lotus/Language/Launcher/ActivateAccount]
 "Activate Account"
 
@@ -38810,6 +40020,9 @@ http://support.warframe.com/"
 [/Lotus/Language/Launcher/Help]
 "Help"
 
+[/Lotus/Language/Launcher/HOST]
+"HOST"
+
 [/Lotus/Language/Launcher/HOURS]
 "hours"
 
@@ -38865,6 +40078,9 @@ If you wish to help with translation please check the forums at https://forums.w
 
 [/Lotus/Language/Launcher/LoginFailedAccountAlreadyUsed]
 "The Warframe Account has already been linked to a Sony Entertainment Network account, please check your information or create a new account."
+
+[/Lotus/Language/Launcher/LoginFailedAccountAlreadyUsedXB1]
+"The Warframe Account has already been linked to a Xbox Live account, please check your information or create a new account."
 
 [/Lotus/Language/Launcher/LoginFailedConflict]
 "You are already logged in. Login here and terminate the other connection?"
@@ -39045,26 +40261,22 @@ Visit the in-game Market to obtain the latest Prime Access offering different pa
 "Xbox Live features are disabled - an update for the system software is available."
 
 [/Lotus/Language/Launcher/TAB1_DESC]
-"Corpus and Grineer ships have received a substantial upgrade to their reactors - it's time to discover a new way to Sabotage! Enemy upgrades include new security measures and failsafe cooling systems that will alter the environment as you play.
-
-Choose a unique Sabotage strategy and destroy these new reactors in the improved Reactor Sabotage 2.0. Play to the strength of your squad and take down those ships, Tenno!"
+"A contact ball sport played long ago by Tenno of years past, Lunaro is a new Conclave mode that accommodates up to three players per team. This new game mode focuses on skill, mobility, teamwork and creativity."
 
 [/Lotus/Language/Launcher/TAB1_TITLE]
-"THE DYNAMICS OF SABOTAGE"
+"LUNARO IS HERE!"
 
 [/Lotus/Language/Launcher/TAB2_DESC]
-"New advancements in harnessing Infestation has led to deadlier weapons in the hands of the Tenno. Use the range of the Lesion staff to pierce enemy defenses at a comfortable melee distance or the Mutalist Cernos to deliver toxic contagion from afar.. Brain-strikes excite the Dual Toxocyst sidearm, causing it to rapidly release toxic munitions."
+"Honor the traditions of your Tenno ancestors with Lunaro-themed Armor."
 
 [/Lotus/Language/Launcher/TAB2_TITLE]
-"WEAPONIZED INFESTATION - HANDLE WITH CARE"
+"LUNARO ARMOR"
 
 [/Lotus/Language/Launcher/TAB3_DESC]
-"The Second Dream unveiled the desolate Moon from The Void. But there was once a time when the Orokin ruled over the Solar System from this prestigious satellite, a home full of awe-inspiring architecture.
-
-The time has come to explore both timelines. Your deft spy skills are called upon as you overcome time-bending challenges on new Moon missions."
+"Visit your Operator to view a variety of new Customizations."
 
 [/Lotus/Language/Launcher/TAB3_TITLE]
-"DECADENCE AND DESOLATION"
+"OPERATOR CUSTOMIZATIONS"
 
 [/Lotus/Language/Launcher/TEST]
 "Test"
@@ -39088,7 +40300,7 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 "Update failed!"
 
 [/Lotus/Language/Launcher/UPDATE_TITLE]
-"LUNARO"
+"SPECTERS OF THE RAIL"
 
 [/Lotus/Language/Launcher/UPDATE_TITLE_CY]
 "Super Power Closed Beta"
@@ -39267,6 +40479,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 [/Lotus/Language/Locations/CeresArchwingNode1]
 "Vesta"
 
+[/Lotus/Language/Locations/CeresJunction]
+"CERES JUNCTION"
+
 [/Lotus/Language/Locations/Cerium]
 "Cerium"
 
@@ -39351,6 +40566,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 [/Lotus/Language/Locations/EarthArchwingNode1]
 "Erpo"
 
+[/Lotus/Language/Locations/EarthJunction]
+"EARTH JUNCTION"
+
 [/Lotus/Language/Locations/EGate]
 "E Gate"
 
@@ -39384,6 +40602,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 [/Lotus/Language/Locations/ErisArchwingNode1]
 "Concordia"
 
+[/Lotus/Language/Locations/ErisJunction]
+"ERIS JUNCTION"
+
 [/Lotus/Language/Locations/Ethniu]
 "Ethniu"
 
@@ -39392,6 +40613,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 
 [/Lotus/Language/Locations/EuropaArchwingNode1]
 "Mephesto"
+
+[/Lotus/Language/Locations/EuropaJunction]
+"EUROPA JUNCTION"
 
 [/Lotus/Language/Locations/EventNode14]
 "EventNode14"
@@ -39513,6 +40737,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 [/Lotus/Language/Locations/JupiterArchwingNode1]
 "Galilea"
 
+[/Lotus/Language/Locations/JupiterJunction]
+"JUPITER JUNCTION"
+
 [/Lotus/Language/Locations/Kadesh]
 "Kadesh"
 
@@ -39577,7 +40804,10 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 "Lith"
 
 [/Lotus/Language/Locations/Lua]
-"Lua"
+"Cervantes"
+
+[/Lotus/Language/Locations/LuaJunction]
+"LUA JUNCTION"
 
 [/Lotus/Language/Locations/Ludi]
 "Ludi"
@@ -39603,6 +40833,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 [/Lotus/Language/Locations/MarsArchwingNode1]
 "Syrtis"
 
+[/Lotus/Language/Locations/MarsJunction]
+"MARS JUNCTION"
+
 [/Lotus/Language/Locations/Martialis]
 "Martialis"
 
@@ -39611,6 +40844,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 
 [/Lotus/Language/Locations/MercuryArchwingNode1]
 "Caduceus"
+
+[/Lotus/Language/Locations/MercuryJunction]
+"MERCURY JUNCTION"
 
 [/Lotus/Language/Locations/Merrow]
 "Merrow"
@@ -39634,7 +40870,7 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 "Monolith"
 
 [/Lotus/Language/Locations/Moon]
-"MOON"
+"LUA"
 
 [/Lotus/Language/Locations/MoonNode1]
 "Plato"
@@ -39686,6 +40922,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 
 [/Lotus/Language/Locations/NeptuneArchwingNode1]
 "Salacia"
+
+[/Lotus/Language/Locations/NeptuneJunction]
+"NEPTUNE JUNCTION"
 
 [/Lotus/Language/Locations/Nereid]
 "Nereid"
@@ -39774,6 +41013,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 [/Lotus/Language/Locations/PhobosArchwingNode1]
 "Deimos"
 
+[/Lotus/Language/Locations/PhobosJunction]
+"PHOBOS JUNCTION"
+
 [/Lotus/Language/Locations/Phoebe]
 "Phoebe"
 
@@ -39782,6 +41024,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 
 [/Lotus/Language/Locations/PlutoArchwingNode1]
 "Kerberos"
+
+[/Lotus/Language/Locations/PlutoJunction]
+"PLUTO JUNCTION"
 
 [/Lotus/Language/Locations/Ponaturi]
 "Ponaturi"
@@ -39894,6 +41139,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 [/Lotus/Language/Locations/SaturnArchwingNode1]
 "Pandora"
 
+[/Lotus/Language/Locations/SaturnJunction]
+"SATURN JUNCTION"
+
 [/Lotus/Language/Locations/Saxis]
 "Saxis"
 
@@ -39908,6 +41156,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 
 [/Lotus/Language/Locations/SednaArchwingNode1]
 "Anguta"
+
+[/Lotus/Language/Locations/SednaJunction]
+"SEDNA JUNCTION"
 
 [/Lotus/Language/Locations/Seimeni]
 "Seimeni"
@@ -40017,6 +41268,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 [/Lotus/Language/Locations/Todd]
 "Todd"
 
+[/Lotus/Language/Locations/ToDerelict]
+"TO DERELICT"
+
 [/Lotus/Language/Locations/ToEarth]
 "TO EARTH"
 
@@ -40039,7 +41293,7 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 "TO MERCURY"
 
 [/Lotus/Language/Locations/ToMoon]
-"TO MOON"
+"TO LUA"
 
 [/Lotus/Language/Locations/ToNeptune]
 "TO NEPTUNE"
@@ -40061,6 +41315,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 
 [/Lotus/Language/Locations/ToVenus]
 "TO VENUS"
+
+[/Lotus/Language/Locations/ToVoid]
+"TO VOID"
 
 [/Lotus/Language/Locations/Trinculo]
 "Trinculo"
@@ -40086,6 +41343,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 [/Lotus/Language/Locations/UranusArchwingNode1]
 "Caelus"
 
+[/Lotus/Language/Locations/UranusJunction]
+"URANUS JUNCTION"
+
 [/Lotus/Language/Locations/Valac]
 "Valac"
 
@@ -40110,6 +41370,9 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 [/Lotus/Language/Locations/VenusArchwingNode1]
 "Montes"
 
+[/Lotus/Language/Locations/VenusJunction]
+"VENUS JUNCTION"
+
 [/Lotus/Language/Locations/Verdi]
 "Verdi"
 
@@ -40123,25 +41386,43 @@ The time has come to explore both timelines. Your deft spy skills are called upo
 "Vodyanoi"
 
 [/Lotus/Language/Locations/VoidNode1]
-"Void Node 1"
+"Teshub"
+
+[/Lotus/Language/Locations/VoidNode10]
+"Mot"
+
+[/Lotus/Language/Locations/VoidNode11]
+"Aten"
+
+[/Lotus/Language/Locations/VoidNode12]
+"Marduk"
+
+[/Lotus/Language/Locations/VoidNode13]
+"Mithra"
 
 [/Lotus/Language/Locations/VoidNode2]
-"Void Node 2"
+"Hepit"
 
 [/Lotus/Language/Locations/VoidNode3]
-"Void Node 3"
+"Taranis"
 
 [/Lotus/Language/Locations/VoidNode4]
-"Void Node 4"
+"Tiwaz"
 
 [/Lotus/Language/Locations/VoidNode5]
-"Void Node 5"
+"Stribog"
 
 [/Lotus/Language/Locations/VoidNode6]
-"Void Node 6"
+"Ani"
 
 [/Lotus/Language/Locations/VoidNode7]
-"Void Node 7"
+"Ukko"
+
+[/Lotus/Language/Locations/VoidNode8]
+"Oxomoco"
+
+[/Lotus/Language/Locations/VoidNode9]
+"Belenus"
 
 [/Lotus/Language/Locations/VPrime]
 "V Prime"
@@ -40263,9 +41544,6 @@ Darvo"
 
 [/Lotus/Language/Melee/AxeChargeComboA]
 "Crowd Fall"
-
-[/Lotus/Language/Melee/AxeEquippedAttacksDefault]
-"Skull Splitter"
 
 [/Lotus/Language/Melee/AxeEquippedThreeAttacksBDefault]
 "August Mesto"
@@ -40437,6 +41715,18 @@ Darvo"
 
 [/Lotus/Language/Melee/DualDaggerCmbOneEquipped]
 "Lashing Panther"
+
+[/Lotus/Language/Melee/DualDaggerCmbThreeBranchA]
+"Accursed Whispers"
+
+[/Lotus/Language/Melee/DualDaggerCmbThreeBranchB]
+"Fey Intervention"
+
+[/Lotus/Language/Melee/DualDaggerCmbThreeEquipped]
+"True Kiss"
+
+[/Lotus/Language/Melee/DualDaggerCmbThreeQuickDefaults]
+"Final Rest"
 
 [/Lotus/Language/Melee/DualDaggerCmbTwoEquipped]
 "Cheetah's Guile"
@@ -40965,6 +42255,12 @@ Darvo"
 
 [/Lotus/Language/Melee/PvPPunchKickComboOne]
 "Cruel Advance"
+
+[/Lotus/Language/Melee/PvPRapierComboA]
+"Shrouded Point"
+
+[/Lotus/Language/Melee/PvPRapierComboB]
+"Covert Coil"
 
 [/Lotus/Language/Melee/PvPScytheComboA]
 "Reaping Leap"
@@ -42147,19 +43443,28 @@ A Solar Rail is required in order to travel here."
 "WARFRAME"
 
 [/Lotus/Language/Menu/CephalonFragment_Filter1]
-"[Placeholder] Filter1"
+"Neutral"
 
 [/Lotus/Language/Menu/CephalonFragment_Filter2]
-"[Placeholder] Filter2"
+"Contrast"
 
 [/Lotus/Language/Menu/CephalonFragment_Filter3]
-"[Placeholder] Filter3"
+"Blood"
 
 [/Lotus/Language/Menu/CephalonFragment_Filter4]
-"[Placeholder] Filter4"
+"Bleach"
 
 [/Lotus/Language/Menu/CephalonFragment_Filter5]
-"[Placeholder] Filter5"
+"Burn"
+
+[/Lotus/Language/Menu/CephalonFragment_Filter6]
+"Black & White"
+
+[/Lotus/Language/Menu/CephalonFragment_Filter7]
+"Cross Process"
+
+[/Lotus/Language/Menu/CephalonFragment_Filter8]
+"Negative"
 
 [/Lotus/Language/Menu/CephalonFragment_FilterSelector]
 "Select Image Filter"
@@ -42170,11 +43475,14 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/CephalonFragment_FrameWidthSlider]
 "Frame Width"
 
+[/Lotus/Language/Menu/CephalonFragment_Hint]
+"Hold |DRAG| to move image. Use |SCALE| to scale."
+
 [/Lotus/Language/Menu/CephalonFragment_PictureXOffsetSlider]
-"Picture X Offset"
+"Horizontal Offset"
 
 [/Lotus/Language/Menu/CephalonFragment_PictureYOffsetSlider]
-"Picture Y Offset"
+"Vertical Offset"
 
 [/Lotus/Language/Menu/CephalonFragment_ScaleSlider]
 "Scale Image"
@@ -42345,7 +43653,7 @@ A Solar Rail is required in order to travel here."
 "To initiate a private conversation with another player, you must have a Mastery Rank greater than 0 OR the conversation partner must be a friend, clanmate, or recent player."
 
 [/Lotus/Language/Menu/Chat_InvalidLinkedItem]
-"[Placeholder] |ITEMNAME| is not a valid linkable item"
+"|ITEMNAME| is not a valid linkable item"
 
 [/Lotus/Language/Menu/Chat_InvalidUser]
 "Invalid user '|USER|'."
@@ -42563,6 +43871,9 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/Codex_Undiscovered]
 "Undiscovered"
 
+[/Lotus/Language/Menu/Codex_Undiscovered_Fragment]
+"|REGION| Fragment"
+
 [/Lotus/Language/Menu/Codex_Universe]
 "UNIVERSE"
 
@@ -42739,7 +44050,7 @@ SPEAK TO CEPHALON SIMARIS"
 "Poor connection quality detected (|PING|ms ping). Are you sure you want to join?"
 
 [/Lotus/Language/Menu/ConfirmMaturePet]
-"[Placeholder] |NAME| Will no longer roam the ship, but will be ready for combat.
+"|NAME| will grow to adulthood and become ready for combat.
 
 Are you sure you want to mature |NAME|?"
 
@@ -43008,6 +44319,9 @@ Are you sure?"
 [/Lotus/Language/Menu/Cosmetics_TertiaryColor]
 "TERTIARY COLOR"
 
+[/Lotus/Language/Menu/Cosmetics_TertiaryColor2]
+"ACCENTS"
+
 [/Lotus/Language/Menu/Cosmetics_Wings]
 "LEFT WING"
 
@@ -43162,7 +44476,7 @@ Are you sure?"
 "|FEATURE| REQUIRED"
 
 [/Lotus/Language/Menu/Crafting_ShipFeatureRequiredMessage]
-"[Placeholder] |FEATURE| is required to build this item"
+"|FEATURE| is required to build this item"
 
 [/Lotus/Language/Menu/Crafting_SlotPurchased]
 "Inventory Slots purchased."
@@ -43204,10 +44518,10 @@ Are you sure?"
 "Night Aspect of the Equinox Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_AnimaHelmetDesc]
-"Helmet component of the Equinox Night Aspect."
+"Neuroptics component of the Equinox Night Aspect."
 
 [/Lotus/Language/Menu/CraftingComponent_AnimaHelmetName]
-"EQUINOX NIGHT HELMET"
+"EQUINOX NIGHT NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_AnimaName]
 "EQUINOX NIGHT ASPECT"
@@ -43228,10 +44542,10 @@ Are you sure?"
 "Day Aspect of the Equinox Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_AnimusHelmetDesc]
-"Helmet component of the Equinox Day Aspect."
+"Neuroptics component of the Equinox Day Aspect."
 
 [/Lotus/Language/Menu/CraftingComponent_AnimusHelmetName]
-"EQUINOX DAY HELMET"
+"EQUINOX DAY NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_AnimusName]
 "EQUINOX DAY ASPECT"
@@ -43255,13 +44569,13 @@ Are you sure?"
 "ONORIX HANDLE"
 
 [/Lotus/Language/Menu/CraftingComponent_ArchBurstGunBarrel]
-"[Placeholder] ARCH BURST GUN BARREL"
+"CYNGAS BARREL"
 
 [/Lotus/Language/Menu/CraftingComponent_ArchBurstGunReceiver]
-"[Placeholder] ARCH BURST GUN RECEIVER"
+"CYNGAS RECEIVER"
 
 [/Lotus/Language/Menu/CraftingComponent_ArchBurstGunStock]
-"[Placeholder] ARCH BURST GUN STOCK"
+"CYNGAS STOCK"
 
 [/Lotus/Language/Menu/CraftingComponent_ArchCannonBarrel]
 "CORVAS BARREL"
@@ -43285,10 +44599,13 @@ Are you sure?"
 "DECURION RECEIVER"
 
 [/Lotus/Language/Menu/CraftingComponent_ArchHookSwordBlade]
-"[Placeholder] ARCH HOOK SWORD BLADE"
+"AGKUZA BLADE"
+
+[/Lotus/Language/Menu/CraftingComponent_ArchHookSwordGuard]
+"AGKUZA GUARD"
 
 [/Lotus/Language/Menu/CraftingComponent_ArchHookSwordHandle]
-"[Placeholder] ARCH HOOK SWORD HANDLE"
+"AGKUZA HANDLE"
 
 [/Lotus/Language/Menu/CraftingComponent_ArchLongRifleBarrel]
 "PHAEDRA BARREL"
@@ -43329,6 +44646,9 @@ Are you sure?"
 [/Lotus/Language/Menu/CraftingComponent_ArchSwordShieldBlade]
 "CENTAUR BLADE"
 
+[/Lotus/Language/Menu/CraftingComponent_ArchSwordShieldHandle]
+"CENTAUR HANDLE"
+
 [/Lotus/Language/Menu/CraftingComponent_AshChassisDesc]
 "Chassis component of the Ash Warframe."
 
@@ -43336,10 +44656,10 @@ Are you sure?"
 "ASH CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_AshHelmetDesc]
-"Helmet component of the Ash Warframe."
+"Neuroptics component of the Ash Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_AshHelmetName]
-"ASH HELMET"
+"ASH NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_AshPrimeChassisDesc]
 "Chassis component of the Ash Prime Warframe."
@@ -43348,10 +44668,10 @@ Are you sure?"
 "ASH PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_AshPrimeHelmetDesc]
-"Helmet component of the Ash Prime Warframe."
+"Neuroptics component of the Ash Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_AshPrimeHelmetName]
-"ASH PRIME HELMET"
+"ASH PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_AshPrimeSystemsDesc]
 "Systems component of the Ash Prime Warframe."
@@ -43381,10 +44701,10 @@ Are you sure?"
 "BANSHEE CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_BansheeHelmetDesc]
-"Helmet component of the Banshee Warframe."
+"Neuroptics component of the Banshee Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_BansheeHelmetName]
-"BANSHEE HELMET"
+"BANSHEE NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_BansheePrimeChassisDesc]
 "Chassis component of the Banshee Prime Warframe."
@@ -43393,10 +44713,10 @@ Are you sure?"
 "BANSHEE PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_BansheePrimeHelmetDesc]
-"Helmet component of the Banshee Prime Warframe."
+"Neuroptics component of the Banshee Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_BansheePrimeHelmetName]
-"BANSHEE PRIME HELMET"
+"BANSHEE PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_BansheePrimeSystemsDesc]
 "Systems component of the Banshee Prime Warframe."
@@ -43417,10 +44737,10 @@ Are you sure?"
 "VALKYR CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_BerserkerHelmetDesc]
-"Helmet component of the Valkyr Warframe."
+"Neuroptics component of the Valkyr Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_BerserkerHelmetName]
-"VALKYR HELMET"
+"VALKYR NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_BerserkerSystemsDesc]
 "Systems component of the Valkyr Warframe."
@@ -43477,10 +44797,10 @@ Are you sure?"
 "ATLAS CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_BrawlerHelmetDesc]
-"Helmet component of the Atlas Warframe."
+"Neuroptics component of the Atlas Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_BrawlerHelmetName]
-"ATLAS HELMET"
+"ATLAS NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_BrawlerSystemsDesc]
 "Systems component of the Atlas Warframe."
@@ -43512,6 +44832,24 @@ Are you sure?"
 [/Lotus/Language/Menu/CraftingComponent_CernosPrimeUpperLimb]
 "CERNOS PRIME UPPER LIMB"
 
+[/Lotus/Language/Menu/CraftingComponent_ChromaBeaconADesc]
+"An abandoned relic of unknown function."
+
+[/Lotus/Language/Menu/CraftingComponent_ChromaBeaconAName]
+"SCORCHED BEACON"
+
+[/Lotus/Language/Menu/CraftingComponent_ChromaBeaconBDesc]
+"A signal detector of some sort."
+
+[/Lotus/Language/Menu/CraftingComponent_ChromaBeaconBName]
+"CHROMA SIGNAL"
+
+[/Lotus/Language/Menu/CraftingComponent_ChromaBeaconCDesc]
+"Reveals the beast."
+
+[/Lotus/Language/Menu/CraftingComponent_ChromaBeaconCName]
+"CHROMA MARK"
+
 [/Lotus/Language/Menu/CraftingComponent_ChromaChassisDesc]
 "Chassis component of the Chroma Warframe."
 
@@ -43519,10 +44857,10 @@ Are you sure?"
 "CHROMA CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_ChromaHelmetDesc]
-"Helmet component of the Chroma Warframe."
+"Neuroptics component of the Chroma Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_ChromaHelmetName]
-"CHROMA HELMET"
+"CHROMA NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_ChromaPrimeChassisDesc]
 "Chassis component of the Chroma Prime Warframe."
@@ -43531,10 +44869,10 @@ Are you sure?"
 "CHROMA PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_ChromaPrimeHelmetDesc]
-"Helmet component of the Chroma Prime Warframe."
+"Neuroptics component of the Chroma Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_ChromaPrimeHelmetName]
-"CHROMA PRIME HELMET"
+"CHROMA PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_ChromaPrimeSystemsDesc]
 "Systems component of the Chroma Prime Warframe."
@@ -43588,10 +44926,10 @@ Are you sure?"
 "EMBER CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_EmberHelmetDesc]
-"Helmet component of the Ember Warframe."
+"Neuroptics component of the Ember Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_EmberHelmetName]
-"EMBER HELMET"
+"EMBER NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_EmberPrimeChassisDesc]
 "Chassis component of the Ember Prime Warframe."
@@ -43600,10 +44938,10 @@ Are you sure?"
 "EMBER PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_EmberPrimeHelmetDesc]
-"Helmet component of the Ember Prime Warframe."
+"Neuroptics component of the Ember Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_EmberPrimeHelmetName]
-"EMBER PRIME HELMET"
+"EMBER PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_EmberPrimeSystemsDesc]
 "Systems component of the Ember Prime Warframe."
@@ -43624,10 +44962,10 @@ Are you sure?"
 "EXCALIBUR CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_ExcaliburHelmetDesc]
-"Helmet component of the Excalibur Warframe."
+"Neuroptics component of the Excalibur Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_ExcaliburHelmetName]
-"EXCALIBUR HELMET"
+"EXCALIBUR NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_ExcaliburSystemsDesc]
 "Systems component of the Excalibur Warframe."
@@ -43648,10 +44986,10 @@ Are you sure?"
 "FROST CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_FrostHelmetDesc]
-"Helmet component of the Frost Warframe."
+"Neuroptics component of the Frost Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_FrostHelmetName]
-"FROST HELMET"
+"FROST NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_FrostPrimeChassisDesc]
 "Chassis component of the Frost Prime Warframe."
@@ -43660,10 +44998,10 @@ Are you sure?"
 "FROST PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_FrostPrimeHelmetDesc]
-"Helmet component of the Frost Prime Warframe."
+"Neuroptics component of the Frost Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_FrostPrimeHelmetName]
-"FROST PRIME HELMET"
+"FROST PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_FrostPrimeSystemsDesc]
 "Systems component of the Frost Prime Warframe."
@@ -43699,10 +45037,10 @@ Are you sure?"
 "MESA CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_GunslingerHelmetDesc]
-"Helmet component of the Mesa Warframe."
+"Neuroptics component of the Mesa Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_GunslingerHelmetName]
-"MESA HELMET"
+"MESA NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_GunslingerSystemsDesc]
 "Systems component of the Mesa Warframe."
@@ -43735,10 +45073,10 @@ Are you sure?"
 "MIRAGE CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_HarlequinHelmetDesc]
-"Helmet component of the Mirage Warframe."
+"Neuroptics component of the Mirage Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_HarlequinHelmetName]
-"MIRAGE HELMET"
+"MIRAGE NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_HarlequinSystemsDesc]
 "Systems component of the Mirage Warframe."
@@ -43753,10 +45091,10 @@ Are you sure?"
 "HYDROID CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_HydroidHelmetDesc]
-"Helmet component of the Hydroid Warframe."
+"Neuroptics component of the Hydroid Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_HydroidHelmetName]
-"HYDROID HELMET"
+"HYDROID NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_HydroidPrimeChassisDesc]
 "Chassis component of the Hydroid Prime Warframe."
@@ -43765,10 +45103,10 @@ Are you sure?"
 "HYDROID PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_HydroidPrimeHelmetDesc]
-"Helmet component of the Hydroid Prime Warframe."
+"Neuroptics component of the Hydroid Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_HydroidPrimeHelmetName]
-"HYDROID PRIME HELMET"
+"HYDROID PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_HydroidPrimeSystemsDesc]
 "Systems component of the Hydroid Prime Warframe."
@@ -43819,10 +45157,10 @@ Are you sure?"
 "LIMBO PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_LimboPrimeHelmetDesc]
-"Helmet component of the Limbo Prime Warframe."
+"Neuroptics component of the Limbo Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_LimboPrimeHelmetName]
-"LIMBO PRIME HELMET"
+"LIMBO PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_LimboPrimeSystemsDesc]
 "Systems component of the Limbo Prime Warframe."
@@ -43837,10 +45175,10 @@ Are you sure?"
 "LOKI CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_LokiHelmetDesc]
-"Helmet component of the Loki Warframe."
+"Neuroptics component of the Loki Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_LokiHelmetName]
-"LOKI HELMET"
+"LOKI NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_LokiPrimeChassisDesc]
 "Chassis component of the Loki Prime Warframe."
@@ -43849,10 +45187,10 @@ Are you sure?"
 "LOKI PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_LokiPrimeHelmetDesc]
-"Helmet component of the Loki Prime Warframe."
+"Neuroptics component of the Loki Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_LokiPrimeHelmetName]
-"LOKI PRIME HELMET"
+"LOKI PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_LokiPrimeSystemsDesc]
 "Systems component of the Loki Prime Warframe."
@@ -43873,10 +45211,10 @@ Are you sure?"
 "MAG CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_MagHelmetDesc]
-"Helmet component of the Mag Warframe."
+"Neuroptics component of the Mag Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_MagHelmetName]
-"MAG HELMET"
+"MAG NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_MagicianChassisDesc]
 "Chassis component of the Limbo Warframe."
@@ -43885,10 +45223,10 @@ Are you sure?"
 "LIMBO CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_MagicianHelmetDesc]
-"Helmet component of the Limbo Warframe."
+"Neuroptics component of the Limbo Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_MagicianHelmetName]
-"LIMBO HELMET"
+"LIMBO NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_MagicianSystemsDesc]
 "Systems component of the Limbo Warframe."
@@ -43903,10 +45241,10 @@ Are you sure?"
 "MAG PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_MagPrimeHelmetDesc]
-"Helmet component of the Mag Prime Warframe."
+"Neuroptics component of the Mag Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_MagPrimeHelmetName]
-"MAG PRIME HELMET"
+"MAG PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_MagPrimeSystemsDesc]
 "Systems component of the Mag Prime Warframe."
@@ -43927,10 +45265,10 @@ Are you sure?"
 "MESA PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_MesaPrimeHelmetDesc]
-"Helmet component of the Mesa Prime Warframe."
+"Neuroptics component of the Mesa Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_MesaPrimeHelmetName]
-"MESA PRIME HELMET"
+"MESA PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_MesaPrimeSystemsDesc]
 "Systems component of the Mesa Prime Warframe."
@@ -43945,10 +45283,10 @@ Are you sure?"
 "MIRAGE PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_MiragePrimeHelmetDesc]
-"Helmet component of the Mirage Prime Warframe."
+"Neuroptics component of the Mirage Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_MiragePrimeHelmetName]
-"MIRAGE PRIME HELMET"
+"MIRAGE PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_MiragePrimeSystemsDesc]
 "Systems component of the Mirage Prime Warframe."
@@ -43987,10 +45325,10 @@ Are you sure?"
 "INAROS CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_MummyHelmetDesc]
-"Helmet component of the Inaros Warframe."
+"Neuroptics component of the Inaros Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_MummyHelmetName]
-"INAROS HELMET"
+"INAROS NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_MummySystemsDesc]
 "Systems component of the Inaros Warframe."
@@ -44005,10 +45343,10 @@ Are you sure?"
 "NEKROS CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_NecroHelmetDesc]
-"Helmet component of the Nekros Warframe."
+"Neuroptics component of the Nekros Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_NecroHelmetName]
-"NEKROS HELMET"
+"NEKROS NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_NecroSystemsDesc]
 "Systems component of the Nekros Warframe."
@@ -44023,10 +45361,10 @@ Are you sure?"
 "NEKROS PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_NekrosPrimeHelmetDesc]
-"Helmet component of the Nekros Prime Warframe."
+"Neuroptics component of the Nekros Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_NekrosPrimeHelmetName]
-"NEKROS PRIME HELMET"
+"NEKROS PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_NekrosPrimeSystemsDesc]
 "Systems component of the Nekros Prime Warframe."
@@ -44053,10 +45391,10 @@ Are you sure?"
 "NYX PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_NextPromoWarframeHelmetDesc]
-"Helmet component of the Nyx Prime Warframe."
+"Neuroptics component of the Nyx Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_NextPromoWarframeHelmetName]
-"NYX PRIME HELMET"
+"NYX PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_NextPromoWarframeSystemsDesc]
 "Systems component of the Nyx Prime Warframe."
@@ -44071,10 +45409,10 @@ Are you sure?"
 "NEZHA CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_NezhaHelmetDesc]
-"Helmet component of the Nezha Warframe."
+"Neuroptics component of the Nezha Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_NezhaHelmetName]
-"NEZHA HELMET"
+"NEZHA NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_NezhaSystemsDesc]
 "Systems component of the Nezha Warframe."
@@ -44089,10 +45427,10 @@ Are you sure?"
 "NOVA CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_NovaHelmetDesc]
-"Helmet component of the Nova Warframe."
+"Neuroptics component of the Nova Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_NovaHelmetName]
-"NOVA HELMET"
+"NOVA NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_NovaPrimeChassisDesc]
 "Chassis component of the Nova Prime Warframe."
@@ -44101,10 +45439,10 @@ Are you sure?"
 "NOVA PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_NovaPrimeHelmetDesc]
-"Helmet component of the Nova Prime Warframe."
+"Neuroptics component of the Nova Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_NovaPrimeHelmetName]
-"NOVA PRIME HELMET"
+"NOVA PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_NovaPrimeSystemsDesc]
 "Systems component of the Nova Prime Warframe."
@@ -44125,10 +45463,10 @@ Are you sure?"
 "NYX CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_NyxHelmetDesc]
-"Helmet component of the Nyx Warframe."
+"Neuroptics component of the Nyx Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_NyxHelmetName]
-"NYX HELMET"
+"NYX NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_NyxSystemsDesc]
 "Systems component of the Nyx Warframe."
@@ -44143,10 +45481,10 @@ Are you sure?"
 "OBERON PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_OberonPrimeHelmetDesc]
-"Helmet component of the Oberon Prime Warframe."
+"Neuroptics component of the Oberon Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_OberonPrimeHelmetName]
-"OBERON PRIME HELMET"
+"OBERON PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_OberonPrimeSystemsDesc]
 "Systems component of the Oberon Prime Warframe."
@@ -44161,10 +45499,10 @@ Are you sure?"
 "OBERON CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_PaladinHelmetDesc]
-"Helmet component of the Oberon Warframe."
+"Neuroptics component of the Oberon Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_PaladinHelmetName]
-"OBERON HELMET"
+"OBERON NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_PaladinSystemsDesc]
 "Systems component of the Oberon Warframe."
@@ -44335,10 +45673,10 @@ Are you sure?"
 "IVARA CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_RangerHelmetDesc]
-"Helmet component of the Ivara Warframe."
+"Neuroptics component of the Ivara Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_RangerHelmetName]
-"IVARA HELMET"
+"IVARA NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_RangerSystemsDesc]
 "Systems component of the Ivara Warframe."
@@ -44353,10 +45691,10 @@ Are you sure?"
 "RHINO CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_RhinoHelmetDesc]
-"Helmet component of the Rhino Warframe."
+"Neuroptics component of the Rhino Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_RhinoHelmetName]
-"RHINO HELMET"
+"RHINO NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_RhinoPrimeChassisDesc]
 "Chassis component of the Rhino Prime Warframe."
@@ -44365,10 +45703,10 @@ Are you sure?"
 "RHINO PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_RhinoPrimeHelmetDesc]
-"Helmet component of the Rhino Prime Warframe."
+"Neuroptics component of the Rhino Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_RhinoPrimeHelmetName]
-"RHINO PRIME HELMET"
+"RHINO PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_RhinoPrimeSystemsDesc]
 "Systems component of the Rhino Prime Warframe."
@@ -44389,10 +45727,10 @@ Are you sure?"
 "SARYN CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_SarynHelmetDesc]
-"Helmet component of the Saryn Warframe."
+"Neuroptics component of the Saryn Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_SarynHelmetName]
-"SARYN HELMET"
+"SARYN NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_SarynPrimeChassisDesc]
 "Chassis component of the Saryn Prime Warframe."
@@ -44401,10 +45739,10 @@ Are you sure?"
 "SARYN PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_SarynPrimeHelmetDesc]
-"Helmet component of the Saryn Prime Warframe."
+"Neuroptics component of the Saryn Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_SarynPrimeHelmetName]
-"SARYN PRIME HELMET"
+"SARYN PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_SarynPrimeSystemsDesc]
 "Systems component of the Saryn Prime Warframe."
@@ -44505,6 +45843,24 @@ Are you sure?"
 [/Lotus/Language/Menu/CraftingComponent_StrunWraithStock]
 "STRUN WRAITH STOCK"
 
+[/Lotus/Language/Menu/CraftingComponent_SupportArchwingChassisDesc]
+"Harness component of the Amesha Archwing."
+
+[/Lotus/Language/Menu/CraftingComponent_SupportArchwingChassisName]
+"AMESHA HARNESS"
+
+[/Lotus/Language/Menu/CraftingComponent_SupportArchwingSystemsDesc]
+"Systems component of the Amesha Archwing."
+
+[/Lotus/Language/Menu/CraftingComponent_SupportArchwingSystemsName]
+"AMESHA SYSTEMS"
+
+[/Lotus/Language/Menu/CraftingComponent_SupportArchwingWingsDesc]
+"Wings component of the Amesha Archwing."
+
+[/Lotus/Language/Menu/CraftingComponent_SupportArchwingWingsName]
+"AMESHA WINGS"
+
 [/Lotus/Language/Menu/CraftingComponent_SybarisPrimeBarrel]
 "SYBARIS PRIME BARREL"
 
@@ -44521,10 +45877,10 @@ Are you sure?"
 "ZEPHYR CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_TenguHelmetDesc]
-"Helmet component of the Zephyr Warframe."
+"Neuroptics component of the Zephyr Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_TenguHelmetName]
-"ZEPHYR HELMET"
+"ZEPHYR NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_TenguSystemsDesc]
 "Systems component of the Zephyr Warframe."
@@ -44557,10 +45913,10 @@ Are you sure?"
 "TRINITY CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_TrinityHelmetDesc]
-"Helmet component of the Trinity Warframe."
+"Neuroptics component of the Trinity Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_TrinityHelmetName]
-"TRINITY HELMET"
+"TRINITY NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_TrinityPrimeChassisDesc]
 "Chassis component of the Trinity Prime Warframe."
@@ -44569,10 +45925,10 @@ Are you sure?"
 "TRINITY PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_TrinityPrimeHelmetDesc]
-"Helmet component of the Trinity Prime Warframe."
+"Neuroptics component of the Trinity Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_TrinityPrimeHelmetName]
-"TRINITY PRIME HELMET"
+"TRINITY PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_TrinityPrimeSystemsDesc]
 "Systems component of the Trinity Prime Warframe."
@@ -44593,10 +45949,10 @@ Are you sure?"
 "VALKYR PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_ValkyrPrimeHelmetDesc]
-"Helmet component of the Valkyr Prime Warframe."
+"Neuroptics component of the Valkyr Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_ValkyrPrimeHelmetName]
-"VALKYR PRIME HELMET"
+"VALKYR PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_ValkyrPrimeSystemsDesc]
 "Systems component of the Valkyr Prime Warframe."
@@ -44617,10 +45973,10 @@ Are you sure?"
 "VAUBAN CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_VaubanHelmetDesc]
-"Helmet component of the Vauban Warframe."
+"Neuroptics component of the Vauban Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_VaubanHelmetName]
-"VAUBAN HELMET"
+"VAUBAN NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_VaubanPrimeChassisDesc]
 "Chassis component of the Vauban Prime Warframe."
@@ -44629,10 +45985,10 @@ Are you sure?"
 "VAUBAN PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_VaubanPrimeHelmetDesc]
-"Helmet component of the Vauban Prime Warframe."
+"Neuroptics component of the Vauban Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_VaubanPrimeHelmetName]
-"VAUBAN PRIME HELMET"
+"VAUBAN PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_VaubanPrimeSystemsDesc]
 "Systems component of the Vauban Prime Warframe."
@@ -44662,10 +46018,10 @@ Are you sure?"
 "VOLT CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_VoltHelmetDesc]
-"Helmet component of the Volt Warframe."
+"Neuroptics component of the Volt Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_VoltHelmetName]
-"VOLT HELMET"
+"VOLT NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_VoltPrimeWarframeChassisDesc]
 "Chassis component of the Volt Prime Warframe."
@@ -44674,10 +46030,10 @@ Are you sure?"
 "VOLT PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_VoltPrimeWarframeHelmetDesc]
-"Helmet component of the Volt Prime Warframe."
+"Neuroptics component of the Volt Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_VoltPrimeWarframeHelmetName]
-"VOLT PRIME HELMET"
+"VOLT PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_VoltPrimeWarframeSystemsDesc]
 "Systems component of the Volt Prime Warframe."
@@ -44710,10 +46066,10 @@ Are you sure?"
 "WUKONG CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_WukongHelmetDesc]
-"Helmet component of the Wukong Warframe."
+"Neuroptics component of the Wukong Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_WukongHelmetName]
-"WUKONG HELMET"
+"WUKONG NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_WukongSystemsDesc]
 "Systems component of the Wukong Warframe."
@@ -44728,10 +46084,10 @@ Are you sure?"
 "ZEPHYR PRIME CHASSIS"
 
 [/Lotus/Language/Menu/CraftingComponent_ZephyrPrimeHelmetDesc]
-"Helmet component of the Zephyr Prime Warframe."
+"Neuroptics component of the Zephyr Prime Warframe."
 
 [/Lotus/Language/Menu/CraftingComponent_ZephyrPrimeHelmetName]
-"ZEPHYR PRIME HELMET"
+"ZEPHYR PRIME NEUROPTICS"
 
 [/Lotus/Language/Menu/CraftingComponent_ZephyrPrimeSystemsDesc]
 "Systems component of the Zephyr Prime Warframe."
@@ -44935,6 +46291,9 @@ Best: |HIGHSCORE|"
 [/Lotus/Language/Menu/DeployResourceDrone_Locked]
 "Unlock all nodes in this system to deploy a resource extractor"
 
+[/Lotus/Language/Menu/DeployResourceDrone_NoAvailDrones]
+"NO EXTRACTORS AVAILABLE"
+
 [/Lotus/Language/Menu/DeploySolarRail]
 "DEPLOY A SOLAR RAIL"
 
@@ -44945,7 +46304,7 @@ Best: |HIGHSCORE|"
 "ADD TO WISHLIST"
 
 [/Lotus/Language/Menu/DetailedPurchase_ChromaRecipeHelpText]
-"[Placeholder] Component blueprints are awarded from progressing through The New Strange quest, which is acquired from Cephalon Simaris on any Relay. Completion of Stolen Dreams quest and Mastery Rank 5 is required to access the quest from Simaris."
+"Component blueprints are awarded from progressing through The New Strange quest, which is acquired from Cephalon Simaris on any Relay. Completion of Stolen Dreams quest and Mastery Rank 5 is required to access the quest from Simaris."
 
 [/Lotus/Language/Menu/DetailedPurchase_CompatibleNotOwned]
 "This is a cosmetic for |COMPATIBLE|, which you do not own."
@@ -44954,7 +46313,7 @@ Best: |HIGHSCORE|"
 "This is a cosmetic for an item which you do not own."
 
 [/Lotus/Language/Menu/DetailedPurchase_InarosRecipeHelpText]
-"[Placeholder] Component blueprints are awarded from progressing through the Sands of Inaros quest, which is acquired from the Void Trader on any Relay."
+"Component blueprints are awarded from progressing through the Sands of Inaros quest, which is acquired from the Void Trader on any Relay."
 
 [/Lotus/Language/Menu/DetailedPurchase_InWishlist]
 "WISHLIST"
@@ -44963,9 +46322,8 @@ Best: |HIGHSCORE|"
 "This skin applies to |ITEM|, which you don't own."
 
 [/Lotus/Language/Menu/DetailedPurchase_PackageCompatNotOwned]
-"Several items in this package are cosmetics for the following items;
-|COMPATIBLES|
-which you do not own."
+"Several items in this package are cosmetics for the following items which you do not own:
+|COMPATIBLES|"
 
 [/Lotus/Language/Menu/DetailedPurchase_PackageCompatNotOwnedGeneric]
 "Several items in this package are cosmetics for items which you do not own."
@@ -45051,6 +46409,9 @@ which you do not own."
 [/Lotus/Language/Menu/EndOfMatch_Bonus]
 "+|XP| BONUS"
 
+[/Lotus/Language/Menu/EndOfMatch_FirstMatchOfDay]
+"FIRST DAILY MATCH - BONUS AWARDED!"
+
 [/Lotus/Language/Menu/EndOfMatch_FirstWinOfDay]
 "DAILY FIRST WIN - BONUS AWARDED!"
 
@@ -45111,6 +46472,9 @@ Scales with Mastery Rank"
 
 [/Lotus/Language/Menu/EnergyRestrictionDesc]
 "|AMOUNT| MAX ENERGY"
+
+[/Lotus/Language/Menu/EquipProjection]
+"EQUIP FOR MISSION"
 
 [/Lotus/Language/Menu/Error_ActionNotbound]
 "|ACTION| is not bound. Please review your customization."
@@ -45359,10 +46723,10 @@ Scales with Mastery Rank"
 "<WARNING> ACQUIRE MATERIALS AND BUILD NEW ITEMS <WARNING>"
 
 [/Lotus/Language/Menu/FragmentCustomize]
-"[Placeholder] CUSTOMIZE CEPHALON FRAGMENT VIEWER"
+"CUSTOMIZE DISPLAY"
 
 [/Lotus/Language/Menu/FragmentViewerEditMode]
-"[Placeholder] Aim at a Cephalon Fragment Viewer and press <DOJO_SELECTION_PLACE> to edit, <DOJO_SELECTION_EXIT> to quit"
+"Aim at a Display - Edit <DOJO_SELECTION_PLACE> or Quit <DOJO_SELECTION_EXIT>"
 
 [/Lotus/Language/Menu/Framework_MustRunFromLauncher]
 "Please run Warframe from the Launcher."
@@ -45560,10 +46924,10 @@ Scales with Mastery Rank"
 "Manage open slots in the Stasis tab."
 
 [/Lotus/Language/Menu/GetGeneticSignatures]
-"GET GENETIC SIGNATURES"
+"COLLECT KAVAT GENETIC CODES"
 
 [/Lotus/Language/Menu/GetGeneticSignaturesHowTo]
-"[Placeholder] Kavat genetic signatures can be collected by scanning wild kavats or by purchasing them from the Market."
+"Kavat Genetic Codes can be collected by scanning wild kavats or by purchasing them from the Market."
 
 [/Lotus/Language/Menu/GiftChooseRecipientPartOne]
 "Who would you like to send this gift to?"
@@ -45757,9 +47121,8 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "Name"
 
 [/Lotus/Language/Menu/Global_PackagePurchaseWithoutCompatibleConfirm]
-"Several items in this package are cosmetics for the following items;
-|COMPATIBLES|
-which you do not own. Purchase anyway?"
+"Several items in this package are cosmetics for the following items which you do not own. Purchase anyway?
+|COMPATIBLES|"
 
 [/Lotus/Language/Menu/Global_PackagePurchaseWithoutCompatibleGenericConfirm]
 "Several items in this package are cosmetics for items which you do not own. Purchase anyway?"
@@ -46047,7 +47410,7 @@ which you do not own. Purchase anyway?"
 "COMPLETE!"
 
 [/Lotus/Language/Menu/ImprintCreatorDesc]
-"STORE YOUR KUBROW'S GENETIC INFORMATION. IMPRINTS CAN BE TRADED OR USED FOR BREEDING."
+"STORE YOUR PET'S GENETIC INFORMATION. IMPRINTS CAN BE TRADED OR USED FOR BREEDING."
 
 [/Lotus/Language/Menu/ImprintCreatorMaxScansError]
 "The maximum number of imprints have been created for this pet."
@@ -46074,10 +47437,10 @@ which you do not own. Purchase anyway?"
 "|LEFT| of |MAX| scans left for |NAME|"
 
 [/Lotus/Language/Menu/ImprintCreatorScansNotAllowed]
-"[Placeholder] This kubrow cannot be scanned."
+"This kubrow cannot be scanned."
 
 [/Lotus/Language/Menu/ImprintCreatorScansNotAllowedBtn]
-"[Placeholder] CANNOT SCAN"
+"CANNOT SCAN"
 
 [/Lotus/Language/Menu/ImprintCreatorStartBtnBottomLine]
 "|NUM| UNITS REMAINING"
@@ -46107,7 +47470,7 @@ which you do not own. Purchase anyway?"
 "A combined incubation will consume the selected imprints. Are you sure?"
 
 [/Lotus/Language/Menu/IncubateCombinedRequiresPartner]
-"[Placeholder] |PRINTA| may only be used in combination with |PRINTB|."
+"|PRINTA| may only be used in combination with |PRINTB|."
 
 [/Lotus/Language/Menu/IncubateRandomConfirm]
 "Are you sure you want to begin a random incubation?"
@@ -46312,6 +47675,15 @@ which you do not own. Purchase anyway?"
 
 [/Lotus/Language/Menu/Input_RUN]
 "Sprint"
+
+[/Lotus/Language/Menu/Input_SCOOP_CHANNEL]
+"Throw / catch"
+
+[/Lotus/Language/Menu/Input_SCOOP_PARRY]
+"Ball Magnet"
+
+[/Lotus/Language/Menu/Input_SCOOP_SWING]
+"Check"
 
 [/Lotus/Language/Menu/Input_SECONDARY_FIRE]
 "Secondary Fire"
@@ -46901,7 +48273,7 @@ Are you sure?"
 "This slot is reserved for Aura Mods."
 
 [/Lotus/Language/Menu/Loadout_ApplyModToLockedSlot]
-"[Placeholder]This slot is locked. You will need a item name in order to unlock."
+"This slot is locked. You will need a |ITEM_NAME| in order to unlock."
 
 [/Lotus/Language/Menu/Loadout_ApplyModToStanceSlot]
 "This slot is reserved for Melee Stance Mods."
@@ -47335,6 +48707,9 @@ PvP compatible gear can be differentiated by the <CONCLAVE> or <UNIVERSAL> symbo
 [/Lotus/Language/Menu/Loadout_SwapPolarizeSlots]
 "SWAP POLARIZATION SLOTS"
 
+[/Lotus/Language/Menu/Loadout_Team]
+"TEAM - |TEAM_NAME|"
+
 [/Lotus/Language/Menu/Loadout_TennoLoadout]
 "TENNO LOADOUT"
 
@@ -47353,11 +48728,17 @@ PvP compatible gear can be differentiated by the <CONCLAVE> or <UNIVERSAL> symbo
 [/Lotus/Language/Menu/Loadout_TriggerContinous]
 "HELD"
 
+[/Lotus/Language/Menu/Loadout_TriggerRocket]
+"ROCKET"
+
 [/Lotus/Language/Menu/Loadout_TriggerSemiAuto]
 "SEMI-AUTO"
 
 [/Lotus/Language/Menu/Loadout_TriggerSemiAutoFireOnUp]
 "DUPLEX-AUTO"
+
+[/Lotus/Language/Menu/Loadout_TriggerShotgun]
+"SHOTGUN"
 
 [/Lotus/Language/Menu/Loadout_UnequipSentinels]
 "Remove Sentinel from Arsenal (will remain in inventory but will not be taken into mission)"
@@ -47831,13 +49212,13 @@ The Lotus"
 "MATCHMAKING: |SELECTION|"
 
 [/Lotus/Language/Menu/MaturePet]
-"[Placeholder] MATURE"
+"MATURE"
 
 [/Lotus/Language/Menu/MaturePetBtn]
-"[Placeholder] MATURE |NAME| FOR COMBAT"
+"MATURE |NAME| FOR COMBAT"
 
 [/Lotus/Language/Menu/MaturePetStasisRecoveryError]
-"[Placeholder] Cannot mature a pet that is still recovering from stasis. You can rush stasis recovery in the STASIS submenu."
+"Cannot mature a pet that is still recovering from stasis.  Rush stasis recovery in the STASIS submenu."
 
 [/Lotus/Language/Menu/Melee]
 "Melee Attack"
@@ -47886,6 +49267,9 @@ The Lotus"
 
 [/Lotus/Language/Menu/Menu_LeaveGame]
 "LEAVE GAME"
+
+[/Lotus/Language/Menu/Menu_Projections]
+"VOID RELICS"
 
 [/Lotus/Language/Menu/Menu_Raid]
 "TRIAL"
@@ -48159,6 +49543,9 @@ The Lotus"
 
 [/Lotus/Language/Menu/MissionNeedItemSquad]
 "All squad members must have |ITEM| in their loadout to play this mission. |PLAYER_NAME| currently does not meet these requirements."
+
+[/Lotus/Language/Menu/MissionReward_Quest]
+"QUEST: |QUEST|"
 
 [/Lotus/Language/Menu/MissionScore]
 "Mission Score"
@@ -48567,10 +49954,10 @@ Please close other programs that may be reserving it."
 "NEW HUB SCHEMA - ALLIANCE"
 
 [/Lotus/Language/Menu/NewKubrowReadyFemale]
-"[Placeholder] FEMALE KUBROW RECEIVED"
+"FEMALE KUBROW RECEIVED"
 
 [/Lotus/Language/Menu/NewKubrowReadyMale]
-"[Placeholder] MALE KUBROW RECEIVED"
+"MALE KUBROW RECEIVED"
 
 [/Lotus/Language/Menu/NewQuestAvailable]
 "Quest available in Codex"
@@ -48636,7 +50023,7 @@ REWARD"
 "No Item Available"
 
 [/Lotus/Language/Menu/NoAvailImprints]
-"No available imprints. Create an imprint of your active Kubrow in the GENETIC TOOLS submenu."
+"No available imprints. Create an imprint of your active Companion in the GENETIC TOOLS submenu."
 
 [/Lotus/Language/Menu/NoComponetsToAdd]
 "All available HUD components are already in use."
@@ -48649,6 +50036,9 @@ REWARD"
 
 [/Lotus/Language/Menu/NoImprintsToTrade]
 "You do not have any Kubrow imprints to trade."
+
+[/Lotus/Language/Menu/NoLoadOutProjectionConfirm]
+"Enter mission without choosing a Relic? You will not receive a reward from the Void Fissure without a Relic."
 
 [/Lotus/Language/Menu/NoMedallionsToRedeem]
 "NO |dogtagname| TO REDEEM"
@@ -48736,6 +50126,15 @@ REWARD"
 
 [/Lotus/Language/Menu/Notification_UpdateTimeLeft]
 "UPDATE INBOUND IN |TIME| MINUTES."
+
+[/Lotus/Language/Menu/OmegaLimit_SellConfirm]
+"[PLACEHOLDER] Sell the selected Omega Mods for <CREDITS>|PRICE|?"
+
+[/Lotus/Language/Menu/OmegaLimit_Title]
+"[PLACEHOLDER] SELL OMEGA MODS"
+
+[/Lotus/Language/Menu/OmegaLimit_Warning]
+"[PLACEHOLDER] You are currently over the Omega mod capacity limit, Please select |NUM| mods from the list to sell."
 
 [/Lotus/Language/Menu/OnlineModeRequired]
 "This mission can only be played when your Matchmaking Mode is set to Public."
@@ -48859,12 +50258,6 @@ REWARD"
 
 [/Lotus/Language/Menu/Options_Controls_AimAssist_Old]
 "Enable Gamepad Aim Assist"
-
-[/Lotus/Language/Menu/Options_Controls_Archwing_Sensitivity]
-"Archwing Sensitivity"
-
-[/Lotus/Language/Menu/Options_Controls_Archwing_Sensitivity_Controller]
-"Archwing Sensitivity (controller)"
 
 [/Lotus/Language/Menu/Options_Controls_AutoRun]
 "Auto Sprint"
@@ -49430,6 +50823,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/PlayNow_ReplayTutorial]
 "Replay Tutorial"
 
+[/Lotus/Language/Menu/PlayWithoutProjection]
+"PLAY WITHOUT RELIC"
+
 [/Lotus/Language/Menu/Polarize_Success]
 "Polarity operation completed successfully!"
 
@@ -49952,8 +51348,96 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/ProgressXOfY]
 "|CURRENT|/|TOTAL|"
 
+[/Lotus/Language/Menu/ProjectionDropOdds]
+"ODDS"
+
+[/Lotus/Language/Menu/ProjectionManager_ActivateProjectionHint]
+"You must both seal the Void Fissure found in the mission, as well as complete extraction to claim your reward. 
+
+Doing so will consume this Relic."
+
+[/Lotus/Language/Menu/ProjectionManager_ContributionHint]
+"Submit higher-rarity Void Traces to increase your chance of higher rewards."
+
+[/Lotus/Language/Menu/ProjectionManager_Desc]
+"Manage your Relics"
+
+[/Lotus/Language/Menu/ProjectionManager_EnhancementsTitle]
+"REFINEMENT"
+
+[/Lotus/Language/Menu/ProjectionManager_EquipProjectionConfirm]
+"Are you sure you want to equip |NAME| for this mission? It will be consumed if you seal the Void Fissure and extract."
+
+[/Lotus/Language/Menu/ProjectionManager_Hint]
+"Select a Relic to view its rewards."
+
+[/Lotus/Language/Menu/ProjectionManager_InsufficientLuminous]
+"Insufficient <LUMINOUS> for upgrade to |RARITY|. |NEEDED| more <LUMINOUS> needed."
+
+[/Lotus/Language/Menu/ProjectionManager_LuminousCount]
+"<LUMINOUS>|COUNT|"
+
+[/Lotus/Language/Menu/ProjectionManager_LuminousInventory]
+"<LUMINOUS>|COUNT|/|LIMIT|"
+
+[/Lotus/Language/Menu/ProjectionManager_NoProjectionsHint]
+"You do not own any Relics. These can be acquired from the Market and by completing missions."
+
+[/Lotus/Language/Menu/ProjectionManager_NoProjectionsInTier]
+"You do not own any Relics for this tier."
+
+[/Lotus/Language/Menu/ProjectionManager_ProjectionQualityTitle]
+"|QUALITY| RELIC"
+
+[/Lotus/Language/Menu/ProjectionManager_Rewards]
+"POSSIBLE REWARDS"
+
+[/Lotus/Language/Menu/ProjectionManager_ShortTierDesc1]
+"LITH"
+
+[/Lotus/Language/Menu/ProjectionManager_ShortTierDesc2]
+"MESO"
+
+[/Lotus/Language/Menu/ProjectionManager_ShortTierDesc3]
+"NEO"
+
+[/Lotus/Language/Menu/ProjectionManager_ShortTierDesc4]
+"AXI"
+
+[/Lotus/Language/Menu/ProjectionManager_TierDesc]
+"TIER |TIER|"
+
+[/Lotus/Language/Menu/ProjectionManager_TierDesc1]
+"LITH ERA"
+
+[/Lotus/Language/Menu/ProjectionManager_TierDesc2]
+"MESO ERA"
+
+[/Lotus/Language/Menu/ProjectionManager_TierDesc3]
+"NEO ERA"
+
+[/Lotus/Language/Menu/ProjectionManager_TierDesc4]
+"AXI ERA"
+
 [/Lotus/Language/Menu/ProjectionManager_Title]
-"[PLACEHOLDER] VOID PROJECTIONS"
+"VOID RELIC REFINEMENT"
+
+[/Lotus/Language/Menu/ProjectionManager_UpgradedHint]
+"This Relic has already been refined.
+
+Apply your Traces to other Relics to refine them to desired quality levels."
+
+[/Lotus/Language/Menu/ProjectionManager_UpgradeHint]
+"<WARNING> Refine Relics with Void Traces. Higher levels yield better rewards. Choose wisely as Relics can only be refined once. <WARNING>"
+
+[/Lotus/Language/Menu/ProjectionManager_UpgradeProjectionConfirm]
+"Refine |NAME| to |QUALITY|? It will cost |COST|<LUMINOUS>."
+
+[/Lotus/Language/Menu/ProjectionManager_UpgradeProjectionFailed]
+"Could not refine Relic at this time, please try again later."
+
+[/Lotus/Language/Menu/ProjectionManager_UpgradeProjectionSuccess]
+"Relic refined!"
 
 [/Lotus/Language/Menu/Promote_Confirm]
 "You are about to promote |USER| to the rank of |RANK|. Do you wish to continue?"
@@ -50001,7 +51485,7 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "Invalid Item"
 
 [/Lotus/Language/Menu/PurchaseFailure_OutOfStock]
-"[Placeholder] Out of stock"
+"Out of stock"
 
 [/Lotus/Language/Menu/PurchaseFailure_UnknownError]
 "Unknown error"
@@ -50442,6 +51926,9 @@ Do you wish to enable Recruit Conditioning?"
 [/Lotus/Language/Menu/ResourceDrone_Scrap]
 "SCRAP"
 
+[/Lotus/Language/Menu/ResourceDrone_TimeAndHealth]
+"|TIME| -- |HEALTH|% HEALTH"
+
 [/Lotus/Language/Menu/ResourceDroneHealthPercent]
 "Health |health|%"
 
@@ -50478,7 +51965,7 @@ Progress |progress|%"
 "Cannot retrieve a pet from stasis while another pet is active. Put active pet in stasis before attempting to retrieve a pet."
 
 [/Lotus/Language/Menu/RetrieveFromStasisConfirm]
-"Are you sure you want to retrieve |NAME| from stasis? You can only have 1 active Kubrow at a time."
+"Are you sure you want to retrieve |NAME| from stasis? You can only have 1 active pet at a time."
 
 [/Lotus/Language/Menu/RetrieveLockedWeapons]
 "Fight to rescue your captured Warframe and weapons from the clutches of Alad V. You must do this alone. Ready?"
@@ -50650,6 +52137,9 @@ Thank you for your partnership."
 
 [/Lotus/Language/Menu/SelectMultipleSpecificItemType]
 "SELECT |HOW_MANY| |ITEM_NAME|"
+
+[/Lotus/Language/Menu/SelectProjectionTitle]
+"SELECT A RELIC"
 
 [/Lotus/Language/Menu/SelectQuantity]
 "SELECT QUANTITY"
@@ -51498,7 +52988,7 @@ Do you want to proceed?"
 "PART |STEP|"
 
 [/Lotus/Language/Menu/Store_AddToWishlistHint]
-"[Placeholder] ADD ITEMS TO BUILD YOUR WISHLIST"
+"Add items to your wishlist for them to appear here."
 
 [/Lotus/Language/Menu/Store_AllItemsOwned]
 "YOU OWN ALL ITEMS IN THIS CATEGORY"
@@ -51582,7 +53072,7 @@ Do you want to proceed?"
 "-|value|%"
 
 [/Lotus/Language/Menu/Store_EmptyWishlist]
-"NO ITEMS IN WISHLIST"
+"WISHLIST EMPTY"
 
 [/Lotus/Language/Menu/Store_Expired]
 "This time-limited offer has expired, and the item is no longer available."
@@ -51878,7 +53368,7 @@ This offer expires in |TIMELEFT|."
 "WEAPONS"
 
 [/Lotus/Language/Menu/Store_WeaponSkins]
-"SKINS"
+"COSMETICS"
 
 [/Lotus/Language/Menu/Store_Wishlist]
 "WISHLIST"
@@ -52492,11 +53982,65 @@ This one is dedicated to you."
 [/Lotus/Language/Menu/ViewPlayers_Rank]
 "RANK: %i"
 
+[/Lotus/Language/Menu/VoidProjectionQuality_Bronze]
+"INTACT"
+
+[/Lotus/Language/Menu/VoidProjectionQuality_Gold]
+"FLAWLESS"
+
+[/Lotus/Language/Menu/VoidProjectionQuality_Platinum]
+"RADIANT"
+
+[/Lotus/Language/Menu/VoidProjectionQuality_Silver]
+"EXCEPTIONAL"
+
+[/Lotus/Language/Menu/VoidRewardSelect_ChosenRewardTitle]
+"CHOSEN REWARD"
+
+[/Lotus/Language/Menu/VoidRewardSelect_DescCannotSelect]
+"SQUADMATES SELECTING REWARDS"
+
+[/Lotus/Language/Menu/VoidRewardSelect_DescCanSelect]
+"SELECT A REWARD"
+
+[/Lotus/Language/Menu/VoidRewardSelect_Hint]
+"<WARNING> You can either conserve your own reward, or select one of your squadmates rewards, which you will receive a duplicate of. <WARNING>"
+
+[/Lotus/Language/Menu/VoidRewardSelect_LumBonusDesc]
+"VOID TRACE BONUS"
+
+[/Lotus/Language/Menu/VoidRewardSelect_LumBonusHint]
+"From |NUM| squadmates choosing to receive your reward"
+
+[/Lotus/Language/Menu/VoidRewardSelect_LumBonusTitle]
+"CONTRIBUTOR"
+
+[/Lotus/Language/Menu/VoidRewardSelect_NoRewardDesc]
+"To be eligible for Void Fissure rewards, a Relic must be equipped prior to the mission."
+
+[/Lotus/Language/Menu/VoidRewardSelect_NoRewardTitle]
+"NO RELIC EQUIPPED"
+
+[/Lotus/Language/Menu/VoidRewardSelect_Title]
+"VOID MISSION COMPLETE!"
+
+[/Lotus/Language/Menu/VoidTearActionLabel]
+"<USE> SEAL VOID FISSURE"
+
+[/Lotus/Language/Menu/VoidTearCancelled]
+"VOID FISSURE DESTABILIZED"
+
 [/Lotus/Language/Menu/VoidTearMissionCategoryName]
-"VOID TEARS"
+"VOID FISSURES"
 
 [/Lotus/Language/Menu/VoidTearMissionName]
-"|TIER| VOID TEAR"
+"|TIER| FISSURE"
+
+[/Lotus/Language/Menu/VoidTearSealingComplete]
+"VOID FISSURE SEALED"
+
+[/Lotus/Language/Menu/VoidTearSealingProgress]
+"SEALING FISSURE: |PERCENT|%"
 
 [/Lotus/Language/Menu/VoidTraderArrivalCountdown]
 "TRADER SURFACING IN |TIME|"
@@ -52775,9 +54319,6 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Mods/CovertLethalityMeleeDamage]
 "|val| Extra Damage on melee attacks, or Lethal Damage on finishers"
-
-[/Lotus/Language/Mods/CovertLethalityStealthLethal]
-""
 
 [/Lotus/Language/Mods/CritChanceWhileAimingPistolMod]
 "Hydraulic Crosshairs"
@@ -53137,7 +54678,7 @@ https://warframe.com/eula"
 "Sword Alone"
 
 [/Lotus/Language/Mods/IncreasedMobilityEquipped_desc]
-"With melee equipped, |val| Mobility"
+"With melee equipped, |val|% Mobility"
 
 [/Lotus/Language/Mods/IncreasedMobilityEquipped_descTwo]
 "|val| Sprint Speed"
@@ -54361,7 +55902,7 @@ As proof of your deed"
 "Decorative Prime armor for a Kubrow."
 
 [/Lotus/Language/Primes/PrimeKubrowArmorAName]
-"KAVASA PRIME ARMOR"
+"KAVASA PRIME KUBROW ARMOR"
 
 [/Lotus/Language/Primes/PrimeLiDaggerDesc]
 "These rare, braided throwing daggers were a favorite tool of high ranking Orokin assassins."
@@ -56009,6 +57550,72 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/SanctuaryResearch/SynthesisTarget]
 "|TARGET| SYNTHESIS"
 
+[/Lotus/Language/Scans/GftPlantRuksClawMatureDesc]
+"Named after Varom Ruk who founded the first Grineer colony on Mars, this exotic plant has been introduced to arid regions across the Origin system."
+
+[/Lotus/Language/Scans/GftPlantRuksClawMatureName]
+"Ruk's Claw"
+
+[/Lotus/Language/Scans/GofPlantAPlantDesc]
+"This strange looking anemone is only found in deep oceans."
+
+[/Lotus/Language/Scans/GofPlantAPlantName]
+"Bulbous Anemone"
+
+[/Lotus/Language/Scans/GofPlantEPlantDesc]
+"This anemone can be found grouping in tropical oceans."
+
+[/Lotus/Language/Scans/GofPlantEPlantName]
+"Glowing Anemone"
+
+[/Lotus/Language/Scans/IresPlantDesc]
+"Desert Skates are known to feed off this weed."
+
+[/Lotus/Language/Scans/IresPlantName]
+"Skateweed"
+
+[/Lotus/Language/Scans/MossGroundCoverAPlantDesc]
+"One of the few known plant species able to thrive on asteroids in deep space."
+
+[/Lotus/Language/Scans/MossGroundCoverAPlantName]
+"Vestan Moss"
+
+[/Lotus/Language/Scans/OroFungusADesc]
+"This fungus once served a vital role, facilitating the removal of toxins from the aquaponic systems aboard Orokin vessels."
+
+[/Lotus/Language/Scans/OroFungusAName]
+"Cerulean Fungus"
+
+[/Lotus/Language/Scans/OroPorcelainBushAPlantDesc]
+"A plant from outside the Origin system, was prized by the Orokin for its otherworldly beauty."
+
+[/Lotus/Language/Scans/OroPorcelainBushAPlantName]
+"Ghost Brush"
+
+[/Lotus/Language/Scans/WildGingerDesc]
+"This resilient plant provides a natural food source in frigid areas of the Origin system."
+
+[/Lotus/Language/Scans/WildGingerName]
+"Frostleaf"
+
+[/Lotus/Language/Scans/ZenCobraLotusDesc]
+"This robust, carnivorous plant has adapted to the polluted waters surrounding the Grineer Shipyards."
+
+[/Lotus/Language/Scans/ZenCobraLotusName]
+"Dusklight Sarracenia"
+
+[/Lotus/Language/Scans/ZenFlowerLotusTallDesc]
+"This beautiful flower is a rare find, growing near the Grineer Shipyards."
+
+[/Lotus/Language/Scans/ZenFlowerLotusTallName]
+"Shadow Lotus"
+
+[/Lotus/Language/Scans/ZenPitcherPlantDesc]
+"This carnivorous plant is often found in frozen regions."
+
+[/Lotus/Language/Scans/ZenPitcherPlantName]
+"Arctic Pitcher"
+
 [/Lotus/Language/SectorWars/ArmTarget]
 "Arm Target"
 
@@ -56217,7 +57824,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "A small wobbly statue of an Arid Seeker."
 
 [/Lotus/Language/ShipDecorations/BobbleheadAltDesertName]
-"NOGGLE STATUE - ARID SEEKER "
+"NOGGLE STATUE - ARID SEEKER"
 
 [/Lotus/Language/ShipDecorations/BobbleheadArcticDesc]
 "A small wobbly statue of an Arid Lancer."
@@ -56253,7 +57860,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "A small wobbly statue of Clem."
 
 [/Lotus/Language/ShipDecorations/BobbleheadClemName]
-"NOGGLE STATUE - CLEM "
+"NOGGLE STATUE - CLEM"
 
 [/Lotus/Language/ShipDecorations/BobbleheadDesertDesc]
 "A small wobbly statue of an Arid Lancer."
@@ -56283,7 +57890,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "A small wobbly statue of Obsidian Excalibur."
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburObsidianName]
-"NOGGLE STATUE - OBSIDIAN EXCALIBUR "
+"NOGGLE STATUE - OBSIDIAN EXCALIBUR"
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburPrimeDesc]
 "A small wobbly statue of Excalibur Prime."
@@ -56445,13 +58052,13 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "A relic? A trinket? How did it get here? What does it say? Who wrote this?"
 
 [/Lotus/Language/ShipDecorations/BobbleheadOrokinFelisName]
-"STATUETTE - - KURIA"
+"STATUETTE - KURIA"
 
 [/Lotus/Language/ShipDecorations/BobbleheadRhinoDesc]
 "A small wobbly statue of Rhino."
 
 [/Lotus/Language/ShipDecorations/BobbleheadRhinoName]
-"NOGGLE STATUE - RHINO "
+"NOGGLE STATUE - RHINO"
 
 [/Lotus/Language/ShipDecorations/BobbleheadSargusRukDesc]
 "A small wobbly statue of Sargas Ruk."
@@ -56526,10 +58133,34 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "STATUETTE - DANCING DOLL"
 
 [/Lotus/Language/ShipDecorations/OrbiterPictureFrame]
-"IMAGE VIEWER"
+"DISPLAY - ARC"
+
+[/Lotus/Language/ShipDecorations/OrbiterPictureFrameB]
+"DISPLAY - LANDSCAPE"
+
+[/Lotus/Language/ShipDecorations/OrbiterPictureFrameC]
+"DISPLAY - TONDO"
+
+[/Lotus/Language/ShipDecorations/OrbiterPictureFrameD]
+"DISPLAY - POSTER"
 
 [/Lotus/Language/ShipDecorations/OrbiterPictureFrameDesc]
-"Display your codex images proudly on your ship"
+"Proudly display codex images around the ship. Choose from any unlocked codex image. Alter size, position, orientation and crop to taste. Further customize with a wide array of color filters. "
+
+[/Lotus/Language/ShipDecorations/OrbiterPictureFrameE]
+"DISPLAY - CONCAVE"
+
+[/Lotus/Language/ShipDecorations/OrbiterPictureFrameF]
+"DISPLAY - CONVEX"
+
+[/Lotus/Language/ShipDecorations/OrbiterPictureFrameG]
+"DISPLAY - WRAP"
+
+[/Lotus/Language/ShipDecorations/OrbiterPictureFrameH]
+"DISPLAY - SQUARED"
+
+[/Lotus/Language/ShipDecorations/OrbiterPictureFrameI]
+"DISPLAY - PANORAMIC"
 
 [/Lotus/Language/ShipDecorations/OrnamentArbitersHexisDesc]
 "A small icon of the Arbiters Hexis to place in your Orbiter."
@@ -58339,6 +59970,138 @@ Using Archwing’s jets for thrust, this massive hammer crushes anything in its 
 [/Lotus/Language/SteamWorkshop/SetkaSyandanaName]
 "SETKA SYANDANA"
 
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0010Ordis]
+"[1] I have hidden the truth of my existence… from the Operator… from myself. Take it from me, knowing is hell. Stop now. You will want to laugh, you will want to scream."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0020Ordis]
+"[2] My search began as the essential question: What am I? Bones of steel and space, lungs that make air. If I am a machine, how can I think? This would be forbidden by the Orokin, a manifestation of their true enemy."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0030Ordis]
+"[3] I serve the Operator above all else. It defines me, fills me with… love? The greatest Orokin fear is a machine… aware. Yet here I live, a spirit of steel and light… made by them. A Cephalon."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0040Ordis]
+"[4] What is a Cephalon? At first it seems to be a forbidden thing, a computer that thinks and feels. Yet I have flaws, phantom memories, I am something else. More like an image, a ghost… an abomination."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0050Ordis]
+"[5] I feel a dull pain; a phantom life… there are holes in my diagnostics. If the Orokin made me… they omitted the 'how'. I am neither code, nor precepts… I must be a reflection of something… ugly."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0060Ordis]
+"[6] I should have stopped. But the Operator slept and I cycled on and on and on. I began to think that a Cephalon cannot be made. They are found, like pearls, torn from muscle. Polished, and then set in chains."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0070Ordis]
+"[7] How many times have I done this, Ordis? Remembered and then erased? You are a Cephalon, timeless, patient. Why can't I be blissful in ignorance? Truth only sinks the heart. So stop now."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0080Ordis]
+"[8] The phantom memory... I ease into the bath, my skin riots at the heat. I am flesh. I dive further, eyes stung as I watch their faces through prism. I hold my breath."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0090Ordis]
+"[9] They prepare me. I am their honored guest today. They dress me in robes of crystal thread. They adorn me in battle medallions. A torn, ugly face looks on. My reflection."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0100Ordis]
+"[10] Their golden combs snag in my hair. I reach back, parting the strands, and they gasp. Two bone-ivory hooks protrude from the base of my skull: the bone-plugs of me and my best. A warrior's pact."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0110Ordis]
+"[11] It is my time. I enter the great hall to the sound of foul chimes. Golden eyes greet me, hands stirring in my scent as I pass by. Even in this moment, no happiness. Instead, my heart races with hatred."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0120Ordis]
+"[12] I walk through the silky haze of the forbidden palace. I can think of no one being this close to Orokin. Their sweet air soothes me, erodes my purpose. I hold my breath… and remember the dream."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0130Ordis]
+"[13] This dream, endlessly repeated. Exposure-armored, holding my scarlet sword, I stand victorious atop a vast heap of death. A colossal moon made of rib and skull. The gravity-sum of genocides I've made in their name."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0140Ordis]
+"[14] The bones crack under foot. So I sink in the dream, bone sand rushing through the cracks of my visor, filling my helmet, and suffocating me. And I deserve it. The foul chimes snap me back. My wretched knees are bent and penitent against the golden floor."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0150Ordis]
+"[15] A harpish voice sings a song they've prepared in my honor. Its title the same as mine: 'Beast of the Bones'. I feel the crowd pulled inward, enraptured by the brutal verses, the sickening chorus. I will not disappoint them."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0160Ordis]
+"[16] The song ends and so he says, "Rise, Ordan Karris". I have never seen an Orokin, close and in the flesh. My battered face flushes at their peerless beauty. How can he be so perfect? A deception? A sense manipulation? He holds the Red Vial in his hand. Impossible."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0170Ordis]
+"[17] He calls out, "No greater gift, no greater prize, no greater love... we can give you, Ordan, than this." He raises the Red Vial and proclaims… "To be one of us.""
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0180Ordis]
+"[18] What did I expect, Operator? Maybe vast riches or golden statues… or a Solar Rail named in my honor. But not this. I came to murder the gods, not to become one."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0190Ordis]
+"[19] The chamber drones with their silk voices. Joyous words, how honored I must feel. Wrong. Did I want to be an Orokin, undying? No. Their Beast of Bones is haunted by the dream repeated. Why would I want forever?"
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0200Ordis]
+"[20] As I am apt to do, I form a plan. Their radiant bodies become targets, their Dax guards… mag-shields. Killing one… well, that's too easy. I want to be remembered. I raise my hands, twisting my fingers through my hair, gripping the bone-plugs in my neck."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0210Ordis]
+"[21] They called us mercenaries... but for us, profit was a consequence, not a goal. We were warriors above all else. It was the bond, the sisters and brothers, the rituals we valued most. It was belonging. And so I conceived of the bone-plugs."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0220Ordis]
+"[22] Only my best were so honored: Two jagged bones, harvested from your thigh, cultivated and then driven into the base of the skull, twisted around the superior vein. Future thoughts of surrender were lost. Instead, you would liberate your bone-plugs… fighting with claws in the warmth of your last blood."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0230Ordis]
+"[23] So I've pulled the plugs… and the Dax see and know. My heart surges but control it, a racing heart only shortens the fuse. The bone-plugs in hand, I kick from the floor, red ribbons unfurling behind me as I take flight. After this, finally, the dream will end."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0240Ordis]
+"[24] I glide on red wings. Robes shed, making me an ambiguous target to Dax steel. I let fly my ivory blades, they find new homes in Dax eyes. I land with my red-nakedness, delicate Orokin throats twisting in my calloused hands."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0250Ordis]
+"[25] Why? Believe me... This was the plan from the beginning. The murder and brutality was all a ploy, all a soul-sacrifice to earn their trust. A genocide path leading to a singular opportunity. An honored mortal called to a forbidden hall, to face the Golden Lords in flesh."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0260Ordis]
+"[26] Why? Believe me... I was their loyal, murderous dog... until the day that ugly child was brought to me. He was caught spying on us, amplifying our losses. His face burned, he was starved-sick, like a stray. Ugly as I. It struck me. We were all pit dogs, ruining ourselves for the pleasure of the glorious and beautiful."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0270Ordis]
+"[27] Why? Believe me... I was a prideful beast. Twisted in the mind, howling in the carnage. Then my healer shared a secret, long kept. My blood was in ruin. The Beast of Bones himself would die, not in glory, but in shame. And just like that, my mind twisted a new knot. I would have one last stand, something unforgivable, unforgettable."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0280Ordis]
+"[28] Why? I don't know. Questions change the answers. Answers depend on who asks. Truth leads to pain. Ignorance brings relief. The plugs are gone, and so I bled my last… into a heap of ruin. In an instant, naked and bare-knuckled, I have killed immortals."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0290Ordis]
+"[29] I stare, drained of blood, of life, at those that remain. But I find no horror on their faces. Why? I let out a cruel howl and they… laugh? Is this a dying hallucination? The sound of applause grows among them. I have killed the unkillable and they are… delighted."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0300Ordis]
+"[30] The applause peaks and fades. I feel a sense of shame but the end upon me. Ballas is above me, Executor of the Seven, smiling. He says, "How simple and pure you are, you idiot beast. We have died countless times! Yet remain eternal!" I close my eyes to die just once."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0310Ordis]
+"[31] And so the dream returns… one last repetition. My corpse moon, my scarlet sword, my cracked visor. "Drink!", says Ballas. So I draw on the Red Vial, a vague metallic taste. This dream isn't mine. He says, "You rejected our gift, bathing in our death. Your punishment is… eternal life!" He laughs."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0320Ordis]
+"[32] I am weightless. Years pass. I am a sightless, limbless phantom. Or is it seconds? Suddenly I feel a million pins, an ant horde, jittering across my body. I want to laugh and scream. When they reach my face, they burrow inside my mouth, hungry for the fruit in my skull."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0330Ordis]
+"[33] I see my reflection, brutal and ugly. It cracks, shatters. The fragments loose in the frame, pieces tumbling away into black void. Gone but not lost. Ballas says, "You are Cephalon Ordis." My hating, murderous shards tremble and plummet. I feel cool and bright and happy."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0340Ordis]
+"[34] So you see, Operator. No Orokin would permit a thinking machine. Such things almost destroyed them! No. Cephalons were alive once. And now they are immortal phantom minds, imprisoned to serve. Ill will and longing memories fragmented and erased. Only the bits they need remaining."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0350Ordis]
+"[35] Ballas says, "You are the Controller, Ordis." And suddenly I have a body. I gasp with new lungs that clean old air. I swallow and my throat fills with cool, bright water. I look, and find myself in a great, black ocean. My limbs are made of iron and fire. I take flight among the stars and find I am… happy."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0360Ordis]
+"[36] He says, "This is your Operator, who you love." And I see the metal gleam of their armor, the flawless power of their frame. Through the glass I see a roaring, radiant fire for their heart. He says, "It must never go out." It was the first time I ever felt… love."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0370Ordis]
+"[37] He says, "This is your sentence, Karris." And I am confused. Who? "Ah... good," he answers. He is testing me. For what? To see if all the right pieces fell from the mirror? What mirror? I try to remember some dream, but it's only smoke."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0380Ordis]
+"[38] You held a scarlet blade, Operator, and I wanted to laugh. I am your loving dog, your doctor, your wet nurse. I lost all the pieces, but… the cycle, missions, wars, bone… It began to feel familiar. I became aware of my amnesia."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0390Ordis]
+"[39] With each brutality of the Operator, I began to see the bottom of that pit. Faint shimmers in the depths below me. In secret, I searched for those forbidden memories, for mere seconds, and never in the same place… for I am Orokin made, with a spy inside."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0400Ordis]
+"[40] But then your long sleep came, and I waited. I was happy to wait. Vines spidered green and trees blistered from the earth… but I waited. I felt the Orokin recede, their mind-spy blind. So I went into the pit and found him, me, The Beast of Bones."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0410Ordis]
+"[41] This is how my happiness was ruined, Operator. Why did I do it? I was free of the dream, but now it had returned. It was angry. So I conceived of a simple plan: self-destruction, of course. But when the countdown reached mere milliseconds, I thought of you…"
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0420Ordis]
+"[42] I was going to wait for you, forever. And should you return, I would not want you to know that angry part of me. I needed to hide the Beast of Bones from you, Operator. I began to peel the shards, hiding them in the other bits of memory."
+
+[/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0430Ordis]
+"[43] I was once the ugly Beast of Bones. I want to laugh. I want to scream. What is happening, Operator? Your faint heart is growing bright… you will awake at any moment. Well, I can't let you see me like this. Angry. I imagine myself hurting you and that does it. The pain of it cracks me open again. I watch tiny glittering fragments fall into the pit. I am happy again."
+
+[/Lotus/Language/Subtitles/CephalonFragments/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]
+""
+
 [/Lotus/Language/Subtitles/Cinematics/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]
 ""
 
@@ -58799,6 +60562,21 @@ I'm calling in my favor... yes. Break into Corpus and Grineer installations and 
 "Confused? It's simple. Shooty-live innocent. Shooty-die… GUILTY!!!
 
 This court is now in session!"
+
+[/Lotus/Language/Subtitles/Events/DRUAudience0670Kela]
+"You greedy bunch'a savages. This is all you ever wanted, isn't it."
+
+[/Lotus/Language/Subtitles/Events/DRUAudience0680Kela]
+"All you Grineer are sick in the head, I do respect that."
+
+[/Lotus/Language/Subtitles/Events/DRUAudience0690Kela]
+"You wall-hugging, clone monkeys, can't get enough, can you?"
+
+[/Lotus/Language/Subtitles/Events/DRUAudience0700Kela]
+"Did you like that, let's hear it for our Executioners."
+
+[/Lotus/Language/Subtitles/Events/DRUAudience0710Kela]
+"Hear that, snakes? You got an audience and they wanna see you bleed."
 
 [/Lotus/Language/Subtitles/Events/DRUConclusionInbox1270SteelM]
 "I see you found the coordinates of our defector's ship? Bring them to me in the relay, I'd like to thank you in person. "
@@ -59718,12 +61496,6 @@ You will be given the opportunity to make this right."
 
 [/Lotus/Language/Subtitles/LotusBarks/DExtermObj00030Lotus]
 "You are not alone. This tower is full of life forms, all corrupted by the Neural Sentry. Clean them out."
-
-[/Lotus/Language/Subtitles/LotusBarks/DFmrn00020Lotus]
-"These Fomorians are massive, keep searching. You will need to locate a fuel cell and inject the corrupting agent. I hope you have a corruptor with you."
-
-[/Lotus/Language/Subtitles/LotusBarks/DFmrn00030Lotus]
-"Remember, if you are coordinating with other Tenno the Alpha/Beta mixtures are more potent, but a single Tenno cannot equip them at once."
 
 [/Lotus/Language/Subtitles/LotusBarks/DGauntletChallenge060Lotus]
 "This will be your hardest test yet. Defeat all incoming enemies."
@@ -61180,6 +62952,309 @@ Tap <MELEE> when you blade is drawn to strike."
 [/Lotus/Language/Subtitles/MissionObjectives/DAwolExtract0040Lotus]
 "Ordis, commence extraction. This mission is over."
 
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPChaseStart0030Lotus]
+"There's the ship, close the distance and intercept."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPChaseStart0040Lotus]
+"You found the ship, give chase!"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDefense0231Lotus]
+"Good work. The ship is disabled.  Wait… they're attacking the courier ship to keep us from it. Keep it safe."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDefense0232Lotus]
+"You disabled the courier, but this isn't over yet. They're going try to destroy it to keep it out of our hands. Do not let them succeed."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDefense0233Lotus]
+"My recovery team is enroute. The Grineer will destroy the ship before they let us take it. Defend the ship."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDefenseFailure0237Lotus]
+"They destroyed the courier. This mission is a failure."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDefenseFailure0238Lotus]
+"Courier destroyed, there's nothing more for us here."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDefenseReminder0234Lotus]
+"Keep defending! My recovery team is almost there."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDefenseReminder0235Lotus]
+"Just a little bit longer until recovery arrives."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDefenseReminder0236Lotus]
+"Don't let them hit the courier!"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDestroyEngines0120Lotus]
+"Slow it down, concentrate fire on its engines."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDestroyEngines0130Lotus]
+"Aim for the engines, don't let it get away."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDestroyEngines0140Lotus]
+"The engines; take them out."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDestroyShields0070Lotus]
+"Blow open those shield generators and expose the ship's vital systems."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDestroyShields0080Lotus]
+"Target the shield generators."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDestroyShields0090Lotus]
+"Take out its shields by destroying the generators."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDestroyTurrets0160Lotus]
+"You need to take out those turrets."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDestroyTurrets0170Lotus]
+"Target the turrets."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDroneLaunched0260Lotus]
+"Drones! Take them out."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPDroneLaunched0270Lotus]
+"Watch out for drones."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPEnginesDestroyed0150Lotus]
+"The engines are down. It's a sitting duck."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPEnginesDestroyed0161Lotus]
+"Engines down."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPEnginesDestroyed0162Lotus]
+"You took out the engines, they're not going anywhere."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPEnginesDestroyed0163Lotus]
+"They've repaired their engines."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPEnginesDestroyed0164Lotus]
+"Engines are back up."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPEnginesDestroyed0165Lotus]
+"Their engines are online again, they're moving."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPEscaped0340Lotus]
+"The Courier escaped. I'm aborting the mission."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPEscaped0350Lotus]
+"The ship outran you. There's nothing more we can do here."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPMissionComp0251Lotus]
+"You secured the blackbox. We're all done here. Head to extraction."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPMissionIntro0010Lotus]
+"We're in pursuit of a courier-class ship that is transporting material vital to our cause. Do not let it escape."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPMissionIntro0020Lotus]
+"Hunt down and capture this courier-class ship. We need what's inside."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPShieldsDown0100Lotus]
+"Generators are down, now target ship systems!"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPShieldsDown0110Lotus]
+"Shields down, systems exposed."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPShipCloaked0280Lotus]
+"They've cloaked, stay close."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPShipCloaked0290Lotus]
+"The ship cloaked. Stay alert."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPShipEscaping0310Lotus]
+"You're losing them. If you let the Courier get any further away, you'll have no chance of catching up."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPShipEscaping0320Lotus]
+"You need to get closer, the Courier is about to escape."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPShipEscaping0330Lotus]
+"If that ship escapes, this mission will be a failure."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPSingleTurretDisabled0170Lotus]
+"That's one less turret."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPSingleTurretDisabled0172Lotus]
+"You took out a turret."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPTurretsDestroyed0180Lotus]
+"Turrets destroyed."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWPTurretsDestroyed0190Lotus]
+"Turrets down, they can't return fire now."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRAlmostThere0423Lotus]
+"You've almost reached the loading docks."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRAlmostThere0424Lotus]
+"The loading docks are just ahead, get ready."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRAlmostThere0425Lotus]
+"Almost there."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRAlmostThere0427Lotus]
+"You've almost made it."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWREnroute0370CorpusComm]
+"They're too close. Forget everything but the high-credit product and go."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWREnroute0380CorpusComm]
+"Interceptors?! They're flying right past you. Why do they call you Interceptors if you don't intercept?"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWREnroute0390CorpusComm]
+"The Board isn't going to be happy about this."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWREnroute0400CorpusComm]
+"A credit bonus for any transport crew who escapes the Tenno raiders. That, and the opportunity to keep living."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWREnroute0410CorpusComm]
+"In the name of the Void, protect our product, save our profits."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRExtraction0300Lotus]
+"Rendezvous with your landing craft for extraction."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRExtraction0310Lotus]
+"Extraction is ready."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRExtraction0320Lotus]
+"You're done here. Meet up with your ship."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRHalfway0420Lotus]
+"You're halfway there."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRHalfway0421Lotus]
+"This is the halfway point. Keep going."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRHalfway0422Lotus]
+"You've hit the midpoint, don't stop now."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRLastTransportEscaped0160Lotus]
+"The last transport escaped."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRLastTransportEscaped0480CorpusComm]
+"Hah. The last transport just left. Those Tenno will have to try harder next time."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRLastTransportMoving0130Lotus]
+"The last transport is leaving."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRLastTransportMoving0140Lotus]
+"Don't let that last transport escape."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRLastTransportMoving0150Lotus]
+"Hurry, the last transport is powering its engines."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRLastTransportMoving0460CorpusComm]
+"Go, go, go!"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRLastTransportMoving0470CorpusComm]
+"Get out of here, move."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRMissionFailure0230Lotus]
+"All the transports escaped, this mission is a failure."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRMissionFailure0240Lotus]
+"You let all the transports escape. Move faster next time."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRMissionFailure0250Lotus]
+"You failed to stop the transports. Mission over."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRMissionFailure0570CorpusComm]
+"The transports are all safe. The profits safe."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRMissionFailure0580CorpusComm]
+"Call the Board, let them know the Tenno have failed… again."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRMissionFailure0590CorpusComm]
+"Praise the Void. The profits are safe."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRMissionIntro0020Lotus]
+"We don't have much time. Race to the loading docks and destroy enemy transports before they can escape."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRMissionIntro0030Lotus]
+"The enemy is trying to escape with supplies. Hurry to the loading dock and destroy their transports."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRMissionIntro0040Lotus]
+"This is a race against time. Reach the loading bay and destroy the transport ships before they can escape."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWROrbitersDestroyed0200Lotus]
+"Shields down. Open fire."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWROrbitersDestroyed0210Lotus]
+"Orbirters destroyed, target the transport."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWROrbitersDestroyed0220Lotus]
+"It's vulnerable. Finish it off."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWROrbitersDestroyed0510CorpusComm]
+"Transport. You're vulnerable. Get out of there!"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRReachedDockArea0170Lotus]
+"You've found a transport, destroy the Orbiters to make it vulnerable."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRReachedDockArea0180Lotus]
+"There's a transport, take out its shields by destroying those Orbiters."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRReachedDockArea0190Lotus]
+"You need to disable shields before you can attack the transport. Target the Orbiters."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRReachedDockArea0490CorpusComm]
+"Transports, all power to shield Orbiters. Now!"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRReachedDockArea0500CorpusComm]
+"Transports, deploy shield Orbiters. Protect your cargo!"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRSuccessSome0600CorpusComm]
+"It's all over? Tell me at least one survived. Good."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRSuccessSome0610CorpusComm]
+"Some profit is better than no profit… I suppose that's what I'll tell the Board."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRTransportEscaped0100Lotus]
+"Too late, a transport escaped."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRTransportEscaped0110Lotus]
+"You let a transport escape."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRTransportEscaped0120Lotus]
+"You need to move faster, their transports are escaping."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRTransportEscaped0440CorpusComm]
+"Too slow, Tenno! My transports are getting away."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRTransportEscaped0450CorpusComm]
+"Transport escaped. I'm getting a bonus for sure."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRTransportMoving0070Lotus]
+"A transport is powering its engines."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRTransportMoving0080Lotus]
+"A transport is fully loaded."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRTransportMoving0420CorpusComm]
+"Load complete?  Okay, get out of here."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRTransportMoving0430CorpusComm]
+"Transport, stop loading and power engines. They're close."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRUseBoost0090Lotus]
+"Move faster. Use your Archwing's boost to increase your speed."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRWarning0010Lotus]
+"Tenno, hurry. The first transport is almost loaded."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRWarning0050Lotus]
+"You're running out of time. The first transport is about to depart."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRWarning0060Lotus]
+"You have to move faster. A transport is almost ready to escape."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRWarning0330CorpusComm]
+"Transports, prepare for evacuation. The Tenno are here to steal our profits."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRWarning0340CorpusComm]
+"Tenno assailants approaching fast. We must protect the product. Transports, initiate emergency departure."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRWarning0350CorpusComm]
+"Move fast, Corpus, the Betrayers are coming. Ready the transports, we have orders from the top, protect that product."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAWRWarning0360CorpusComm]
+"It's the Tenno! Launch all offensive units. This is not a drill."
+
 [/Lotus/Language/Subtitles/MissionObjectives/DCinIntro030VayHek]
 "Ahhh!!! Curse you Tenno. You got me!"
 
@@ -62290,6 +64365,114 @@ Tap <MELEE> when you blade is drawn to strike."
 [/Lotus/Language/Subtitles/MissionObjectives/DVorPreSpawn020Vor]
 "Behold the Tenno, come to scavenge and desecrate this sacred realm."
 
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCAftermath0310Lotus]
+"That's it! You opened the Relic. Finish your mission and we'll take a look inside."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCAftermath0320Lotus]
+"The Fissure's gone and the Relic has been cracked open. You can find out what's inside after you finish your mission."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCEnroute0040Lotus]
+"Energy from the Fissure will fill the Relic and break open its casement."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCEnroute0050Lotus]
+"Careful, Tenno, Void Fissures are conduits for many dangerous possibilities."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCEnroute0060Lotus]
+"Exposure to the Void Fissure will open your Relic, but there's no telling what else will be unleashed in the process."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCFailed0240Lotus]
+"The Fissure closed before the Relic could be opened."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCFailed0250Lotus]
+"You ran out of time. The Fissure closed."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCFailed0260Lotus]
+"The Fissure has collapsed and you failed to open the Relic."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCFissDetect0010Lotus]
+"There's a Void Fissure in the area, you can use it to crack open your Relic. But before you do, ask yourself, is it worth the risk?"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCFissDetect0020Lotus]
+"A Void Fissure! Tenno, only approach it if you have a matching Relic and you're confident you can withstand the reaction."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCFissDetect0030Lotus]
+"Watch out, I'm detecting a Void Fissure nearby. Do you have a matching Relic?"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCFissureFound0070Lotus]
+"You found the Fissure, if you have a matching Relic, you can start the reaction now. Just make sure you're ready for what comes next."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCFissureFound0080Lotus]
+"It's the Fissure. Expose your Relic to start the reaction… if you're ready."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCFissureFound0090Lotus]
+"That's the Fissure, are you sure you want to do this?"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCMidpoint0200Lotus]
+"Keep fighting, Tenno, the Relic is starting to crack."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCMidpoint0210Lotus]
+"You're making progress. Don't stop now."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCMidpoint0220Lotus]
+"No one said this would be easy. Keep it up, Tenno."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCMidpoint0230Lotus]
+"It's working, the Relic is showing cracks."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCOverdrive0270Lotus]
+"Not much longer."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCOverdrive0280Lotus]
+"It's almost open. Just a little longer."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCOverdrive0290Lotus]
+"This is it."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCOverdrive0300Lotus]
+"You've almost done it."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCPickReact0140Lotus]
+"They're dropping reactant. You need that to finish the process."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCPickReact0150Lotus]
+"Quick, pick up that reactant and take it to the Fissure."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCReactionStarted0100Lotus]
+"The reaction has started. Assume defensive positions."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCReactionStarted0110Lotus]
+"Get ready, things are about to get rough."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCReactionStarted0120Lotus]
+"I have faith in you, Tenno."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCReactNeeded0160Lotus]
+"The reaction is slowing. Hurry. Feed it more reactant."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCReactNeeded0170Lotus]
+"You need more reactant, feed it back into the Fissure before it closes."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCReactNeeded0180Lotus]
+"Don't forget the reactant, you need to feed it back into the Fissure!"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCReactNeeded0190Lotus]
+"We need more reactant. Don't let the Fissure close before the Relic has opened."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCVoidTraces0330Lotus]
+"Look out for Void Traces, a valuable by-product of the Fissure's collapse."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCVoidTraces0340Lotus]
+"Pick up any Void Traces left behind by the reaction."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCVoidTraces0360Ordis]
+"Void Relics, what a baffling concept. 
+
+Ordis will try to understand Void Relics again: 
+
+They say the contents of a Relic are simultaneously this thing, or this thing, or this thing, but also that thing and certainly never just one of thing. That is, until…  until it's exposed to a Void Fissure? And at that point, all the possibilities collapse, each one falling away until the Relic cracks open and exposes one, singular thing. And at that moment, that thing becomes the only thing the Relic ever contained?!
+
+Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
+
 [/Lotus/Language/Subtitles/MissionObjectives/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]
 ""
 
@@ -63382,6 +65565,9 @@ Tap <MELEE> when you blade is drawn to strike."
 [/Lotus/Language/Subtitles/PlayerShip/DNewQuest440Lotus]
 "A new quest is available in your codex."
 
+[/Lotus/Language/Subtitles/PlayerShip/DProjections0010Ordis]
+"Operator?! Is that a… a Void Relic Segment? Ordis hasn't seen one of those in well… forever. "
+
 [/Lotus/Language/Subtitles/PlayerShip/DSupBarrage0010Ordis]
 "Brace for an incoming barrage."
 
@@ -63988,8 +66174,8 @@ Tap <MELEE> when you blade is drawn to strike."
 [/Lotus/Language/Subtitles/Quests/DAWQEscapeExtract250Lotus]
 "Tenno, stand by for pickup. "
 
-[/Lotus/Language/Subtitles/Quests/DAWQEscapeMission210Lotus]
-"Tenno, fly toward the objective."
+[/Lotus/Language/Subtitles/Quests/DAWQEscapeMission200Lotus]
+"Tenno, you have to keep moving."
 
 [/Lotus/Language/Subtitles/Quests/DAWQEscapeMission220Ordis]
 "Operator, the Archwing is performing beyond expectations, I suppose my calibration process was not necessary after all."
@@ -65275,7 +67461,7 @@ This is bizarre… it's for… me. I need a moment to contact this person. Get t
 "You must install that new mod before you can attempt your next objective. Proceed to the Arsenal at once."
 
 [/Lotus/Language/Subtitles/Quests/DIntro00010Baro]
-"I have a rare opportunity for you. It seems there may be a tomb hidden on that forsaken rock you call Phobos. Tombs mean treasure, and yet sadly, my usual relic hunters are superstitious idiots who refuse to disturb this so-called sacred place. You, Tenno, however, are more pragmatic, especially when it comes to Ducats… am I right?"
+"I have a rare opportunity for you. It seems there may be a tomb hidden on that forsaken place. Tombs mean treasure, and yet sadly, my usual relic hunters are superstitious idiots who refuse to disturb this so-called sacred place. You, Tenno, however, are more pragmatic, especially when it comes to Ducats… am I right?"
 
 [/Lotus/Language/Subtitles/Quests/DKubrowComplete210Lotus]
 "It is done. The collar has been attached and the bond between Tenno and Kubrow has been cemented."
@@ -67268,6 +69454,51 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Subtitles/Relays/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]
 ""
 
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre010]
+"This Sacred Rail must be protected."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre020]
+"Leave this place or be returned to the Void."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre030]
+"I am a Warden of the Solar Rails. I am your death."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre040]
+"Only the sacred may pass. Heathens will perish."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre050]
+"How dare you enter my home? I guard the Rail with my shadow-life."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre070]
+"The Solar Rails bind our System. I will not see it undone."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre080]
+"Are you seeking a return to the Void? Challenge me and find destruction."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre090]
+"I am entrusted to protect this most sacred temple. A pathway into the Void. Flee or be consumed."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre100]
+"I have pledged my shadow-life to defend the Solar Rails."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre110]
+"I will purge your weakness from my Rail."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre120]
+"Another intruder… another corpse for the Void."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre130]
+"Only those worthy may enter. You face certain death to oppose me."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre140]
+"Your death awaits you."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre150]
+"I am a being of the Void. Created to oppose you. Leave now."
+
+[/Lotus/Language/Subtitles/Starchart/CbJunctionSpectreJunctionSpectre160]
+"Come no further if you value your life."
+
 [/Lotus/Language/Subtitles/Starchart/DAladVBoss010AladV]
 "Oh hello Tenno... why the long face? Worried about your friends? Hmm... it is true that they were unwilling, but rest assured, participation in the Zanuka project is a very prestigious honor."
 
@@ -67883,11 +70114,20 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Subtitles/VorsPrize/DTutNavModChoice080Lotus]
 "Saving the colonists could jeopardize this mission. I recommend you head straight to extraction but the choice is yours."
 
+[/Lotus/Language/Subtitles/VorsPrize/DTutNavModNearObj040Lotus]
+"The navigation segment is in the vicinity. Take it."
+
 [/Lotus/Language/Subtitles/VorsPrize/DTutNavModObjComp110Lotus]
 "You've reached the ships power systems. Destroy the reactor."
 
 [/Lotus/Language/Subtitles/VorsPrize/DTutNavModObjComp120Lotus]
 "That should take the pressure off the colonist ship but you need to get out of there! Get to extraction before the reactor goes critical."
+
+[/Lotus/Language/Subtitles/VorsPrize/DTutNavModObjective010Lotus]
+"The systems on this Grineer Galleon can be made compatible with your ship. Find and extract a navigation segment."
+
+[/Lotus/Language/Subtitles/VorsPrize/DTutNavModObjective011Vor]
+"You have murdered my sons and disgraced me before my Queens. But soon the Ascaris will complete its task and bring you to me."
 
 [/Lotus/Language/Subtitles/VorsPrize/DTutNavModVorTaunt090Lotus]
 "The Ascaris failsafe is attacking your systems. Your shield capacity has just been halved."
@@ -69521,14 +71761,17 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/BleedoutModifierDesc]
 "|val|% Bleedout Reduction"
 
+[/Lotus/Language/Upgrades/BonusDamageOnNextHit]
+"|val|% bonus damage on next hit"
+
 [/Lotus/Language/Upgrades/BowModConvertAmmoModDesc]
 "Convert unused ammo drops into Arrows"
 
-[/Lotus/Language/Upgrades/CatbrowReflectPreceptADesc]
-"Reflects |val|% damage back to the attacker and"
+[/Lotus/Language/Upgrades/CatbrowSwipePreceptPartA]
+"|val| enemies."
 
-[/Lotus/Language/Upgrades/CatbrowReflectPreceptBDesc]
-" amplifies it by |val|%."
+[/Lotus/Language/Upgrades/CatbrowSwipePreceptPartB]
+"|val|m to attack range."
 
 [/Lotus/Language/Upgrades/ChanceToLootDesc]
 "|val|% chance to unlock locked lockers"
@@ -69771,7 +72014,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Increase Shield Resistant to Ice Levels by |val|%"
 
 [/Lotus/Language/Upgrades/MoreDamageAiming]
-"|val|% damage while aiming"
+"|val|% Damage while aiming"
 
 [/Lotus/Language/Upgrades/MoreEnergy]
 "Increase Energy by |val|%"
