@@ -5542,7 +5542,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Sabotage 3 TOXIN INJECTORS at E PRIME"
 
 [/Lotus/Language/Challenges/Challenge_EVApplyMod_Name]
-"Apply 4 MODS to your Warframe or Weapon upgrade slots"
+"Apply 4 MODS to a single Warframe or Weapon"
 
 [/Lotus/Language/Challenges/Challenge_EVCollectMods_Name]
 "Collect 10 MODS or FUSION CORES"
@@ -5931,6 +5931,9 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_NPInterceptionBeacons_Name]
 "Intercept 3 signals at CAELUS on URANUS"
 
+[/Lotus/Language/Challenges/Challenge_NPKillBossHyena_Name]
+"Defeat the HYENA PACK on PSAMATHE"
+
 [/Lotus/Language/Challenges/Challenge_NPNightmareMode_Name]
 "Complete 3 NIGHTMARE difficulty missions"
 
@@ -5977,7 +5980,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Defeat PHORID during an INFESTED OUTBREAK"
 
 [/Lotus/Language/Challenges/Challenge_PEVoidTears_Name]
-"Seal 3 MESO FISSURES"
+"Seal 3 NEO FISSURES"
 
 [/Lotus/Language/Challenges/Challenge_PistolMaster_Description]
 "Get 20 kills with your Pistol"
@@ -7009,7 +7012,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Defeat VOR and KRIL at WAR on MARS"
 
 [/Lotus/Language/Challenges/Challenge_SUVoidTears_Name]
-"Seal 3 NEO FISSURES"
+"Seal 3 MESO FISSURES"
 
 [/Lotus/Language/Challenges/Challenge_Swordsman_Description]
 "Get 10 Melee kills."
@@ -13953,7 +13956,7 @@ A Grineer General, Vor, stands over you...
 "Work with Cephalon Simaris to find the source of a mysterious voice."
 
 [/Lotus/Language/G1Quests/DragonQuestHubDesertSkateScans]
-"Synthesize 3 Elite Arid Lancers for Simaris"
+"Synthesize 3 Arid Lancers on Mars for Simaris"
 
 [/Lotus/Language/G1Quests/DragonQuestHubMeetSimaris]
 "Visit Cephalon Simaris"
@@ -46303,8 +46306,11 @@ Best: |HIGHSCORE|"
 [/Lotus/Language/Menu/DetailedPurchase_AddToWishlist]
 "ADD TO WISHLIST"
 
+[/Lotus/Language/Menu/DetailedPurchase_AtlasRecipeHelpText]
+"Component blueprints are acquired by fighting the Golem, after completing the Jordas Precept quest received from the Pluto -> Eris junction."
+
 [/Lotus/Language/Menu/DetailedPurchase_ChromaRecipeHelpText]
-"Component blueprints are awarded from progressing through The New Strange quest, which is acquired from Cephalon Simaris on any Relay. Completion of Stolen Dreams quest and Mastery Rank 5 is required to access the quest from Simaris."
+"Component blueprints are awarded from progressing through The New Strange quest, which is acquired from the Jupiter -> Europa junction."
 
 [/Lotus/Language/Menu/DetailedPurchase_CompatibleNotOwned]
 "This is a cosmetic for |COMPATIBLE|, which you do not own."
@@ -46321,6 +46327,18 @@ Best: |HIGHSCORE|"
 [/Lotus/Language/Menu/DetailedPurchase_ItemNotOwned]
 "This skin applies to |ITEM|, which you don't own."
 
+[/Lotus/Language/Menu/DetailedPurchase_IvaraRecipeHelpText]
+"Component blueprints are acquired by completing Spy missions."
+
+[/Lotus/Language/Menu/DetailedPurchase_LimboRecipeHelpText]
+"Component blueprints are acquired by progressing through The Limbo Theorem quest, which is acquired from the Jupiter -> Europa junction."
+
+[/Lotus/Language/Menu/DetailedPurchase_MesaRecipeHelpText]
+"Component blueprints are acquired by defeating Mutalist Alad V."
+
+[/Lotus/Language/Menu/DetailedPurchase_MirageRecipeHelpText]
+"Component blueprints are acquired by progressing through the Hidden Messages quest, which is acquired from the Pluto -> Sedna junction."
+
 [/Lotus/Language/Menu/DetailedPurchase_PackageCompatNotOwned]
 "Several items in this package are cosmetics for the following items which you do not own:
 |COMPATIBLES|"
@@ -46330,6 +46348,9 @@ Best: |HIGHSCORE|"
 
 [/Lotus/Language/Menu/DetailedPurchase_ParentBundle]
 "This item is part of a bundle:"
+
+[/Lotus/Language/Menu/DetailedPurchase_RecipeShortcut]
+"BLUEPRINT"
 
 [/Lotus/Language/Menu/DetailedPurchase_RelatedTab]
 "RELATED"
@@ -47269,7 +47290,7 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "HIDE MAXED MODS"
 
 [/Lotus/Language/Menu/HideOwned]
-"HIDE OWNED"
+"HIDE OWNED  <CHECKMARK_OUTLINE>"
 
 [/Lotus/Language/Menu/HoldForMeleeMode]
 "Hold To Enter Melee Mode"
@@ -52327,6 +52348,12 @@ Thank you for your partnership."
 [/Lotus/Language/Menu/SHOW_MAXED_MODS]
 "SHOW MAXED MODS"
 
+[/Lotus/Language/Menu/ShowBlueprintsOff]
+"BLUEPRINTS ONLY  <CHECKMARK_OUTLINE>"
+
+[/Lotus/Language/Menu/ShowBlueprintsOn]
+"BLUEPRINTS ONLY  <CHECKMARK>"
+
 [/Lotus/Language/Menu/ShowCollection]
 "MODS"
 
@@ -52352,7 +52379,7 @@ Thank you for your partnership."
 "VIEW STATS WITH MODS"
 
 [/Lotus/Language/Menu/ShowOwned]
-"SHOW OWNED"
+"HIDE OWNED  <CHECKMARK>"
 
 [/Lotus/Language/Menu/ShowPlatformParty]
 "PARTY"
@@ -53071,6 +53098,9 @@ Do you want to proceed?"
 [/Lotus/Language/Menu/Store_Discount]
 "-|value|%"
 
+[/Lotus/Language/Menu/Store_EmptySearch]
+"NO SEARCH RESULTS"
+
 [/Lotus/Language/Menu/Store_EmptyWishlist]
 "WISHLIST EMPTY"
 
@@ -53191,11 +53221,14 @@ This offer expires in |TIMELEFT|."
 [/Lotus/Language/Menu/Store_New]
 "NEW"
 
+[/Lotus/Language/Menu/Store_NoBlueprintsFound]
+"NO BLUEPRINTS FOUND"
+
+[/Lotus/Language/Menu/Store_NoBlueprintsFoundInstruction]
+"LOOK FOR BLUEPRINTS IN OTHER CATEGORIES OR TURN THE BLUEPRINT FILTER OFF."
+
 [/Lotus/Language/Menu/Store_NoDescriptionAvailable]
 "No description available."
-
-[/Lotus/Language/Menu/Store_NoItemsFound]
-"NO SEARCH RESULTS"
 
 [/Lotus/Language/Menu/Store_NoStatsAvailable]
 "No statistics available."
@@ -60037,7 +60070,7 @@ Using Archwing’s jets for thrust, this massive hammer crushes anything in its 
 "[22] Only my best were so honored: Two jagged bones, harvested from your thigh, cultivated and then driven into the base of the skull, twisted around the superior vein. Future thoughts of surrender were lost. Instead, you would liberate your bone-plugs… fighting with claws in the warmth of your last blood."
 
 [/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0230Ordis]
-"[23] So I've pulled the plugs… and the Dax see and know. My heart surges but control it, a racing heart only shortens the fuse. The bone-plugs in hand, I kick from the floor, red ribbons unfurling behind me as I take flight. After this, finally, the dream will end."
+"[23] So I've pulled the plugs… and the Dax see and know. My heart surges but I control it, a racing heart only shortens the fuse. The bone-plugs in hand, I kick from the floor, red ribbons unfurling behind me as I take flight. After this, finally, the dream will end."
 
 [/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0240Ordis]
 "[24] I glide on red wings. Robes shed, making me an ambiguous target to Dax steel. I let fly my ivory blades, they find new homes in Dax eyes. I land with my red-nakedness, delicate Orokin throats twisting in my calloused hands."
