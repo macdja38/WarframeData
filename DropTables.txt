@@ -702,6 +702,7 @@ DROP_POWERUP (Drop Chance: 25%)
  - MOA (RiotBipedBaseAvatar)
  - SHOCKWAVE MOA (ShockwaveBipedHackedAvatar)
  - Hyena Th (MicroHyenaAvatar)
+ - MOA (OrokinGoldenMawAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -1416,6 +1417,8 @@ DROP_POWERUP (Drop Chance: 25%)
  - BAILIFF (GrineerChargerAvatar)
  - BAILIFF (GrineerChargerAvatarRare)
  - BAILIFF DEFECTOR (GrineerDefectorAvatar)
+ - FRONTIER BAILIFF (GrineerChargerAvatar)
+ - FRONTIER BAILIFF (GrineerChargerAvatarRare)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -1535,6 +1538,9 @@ DROP_AMMO (Drop Chance: 70%)
 	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
 	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
 
+DROP_BLUEPRINT (Drop Chance: 1.5%)
+	KAVAT INCUBATOR UPGRADE SEGMENT BLUEPRINT, COMMON, 100%
+
 DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
@@ -1573,7 +1579,6 @@ DROP_MOD (Drop Chance: 20%)
 
 [GrineerChampionHeavyDropTable]
  - EXECUTIONER DHURNAM (GrineerChampionHeavyAvatar)
- - EXECUTIONER DHURNAM (NightmareGrineerChampionHeavyAvatar)
 
 DROP_MOD (Drop Chance: 20%)
 	Uncommon Fusion Core, UNCOMMON, 45.83%
@@ -1582,14 +1587,6 @@ DROP_MOD (Drop Chance: 20%)
 
 
 [GrineerChampionNightmareDropTable]
- - EXECUTIONER VAY MOLTA (NightmareGrineerChampionJetpackAvatar)
- - EXECUTIONER ZURA (NightmareGrineerChampionBeastmasterAvatar)
- - EXECUTIONER GARESH (NightmareGrineerChampionChargerAvatar)
- - EXECUTIONER RETH (NightmareGrineerChampionEngineerAvatar)
- - EXECUTIONER NOK (NightmareGrineerChampionGruntAvatar)
- - EXECUTIONER DOK THUL (NightmareGrineerChampionHealerAvatar)
- - EXECUTIONER HARKONAR (NightmareGrineerChampionSniperAvatar)
- - EXECUTIONER GORTH (NightmareGrineerChampionTankAvatar)
 
 DROP_MOD (Drop Chance: 20%)
 	Uncommon Fusion Core, UNCOMMON, 91.67%, Bias 0.16
@@ -1727,9 +1724,6 @@ DROP_POWERUP (Drop Chance: 100%)
 
 
 [GrineerFemaleJetpackEventDropTable]
-
-DROP_BLUEPRINT (Drop Chance: 100%)
-	VOID KEY, COMMON, 100%
 
 
 [GrineerFlameLancerDropTable]
@@ -1889,13 +1883,12 @@ DROP_MISC_ITEM (Drop Chance: 7%)
 DROP_MOD (Drop Chance: 40%)
 	True Steel, COMMON, 25.29%
 	Warm Coat, COMMON, 25.29%
-	Vulpine Mask, RARE, 0.5%
+	Vulpine Mask, RARE, 0.67%
 	Expel Grineer, UNCOMMON, 11.06%
 	Tactical Pump, UNCOMMON, 11.06%
-	Sanctuary, RARE, 0.5%
 	Common Fusion Core, COMMON, 25.29%
-	Vermillion Storm, RARE, 0.5%
-	Rare Fusion Core, RARE, 0.5%
+	Vermillion Storm, RARE, 0.67%
+	Rare Fusion Core, RARE, 0.67%
 
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 37.94%
@@ -1915,7 +1908,7 @@ DROP_AMMO (Drop Chance: 70%)
 
 DROP_BLUEPRINT (Drop Chance: 33%)
 	ASH CHASSIS BLUEPRINT, COMMON, 38.72%
-	ASH HELMET BLUEPRINT, COMMON, 38.72%
+	ASH NEUROPTICS BLUEPRINT, COMMON, 38.72%
 	ASH SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
 
 DROP_MISC_ITEM (Drop Chance: 7%)
@@ -2169,14 +2162,13 @@ DROP_POWERUP (Drop Chance: 25%)
 
 [GrineerRifleLancerDropTable]
  - LANCER (RifleLancerAvatar)
- - NIGHTWATCH REAVER (JetpackHeavyMarineAvatar)
  - HELLION (JetpackMarineAvatar)
- - NIGHTWATCH REAVER (JetpackHeavyMarineAvatarRare)
  - FRONTIER HEAVY GUNNER (HeavyFemaleGrineerAvatarDesert)
  - ARID LANCER (RifleLancerAvatar)
  - HEAVY GUNNER (HeavyFemaleGrineerAvatar)
  - ARID HELLION (JetpackMarineAvatar)
  - FRONTIER LANCER (RifleLancerAvatar)
+ - FRONTIER HEAVY GUNNER (HeavyFemaleGrineerAvatar)
  - FRONTIER HELLION (JetpackMarineAvatar)
  - DREKAR SCORPION (FemaleGrineerMacheteAvatar)
 
@@ -2771,13 +2763,13 @@ DROP_AMMO (Drop Chance: 70%)
 DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 3%)
+DROP_MOD (Drop Chance: 30%)
 	Swift Deth, COMMON, 37.94%
-	Cleanse Infested, UNCOMMON, 11.06%
+	Cleanse Infested, UNCOMMON, 7.37%
 	Common Fusion Core, COMMON, 37.94%
-	Seismic Palm, RARE, 1.01%
-	Rare Fusion Core, RARE, 1.01%
-	Fatal Acceleration, UNCOMMON, 11.06%
+	Seismic Palm, RARE, 2.01%
+	Spinning Needle, UNCOMMON, 7.37%
+	Fatal Acceleration, UNCOMMON, 7.37%
 
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 37.94%
@@ -3094,9 +3086,6 @@ DROP_SIGIL (Drop Chance: 100%)
 
 [JackalMiniBossEventDropTable]
 
-DROP_BLUEPRINT (Drop Chance: 100%)
-	VOID KEY, COMMON, 100%
-
 DROP_MISC_ITEM (Drop Chance: 0%)
 	Uncommon Resource, COMMON, 100%
 
@@ -3126,7 +3115,12 @@ DROP_MISC_ITEM (Drop Chance: 25%)
 	Uncommon Resource, COMMON, 77.44%
 	NAV COORDINATE, UNCOMMON, 22.56%
 
-DROP_MOD (Drop Chance: 3%)
+DROP_MOD (Drop Chance: 20%)
+	Territorial Aggression, UNCOMMON, 30.56%
+	Pounce, UNCOMMON, 30.56%
+	Cat’s Eye, RARE, 4.17%
+	Mischief, RARE, 4.17%
+	Sense Danger, UNCOMMON, 30.56%
 
 DROP_POWERUP (Drop Chance: 50%)
 	CreditsLow, COMMON, 25%
@@ -3148,7 +3142,11 @@ DROP_MISC_ITEM (Drop Chance: 25%)
 	Uncommon Resource, COMMON, 77.44%
 	NAV COORDINATE, UNCOMMON, 22.56%
 
-DROP_MOD (Drop Chance: 3%)
+DROP_MOD (Drop Chance: 20%)
+	Sharpened Claws, UNCOMMON, 45.83%
+	Swipe, UNCOMMON, 45.83%
+	Charm, RARE, 4.17%
+	Reflect, RARE, 4.17%
 
 DROP_POWERUP (Drop Chance: 50%)
 	CreditsLow, COMMON, 25%
@@ -3294,7 +3292,6 @@ DROP_POWERUP (Drop Chance: 25%)
  - BAILIFF EXIMUS (GrineerChargerAvatarLeader)
  - HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - NAPALM EXIMUS (IncendiaryBombardAvatarLeader)
- - NIGHTWATCH REAVER EXIMUS (JetpackHeavyMarineAvatarLeader)
  - SCORPION EXIMUS (MacheteWomanAvatarLeader)
  - MANIC BOMBARD EXIMUS (ManicRocketBombardAvatarLeader)
  - POWERFIST EXIMUS (PistonSawmanAvatarLeader)
@@ -3311,28 +3308,34 @@ DROP_POWERUP (Drop Chance: 25%)
  - SNIPER CREWMAN EXIMUS (SniperSpacemanAvatarLeader)
  - ELITE CREWMAN EXIMUS (EliteSpacemanAvatarLeader)
  - LEAPER EXIMUS (LeapingRunnerAvatarLeader)
+ - TOXIC CRAWLER EXIMUS (NoxiousCrawlerAvatarLeader)
  - CRAWLER EXIMUS (CrawlerAvatarLeader)
  - NAUSEOUS CRAWLER EXIMUS (GraspingCrawlerAvatarLeader)
  - LOBBER CRAWLER EXIMUS (GrenadeAvatarLeader)
  - ELECTRIC CRAWLER EXIMUS (LightningAvatarLeader)
- - TOXIC CRAWLER EXIMUS (NoxiousCrawlerAvatarLeader)
  - SAPPING OSPREY EXIMUS (DiscDroneAvatarLeader)
  - LEECH OSPREY EXIMUS (LeechDroneAvatarLeader)
  - MINE OSPREY EXIMUS (MineDroneAvatarLeader)
  - SHIELD OSPREY EXIMUS (ShieldDroneAvatarLeader)
  - SCAVENGER DRONE EXIMUS (VacDroneAvatarLeader)
+ - CORPUS WARDEN EXIMUS (DeployableSpacemanWardenAvatarLeader)
  - ARID HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarDesertLeader)
  - FRONTIER HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarDesertLeader)
+ - GRINEER WARDEN EXIMUS (WardenGrineerHeavyAvatarLeader)
+ - CORRUPTED WARDEN EXIMUS (CorruptedWardenAvatarLeader)
  - ARID EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
  - ARID SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - ARID BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE ARID LANCER EXIMUS (EliteRifleLancerAvatarLeader)
+ -  EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - ARID LANCER EXIMUS (RifleLancerAvatarLeader)
  - ARID TROOPER EXIMUS (ShotgunLancerAvatarLeader)
  - FRONTIER EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
  - FRONTIER SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - FRONTIER BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE FRONTIER LANCER EXIMUS (EliteRifleLancerAvatarLeader)
+ - FRONTIER BAILIFF EXIMUS (GrineerChargerAvatarLeader)
+ - FRONTIER HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - FRONTIER LANCER EXIMUS (RifleLancerAvatarLeader)
  - FRONTIER TROOPER EXIMUS (ShotgunLancerAvatarLeader)
  - DREKAR EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
@@ -3347,9 +3350,6 @@ DROP_POWERUP (Drop Chance: 25%)
  - SWARM-MUTALIST MOA EXIMUS (NaniteCloudBipedAvatarLeader)
  - TAR-MUTALIST MOA EXIMUS (SlowBombBipedAvatarLeader)
  - CHARGER EXIMUS (QuadrupedAvatarLeader)
- - CORPUS WARDEN EXIMUS (DeployableSpacemanWardenAvatarLeader)
- - GRINEER WARDEN EXIMUS (WardenGrineerHeavyAvatarLeader)
- - CORRUPTED WARDEN EXIMUS (CorruptedWardenAvatarLeader)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -3359,7 +3359,7 @@ DROP_AMMO (Drop Chance: 70%)
 
 DROP_BLUEPRINT (Drop Chance: 1%)
 	OBERON CHASSIS BLUEPRINT, COMMON, 38.72%
-	OBERON HELMET BLUEPRINT, COMMON, 38.72%
+	OBERON NEUROPTICS BLUEPRINT, COMMON, 38.72%
 	OBERON SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
 
 DROP_MISC_ITEM (Drop Chance: 4%)
@@ -3951,7 +3951,7 @@ DROP_AMMO (Drop Chance: 70%)
 
 DROP_BLUEPRINT (Drop Chance: 1%)
 	OBERON CHASSIS BLUEPRINT, COMMON, 38.72%
-	OBERON HELMET BLUEPRINT, COMMON, 38.72%
+	OBERON NEUROPTICS BLUEPRINT, COMMON, 38.72%
 	OBERON SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
 
 DROP_MISC_ITEM (Drop Chance: 4%)
@@ -3988,7 +3988,7 @@ DROP_AMMO (Drop Chance: 25%)
 	AMMO, COMMON, 100%
 
 DROP_MOD (Drop Chance: 20%)
-	50 HEALTH (Tick time: 1), COMMON, 100%
+	30 HEALTH (Tick time: 1), COMMON, 100%
 
 DROP_POWERUP (Drop Chance: 20%)
 	25 ENERGY, COMMON, 100%
@@ -4164,8 +4164,10 @@ DROP_POWERUP (Drop Chance: 75%)
 
 
 [SpaceDropTables/CorpusSpaceTurretDropTable]
- - CANNON BATTERY (CorpusSpaceTurretAvatar)
  - MUTALIST CANNON BATTERY (CorpusInfestedSpaceTurretAvatar)
+ - CANNON BATTERY (CorpusSpaceTurretAvatar)
+ - Turret (GrineerPursuitMissileTurretAvatar)
+ - Turret (GrineerPursuitTurretAvatar)
 
 DROP_AMMO (Drop Chance: 0%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -4191,6 +4193,7 @@ DROP_POWERUP (Drop Chance: 75%)
 
 
 [SpaceDropTables/CorpusSwarmDroneDropTable]
+ - LOCUST DRONE (FlightAvatar)
  - LOCUST DRONE (DistractionDroneAvatar)
  - LOCUST DRONE (DistractionDroneWaterAvatar)
  - LOCUST DRONE (SwarmDroneAvatar)
@@ -4230,7 +4233,7 @@ DROP_AMMO (Drop Chance: 0%)
 DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 3%)
+DROP_MOD (Drop Chance: 5%)
 	Common Fusion Core, COMMON, 37.94%
 	Uncommon Fusion Core, UNCOMMON, 7.37%
 	Furor, UNCOMMON, 7.37%
@@ -4410,11 +4413,11 @@ DROP_POWERUP (Drop Chance: 75%)
 
 
 [SpaceDropTables/GrineerSpaceDroneDropTable]
- - Attack Mutalist (InfestedAttackDroneAvatar)
+ - DREG (GrineerSpaceDroneAvatar)
  - Mutalist Lightning Carrier (CarrierLightningSpaceDroneAvatar)
  - Mutalist Toxic Carrier (CarrierSpaceDroneAvatar)
+ - Attack Mutalist (InfestedAttackDroneAvatar)
  - [PLACEHOLDER] Suicide Mutalist (SuicideSpaceDroneAvatar)
- - DREG (GrineerSpaceDroneAvatar)
 
 DROP_AMMO (Drop Chance: 0%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -4469,6 +4472,32 @@ DROP_POWERUP (Drop Chance: 50%)
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
 
+[SpaceDropTables/GrineerSpaceShipDropTable]
+ - Courier (GrineerPursuitSpaceShipAvatar)
+
+DROP_AMMO (Drop Chance: 0%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%
+	10 SNIPER AMMO, COMMON, 25%
+
+DROP_MISC_ITEM (Drop Chance: 7%)
+	Uncommon Resource, COMMON, 100%
+
+DROP_MOD (Drop Chance: 3%)
+	Common Fusion Core, COMMON, 37.94%
+	Uncommon Fusion Core, UNCOMMON, 22.11%
+	Argon Plating, COMMON, 37.94%
+	Rare Fusion Core, RARE, 1.01%
+	Dual Rounds, RARE, 1.01%
+
+DROP_POWERUP (Drop Chance: 75%)
+	25 ENERGY, COMMON, 25%
+	100 AFFINITY, COMMON, 25%, Bias 0.5
+	25 HEALTH, COMMON, 25%, Bias 0.25
+	50 ENERGY, COMMON, 25%, Bias 0.1
+
+
 [SpaceDropTables/GrineerSpaceTurretDropTable]
  - CANNON BATTERY (SpaceTurretAvatar)
 
@@ -4518,6 +4547,38 @@ DROP_POWERUP (Drop Chance: 75%)
 	100 AFFINITY, COMMON, 25%, Bias 0.5
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
+
+
+[SpaceLeaderDropTable]
+ - ATTACK DRONE EXIMUS (CrpSpaceDroneAttackAvatarLeader)
+ - RANGER EXIMUS (JetpackMarineAvatarLeader)
+ - QUANTA RANGER EXIMUS (JetpackMarineThreeAvatarLeader)
+ - PENTA RANGER EXIMUS (JetpackMarineTwoAvatarLeader)
+ - CORVETTE EXIMUS (FlakShipAvatarLeader)
+ - FRIGATE EXIMUS (LaserShipAvatarLeader)
+ - DREG EXIMUS (GrineerSpaceDroneAvatarLeader)
+ - LANCER DREG EXIMUS (LaserDroneAvatarLeader)
+ - DARGYN EXIMUS (GrineerSpaceMarineAvatarLeader)
+ - SHIELD-HELLION DARGYN EXIMUS (MissileShieldSkiffAvatarLeader)
+ - HELLION DARGYN EXIMUS (MissileSkiffAvatarLeader)
+ - SHIELD DARGYN EXIMUS (ShieldSkiffAvatarLeader)
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_MISC_ITEM (Drop Chance: 4%)
+	"", COMMON, 100%
+
+DROP_MOD (Drop Chance: 10%)
+	Energy Field, RARE, 33.33%
+	Cold Snap, RARE, 33.33%
+	Afterburner, RARE, 33.33%
+
+DROP_POWERUP (Drop Chance: 25%)
+	CreditsLow, COMMON, 100%
 
 
 [StalkerAgentDropTable]
@@ -4604,14 +4665,27 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [TennoSpecterDropTable]
- - TENNO SPECTER (YinYangSwitchAugmentOneAvatar)
- - TENNO SPECTER (TennoReplicantAvatar)
  - TENNO SPECTER (TennoReplicantAllyAvatar)
+ - TENNO SPECTER (TennoReplicantAvatar)
  - TENNO SPECTER (TennoReplicantAttackDefendAvatar)
- - TENNO SPECTER (TennoReplicantAvatarStalker)
  - CHROMA (TennoReplicantChromaAvatar)
  - CHROMA (TennoReplicantChromaAvatarDerelict)
  - INFESTED MESA (TennoReplicantGunslingerAvatar)
+ - TENNO SPECTER (YinYangSwitchAugmentOneAvatar)
+ - VALKYR SPECTER (TennoReplicantBerserkerAvatar)
+ - EMBER SPECTER (TennoReplicantEmberAvatar)
+ - EXCALIBUR SPECTER (TennoReplicantExcaliburAvatar)
+ - FROST SPECTER (TennoReplicantFrostAvatar)
+ - MESA SPECTER (TennoReplicantGunslingerAvatarRelayBoss)
+ - LOKI SPECTER (TennoReplicantLokiAvatar)
+ - MAG SPECTER (TennoReplicantMagAvatar)
+ - NOVA SPECTER (TennoReplicantNovaAvatar)
+ - HYDROID SPECTER (TennoReplicantPirateAvatar)
+ - RHINO SPECTER (TennoReplicantRhinoAvatar)
+ - SARYN SPECTER (TennoReplicantSarynAvatar)
+ - TRINITY SPECTER (TennoReplicantTrinityAvatar)
+ - VOLT SPECTER (TennoReplicantVoltAvatar)
+ - EQUINOX SPECTER (TennoReplicantYinYangAvatar)
  - TENNO SPECTER (BaseSyndicateAllyAvatar)
  - Cephalon Suda Operative (CephalonSudaAllyAvatarA)
  - Cephalon Suda Operative (CephalonSudaAllyAvatarB)
@@ -4625,6 +4699,8 @@ DROP_POWERUP (Drop Chance: 25%)
  - Red Veil Operative (RedVeilAllyAvatarB)
  - Steel Meridian Operative (SteelMeridianAllyAvatarA)
  - Steel Meridian Operative (SteelMeridianAllyAvatarB)
+ - LOKI SPECTER (FairyQuestLokiAvatar)
+ - SARYN SPECTER (FairyQuestSarynAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -4797,6 +4873,106 @@ DROP_AMMO (Drop Chance: 70%)
 	10 SNIPER AMMO, COMMON, 16.67%, Bias 0.555
 	25 HEALTH, COMMON, 16.67%
 	25 ENERGY, COMMON, 16.67%
+
+DROP_POWERUP (Drop Chance: 25%)
+	25 ENERGY, COMMON, 37.94%
+	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
+	75-150 CREDITS, UNCOMMON, 22.11%
+	150-300 CREDITS, RARE, 2.01%
+
+
+[VoidTearGenericDropTable]
+
+DROP_AMMO (Drop Chance: 100%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%
+	10 SNIPER AMMO, COMMON, 25%
+
+DROP_POWERUP (Drop Chance: 25%)
+	25 ENERGY, COMMON, 50%
+	25 HEALTH, COMMON, 50%
+
+
+[VoidTearSealerDropTable]
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_MISC_ITEM (Drop Chance: 7%)
+	Uncommon Resource, COMMON, 100%
+
+DROP_POWERUP (Drop Chance: 100%)
+	DATAMASS, COMMON, 100%, Bias 1
+
+
+[VoidTearT1MiniBossDropTable]
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	VOID TRACES, RARE, 100%
+
+DROP_POWERUP (Drop Chance: 25%)
+	25 ENERGY, COMMON, 37.94%
+	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
+	75-150 CREDITS, UNCOMMON, 22.11%
+	150-300 CREDITS, RARE, 2.01%
+
+
+[VoidTearT2MiniBossDropTable]
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	VOID TRACES, RARE, 100%
+
+DROP_POWERUP (Drop Chance: 25%)
+	25 ENERGY, COMMON, 37.94%
+	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
+	75-150 CREDITS, UNCOMMON, 22.11%
+	150-300 CREDITS, RARE, 2.01%
+
+
+[VoidTearT3MiniBossDropTable]
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	VOID TRACES, RARE, 100%
+
+DROP_POWERUP (Drop Chance: 25%)
+	25 ENERGY, COMMON, 37.94%
+	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
+	75-150 CREDITS, UNCOMMON, 22.11%
+	150-300 CREDITS, RARE, 2.01%
+
+
+[VoidTearT4MiniBossDropTable]
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	VOID TRACES, RARE, 100%
 
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 37.94%
