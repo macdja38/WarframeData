@@ -1,0 +1,51 @@
+[/Lotus/Types/Game/CatbrowPet/Eggs/CatbrowPetEggItem]
+
+Colors:
+  Weight: 4
+    EXECUTIONER GREY (#9EBDB8), 57.14%
+  Weight: 2
+    HYACINTH BLUE (#199194), 28.57%
+  Weight: 1
+    REGOR GREEN (#062922), 14.29%
+
+Eye colors:
+  Weight: 1
+    Color #9DAE6C, 11.11%
+    Color #AE9465, 11.11%
+    Color #AE666F, 11.11%
+    Color #9174AE, 11.11%
+    Color #6CA1AE, 11.11%
+    Color #AE6344, 11.11%
+    Color #AE5AAB, 11.11%
+    Color #262626, 11.11%
+    Color #AE7C47, 11.11%
+
+Fur Patterns:
+  Weight: 5
+    HYACINTH FUR PATTERN, 100%
+
+Personalities:
+  Weight: 1
+    ADARZA KAVAT, 50%
+    SMEETA KAVAT, 50%
+
+Body types:
+  Weight: 4
+    CatbrowPetRegularBodyType, 80%
+  Weight: 1
+    CatbrowPetRegularBodyType, 20%
+
+Heads:
+  Weight: 1
+    CatbrowHeadA, 25%
+    CatbrowHeadB, 25%
+    CatbrowHeadC, 25%
+    CatbrowHeadD, 25%
+
+Tails:
+  Weight: 1
+    CatbrowTailA, 20%
+    CatbrowTailB, 20%
+    CatbrowTailC, 20%
+    CatbrowTailD, 20%
+    CatbrowTailE, 20%
