@@ -19,7 +19,7 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Repeater Clip, UNCOMMON, 2.21%
 	Nano-Applicator, RARE, 0.4%
 	Targeting Subsystem, UNCOMMON, 2.21%
-	Guided Ordinance, UNCOMMON, 2.21%
+	Guided Ordnance, UNCOMMON, 2.21%
 	Narrow Barrel, RARE, 0.4%
 	Focused Defense, COMMON, 15.18%
 
@@ -50,7 +50,7 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 DROP_MOD (Drop Chance: 100%, Exclusive)
 	Focused Defense, COMMON, 75.88%, Bias 0.5
 	Targeting Subsystem, UNCOMMON, 11.06%
-	Guided Ordinance, UNCOMMON, 11.06%
+	Guided Ordnance, UNCOMMON, 11.06%
 	Narrow Barrel, RARE, 2.01%
 
 
@@ -3308,11 +3308,11 @@ DROP_POWERUP (Drop Chance: 25%)
  - SNIPER CREWMAN EXIMUS (SniperSpacemanAvatarLeader)
  - ELITE CREWMAN EXIMUS (EliteSpacemanAvatarLeader)
  - LEAPER EXIMUS (LeapingRunnerAvatarLeader)
- - TOXIC CRAWLER EXIMUS (NoxiousCrawlerAvatarLeader)
  - CRAWLER EXIMUS (CrawlerAvatarLeader)
  - NAUSEOUS CRAWLER EXIMUS (GraspingCrawlerAvatarLeader)
  - LOBBER CRAWLER EXIMUS (GrenadeAvatarLeader)
  - ELECTRIC CRAWLER EXIMUS (LightningAvatarLeader)
+ - TOXIC CRAWLER EXIMUS (NoxiousCrawlerAvatarLeader)
  - SAPPING OSPREY EXIMUS (DiscDroneAvatarLeader)
  - LEECH OSPREY EXIMUS (LeechDroneAvatarLeader)
  - MINE OSPREY EXIMUS (MineDroneAvatarLeader)
@@ -4414,10 +4414,10 @@ DROP_POWERUP (Drop Chance: 75%)
 
 [SpaceDropTables/GrineerSpaceDroneDropTable]
  - DREG (GrineerSpaceDroneAvatar)
+ - [PLACEHOLDER] Suicide Mutalist (SuicideSpaceDroneAvatar)
  - Mutalist Lightning Carrier (CarrierLightningSpaceDroneAvatar)
  - Mutalist Toxic Carrier (CarrierSpaceDroneAvatar)
  - Attack Mutalist (InfestedAttackDroneAvatar)
- - [PLACEHOLDER] Suicide Mutalist (SuicideSpaceDroneAvatar)
 
 DROP_AMMO (Drop Chance: 0%)
 	20 RIFLE AMMO, COMMON, 25%
