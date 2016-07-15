@@ -5532,6 +5532,9 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_EMCompleteQuest_Name]
 "Complete Quest: ONCE AWAKE"
 
+[/Lotus/Language/Challenges/Challenge_EMGatherResource_Name]
+"Collect 500 RUBEDO in missions"
+
 [/Lotus/Language/Challenges/Challenge_EMGetKills_Name]
 "Defeat 150 FRONTIER GRINEER enemies on EARTH"
 
@@ -5545,7 +5548,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Apply 4 MODS to a single Warframe or Weapon"
 
 [/Lotus/Language/Challenges/Challenge_EVCollectMods_Name]
-"Collect 10 MODS or FUSION CORES"
+"Collect 20 MODS"
 
 [/Lotus/Language/Challenges/Challenge_EVCompleteQuest_Name]
 "Complete Quest: VOR'S PRIZE"
@@ -5669,6 +5672,9 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Challenges/Challenge_JECompleteQuest_Name]
 "Complete Quest: STOLEN DREAMS"
+
+[/Lotus/Language/Challenges/Challenge_JECompleteVoidMission_Name]
+"Complete TESHUB in the VOID"
 
 [/Lotus/Language/Challenges/Challenge_JECraftMRWeapon_Name]
 "Craft a weapon requiring MASTERY RANK 1 or higher"
@@ -5886,6 +5892,9 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_Mercenary_Name]
 "Mercenary "
 
+[/Lotus/Language/Challenges/Challenge_MPCephFragments_Name]
+"Scan 5 CEPHALON FRAGMENTS on MARS"
+
 [/Lotus/Language/Challenges/Challenge_MPGetKills_Name]
 "Defeat 150 enemies in a single mission on MARS"
 
@@ -5975,6 +5984,9 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Challenges/Challenge_PEDefenseWaves_Name]
 "Complete 20 waves of DEFENSE at STÖFLER on LUA in a single mission"
+
+[/Lotus/Language/Challenges/Challenge_PEKillBossDerelict_Name]
+"Find and defeat LEPHANTIS in DERELICT"
 
 [/Lotus/Language/Challenges/Challenge_PEKillBossPhorid_Name]
 "Defeat PHORID during an INFESTED OUTBREAK"
@@ -6998,6 +7010,9 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Challenges/Challenge_StyleKill_Name]
 "Style Kill"
+
+[/Lotus/Language/Challenges/Challenge_SUCraftDerelict_Name]
+"Craft a DERELICT KEY"
 
 [/Lotus/Language/Challenges/Challenge_SuicideAssist_Description]
 "Damage an opponent within 3 seconds of their suicide"
@@ -8732,10 +8747,10 @@ Warframe Support Team"
 "Check out the Training section of the Codex! You'll find important game mechanics and tips to improve combat."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip114]
-"Unlocking as many missions as possible increases your ability to participate in new Alerts!"
+"Completing Junctions increases your ability to participate in new Alerts!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip115]
-"Running out of resources? Complete all planet nodes and deploy a Titan Extractor to gather them for you!"
+"Running out of resources? Complete Junctions and planet nodes to deploy a Titan Extractor to gather them for you!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip116]
 "Level the battlefield by hijacking Grineer Blunts, inflatable walls, and using it as cover against their onslaught!"
@@ -8924,7 +8939,7 @@ Warframe Support Team"
 "Cephalon Simaris' Sanctuary is on the second floor of the Relays. Ride the elevator located across from the Conclave room to get to it!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip173]
-"Need a resource but don't know where to find it? Hover your cursor over a planet to show what resources drop there!"
+"Need a resource but don't know where to find it? Scroll into a Planet and hover your cursor over the Extractor Icon to show what resources drop there!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip174]
 "You can fast travel to Navigation or the Conclave room in the Relays by opening the menu and selecting your destination."
@@ -11795,7 +11810,7 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "Trade"
 
 [/Lotus/Language/Dojo/TradingPost]
-"Trading Post"
+"TRADING POST"
 
 [/Lotus/Language/Dojo/TradingPostDesc]
 "The Trading Post allows clan members to trade Mods and keys in the Dojo."
@@ -12995,7 +13010,7 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "CORPUS CREW"
 
 [/Lotus/Language/Fragments/CorpusCrew1Desc]
-"Predominantly a merchant guild, Corpus labour and security forces are composed mostly of purpose-bread humanoid crewmen, and animal-like robots; both equally indoctrinated into a ritualized and propagandist devotion to labour and work."
+"Predominantly a merchant guild, Corpus labour and security forces are composed mostly of purpose-bred humanoid crewmen, and animal-like robots; both equally indoctrinated into a ritualized and propagandist devotion to labour and work."
 
 [/Lotus/Language/Fragments/CorpusCrew1Flavor]
 "Corpus Crew"
@@ -22140,6 +22155,12 @@ This is a high-damage Warframe perfect for players who want a potent alternative
 [/Lotus/Language/HolsterCustomizations/ClawsHipsDesc]
 "Standard holster for Claws."
 
+[/Lotus/Language/HolsterCustomizations/DaggerHipsL]
+"DAGGER LEFT HIP HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/DaggerHipsLDesc]
+"Daggers are holstered at the left hip."
+
 [/Lotus/Language/HolsterCustomizations/DaggerLowerBack]
 "DAGGER STANDARD HOLSTER"
 
@@ -22195,10 +22216,16 @@ This is a high-damage Warframe perfect for players who want a potent alternative
 "Greatswords are holstered across the right shoulder."
 
 [/Lotus/Language/HolsterCustomizations/GreatSwordHips]
-"GREATSWORD STANDARD HOLSTER"
+"GREATSWORD HIP HOLSTER"
 
 [/Lotus/Language/HolsterCustomizations/GreatSwordHipsDesc]
 "Greatswords are holstered at the hips."
+
+[/Lotus/Language/HolsterCustomizations/GreatSwordUpperBack]
+"GREATSWORD STANDARD HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/GreatSwordUpperBackDesc]
+"Standard holster for Greatswords."
 
 [/Lotus/Language/HolsterCustomizations/GunbladeHipsL]
 "GUNBLADE LEFT HIP HOLSTER"
@@ -22314,6 +22341,12 @@ This is a high-damage Warframe perfect for players who want a potent alternative
 [/Lotus/Language/HolsterCustomizations/RapierHipsLDesc]
 "Standard holster for Rapiers."
 
+[/Lotus/Language/HolsterCustomizations/RapierUpperBack]
+"RAPIER UPPER BACK HOLSTER"
+
+[/Lotus/Language/HolsterCustomizations/RapierUpperBackDesc]
+"Rapiers are holstered across the upper back."
+
 [/Lotus/Language/HolsterCustomizations/RifleUpperBack]
 "RIFLE STANDARD HOLSTER"
 
@@ -22336,7 +22369,7 @@ This is a high-damage Warframe perfect for players who want a potent alternative
 "STAFF STRAIGHT HOLSTER"
 
 [/Lotus/Language/HolsterCustomizations/StaffStraightDesc]
-"Staffs are holstered on the the left shoulder."
+"Staffs are holstered on the left shoulder."
 
 [/Lotus/Language/HolsterCustomizations/SwordHipsL]
 "SWORD LEFT HIP HOLSTER"
@@ -22549,6 +22582,9 @@ Deploy this Extractor on a planet to collect large amounts of resources. It must
 
 [/Lotus/Language/Items/AffinityBoosterSevenDayName]
 "7 DAY AFFINITY BOOSTER"
+
+[/Lotus/Language/Items/AffinityBoosterThirtyDayName]
+"30 DAY AFFINITY BOOSTER"
 
 [/Lotus/Language/Items/AffinityBoosterThreeDayName]
 "3 DAY AFFINITY BOOSTER"
@@ -24025,6 +24061,18 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 [/Lotus/Language/Items/AvatarNekrosDarkName]
 "Nekros Profile Icon"
 
+[/Lotus/Language/Items/AvatarNekrosPrimeBrightDesc]
+"A profile icon depicting Nekros Prime on a bright background."
+
+[/Lotus/Language/Items/AvatarNekrosPrimeBrightName]
+"Nekros Prime Profile Icon"
+
+[/Lotus/Language/Items/AvatarNekrosPrimeDarkDesc]
+"A profile icon depicting Nekros Prime on a dark background."
+
+[/Lotus/Language/Items/AvatarNekrosPrimeDarkName]
+"Nekros Prime Profile Icon"
+
 [/Lotus/Language/Items/AvatarNekrosShroudBrightDesc]
 "A profile icon depicting Nekros Shroud on a bright background."
 
@@ -24726,6 +24774,30 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 
 [/Lotus/Language/Items/AvatarSkarksteethName]
 "THE STALKER PROFILE ICON"
+
+[/Lotus/Language/Items/AvatarTitaniaAltBrightDesc]
+"[PLACEHOLDER] A profile icon depicting Titania Alt on a bright background."
+
+[/Lotus/Language/Items/AvatarTitaniaAltBrightName]
+"[PLACEHOLDER] Titania Alt Profile Icon"
+
+[/Lotus/Language/Items/AvatarTitaniaAltDarkDesc]
+"[PLACEHOLDER] A profile icon depicting Titania Alt on a dark background."
+
+[/Lotus/Language/Items/AvatarTitaniaAltDarkName]
+"[PLACEHOLDER] Titania Alt Profile Icon"
+
+[/Lotus/Language/Items/AvatarTitaniaBrightDesc]
+"A profile icon depicting Titania on a bright background."
+
+[/Lotus/Language/Items/AvatarTitaniaBrightName]
+"Titania Profile Icon"
+
+[/Lotus/Language/Items/AvatarTitaniaDarkDesc]
+"A profile icon depicting Titania on a dark background."
+
+[/Lotus/Language/Items/AvatarTitaniaDarkName]
+"Titania Profile Icon"
 
 [/Lotus/Language/Items/AvatarTrapperAltBrightDescription]
 "A profile icon depicting Esprit Vauban on a bright background."
@@ -26907,6 +26979,9 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/CreditBoosterSevenDayName]
 "7 DAY CREDIT BOOSTER"
 
+[/Lotus/Language/Items/CreditBoosterThirtyDayName]
+"30 DAY CREDIT BOOSTER"
+
 [/Lotus/Language/Items/CreditBoosterThreeDayName]
 "3 DAY CREDIT BOOSTER"
 
@@ -26914,7 +26989,7 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 "FRUGAL CREDIT BUNDLE"
 
 [/Lotus/Language/Items/CreditBundleADesc]
-"By purchasing this item you can directly exchange 30<PLATINUM_CREDITS>(Platinum) for 9000<CREDITS>(Credits)."
+"By purchasing this item you can directly exchange 30<PLATINUM_CREDITS>(Platinum) for 50000<CREDITS>(Credits)."
 
 [/Lotus/Language/Items/CreditBundleB]
 "PRODIGAL CREDIT BUNDLE"
@@ -26926,7 +27001,7 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 "HIGH ROLLER CREDIT BUNDLE"
 
 [/Lotus/Language/Items/CreditBundleCDesc]
-"By purchasing this item you can directly exchange 90<PLATINUM_CREDITS>(Platinum) for 30000<CREDITS>(Credits)."
+"By purchasing this item you can directly exchange 90<PLATINUM_CREDITS>(Platinum) for 175000<CREDITS>(Credits)."
 
 [/Lotus/Language/Items/CreditChipLargeDesc]
 "Give unto The Void a generous 100,000 credits."
@@ -27250,19 +27325,19 @@ This bundle of 1 Tethra Data Fragment can be used for crafting items in your Fou
 "SUNLIGHT THRESHCONE EXTRACT"
 
 [/Lotus/Language/Items/DayCommonSampleDesc]
-"A sample take from a common day-time plant."
+"A sample taken from a threshcone during the day."
 
 [/Lotus/Language/Items/DayRareSample]
 "SUNLIGHT JADELEAF EXTRACT"
 
 [/Lotus/Language/Items/DayRareSampleDesc]
-"A sample taken from a rare day-time plant."
+"A sample taken from a jadeleaf during the day."
 
 [/Lotus/Language/Items/DayUnCommonSample]
 "SUNLIGHT DRAGONLILY EXTRACT"
 
 [/Lotus/Language/Items/DayUnCommonSampleDesc]
-"A sample taken from an uncommon day-time plant."
+"A sample taken from a dragonlily during the day."
 
 [/Lotus/Language/Items/DazzleCamoBratonDesc]
 "The Shock-Camo skin for the Braton."
@@ -30082,109 +30157,10 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/Holster_BowUpperBack]
 "[Placeholder] Upper Back"
 
-[/Lotus/Language/Items/Holster_DualSwordHighLow]
-"[Placeholder] High Low"
-
-[/Lotus/Language/Items/Holster_DualSwordHips]
-"[Placeholder] Hips"
-
-[/Lotus/Language/Items/Holster_DualSwordStraight]
-"[Placeholder] Straight"
-
-[/Lotus/Language/Items/Holster_GreatSwordCrossed]
-"[Placeholder] Crossed"
-
-[/Lotus/Language/Items/Holster_GreatSwordHips]
-"[Placeholder] Hips"
-
-[/Lotus/Language/Items/Holster_GunbladeHipsL]
-"[Placeholder] Hips Left"
-
-[/Lotus/Language/Items/Holster_GunbladeHipsR]
-"[Placeholder] Hips Right"
-
-[/Lotus/Language/Items/Holster_GunbladeLowerBack]
-"[Placeholder] Lower Back"
-
-[/Lotus/Language/Items/Holster_GunbladeUpperBack]
-"[Placeholder] Upper Back"
-
-[/Lotus/Language/Items/Holster_HeavyHipsL]
-"[Placeholder] Hips Left"
-
-[/Lotus/Language/Items/Holster_HeavyHipsR]
-"[Placeholder] Hips Right"
-
-[/Lotus/Language/Items/Holster_HeavyLowerBack]
-"[Placeholder] Lower Back"
-
-[/Lotus/Language/Items/Holster_HeavyUpperBack]
-"[Placeholder] Upper Back"
-
-[/Lotus/Language/Items/Holster_KatanaCrossedL]
-"[Placeholder] Crossed Left"
-
-[/Lotus/Language/Items/Holster_KatanaCrossedR]
-"[Placeholder] Crossed Right"
-
-[/Lotus/Language/Items/Holster_KatanaHipsL]
-"[Placeholder] Hips Left"
-
-[/Lotus/Language/Items/Holster_NunchakuCrossed]
-"[Placeholder] Crossed"
-
-[/Lotus/Language/Items/Holster_NunchakuHips]
-"[Placeholder] Hips"
-
-[/Lotus/Language/Items/Holster_NunchakuLowerBack]
-"[Placeholder] Lower Back"
-
 [/Lotus/Language/Items/Holster_PistolHips]
 "[Placeholder] Hips"
 
-[/Lotus/Language/Items/Holster_RapierHipsL]
-"[Placeholder] Hips Left"
-
 [/Lotus/Language/Items/Holster_RifleUpperBack]
-"[Placeholder] Upper Back"
-
-[/Lotus/Language/Items/Holster_StaffCrossed]
-"[Placeholder] Crossed"
-
-[/Lotus/Language/Items/Holster_StaffLowerBack]
-"[Placeholder] LowerBack"
-
-[/Lotus/Language/Items/Holster_StaffStraight]
-"[Placeholder] Straight"
-
-[/Lotus/Language/Items/Holster_SwordHipsL]
-"[Placeholder] Hips Left"
-
-[/Lotus/Language/Items/Holster_SwordHipsR]
-"[Placeholder] Hips Right"
-
-[/Lotus/Language/Items/Holster_SwordShieldDefault]
-"[Placeholder] Default"
-
-[/Lotus/Language/Items/Holster_SwordShieldDownward]
-"[Placeholder] Downward"
-
-[/Lotus/Language/Items/Holster_SwordShieldUpward]
-"[Placeholder] Upward"
-
-[/Lotus/Language/Items/Holster_SwordUpperBack]
-"[Placeholder] Upper Back"
-
-[/Lotus/Language/Items/Holster_SwordWhipLowerBack]
-"[Placeholder] LowerBack"
-
-[/Lotus/Language/Items/Holster_TonfaCrossed]
-"[Placeholder] Crossed"
-
-[/Lotus/Language/Items/Holster_TonfaHips]
-"[Placeholder] Hips"
-
-[/Lotus/Language/Items/Holster_TonfaUpperBack]
 "[Placeholder] Upper Back"
 
 [/Lotus/Language/Items/HolsterSeriesOnePackDesc]
@@ -30809,7 +30785,7 @@ Blueprint is reusable and will not be consumed."
 "Reverse grip style emphasizing slashing and impaling strikes"
 
 [/Lotus/Language/Items/KavatBaseColorPackDesc]
-"Change a kavat's coat coloration and pattern to match that of the Adarza or Smeeta Kavat species."
+"Change a kavat's coat coloration to match that of the Adarza or Smeeta Kavat species."
 
 [/Lotus/Language/Items/KavatBaseColorPackName]
 "KAVAT GENE-MASKING KIT"
@@ -32935,7 +32911,7 @@ This bundle of 1 Neurode can be used for crafting items in your Foundry."
 "MOONLIGHT THRESHCONE EXTRACT"
 
 [/Lotus/Language/Items/NightCommonSampleDesc]
-"A sample taken from a common night-time plant."
+"A sample taken from a threshcone at night."
 
 [/Lotus/Language/Items/NightmareGrineerTrialsDesc]
 "Vay Hek's Fomorian assault on our Relays was devastating but he failed to break us. Now we take the fight back to him. Now we exact justice.
@@ -32955,13 +32931,13 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 "MOONLIGHT JADELEAF EXTRACT"
 
 [/Lotus/Language/Items/NightRareSampleDesc]
-"A sample taken from a rare night-time plant."
+"A sample taken from a jadeleaf at night."
 
 [/Lotus/Language/Items/NightUnCommonSample]
 "MOONLIGHT DRAGONLILY EXTRACT"
 
 [/Lotus/Language/Items/NightUnCommonSampleDesc]
-"A sample taken from an uncommon night-time plant."
+"A sample taken from a dragonlily at night."
 
 [/Lotus/Language/Items/NinjaAgileAnims]
 "ASH AGILE ANIMATION SET"
@@ -35308,6 +35284,9 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/ResourceAmountBoosterSevenDayName]
 "7 DAY RESOURCE BOOSTER"
 
+[/Lotus/Language/Items/ResourceAmountBoosterThirtyDayName]
+"30 DAY RESOURCE BOOSTER"
+
 [/Lotus/Language/Items/ResourceAmountBoosterThreeDayName]
 "3 DAY RESOURCE BOOSTER"
 
@@ -35319,6 +35298,9 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/ResourceDropChanceBoosterSevenDayName]
 "7 DAY RESOURCE DROP CHANCE BOOSTER"
+
+[/Lotus/Language/Items/ResourceDropChanceBoosterThirtyDayName]
+"30 DAY RESOURCE DROP CHANCE BOOSTER"
 
 [/Lotus/Language/Items/ResourceDropChanceBoosterThreeDayName]
 "3 DAY RESOURCE DROP CHANCE BOOSTER"
@@ -37691,7 +37673,7 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "AXI A1 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectionf]
-"AXI V1 RELIC"
+"AXI V2 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectiong]
 "AXI N2 RELIC"
@@ -37796,6 +37778,12 @@ Blueprint is reusable and will not be consumed."
 
 [/Lotus/Language/Items/TelluriumDesc]
 "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars."
+
+[/Lotus/Language/Items/TenCipherBlueprint]
+"CIPHER PACK BLUEPRINT"
+
+[/Lotus/Language/Items/TenCipherBlueprintDesc]
+"A bundle containing ten ciphers."
 
 [/Lotus/Language/Items/TenguAgileAnims]
 "ZEPHYR AGILE ANIMATION SET"
@@ -39805,6 +39793,9 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/ZephyrTurbulenceAbilityDesc]
 "Creates a wind shield around Zephyr, redirecting all incoming projectiles."
 
+[/Lotus/Language/Junction/LowerBarrier]
+"CONFRONT SPECTER"
+
 [/Lotus/Language/Junction/RegionDesc]
 "Complete all the tasks listed below to gain access to a new planet"
 
@@ -39814,11 +39805,8 @@ Note: This item requires two open slots."
 [/Lotus/Language/Junction/RewardTitle]
 "REWARD |X|/|Y| - |REWARD|"
 
-[/Lotus/Language/Junction/TaskListPrompt]
-"View Tasks"
-
 [/Lotus/Language/Junction/TaskListTitle]
-"Junction Tasks"
+"Junction Goals"
 
 [/Lotus/Language/Launcher/ActivateAccount]
 "Activate Account"
@@ -41547,6 +41535,9 @@ Darvo"
 
 [/Lotus/Language/Melee/AxeChargeComboA]
 "Crowd Fall"
+
+[/Lotus/Language/Melee/AxeEquippedAttacksDefault]
+"Skull Splitter"
 
 [/Lotus/Language/Melee/AxeEquippedThreeAttacksBDefault]
 "August Mesto"
@@ -44078,7 +44069,7 @@ Are you sure you want to mature |NAME|?"
 [/Lotus/Language/Menu/ConfirmPutInStasis]
 "|NAME| will not decay in LOYALTY or DNA INTEGRITY while in stasis.
 
-Puppies do not mature while in stasis.
+Kubrow puppies and Kavat kittens do not mature while in stasis.
 
 Recovery from stasis takes |TIME|. 
 
@@ -44342,6 +44333,9 @@ Are you sure?"
 
 [/Lotus/Language/Menu/Cosmetics_YScale]
 "HEIGHT"
+
+[/Lotus/Language/Menu/Cosmetics_ZOffset]
+"Z OFFSET"
 
 [/Lotus/Language/Menu/CouldNotAbortAlreadyCompleted]
 "Mission could not be aborted because it has already been completed!"
@@ -46291,6 +46285,9 @@ Best: |HIGHSCORE|"
 [/Lotus/Language/Menu/DeployResourceDrone]
 "DEPLOY EXTRACTOR"
 
+[/Lotus/Language/Menu/DeployResourceDrone_CannotLaunch]
+"Extractors cannot be deployed in this system."
+
 [/Lotus/Language/Menu/DeployResourceDrone_Locked]
 "Unlock all nodes in this system to deploy a resource extractor"
 
@@ -47042,11 +47039,14 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 [/Lotus/Language/Menu/GiftUseCouponCheck]
 "Buy gift with coupon?"
 
+[/Lotus/Language/Menu/Global_30Days]
+"30 DAYS"
+
 [/Lotus/Language/Menu/Global_3Days]
-"3 DAY"
+"3 DAYS"
 
 [/Lotus/Language/Menu/Global_7Days]
-"7 DAY"
+"7 DAYS"
 
 [/Lotus/Language/Menu/Global_Accept]
 "ACCEPT"
@@ -47065,6 +47065,9 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 
 [/Lotus/Language/Menu/Global_BoosterUsesLeft]
 "%s uses left."
+
+[/Lotus/Language/Menu/Global_BuyBlueprint]
+"PURCHASE BLUEPRINT"
 
 [/Lotus/Language/Menu/Global_BuyItem]
 "PURCHASE"
@@ -47290,7 +47293,7 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "HIDE MAXED MODS"
 
 [/Lotus/Language/Menu/HideOwned]
-"HIDE OWNED  <CHECKMARK_OUTLINE>"
+"HIDE OWNED <CHECKMARK_OUTLINE>"
 
 [/Lotus/Language/Menu/HoldForMeleeMode]
 "Hold To Enter Melee Mode"
@@ -47698,10 +47701,13 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "Sprint"
 
 [/Lotus/Language/Menu/Input_SCOOP_CHANNEL]
-"Throw / catch"
+"Throw"
 
 [/Lotus/Language/Menu/Input_SCOOP_PARRY]
 "Ball Magnet"
+
+[/Lotus/Language/Menu/Input_SCOOP_PASS]
+"Pass"
 
 [/Lotus/Language/Menu/Input_SCOOP_SWING]
 "Check"
@@ -51410,8 +51416,14 @@ Doing so will consume this Relic."
 [/Lotus/Language/Menu/ProjectionManager_ProjectionQualityTitle]
 "|QUALITY| RELIC"
 
+[/Lotus/Language/Menu/ProjectionManager_RefineProjection]
+"REFINE RELIC"
+
 [/Lotus/Language/Menu/ProjectionManager_Rewards]
 "POSSIBLE REWARDS"
+
+[/Lotus/Language/Menu/ProjectionManager_SelectProjection]
+"SELECT RELIC"
 
 [/Lotus/Language/Menu/ProjectionManager_ShortTierDesc1]
 "LITH"
@@ -52349,10 +52361,10 @@ Thank you for your partnership."
 "SHOW MAXED MODS"
 
 [/Lotus/Language/Menu/ShowBlueprintsOff]
-"BLUEPRINTS ONLY  <CHECKMARK_OUTLINE>"
+"BLUEPRINTS ONLY <CHECKMARK_OUTLINE>"
 
 [/Lotus/Language/Menu/ShowBlueprintsOn]
-"BLUEPRINTS ONLY  <CHECKMARK>"
+"BLUEPRINTS ONLY <CHECKMARK>"
 
 [/Lotus/Language/Menu/ShowCollection]
 "MODS"
@@ -52379,7 +52391,7 @@ Thank you for your partnership."
 "VIEW STATS WITH MODS"
 
 [/Lotus/Language/Menu/ShowOwned]
-"HIDE OWNED  <CHECKMARK>"
+"HIDE OWNED <CHECKMARK>"
 
 [/Lotus/Language/Menu/ShowPlatformParty]
 "PARTY"
@@ -54267,7 +54279,7 @@ https://warframe.com/eula"
 "Targeting Subsystem"
 
 [/Lotus/Language/Mods/AccuracyWhileAimingRifleMod]
-"Guided Ordinance"
+"Guided Ordnance"
 
 [/Lotus/Language/Mods/AccuracyWhileAimingShotgunMod]
 "Narrow Barrel"
@@ -55295,6 +55307,9 @@ https://warframe.com/eula"
 [/Lotus/Language/Ngen/NgenWyrmName]
 "WYRM OBSIDIAN SKIN"
 
+[/Lotus/Language/Objectives/ArchwingRaceGo]
+"Go"
+
 [/Lotus/Language/Objectives/ArtifactFound]
 "Artifact located, retrieve it."
 
@@ -55961,6 +55976,18 @@ As proof of your deed"
 [/Lotus/Language/Primes/PrimeSentinelBioWeaponName]
 "STINGER PRIME"
 
+[/Lotus/Language/Primes/PrimeSetThreeArmArmourName]
+"[PLACEHOLDER] PRIME THREE ARMS"
+
+[/Lotus/Language/Primes/PrimeSetThreeArmourDesc]
+"[PLACEHOLDER] Description"
+
+[/Lotus/Language/Primes/PrimeSetThreeChestArmourName]
+"[PLACEHOLDER] PRIME THREE CHEST"
+
+[/Lotus/Language/Primes/PrimeSetThreeLegArmourName]
+"[PLACEHOLDER] PRIME THREE LEGS"
+
 [/Lotus/Language/Primes/PrimeShadeDesc]
 "[PLACEHOLDER] Description"
 
@@ -55990,6 +56017,12 @@ As proof of your deed"
 
 [/Lotus/Language/Primes/TrinityPrimeName]
 "TRINITY PRIME"
+
+[/Lotus/Language/Primes/UruPrimeScarfDesc]
+"[PLACEHOLDER] Description"
+
+[/Lotus/Language/Primes/UruPrimeScarfName]
+"[PLACEHOLDER] URU PRIME SCARF"
 
 [/Lotus/Language/Primes/UruPrimeSyandanaDesc]
 "[PLACEHOLDER] Description"
@@ -57584,10 +57617,10 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "|TARGET| SYNTHESIS"
 
 [/Lotus/Language/Scans/GftPlantRuksClawMatureDesc]
-"Named after Varom Ruk who founded the first Grineer colony on Mars, this exotic plant has been introduced to arid regions across the Origin system."
+"This plant was introduced to arid regions across the Origin system, for its ability to collect moisture in harsh environments."
 
 [/Lotus/Language/Scans/GftPlantRuksClawMatureName]
-"Ruk's Claw"
+"RUK'S CLAW"
 
 [/Lotus/Language/Scans/GofPlantAPlantDesc]
 "This strange looking anemone is only found in deep oceans."
@@ -57605,37 +57638,37 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "Desert Skates are known to feed off this weed."
 
 [/Lotus/Language/Scans/IresPlantName]
-"Skateweed"
+"SKATEWEED"
 
 [/Lotus/Language/Scans/MossGroundCoverAPlantDesc]
 "One of the few known plant species able to thrive on asteroids in deep space."
 
 [/Lotus/Language/Scans/MossGroundCoverAPlantName]
-"Vestan Moss"
+"VESTAN MOSS"
 
 [/Lotus/Language/Scans/OroFungusADesc]
-"This fungus once served a vital role, facilitating the removal of toxins from the aquaponic systems aboard Orokin vessels."
+"This fungus once served a vital role, facilitating the removal of toxins from the aquaponic systems aboard Orokin vessels. If left unchecked it is capable of spreading through its environment at an alarming rate."
 
 [/Lotus/Language/Scans/OroFungusAName]
-"Cerulean Fungus"
+"CERULEAN FUNGUS"
 
 [/Lotus/Language/Scans/OroPorcelainBushAPlantDesc]
-"A plant from outside the Origin system, was prized by the Orokin for its otherworldly beauty."
+"A plant prized by the Orokin for its otherworldly beauty."
 
 [/Lotus/Language/Scans/OroPorcelainBushAPlantName]
-"Ghost Brush"
+"GHOST BRUSH"
 
 [/Lotus/Language/Scans/WildGingerDesc]
 "This resilient plant provides a natural food source in frigid areas of the Origin system."
 
 [/Lotus/Language/Scans/WildGingerName]
-"Frostleaf"
+"FROSTLEAF"
 
 [/Lotus/Language/Scans/ZenCobraLotusDesc]
-"This robust, carnivorous plant has adapted to the polluted waters surrounding the Grineer Shipyards."
+"This robust, carnivorous plant has adapted to conditions in polluted waters."
 
 [/Lotus/Language/Scans/ZenCobraLotusName]
-"Dusklight Sarracenia"
+"DUSKLIGHT SARRACENIA"
 
 [/Lotus/Language/Scans/ZenFlowerLotusTallDesc]
 "This beautiful flower is a rare find, growing near the Grineer Shipyards."
@@ -64463,6 +64496,9 @@ Tap <MELEE> when you blade is drawn to strike."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCOverdrive0300Lotus]
 "You've almost done it."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DVRCPickReact0130Lotus]
+"The enemies are dropping reactant. Feed it into the Fissure."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCPickReact0140Lotus]
 "They're dropping reactant. You need that to finish the process."
