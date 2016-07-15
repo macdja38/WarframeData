@@ -212,9 +212,9 @@ Level: 10-100
 Level: 25-100
 	Retribution, RARE, AP_DEFENSE
 
-AP_FUSION=0.3
 AP_TACTIC=0.1
 AP_PRECEPT=0.1
+AP_FUSION=0.3
 
 [/Lotus/Upgrades/Mods/DropTables/GrineerUpgradeDrops]
 Level: 0-10
