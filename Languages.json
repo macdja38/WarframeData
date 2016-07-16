@@ -4697,6 +4697,9 @@
   "/lotus/language/challenges/challenge_emcompletequest_name": {
     "value": "Complete Quest: ONCE AWAKE"
   },
+  "/lotus/language/challenges/challenge_emgatherresource_name": {
+    "value": "Collect 500 RUBEDO in missions"
+  },
   "/lotus/language/challenges/challenge_emgetkills_name": {
     "value": "Defeat 150 FRONTIER GRINEER enemies on EARTH"
   },
@@ -4710,7 +4713,7 @@
     "value": "Apply 4 MODS to a single Warframe or Weapon"
   },
   "/lotus/language/challenges/challenge_evcollectmods_name": {
-    "value": "Collect 10 MODS or FUSION CORES"
+    "value": "Collect 20 MODS"
   },
   "/lotus/language/challenges/challenge_evcompletequest_name": {
     "value": "Complete Quest: VOR'S PRIZE"
@@ -4834,6 +4837,9 @@
   },
   "/lotus/language/challenges/challenge_jecompletequest_name": {
     "value": "Complete Quest: STOLEN DREAMS"
+  },
+  "/lotus/language/challenges/challenge_jecompletevoidmission_name": {
+    "value": "Complete TESHUB in the VOID"
   },
   "/lotus/language/challenges/challenge_jecraftmrweapon_name": {
     "value": "Craft a weapon requiring MASTERY RANK 1 or higher"
@@ -5051,6 +5057,9 @@
   "/lotus/language/challenges/challenge_mercenary_name": {
     "value": "Mercenary "
   },
+  "/lotus/language/challenges/challenge_mpcephfragments_name": {
+    "value": "Scan 5 CEPHALON FRAGMENTS on MARS"
+  },
   "/lotus/language/challenges/challenge_mpgetkills_name": {
     "value": "Defeat 150 enemies in a single mission on MARS"
   },
@@ -5140,6 +5149,9 @@
   },
   "/lotus/language/challenges/challenge_pedefensewaves_name": {
     "value": "Complete 20 waves of DEFENSE at STÖFLER on LUA in a single mission"
+  },
+  "/lotus/language/challenges/challenge_pekillbossderelict_name": {
+    "value": "Find and defeat LEPHANTIS in DERELICT"
   },
   "/lotus/language/challenges/challenge_pekillbossphorid_name": {
     "value": "Defeat PHORID during an INFESTED OUTBREAK"
@@ -6163,6 +6175,9 @@
   },
   "/lotus/language/challenges/challenge_stylekill_name": {
     "value": "Style Kill"
+  },
+  "/lotus/language/challenges/challenge_sucraftderelict_name": {
+    "value": "Craft a DERELICT KEY"
   },
   "/lotus/language/challenges/challenge_suicideassist_description": {
     "value": "Damage an opponent within 3 seconds of their suicide"
@@ -7593,10 +7608,10 @@
     "value": "Check out the Training section of the Codex! You'll find important game mechanics and tips to improve combat."
   },
   "/lotus/language/designcounciltips/dc_tip114": {
-    "value": "Unlocking as many missions as possible increases your ability to participate in new Alerts!"
+    "value": "Completing Junctions increases your ability to participate in new Alerts!"
   },
   "/lotus/language/designcounciltips/dc_tip115": {
-    "value": "Running out of resources? Complete all planet nodes and deploy a Titan Extractor to gather them for you!"
+    "value": "Running out of resources? Complete Junctions and planet nodes to deploy a Titan Extractor to gather them for you!"
   },
   "/lotus/language/designcounciltips/dc_tip116": {
     "value": "Level the battlefield by hijacking Grineer Blunts, inflatable walls, and using it as cover against their onslaught!"
@@ -7785,7 +7800,7 @@
     "value": "Cephalon Simaris' Sanctuary is on the second floor of the Relays. Ride the elevator located across from the Conclave room to get to it!"
   },
   "/lotus/language/designcounciltips/dc_tip173": {
-    "value": "Need a resource but don't know where to find it? Hover your cursor over a planet to show what resources drop there!"
+    "value": "Need a resource but don't know where to find it? Scroll into a Planet and hover your cursor over the Extractor Icon to show what resources drop there!"
   },
   "/lotus/language/designcounciltips/dc_tip174": {
     "value": "You can fast travel to Navigation or the Conclave room in the Relays by opening the menu and selecting your destination."
@@ -10632,7 +10647,7 @@
     "value": "Trade"
   },
   "/lotus/language/dojo/tradingpost": {
-    "value": "Trading Post"
+    "value": "TRADING POST"
   },
   "/lotus/language/dojo/tradingpostdesc": {
     "value": "The Trading Post allows clan members to trade Mods and keys in the Dojo."
@@ -11832,7 +11847,7 @@
     "value": "CORPUS CREW"
   },
   "/lotus/language/fragments/corpuscrew1desc": {
-    "value": "Predominantly a merchant guild, Corpus labour and security forces are composed mostly of purpose-bread humanoid crewmen, and animal-like robots; both equally indoctrinated into a ritualized and propagandist devotion to labour and work."
+    "value": "Predominantly a merchant guild, Corpus labour and security forces are composed mostly of purpose-bred humanoid crewmen, and animal-like robots; both equally indoctrinated into a ritualized and propagandist devotion to labour and work."
   },
   "/lotus/language/fragments/corpuscrew1flavor": {
     "value": "Corpus Crew"
@@ -18758,6 +18773,12 @@
   "/lotus/language/holstercustomizations/clawshipsdesc": {
     "value": "Standard holster for Claws."
   },
+  "/lotus/language/holstercustomizations/daggerhipsl": {
+    "value": "DAGGER LEFT HIP HOLSTER"
+  },
+  "/lotus/language/holstercustomizations/daggerhipsldesc": {
+    "value": "Daggers are holstered at the left hip."
+  },
   "/lotus/language/holstercustomizations/daggerlowerback": {
     "value": "DAGGER STANDARD HOLSTER"
   },
@@ -18813,10 +18834,16 @@
     "value": "Greatswords are holstered across the right shoulder."
   },
   "/lotus/language/holstercustomizations/greatswordhips": {
-    "value": "GREATSWORD STANDARD HOLSTER"
+    "value": "GREATSWORD HIP HOLSTER"
   },
   "/lotus/language/holstercustomizations/greatswordhipsdesc": {
     "value": "Greatswords are holstered at the hips."
+  },
+  "/lotus/language/holstercustomizations/greatswordupperback": {
+    "value": "GREATSWORD STANDARD HOLSTER"
+  },
+  "/lotus/language/holstercustomizations/greatswordupperbackdesc": {
+    "value": "Standard holster for Greatswords."
   },
   "/lotus/language/holstercustomizations/gunbladehipsl": {
     "value": "GUNBLADE LEFT HIP HOLSTER"
@@ -18932,6 +18959,12 @@
   "/lotus/language/holstercustomizations/rapierhipsldesc": {
     "value": "Standard holster for Rapiers."
   },
+  "/lotus/language/holstercustomizations/rapierupperback": {
+    "value": "RAPIER UPPER BACK HOLSTER"
+  },
+  "/lotus/language/holstercustomizations/rapierupperbackdesc": {
+    "value": "Rapiers are holstered across the upper back."
+  },
   "/lotus/language/holstercustomizations/rifleupperback": {
     "value": "RIFLE STANDARD HOLSTER"
   },
@@ -18954,7 +18987,7 @@
     "value": "STAFF STRAIGHT HOLSTER"
   },
   "/lotus/language/holstercustomizations/staffstraightdesc": {
-    "value": "Staffs are holstered on the the left shoulder."
+    "value": "Staffs are holstered on the left shoulder."
   },
   "/lotus/language/holstercustomizations/swordhipsl": {
     "value": "SWORD LEFT HIP HOLSTER"
@@ -19117,6 +19150,9 @@
   },
   "/lotus/language/items/affinityboostersevendayname": {
     "value": "7 DAY AFFINITY BOOSTER"
+  },
+  "/lotus/language/items/affinityboosterthirtydayname": {
+    "value": "30 DAY AFFINITY BOOSTER"
   },
   "/lotus/language/items/affinityboosterthreedayname": {
     "value": "3 DAY AFFINITY BOOSTER"
@@ -20555,6 +20591,18 @@
   "/lotus/language/items/avatarnekrosdarkname": {
     "value": "Nekros Profile Icon"
   },
+  "/lotus/language/items/avatarnekrosprimebrightdesc": {
+    "value": "A profile icon depicting Nekros Prime on a bright background."
+  },
+  "/lotus/language/items/avatarnekrosprimebrightname": {
+    "value": "Nekros Prime Profile Icon"
+  },
+  "/lotus/language/items/avatarnekrosprimedarkdesc": {
+    "value": "A profile icon depicting Nekros Prime on a dark background."
+  },
+  "/lotus/language/items/avatarnekrosprimedarkname": {
+    "value": "Nekros Prime Profile Icon"
+  },
   "/lotus/language/items/avatarnekrosshroudbrightdesc": {
     "value": "A profile icon depicting Nekros Shroud on a bright background."
   },
@@ -21250,6 +21298,30 @@
   },
   "/lotus/language/items/avatarskarksteethname": {
     "value": "THE STALKER PROFILE ICON"
+  },
+  "/lotus/language/items/avatartitaniaaltbrightdesc": {
+    "value": "[PLACEHOLDER] A profile icon depicting Titania Alt on a bright background."
+  },
+  "/lotus/language/items/avatartitaniaaltbrightname": {
+    "value": "[PLACEHOLDER] Titania Alt Profile Icon"
+  },
+  "/lotus/language/items/avatartitaniaaltdarkdesc": {
+    "value": "[PLACEHOLDER] A profile icon depicting Titania Alt on a dark background."
+  },
+  "/lotus/language/items/avatartitaniaaltdarkname": {
+    "value": "[PLACEHOLDER] Titania Alt Profile Icon"
+  },
+  "/lotus/language/items/avatartitaniabrightdesc": {
+    "value": "A profile icon depicting Titania on a bright background."
+  },
+  "/lotus/language/items/avatartitaniabrightname": {
+    "value": "Titania Profile Icon"
+  },
+  "/lotus/language/items/avatartitaniadarkdesc": {
+    "value": "A profile icon depicting Titania on a dark background."
+  },
+  "/lotus/language/items/avatartitaniadarkname": {
+    "value": "Titania Profile Icon"
   },
   "/lotus/language/items/avatartrapperaltbrightdescription": {
     "value": "A profile icon depicting Esprit Vauban on a bright background."
@@ -23276,6 +23348,9 @@
   "/lotus/language/items/creditboostersevendayname": {
     "value": "7 DAY CREDIT BOOSTER"
   },
+  "/lotus/language/items/creditboosterthirtydayname": {
+    "value": "30 DAY CREDIT BOOSTER"
+  },
   "/lotus/language/items/creditboosterthreedayname": {
     "value": "3 DAY CREDIT BOOSTER"
   },
@@ -23283,7 +23358,7 @@
     "value": "FRUGAL CREDIT BUNDLE"
   },
   "/lotus/language/items/creditbundleadesc": {
-    "value": "By purchasing this item you can directly exchange 30<PLATINUM_CREDITS>(Platinum) for 9000<CREDITS>(Credits)."
+    "value": "By purchasing this item you can directly exchange 30<PLATINUM_CREDITS>(Platinum) for 50000<CREDITS>(Credits)."
   },
   "/lotus/language/items/creditbundleb": {
     "value": "PRODIGAL CREDIT BUNDLE"
@@ -23295,7 +23370,7 @@
     "value": "HIGH ROLLER CREDIT BUNDLE"
   },
   "/lotus/language/items/creditbundlecdesc": {
-    "value": "By purchasing this item you can directly exchange 90<PLATINUM_CREDITS>(Platinum) for 30000<CREDITS>(Credits)."
+    "value": "By purchasing this item you can directly exchange 90<PLATINUM_CREDITS>(Platinum) for 175000<CREDITS>(Credits)."
   },
   "/lotus/language/items/creditchiplargedesc": {
     "value": "Give unto The Void a generous 100,000 credits."
@@ -23610,19 +23685,19 @@
     "value": "SUNLIGHT THRESHCONE EXTRACT"
   },
   "/lotus/language/items/daycommonsampledesc": {
-    "value": "A sample take from a common day-time plant."
+    "value": "A sample taken from a threshcone during the day."
   },
   "/lotus/language/items/dayraresample": {
     "value": "SUNLIGHT JADELEAF EXTRACT"
   },
   "/lotus/language/items/dayraresampledesc": {
-    "value": "A sample taken from a rare day-time plant."
+    "value": "A sample taken from a jadeleaf during the day."
   },
   "/lotus/language/items/dayuncommonsample": {
     "value": "SUNLIGHT DRAGONLILY EXTRACT"
   },
   "/lotus/language/items/dayuncommonsampledesc": {
-    "value": "A sample taken from an uncommon day-time plant."
+    "value": "A sample taken from a dragonlily during the day."
   },
   "/lotus/language/items/dazzlecamobratondesc": {
     "value": "The Shock-Camo skin for the Braton."
@@ -26354,109 +26429,10 @@
   "/lotus/language/items/holster_bowupperback": {
     "value": "[Placeholder] Upper Back"
   },
-  "/lotus/language/items/holster_dualswordhighlow": {
-    "value": "[Placeholder] High Low"
-  },
-  "/lotus/language/items/holster_dualswordhips": {
-    "value": "[Placeholder] Hips"
-  },
-  "/lotus/language/items/holster_dualswordstraight": {
-    "value": "[Placeholder] Straight"
-  },
-  "/lotus/language/items/holster_greatswordcrossed": {
-    "value": "[Placeholder] Crossed"
-  },
-  "/lotus/language/items/holster_greatswordhips": {
-    "value": "[Placeholder] Hips"
-  },
-  "/lotus/language/items/holster_gunbladehipsl": {
-    "value": "[Placeholder] Hips Left"
-  },
-  "/lotus/language/items/holster_gunbladehipsr": {
-    "value": "[Placeholder] Hips Right"
-  },
-  "/lotus/language/items/holster_gunbladelowerback": {
-    "value": "[Placeholder] Lower Back"
-  },
-  "/lotus/language/items/holster_gunbladeupperback": {
-    "value": "[Placeholder] Upper Back"
-  },
-  "/lotus/language/items/holster_heavyhipsl": {
-    "value": "[Placeholder] Hips Left"
-  },
-  "/lotus/language/items/holster_heavyhipsr": {
-    "value": "[Placeholder] Hips Right"
-  },
-  "/lotus/language/items/holster_heavylowerback": {
-    "value": "[Placeholder] Lower Back"
-  },
-  "/lotus/language/items/holster_heavyupperback": {
-    "value": "[Placeholder] Upper Back"
-  },
-  "/lotus/language/items/holster_katanacrossedl": {
-    "value": "[Placeholder] Crossed Left"
-  },
-  "/lotus/language/items/holster_katanacrossedr": {
-    "value": "[Placeholder] Crossed Right"
-  },
-  "/lotus/language/items/holster_katanahipsl": {
-    "value": "[Placeholder] Hips Left"
-  },
-  "/lotus/language/items/holster_nunchakucrossed": {
-    "value": "[Placeholder] Crossed"
-  },
-  "/lotus/language/items/holster_nunchakuhips": {
-    "value": "[Placeholder] Hips"
-  },
-  "/lotus/language/items/holster_nunchakulowerback": {
-    "value": "[Placeholder] Lower Back"
-  },
   "/lotus/language/items/holster_pistolhips": {
     "value": "[Placeholder] Hips"
   },
-  "/lotus/language/items/holster_rapierhipsl": {
-    "value": "[Placeholder] Hips Left"
-  },
   "/lotus/language/items/holster_rifleupperback": {
-    "value": "[Placeholder] Upper Back"
-  },
-  "/lotus/language/items/holster_staffcrossed": {
-    "value": "[Placeholder] Crossed"
-  },
-  "/lotus/language/items/holster_stafflowerback": {
-    "value": "[Placeholder] LowerBack"
-  },
-  "/lotus/language/items/holster_staffstraight": {
-    "value": "[Placeholder] Straight"
-  },
-  "/lotus/language/items/holster_swordhipsl": {
-    "value": "[Placeholder] Hips Left"
-  },
-  "/lotus/language/items/holster_swordhipsr": {
-    "value": "[Placeholder] Hips Right"
-  },
-  "/lotus/language/items/holster_swordshielddefault": {
-    "value": "[Placeholder] Default"
-  },
-  "/lotus/language/items/holster_swordshielddownward": {
-    "value": "[Placeholder] Downward"
-  },
-  "/lotus/language/items/holster_swordshieldupward": {
-    "value": "[Placeholder] Upward"
-  },
-  "/lotus/language/items/holster_swordupperback": {
-    "value": "[Placeholder] Upper Back"
-  },
-  "/lotus/language/items/holster_swordwhiplowerback": {
-    "value": "[Placeholder] LowerBack"
-  },
-  "/lotus/language/items/holster_tonfacrossed": {
-    "value": "[Placeholder] Crossed"
-  },
-  "/lotus/language/items/holster_tonfahips": {
-    "value": "[Placeholder] Hips"
-  },
-  "/lotus/language/items/holster_tonfaupperback": {
     "value": "[Placeholder] Upper Back"
   },
   "/lotus/language/items/holsterseriesonepackdesc": {
@@ -27081,7 +27057,7 @@
     "value": "Reverse grip style emphasizing slashing and impaling strikes"
   },
   "/lotus/language/items/kavatbasecolorpackdesc": {
-    "value": "Change a kavat's coat coloration and pattern to match that of the Adarza or Smeeta Kavat species."
+    "value": "Change a kavat's coat coloration to match that of the Adarza or Smeeta Kavat species."
   },
   "/lotus/language/items/kavatbasecolorpackname": {
     "value": "KAVAT GENE-MASKING KIT"
@@ -29163,7 +29139,7 @@
     "value": "MOONLIGHT THRESHCONE EXTRACT"
   },
   "/lotus/language/items/nightcommonsampledesc": {
-    "value": "A sample taken from a common night-time plant."
+    "value": "A sample taken from a threshcone at night."
   },
   "/lotus/language/items/nightmareraidsekharadesc": {
     "value": "Created as a meditation on the ever expanding ribbon of energy that runs through the universe."
@@ -29178,13 +29154,13 @@
     "value": "MOONLIGHT JADELEAF EXTRACT"
   },
   "/lotus/language/items/nightraresampledesc": {
-    "value": "A sample taken from a rare night-time plant."
+    "value": "A sample taken from a jadeleaf at night."
   },
   "/lotus/language/items/nightuncommonsample": {
     "value": "MOONLIGHT DRAGONLILY EXTRACT"
   },
   "/lotus/language/items/nightuncommonsampledesc": {
-    "value": "A sample taken from an uncommon night-time plant."
+    "value": "A sample taken from a dragonlily at night."
   },
   "/lotus/language/items/ninjaagileanims": {
     "value": "ASH AGILE ANIMATION SET"
@@ -31397,6 +31373,9 @@
   "/lotus/language/items/resourceamountboostersevendayname": {
     "value": "7 DAY RESOURCE BOOSTER"
   },
+  "/lotus/language/items/resourceamountboosterthirtydayname": {
+    "value": "30 DAY RESOURCE BOOSTER"
+  },
   "/lotus/language/items/resourceamountboosterthreedayname": {
     "value": "3 DAY RESOURCE BOOSTER"
   },
@@ -31408,6 +31387,9 @@
   },
   "/lotus/language/items/resourcedropchanceboostersevendayname": {
     "value": "7 DAY RESOURCE DROP CHANCE BOOSTER"
+  },
+  "/lotus/language/items/resourcedropchanceboosterthirtydayname": {
+    "value": "30 DAY RESOURCE DROP CHANCE BOOSTER"
   },
   "/lotus/language/items/resourcedropchanceboosterthreedayname": {
     "value": "3 DAY RESOURCE DROP CHANCE BOOSTER"
@@ -33513,7 +33495,7 @@
     "value": "AXI A1 RELIC"
   },
   "/lotus/language/items/t4voidprojectionf": {
-    "value": "AXI V1 RELIC"
+    "value": "AXI V2 RELIC"
   },
   "/lotus/language/items/t4voidprojectiong": {
     "value": "AXI N2 RELIC"
@@ -33598,6 +33580,12 @@
   },
   "/lotus/language/items/telluriumdesc": {
     "value": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars."
+  },
+  "/lotus/language/items/tencipherblueprint": {
+    "value": "CIPHER PACK BLUEPRINT"
+  },
+  "/lotus/language/items/tencipherblueprintdesc": {
+    "value": "A bundle containing ten ciphers."
   },
   "/lotus/language/items/tenguagileanims": {
     "value": "ZEPHYR AGILE ANIMATION SET"
@@ -35582,6 +35570,9 @@
   "/lotus/language/items/zephyrturbulenceabilitydesc": {
     "value": "Creates a wind shield around Zephyr, redirecting all incoming projectiles."
   },
+  "/lotus/language/junction/lowerbarrier": {
+    "value": "CONFRONT SPECTER"
+  },
   "/lotus/language/junction/regiondesc": {
     "value": "Complete all the tasks listed below to gain access to a new planet"
   },
@@ -35591,11 +35582,8 @@
   "/lotus/language/junction/rewardtitle": {
     "value": "REWARD |X|/|Y| - |REWARD|"
   },
-  "/lotus/language/junction/tasklistprompt": {
-    "value": "View Tasks"
-  },
   "/lotus/language/junction/tasklisttitle": {
-    "value": "Junction Tasks"
+    "value": "Junction Goals"
   },
   "/lotus/language/launcher/activateaccount": {
     "value": "Activate Account"
@@ -37243,6 +37231,9 @@
   },
   "/lotus/language/melee/axechargecomboa": {
     "value": "Crowd Fall"
+  },
+  "/lotus/language/melee/axeequippedattacksdefault": {
+    "value": "Skull Splitter"
   },
   "/lotus/language/melee/axeequippedthreeattacksbdefault": {
     "value": "August Mesto"
@@ -40010,6 +40001,9 @@
   "/lotus/language/menu/cosmetics_yscale": {
     "value": "HEIGHT"
   },
+  "/lotus/language/menu/cosmetics_zoffset": {
+    "value": "Z OFFSET"
+  },
   "/lotus/language/menu/couldnotabortalreadycompleted": {
     "value": "Mission could not be aborted because it has already been completed!"
   },
@@ -41927,6 +41921,9 @@
   "/lotus/language/menu/deployresourcedrone": {
     "value": "DEPLOY EXTRACTOR"
   },
+  "/lotus/language/menu/deployresourcedrone_cannotlaunch": {
+    "value": "Extractors cannot be deployed in this system."
+  },
   "/lotus/language/menu/deployresourcedrone_locked": {
     "value": "Unlock all nodes in this system to deploy a resource extractor"
   },
@@ -42632,11 +42629,14 @@
   "/lotus/language/menu/giftusecouponcheck": {
     "value": "Buy gift with coupon?"
   },
+  "/lotus/language/menu/global_30days": {
+    "value": "30 DAYS"
+  },
   "/lotus/language/menu/global_3days": {
-    "value": "3 DAY"
+    "value": "3 DAYS"
   },
   "/lotus/language/menu/global_7days": {
-    "value": "7 DAY"
+    "value": "7 DAYS"
   },
   "/lotus/language/menu/global_accept": {
     "value": "ACCEPT"
@@ -42655,6 +42655,9 @@
   },
   "/lotus/language/menu/global_boosterusesleft": {
     "value": "%s uses left."
+  },
+  "/lotus/language/menu/global_buyblueprint": {
+    "value": "PURCHASE BLUEPRINT"
   },
   "/lotus/language/menu/global_buyitem": {
     "value": "PURCHASE"
@@ -42876,7 +42879,7 @@
     "value": "HIDE MAXED MODS"
   },
   "/lotus/language/menu/hideowned": {
-    "value": "HIDE OWNED  <CHECKMARK_OUTLINE>"
+    "value": "HIDE OWNED <CHECKMARK_OUTLINE>"
   },
   "/lotus/language/menu/holdformeleemode": {
     "value": "Hold To Enter Melee Mode"
@@ -43284,10 +43287,13 @@
     "value": "Sprint"
   },
   "/lotus/language/menu/input_scoop_channel": {
-    "value": "Throw / catch"
+    "value": "Throw"
   },
   "/lotus/language/menu/input_scoop_parry": {
     "value": "Ball Magnet"
+  },
+  "/lotus/language/menu/input_scoop_pass": {
+    "value": "Pass"
   },
   "/lotus/language/menu/input_scoop_swing": {
     "value": "Check"
@@ -46913,8 +46919,14 @@
   "/lotus/language/menu/projectionmanager_projectionqualitytitle": {
     "value": "|QUALITY| RELIC"
   },
+  "/lotus/language/menu/projectionmanager_refineprojection": {
+    "value": "REFINE RELIC"
+  },
   "/lotus/language/menu/projectionmanager_rewards": {
     "value": "POSSIBLE REWARDS"
+  },
+  "/lotus/language/menu/projectionmanager_selectprojection": {
+    "value": "SELECT RELIC"
   },
   "/lotus/language/menu/projectionmanager_shorttierdesc1": {
     "value": "LITH"
@@ -47829,10 +47841,10 @@
     "value": "SHOW MAXED MODS"
   },
   "/lotus/language/menu/showblueprintsoff": {
-    "value": "BLUEPRINTS ONLY  <CHECKMARK_OUTLINE>"
+    "value": "BLUEPRINTS ONLY <CHECKMARK_OUTLINE>"
   },
   "/lotus/language/menu/showblueprintson": {
-    "value": "BLUEPRINTS ONLY  <CHECKMARK>"
+    "value": "BLUEPRINTS ONLY <CHECKMARK>"
   },
   "/lotus/language/menu/showcollection": {
     "value": "MODS"
@@ -47859,7 +47871,7 @@
     "value": "VIEW STATS WITH MODS"
   },
   "/lotus/language/menu/showowned": {
-    "value": "HIDE OWNED  <CHECKMARK>"
+    "value": "HIDE OWNED <CHECKMARK>"
   },
   "/lotus/language/menu/showplatformparty": {
     "value": "PARTY"
@@ -49644,7 +49656,7 @@
     "value": "Targeting Subsystem"
   },
   "/lotus/language/mods/accuracywhileaimingriflemod": {
-    "value": "Guided Ordinance"
+    "value": "Guided Ordnance"
   },
   "/lotus/language/mods/accuracywhileaimingshotgunmod": {
     "value": "Narrow Barrel"
@@ -50672,6 +50684,9 @@
   "/lotus/language/ngen/ngenwyrmname": {
     "value": "WYRM OBSIDIAN SKIN"
   },
+  "/lotus/language/objectives/archwingracego": {
+    "value": "Go"
+  },
   "/lotus/language/objectives/artifactfound": {
     "value": "Artifact located, retrieve it."
   },
@@ -51326,6 +51341,18 @@
   "/lotus/language/primes/primesentinelbioweaponname": {
     "value": "STINGER PRIME"
   },
+  "/lotus/language/primes/primesetthreearmarmourname": {
+    "value": "[PLACEHOLDER] PRIME THREE ARMS"
+  },
+  "/lotus/language/primes/primesetthreearmourdesc": {
+    "value": "[PLACEHOLDER] Description"
+  },
+  "/lotus/language/primes/primesetthreechestarmourname": {
+    "value": "[PLACEHOLDER] PRIME THREE CHEST"
+  },
+  "/lotus/language/primes/primesetthreelegarmourname": {
+    "value": "[PLACEHOLDER] PRIME THREE LEGS"
+  },
   "/lotus/language/primes/primeshadedesc": {
     "value": "[PLACEHOLDER] Description"
   },
@@ -51355,6 +51382,12 @@
   },
   "/lotus/language/primes/trinityprimename": {
     "value": "TRINITY PRIME"
+  },
+  "/lotus/language/primes/uruprimescarfdesc": {
+    "value": "[PLACEHOLDER] Description"
+  },
+  "/lotus/language/primes/uruprimescarfname": {
+    "value": "[PLACEHOLDER] URU PRIME SCARF"
   },
   "/lotus/language/primes/uruprimesyandanadesc": {
     "value": "[PLACEHOLDER] Description"
@@ -52464,10 +52497,10 @@
     "value": "|TARGET| SYNTHESIS"
   },
   "/lotus/language/scans/gftplantruksclawmaturedesc": {
-    "value": "Named after Varom Ruk who founded the first Grineer colony on Mars, this exotic plant has been introduced to arid regions across the Origin system."
+    "value": "This plant was introduced to arid regions across the Origin system, for its ability to collect moisture in harsh environments."
   },
   "/lotus/language/scans/gftplantruksclawmaturename": {
-    "value": "Ruk's Claw"
+    "value": "RUK'S CLAW"
   },
   "/lotus/language/scans/gofplantaplantdesc": {
     "value": "This strange looking anemone is only found in deep oceans."
@@ -52485,37 +52518,37 @@
     "value": "Desert Skates are known to feed off this weed."
   },
   "/lotus/language/scans/iresplantname": {
-    "value": "Skateweed"
+    "value": "SKATEWEED"
   },
   "/lotus/language/scans/mossgroundcoveraplantdesc": {
     "value": "One of the few known plant species able to thrive on asteroids in deep space."
   },
   "/lotus/language/scans/mossgroundcoveraplantname": {
-    "value": "Vestan Moss"
+    "value": "VESTAN MOSS"
   },
   "/lotus/language/scans/orofungusadesc": {
-    "value": "This fungus once served a vital role, facilitating the removal of toxins from the aquaponic systems aboard Orokin vessels."
+    "value": "This fungus once served a vital role, facilitating the removal of toxins from the aquaponic systems aboard Orokin vessels. If left unchecked it is capable of spreading through its environment at an alarming rate."
   },
   "/lotus/language/scans/orofungusaname": {
-    "value": "Cerulean Fungus"
+    "value": "CERULEAN FUNGUS"
   },
   "/lotus/language/scans/oroporcelainbushaplantdesc": {
-    "value": "A plant from outside the Origin system, was prized by the Orokin for its otherworldly beauty."
+    "value": "A plant prized by the Orokin for its otherworldly beauty."
   },
   "/lotus/language/scans/oroporcelainbushaplantname": {
-    "value": "Ghost Brush"
+    "value": "GHOST BRUSH"
   },
   "/lotus/language/scans/wildgingerdesc": {
     "value": "This resilient plant provides a natural food source in frigid areas of the Origin system."
   },
   "/lotus/language/scans/wildgingername": {
-    "value": "Frostleaf"
+    "value": "FROSTLEAF"
   },
   "/lotus/language/scans/zencobralotusdesc": {
-    "value": "This robust, carnivorous plant has adapted to the polluted waters surrounding the Grineer Shipyards."
+    "value": "This robust, carnivorous plant has adapted to conditions in polluted waters."
   },
   "/lotus/language/scans/zencobralotusname": {
-    "value": "Dusklight Sarracenia"
+    "value": "DUSKLIGHT SARRACENIA"
   },
   "/lotus/language/scans/zenflowerlotustalldesc": {
     "value": "This beautiful flower is a rare find, growing near the Grineer Shipyards."
@@ -59068,6 +59101,9 @@
   },
   "/lotus/language/subtitles/missionobjectives/dvrcoverdrive0300lotus": {
     "value": "You've almost done it."
+  },
+  "/lotus/language/subtitles/missionobjectives/dvrcpickreact0130lotus": {
+    "value": "The enemies are dropping reactant. Feed it into the Fissure."
   },
   "/lotus/language/subtitles/missionobjectives/dvrcpickreact0140lotus": {
     "value": "They're dropping reactant. You need that to finish the process."
