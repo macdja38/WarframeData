@@ -7069,7 +7069,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Fully unlock a focus skill tree"
 
 [/Lotus/Language/Challenges/Challenge_ThisIsWhatYouAre_Name]
-"This is what you are"
+"This Is What You Are"
 
 [/Lotus/Language/Challenges/Challenge_TreasureHunter_Description]
 "Find 1 Mod."
@@ -7174,7 +7174,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Without a Hitch "
 
 [/Lotus/Language/Challenges/WEAPON_LONG_GUN]
-"WEAPON_LONG_GUN"
+"[Placeholder]"
 
 [/Lotus/Language/Champions/GrineerBeastMasterDesc]
 "Summons Hyekka to aid her in battle."
@@ -26989,7 +26989,7 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 "FRUGAL CREDIT BUNDLE"
 
 [/Lotus/Language/Items/CreditBundleADesc]
-"By purchasing this item you can directly exchange 30<PLATINUM_CREDITS>(Platinum) for 50000<CREDITS>(Credits)."
+"By purchasing this item you can directly exchange 50<PLATINUM_CREDITS>(Platinum) for 50000<CREDITS>(Credits)."
 
 [/Lotus/Language/Items/CreditBundleB]
 "PRODIGAL CREDIT BUNDLE"
@@ -44098,7 +44098,7 @@ Are you sure?"
 "Please connect an Xbox One Wireless Controller."
 
 [/Lotus/Language/Menu/ConnectionDelay]
-"UNEXPECTED SERVER DELAY"
+"NETWORK NOT RESPONDING"
 
 [/Lotus/Language/Menu/ConnectionError_LoginExpired]
 "Connection Error. Login Expired."
@@ -45140,6 +45140,15 @@ Are you sure?"
 
 [/Lotus/Language/Menu/CraftingComponent_LatronPrimeStock]
 "LATRON PRIME STOCK"
+
+[/Lotus/Language/Menu/CraftingComponent_LatronWraithBarrel]
+"LATRON WRAITH BARREL"
+
+[/Lotus/Language/Menu/CraftingComponent_LatronWraithReceiver]
+"LATRON WRAITH RECEIVER"
+
+[/Lotus/Language/Menu/CraftingComponent_LatronWraithStock]
+"LATRON WRAITH STOCK"
 
 [/Lotus/Language/Menu/CraftingComponent_LexPrimeBarrel]
 "LEX PRIME BARREL"
@@ -59634,6 +59643,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Sorties/SortieSeason7RewardsTitle]
 "SEASON 7 REWARD POOL"
+
+[/Lotus/Language/Sorties/SortieSeason8RewardsTitle]
+"SEASON 8 REWARD POOL"
 
 [/Lotus/Language/Sorties/SortieSeasonRewardsCompletedHint]
 "Sortie completed. You have received the item highlighted below."
