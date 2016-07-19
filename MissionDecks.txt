@@ -1469,6 +1469,9 @@ Rotation A:
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
 
+[SortieRewardsH]
+
+
 [SpyMissionRewards/SpyHighMissionRewards]
  - Uranus, Rosalind, MT_INTEL, FC_GRINEER
  - Neptune, Laomedeia, MT_INTEL, FC_CORPUS
