@@ -1,124 +1,139 @@
 [Arbiters of Hexis]
 
-Favored Warframes: ASH, EXCALIBUR, LOKI, MIRAGE, NYX, VOLT, 
-Favored Weapons: DUAL ETHER, NAMI SKYLA, BO, TONFAS, 
+Favored Warframes: ASH, EXCALIBUR, LOKI, MIRAGE, NYX, VOLT
+
+Favored Weapons: DUAL ETHER, NAMI SKYLA, BO, TONFAS
+
 Titles:
-	Level  5 Maxim, Sacrifice: 1 SARYN PRIME NEUROPTICS + 500000 Credits
-	Level  4 Crusader, Sacrifice: 1 VECTIS PRIME STOCK + 250000 Credits
-	Level  3 Lawful, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
-	Level  2 Authentic, Sacrifice: 1 FORMA + 50000 Credits
-	Level  1 Principled, Sacrifice: 2 NEURAL SENSORS + 30000 Credits
+	Level 5 Maxim, Sacrifice: 1 SARYN PRIME NEUROPTICS + 500000 Credits
+	Level 4 Crusader, Sacrifice: 1 VECTIS PRIME STOCK + 250000 Credits
+	Level 3 Lawful, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
+	Level 2 Authentic, Sacrifice: 1 FORMA + 50000 Credits
+	Level 1 Principled, Sacrifice: 2 NEURAL SENSORS + 30000 Credits
 	Level -1 Deceiver, Sacrifice: 1 FORMA + 50000 Credits
 	Level -2 Fraud, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
 
 Alignment:
-	RedVeilSyndicate, Multiplier: -1
-	PerrinSyndicate, Multiplier: -0.5
-	CephalonSudaSyndicate, Multiplier: 0.5
+	Red Veil: Multiplier -1.0
+	The Perrin Sequence: Multiplier -0.5
+	Cephalon Suda: Multiplier 0.5
 
 
 [Cephalon Suda]
 
-Favored Warframes: BANSHEE, FROST, HYDROID, MIRAGE, NOVA, SARYN, VAUBAN, 
-Favored Weapons: ATTERAX, GLAIVE, VENKA, 
+Favored Warframes: BANSHEE, FROST, HYDROID, MIRAGE, NOVA, SARYN, VAUBAN
+
+Favored Weapons: ATTERAX, GLAIVE, VENKA
+
 Titles:
-	Level  5 Genius, Sacrifice: 1 NOVA PRIME NEUROPTICS + 500000 Credits
-	Level  4 Wise, Sacrifice: 1 LEX PRIME RECEIVER + 250000 Credits
-	Level  3 Intelligent, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
-	Level  2 Intriguing, Sacrifice: 1 FORMA + 50000 Credits
-	Level  1 Competent, Sacrifice: 2 CONTROL MODULE + 30000 Credits
+	Level 5 Genius, Sacrifice: 1 NOVA PRIME NEUROPTICS + 500000 Credits
+	Level 4 Wise, Sacrifice: 1 LEX PRIME RECEIVER + 250000 Credits
+	Level 3 Intelligent, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
+	Level 2 Intriguing, Sacrifice: 1 FORMA + 50000 Credits
+	Level 1 Competent, Sacrifice: 2 CONTROL MODULE + 30000 Credits
 	Level -1 Debris, Sacrifice: 1 FORMA + 50000 Credits
 	Level -2 Waste, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
 
 Alignment:
-	NewLokaSyndicate, Multiplier: -1
-	RedVeilSyndicate, Multiplier: -0.5
-	ArbitersSyndicate, Multiplier: 0.5
+	New Loka: Multiplier -1.0
+	Red Veil: Multiplier -0.5
+	Arbiters of Hexis: Multiplier 0.5
 
 
 [New Loka]
 
-Favored Warframes: HYDROID, MAG, NYX, OBERON, TRINITY, ZEPHYR, 
-Favored Weapons: MAGISTAR, SILVA & AEGIS, ORTHOS, 
+Favored Warframes: HYDROID, MAG, NYX, OBERON, TRINITY, ZEPHYR
+
+Favored Weapons: MAGISTAR, SILVA & AEGIS, ORTHOS
+
 Titles:
-	Level  5 Flawless, Sacrifice: 1 NYX PRIME NEUROPTICS + 500000 Credits
-	Level  4 Pure, Sacrifice: 1 ORTHOS PRIME BLADE + 250000 Credits
-	Level  3 Benevolent, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
-	Level  2 Bountiful, Sacrifice: 1 FORMA + 50000 Credits
-	Level  1 Humane, Sacrifice: 2 FIELDRON SAMPLE + 30000 Credits
+	Level 5 Flawless, Sacrifice: 1 NYX PRIME NEUROPTICS + 500000 Credits
+	Level 4 Pure, Sacrifice: 1 ORTHOS PRIME BLADE + 250000 Credits
+	Level 3 Benevolent, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
+	Level 2 Bountiful, Sacrifice: 1 FORMA + 50000 Credits
+	Level 1 Humane, Sacrifice: 2 FIELDRON SAMPLE + 30000 Credits
 	Level -1 Condemned, Sacrifice: 1 FORMA + 50000 Credits
 	Level -2 Exiled, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
 
 Alignment:
-	CephalonSudaSyndicate, Multiplier: -1
-	SteelMeridianSyndicate, Multiplier: -0.5
-	PerrinSyndicate, Multiplier: 0.5
+	Cephalon Suda: Multiplier -1.0
+	Steel Meridian: Multiplier -0.5
+	The Perrin Sequence: Multiplier 0.5
 
 
 [The Perrin Sequence]
 
-Favored Warframes: MAG, NEKROS, RHINO, TRINITY, VALKYR, VAUBAN, 
-Favored Weapons: SCINDO, SCOLIAC, KARYST, 
+Favored Warframes: MAG, NEKROS, RHINO, TRINITY, VALKYR, VAUBAN
+
+Favored Weapons: SCINDO, SCOLIAC, KARYST
+
 Titles:
-	Level  5 Partner, Sacrifice: 1 VOLT PRIME NEUROPTICS + 500000 Credits
-	Level  4 Senior Executive, Sacrifice: 1 SCINDO PRIME BLADE + 250000 Credits
-	Level  3 Executive, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
-	Level  2 Senior Associate, Sacrifice: 1 FORMA + 50000 Credits
-	Level  1 Associate, Sacrifice: 2 DETONITE AMPULE + 30000 Credits
+	Level 5 Partner, Sacrifice: 1 VOLT PRIME NEUROPTICS + 500000 Credits
+	Level 4 Senior Executive, Sacrifice: 1 SCINDO PRIME BLADE + 250000 Credits
+	Level 3 Executive, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
+	Level 2 Senior Associate, Sacrifice: 1 FORMA + 50000 Credits
+	Level 1 Associate, Sacrifice: 2 DETONITE AMPULE + 30000 Credits
 	Level -1 Liability, Sacrifice: 1 FORMA + 50000 Credits
 	Level -2 Write-Off, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
 
 Alignment:
-	SteelMeridianSyndicate, Multiplier: -1
-	ArbitersSyndicate, Multiplier: -0.5
-	NewLokaSyndicate, Multiplier: 0.5
+	Steel Meridian: Multiplier -1.0
+	Arbiters of Hexis: Multiplier -0.5
+	New Loka: Multiplier 0.5
 
 
 [Red Veil]
 
-Favored Warframes: ASH, EMBER, LOKI, NEKROS, SARYN, VALKYR, VOLT, ZEPHYR, 
-Favored Weapons: FANG, SHEEV, DREAD, HATE, DESPAIR, 
+Favored Warframes: ASH, EMBER, LOKI, NEKROS, SARYN, VALKYR, VOLT, ZEPHYR
+
+Favored Weapons: FANG, SHEEV, DREAD, HATE, DESPAIR
+
 Titles:
-	Level  5 Exalted, Sacrifice: 1 ASH PRIME NEUROPTICS + 500000 Credits
-	Level  4 Revered, Sacrifice: 1 FANG PRIME HANDLE + 250000 Credits
-	Level  3 Esteemed, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
-	Level  2 Honored, Sacrifice: 1 FORMA + 50000 Credits
-	Level  1 Respected, Sacrifice: 2 GALLIUM + 30000 Credits
+	Level 5 Exalted, Sacrifice: 1 ASH PRIME NEUROPTICS + 500000 Credits
+	Level 4 Revered, Sacrifice: 1 FANG PRIME HANDLE + 250000 Credits
+	Level 3 Esteemed, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
+	Level 2 Honored, Sacrifice: 1 FORMA + 50000 Credits
+	Level 1 Respected, Sacrifice: 2 GALLIUM + 30000 Credits
 	Level -1 Suspect, Sacrifice: 1 FORMA + 50000 Credits
 	Level -2 Corrupt, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
 
 Alignment:
-	ArbitersSyndicate, Multiplier: -1
-	CephalonSudaSyndicate, Multiplier: -0.5
-	SteelMeridianSyndicate, Multiplier: 0.5
+	Arbiters of Hexis: Multiplier -1.0
+	Cephalon Suda: Multiplier -0.5
+	Steel Meridian: Multiplier 0.5
 
 
 [Steel Meridian]
 
-Favored Warframes: EMBER, EXCALIBUR, FROST, NOVA, OBERON, RHINO, 
-Favored Weapons: FRAGOR, MACHETE, ORTHOS, HEK, 
+Favored Warframes: EMBER, EXCALIBUR, FROST, NOVA, OBERON, RHINO
+
+Favored Weapons: FRAGOR, MACHETE, ORTHOS, HEK
+
 Titles:
-	Level  5 General, Sacrifice: 1 TRINITY PRIME NEUROPTICS + 500000 Credits
-	Level  4 Protector, Sacrifice: 1 SOMA PRIME BARREL + 250000 Credits
-	Level  3 Defender, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
-	Level  2 Valiant, Sacrifice: 1 FORMA + 50000 Credits
-	Level  1 Brave, Sacrifice: 2 MORPHICS + 30000 Credits
+	Level 5 General, Sacrifice: 1 TRINITY PRIME NEUROPTICS + 500000 Credits
+	Level 4 Protector, Sacrifice: 1 SOMA PRIME BARREL + 250000 Credits
+	Level 3 Defender, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
+	Level 2 Valiant, Sacrifice: 1 FORMA + 50000 Credits
+	Level 1 Brave, Sacrifice: 2 MORPHICS + 30000 Credits
 	Level -1 Outcast, Sacrifice: 1 FORMA + 50000 Credits
 	Level -2 Enemy, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
 
 Alignment:
-	PerrinSyndicate, Multiplier: -1
-	NewLokaSyndicate, Multiplier: -0.5
-	RedVeilSyndicate, Multiplier: 0.5
+	The Perrin Sequence: Multiplier -1.0
+	New Loka: Multiplier -0.5
+	Red Veil: Multiplier 0.5
 
 
 [Conclave]
 
 Titles:
-	Level  5 Typhoon, Sacrifice: 100 OROKIN DUCATS + 500000 Credits
-	Level  4 Hurricane, Sacrifice: 1 OROKIN CATALYST + 250000 Credits
-	Level  3 Tempest, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
-	Level  2 Whirlwind, Sacrifice: 1 FORMA + 50000 Credits
-	Level  1 Mistral, Sacrifice: 2 NEURODES + 30000 Credits
+	Level 5 Typhoon, Sacrifice: 100 OROKIN DUCATS + 500000 Credits
+	Level 4 Hurricane, Sacrifice: 1 OROKIN CATALYST + 250000 Credits
+	Level 3 Tempest, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
+	Level 2 Whirlwind, Sacrifice: 1 FORMA + 50000 Credits
+	Level 1 Mistral, Sacrifice: 2 NEURODES + 30000 Credits
+
+
+[Cephalon Simaris]
 
 
