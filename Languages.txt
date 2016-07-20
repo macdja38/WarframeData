@@ -55859,6 +55859,12 @@ As proof of your deed"
 [/Lotus/Language/Primes/MiragePrimeName]
 "MIRAGE PRIME"
 
+[/Lotus/Language/Primes/NecrosPrimeDangles]
+"MORTOS PRIME BINDS"
+
+[/Lotus/Language/Primes/NecrosPrimeDanglesDesc]
+"Only Nekros Prime is permitted to wear the Mortos Prime Binds."
+
 [/Lotus/Language/Primes/NekrosPrimeDesc]
 "By desecrating the dead, Nekros Prime can amass a spectral army to assault his foes. Featuring altered mod polarities for greater customization."
 
@@ -55943,6 +55949,12 @@ As proof of your deed"
 [/Lotus/Language/Primes/PrimeFragorName]
 "FRAGOR PRIME"
 
+[/Lotus/Language/Primes/PrimeGalatineDesc]
+"Only Tenno were strong enough to wield this noble beast of a weapon. "
+
+[/Lotus/Language/Primes/PrimeGalatineName]
+"GALATINE PRIME"
+
 [/Lotus/Language/Primes/PrimeHeliosDesc]
 "[PLACEHOLDER] Description"
 
@@ -55986,22 +55998,28 @@ As proof of your deed"
 "STINGER PRIME"
 
 [/Lotus/Language/Primes/PrimeSetThreeArmArmourName]
-"[PLACEHOLDER] PRIME THREE ARMS"
+"ARCANTHUS PRIME SHOULDER GUARD"
 
 [/Lotus/Language/Primes/PrimeSetThreeArmourDesc]
-"[PLACEHOLDER] Description"
+"Cast a shadow of pure menace."
 
 [/Lotus/Language/Primes/PrimeSetThreeChestArmourName]
-"[PLACEHOLDER] PRIME THREE CHEST"
+"ARCANTHUS PRIME CHESTPLATE"
 
 [/Lotus/Language/Primes/PrimeSetThreeLegArmourName]
-"[PLACEHOLDER] PRIME THREE LEGS"
+"ARCANTHUS PRIME LEG GUARD"
 
 [/Lotus/Language/Primes/PrimeShadeDesc]
 "[PLACEHOLDER] Description"
 
 [/Lotus/Language/Primes/PrimeShadeName]
 "SHADE PRIME"
+
+[/Lotus/Language/Primes/PrimeTigrisDesc]
+"An artifact of exquisite beauty. A weapon of deadly purpose. "
+
+[/Lotus/Language/Primes/PrimeTigrisName]
+"TIGRIS PRIME"
 
 [/Lotus/Language/Primes/SarynPrimeDesc]
 "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization."
@@ -56028,10 +56046,10 @@ As proof of your deed"
 "TRINITY PRIME"
 
 [/Lotus/Language/Primes/UruPrimeScarfDesc]
-"[PLACEHOLDER] Description"
+"Let these massive segments of interlinked gold and silver ripple down a Warframe’s back. "
 
 [/Lotus/Language/Primes/UruPrimeScarfName]
-"[PLACEHOLDER] URU PRIME SCARF"
+"URU PRIME SYANDANA"
 
 [/Lotus/Language/Primes/UruPrimeSyandanaDesc]
 "[PLACEHOLDER] Description"
