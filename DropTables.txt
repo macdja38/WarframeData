@@ -4906,7 +4906,7 @@ DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
 DROP_POWERUP (Drop Chance: 100%)
-	DATAMASS, COMMON, 100%, Bias 1
+	CORRUPTION, COMMON, 100%, Bias 1
 
 
 [VoidTearT1MiniBossDropTable]
