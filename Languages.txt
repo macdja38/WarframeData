@@ -5563,25 +5563,25 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Failed"
 
 [/Lotus/Language/Challenges/Challenge_Find1000Mods_Description]
-"Find 1000 Mods."
+"Find 1000 Mods or Fusion Cores."
 
 [/Lotus/Language/Challenges/Challenge_Find1000Mods_Name]
 "So Many Choices"
 
 [/Lotus/Language/Challenges/Challenge_Find100Mods_Description]
-"Find 100 Mods."
+"Find 100 Mods or Fusion Cores."
 
 [/Lotus/Language/Challenges/Challenge_Find100Mods_Name]
 "Collector"
 
 [/Lotus/Language/Challenges/Challenge_Find1Mod_Description]
-"Find a Mod."
+"Find a Mod or Fusion Core."
 
 [/Lotus/Language/Challenges/Challenge_Find1Mod_Name]
 "Secrets of the Orokin"
 
 [/Lotus/Language/Challenges/Challenge_Find20Mods_Description]
-"Find 20 Mods."
+"Find 20 Mods or Fusion Cores."
 
 [/Lotus/Language/Challenges/Challenge_Find20Mods_Name]
 "Behold the Possibilities"
@@ -5902,7 +5902,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Support either the Corpus or Grineer in an INVASION mission"
 
 [/Lotus/Language/Challenges/Challenge_MPVoidTears_Name]
-"Seal 3 LITH FISSURES"
+"Open 3 LITH VOID RELICS"
 
 [/Lotus/Language/Challenges/Challenge_MultiKill_Description]
 "Kill 4 opponents within 3 seconds"
@@ -5992,7 +5992,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Defeat PHORID during an INFESTED OUTBREAK"
 
 [/Lotus/Language/Challenges/Challenge_PEVoidTears_Name]
-"Seal 3 NEO FISSURES"
+"Open 3 NEO VOID RELICS"
 
 [/Lotus/Language/Challenges/Challenge_PistolMaster_Description]
 "Get 20 kills with your Pistol"
@@ -7027,7 +7027,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Defeat VOR and KRIL at WAR on MARS"
 
 [/Lotus/Language/Challenges/Challenge_SUVoidTears_Name]
-"Seal 3 MESO FISSURES"
+"Open 3 MESO VOID RELICS"
 
 [/Lotus/Language/Challenges/Challenge_Swordsman_Description]
 "Get 10 Melee kills."
@@ -7072,7 +7072,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "This Is What You Are"
 
 [/Lotus/Language/Challenges/Challenge_TreasureHunter_Description]
-"Find 1 Mod."
+"Find 1 Mod or Fusion Core."
 
 [/Lotus/Language/Challenges/Challenge_TreasureHunter_Name]
 "Treasure Hunter"
@@ -11072,7 +11072,7 @@ Blueprint Replication <CREDITS>|PRICE|"
 "Could not reduce Clan tier: Clan size is greater than max Clan size at reduced tier."
 
 [/Lotus/Language/Dojo/ReduceGuildTier_INSUFFICIENT_BARRACKS]
-"Could not reduce Clan tier: Your Dojo does not contain the required Barracks."
+"Could not reduce Clan tier to |NEW_TIER_NAME|: Your Dojo does not contain the required Barracks."
 
 [/Lotus/Language/Dojo/ReduceGuildTier_ROOM_IN_PROGRES]
 "Could not reduce Clan tier: Please finish contributions for pending rooms, or abort these rooms, before reducing Clan tier."
@@ -11081,7 +11081,7 @@ Blueprint Replication <CREDITS>|PRICE|"
 "Clan Tier successfully reduced!"
 
 [/Lotus/Language/Dojo/ReduceGuildTier_TOO_MANY_BARRACKS]
-"Could not reduce Clan tier: You Dojo contains Barracks required for a higher tier."
+"Could not reduce Clan tier to |NEW_TIER_NAME|: You Dojo contains Barracks required for a higher tier."
 
 [/Lotus/Language/Dojo/ReduceGuildTier_UnknownError]
 "Could not reduce Clan tier."
@@ -12237,6 +12237,18 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 
 [/Lotus/Language/Emotes/ShrugEmoteName]
 "SHRUG"
+
+[/Lotus/Language/Enemies/FairyQuestLoki]
+"KNAVE SPECTER"
+
+[/Lotus/Language/Enemies/FairyQuestOberon]
+"FEYARCH SPECTER"
+
+[/Lotus/Language/Enemies/FairyQuestSaryn]
+"ORPHID SPECTER"
+
+[/Lotus/Language/Enemies/FairyQuestTitania]
+"[PLACEHOLDER] TITANIA SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantChroma]
 "CHROMA SPECTER"
@@ -17397,13 +17409,13 @@ You have struck the Corpus a crippling blow this day. Accept this with my thanks
 "Enemy Proximity: Immediate. Defensive Systems Employed: Dismemberment."
 
 [/Lotus/Language/G1Taunts/HyenaDeath01]
-"Hyenna destroyed, our circuits demand revenge."
+"Hyena destroyed, our circuits demand revenge."
 
 [/Lotus/Language/G1Taunts/HyenaDeath02]
-"Hyenna down, intensify the hunt."
+"Hyena down, intensify the hunt."
 
 [/Lotus/Language/G1Taunts/HyenaDeath03]
-"Hyenna disabled, the pack grows weak."
+"Hyena disabled, the pack grows weak."
 
 [/Lotus/Language/G1Taunts/HyenaNew_Taunt1]
 "The Pack calls for your death."
@@ -18549,6 +18561,9 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/DrainMaintenanceExit]
 "<USE> MAINTENANCE EXIT"
+
+[/Lotus/Language/Game/DRONE_DAMAGE]
+"DRONE DAMAGE"
 
 [/Lotus/Language/Game/DROP_CHANCE]
 "DROP CHANCE"
@@ -19884,11 +19899,17 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/Lunaro_Halftime]
 "HALFTIME"
 
+[/Lotus/Language/Game/Lunaro_MatchStartsIn]
+"STARTING MATCH IN |SEC|"
+
 [/Lotus/Language/Game/Lunaro_PlayerScored]
 "|PLAYER_NAME| SCORED!"
 
 [/Lotus/Language/Game/Lunaro_SecondHalf]
 "SECOND HALF"
+
+[/Lotus/Language/Game/Lunaro_WarmupWaitingForPlayers]
+"WAITING FOR PLAYERS |NUM|/|TOT|"
 
 [/Lotus/Language/Game/LureAvatar]
 "VOID LURE"
@@ -23333,13 +23354,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Ash Profile Icon"
 
 [/Lotus/Language/Items/AvatarAshLocustBrightDescription]
-"A profile icon depicting Locust Ash on a bright background."
+"A profile icon depicting Ash Locust on a bright background."
 
 [/Lotus/Language/Items/AvatarAshLocustBrightName]
 "Ash Locust Profile Icon"
 
 [/Lotus/Language/Items/AvatarAshLocustDarkDescription]
-"A profile icon depicting Locust Ash on a dark background."
+"A profile icon depicting Ash Locust on a dark background."
 
 [/Lotus/Language/Items/AvatarAshLocustDarkName]
 "Ash Locust Profile Icon"
@@ -23357,13 +23378,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Ash Prime Profile Icon"
 
 [/Lotus/Language/Items/AvatarAshScorpionBrightDescription]
-"A profile icon depicting Scorpion Ash on a bright background."
+"A profile icon depicting Ash Scorpion on a bright background."
 
 [/Lotus/Language/Items/AvatarAshScorpionBrightName]
 "Ash Scorpion Profile Icon"
 
 [/Lotus/Language/Items/AvatarAshScorpionDarkDescription]
-"A profile icon depicting Scorpion Ash on a dark background."
+"A profile icon depicting Ash Scorpion on a dark background."
 
 [/Lotus/Language/Items/AvatarAshScorpionDarkName]
 "Ash Scorpion Profile Icon"
@@ -23375,13 +23396,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Banshee Profile Icon"
 
 [/Lotus/Language/Items/AvatarBansheeChorusBrightDescription]
-"A profile icon depicting Chorus Banshee on a bright background."
+"A profile icon depicting Banshee Chorus on a bright background."
 
 [/Lotus/Language/Items/AvatarBansheeChorusBrightName]
 "Banshee Chorus Profile Icon"
 
 [/Lotus/Language/Items/AvatarBansheeChorusDarkDescription]
-"A profile icon depicting Chorus Banshee on a dark background."
+"A profile icon depicting Banshee Chorus on a dark background."
 
 [/Lotus/Language/Items/AvatarBansheeChorusDarkName]
 "Banshee Chorus Profile Icon"
@@ -23399,13 +23420,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Banshee Soprana Profile Icon"
 
 [/Lotus/Language/Items/AvatarBansheeReverbBrightDescription]
-"A profile icon depicting Reverb Banshee on a bright background."
+"A profile icon depicting Banshee Reverb on a bright background."
 
 [/Lotus/Language/Items/AvatarBansheeReverbBrightName]
 "Banshee Reverb Profile Icon"
 
 [/Lotus/Language/Items/AvatarBansheeReverbDarkDescription]
-"A profile icon depicting Reverb Banshee on a dark background."
+"A profile icon depicting Banshee Reverb on a dark background."
 
 [/Lotus/Language/Items/AvatarBansheeReverbDarkName]
 "Banshee Reverb Profile Icon"
@@ -23492,13 +23513,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "THE BEAST PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEmberBackdraftBrightDescription]
-"A profile icon depicting Backdraft Ember on a bright background."
+"A profile icon depicting Ember Backdraft on a bright background."
 
 [/Lotus/Language/Items/AvatarEmberBackdraftBrightName]
 "Ember Backdraft Profile Icon"
 
 [/Lotus/Language/Items/AvatarEmberBackdraftDarkDescription]
-"A profile icon depicting Backdraft Ember on a dark background."
+"A profile icon depicting Ember Backdraft on a dark background."
 
 [/Lotus/Language/Items/AvatarEmberBackdraftDarkName]
 "Ember Backdraft Profile Icon"
@@ -23516,13 +23537,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Ember Profile Icon"
 
 [/Lotus/Language/Items/AvatarEmberPheonixBrightDescription]
-"A profile icon depicting Phoenix Ember on a bright background."
+"A profile icon depicting Ember Phoenix on a bright background."
 
 [/Lotus/Language/Items/AvatarEmberPheonixBrightName]
 "Phoenix Ember Profile Icon"
 
 [/Lotus/Language/Items/AvatarEmberPheonixDarkDescription]
-"A profile icon depicting Phoenix Ember on a dark background."
+"A profile icon depicting Ember Phoenix on a dark background."
 
 [/Lotus/Language/Items/AvatarEmberPheonixDarkName]
 "Phoenix Ember Profile Icon"
@@ -23573,13 +23594,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Equinox Solstice Profile Icon"
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonBrightDescription]
-"A profile icon depicting Avalon Excalibur on a bright background."
+"A profile icon depicting Excalibur Avalon on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonBrightName]
 "Excalibur Avalon Profile Icon"
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonDarkDescription]
-"A profile icon depicting Avalon Excalibur on a dark background."
+"A profile icon depicting Excalibur Avalon on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonDarkName]
 "Excalibur Avalon Profile Icon"
@@ -23597,25 +23618,25 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Excalibur Profile Icon"
 
 [/Lotus/Language/Items/AvatarExcaliburMordredBrightDescription]
-"A profile icon depicting Mordred Excalibur on a bright background."
+"A profile icon depicting Excalibur Mordred on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburMordredBrightName]
 "Excalibur Mordred Profile Icon"
 
 [/Lotus/Language/Items/AvatarExcaliburMordredDarkDescription]
-"A profile icon depicting Mordred Excalibur on a dark background."
+"A profile icon depicting Excalibur Mordred on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburMordredDarkName]
 "Excalibur Mordred Profile Icon"
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonBrightDescription]
-"A profile icon depicting Pendragon Excalibur on a bright background."
+"A profile icon depicting Excalibur Pendragon on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonBrightName]
 "Excalibur Pendragon Profile Icon"
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonDarkDescription]
-"A profile icon depicting Pendragon Excalibur on a dark background."
+"A profile icon depicting Excalibur Pendragon on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonDarkName]
 "Excalibur Pendragon Profile Icon"
@@ -23648,13 +23669,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "TRANSFIGURE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarFrostAuroraBrightDescription]
-"A profile icon depicting Aurora Frost on a bright background."
+"A profile icon depicting Frost Aurora on a bright background."
 
 [/Lotus/Language/Items/AvatarFrostAuroraBrightName]
 "Frost Aurora Profile Icon"
 
 [/Lotus/Language/Items/AvatarFrostAuroraDarkDescription]
-"A profile icon depicting Aurora Frost on a dark background."
+"A profile icon depicting Frost Aurora on a dark background."
 
 [/Lotus/Language/Items/AvatarFrostAuroraDarkName]
 "Frost Aurora Profile Icon"
@@ -23684,13 +23705,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Frost Prime Profile Icon"
 
 [/Lotus/Language/Items/AvatarFrostSquallBrightDescription]
-"A profile icon depicting Squall Frost on a bright background."
+"A profile icon depicting Frost Squall on a bright background."
 
 [/Lotus/Language/Items/AvatarFrostSquallBrightName]
 "Frost Squall Profile Icon"
 
 [/Lotus/Language/Items/AvatarFrostSquallDarkDescription]
-"A profile icon depicting Squall Frost on a dark background."
+"A profile icon depicting Frost Squall on a dark background."
 
 [/Lotus/Language/Items/AvatarFrostSquallDarkName]
 "Frost Squall Profile Icon"
@@ -23807,13 +23828,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "THE LOTUS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLimboAristeasBrightDescription]
-"A profile icon depicting Aristeas Limbo on a bright background."
+"A profile icon depicting Limbo Aristeas on a bright background."
 
 [/Lotus/Language/Items/AvatarLimboAristeasBrightName]
 "Limbo Aristeas Profile Icon"
 
 [/Lotus/Language/Items/AvatarLimboAristeasDarkDescription]
-"A profile icon depicting Aristeas Limbo on a dark background."
+"A profile icon depicting Limbo Aristeas on a dark background."
 
 [/Lotus/Language/Items/AvatarLimboAristeasDarkName]
 "Limbo Aristeas Profile Icon"
@@ -23882,13 +23903,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Loki Enigma Profile Icon"
 
 [/Lotus/Language/Items/AvatarLokiEssenceBrightDescription]
-"A profile icon depicting Essence Loki on a bright background."
+"A profile icon depicting Loki Essence on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiEssenceBrightName]
 "Loki Essence Profile Icon"
 
 [/Lotus/Language/Items/AvatarLokiEssenceDarkDescription]
-"A profile icon depicting Essence Loki on a dark background."
+"A profile icon depicting Loki Essence on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiEssenceDarkName]
 "Loki Essence Profile Icon"
@@ -23906,13 +23927,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Loki Prime Profile Icon"
 
 [/Lotus/Language/Items/AvatarLokiSwindleBrightDescription]
-"A profile icon depicting Swindle Loki on a bright background."
+"A profile icon depicting Loki Swindle on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiSwindleBrightName]
 "Loki Swindle Profile Icon"
 
 [/Lotus/Language/Items/AvatarLokiSwindleDarkDescription]
-"A profile icon depicting Swindle Loki on a dark background."
+"A profile icon depicting Loki Swindle on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiSwindleDarkName]
 "Loki Swindle Profile Icon"
@@ -23924,13 +23945,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Mag Profile Icon"
 
 [/Lotus/Language/Items/AvatarMagCoilBrightDescription]
-"A profile icon depicting Coil Mag on a bright background."
+"A profile icon depicting Mag Coil on a bright background."
 
 [/Lotus/Language/Items/AvatarMagCoilBrightName]
 "Mag Coil Profile Icon"
 
 [/Lotus/Language/Items/AvatarMagCoilDarkDescription]
-"A profile icon depicting Coil Mag on a dark background."
+"A profile icon depicting Mag Coil on a dark background."
 
 [/Lotus/Language/Items/AvatarMagCoilDarkName]
 "Mag Coil Profile Icon"
@@ -23942,13 +23963,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Mag Profile Icon"
 
 [/Lotus/Language/Items/AvatarMagGaussBrightDescription]
-"A profile icon depicting Gauss Mag on a bright background."
+"A profile icon depicting Mag Gauss on a bright background."
 
 [/Lotus/Language/Items/AvatarMagGaussBrightName]
 "Mag Gauss Profile Icon"
 
 [/Lotus/Language/Items/AvatarMagGaussDarkDescription]
-"A profile icon depicting Gauss Mag on a dark background."
+"A profile icon depicting Mag Gauss on a dark background."
 
 [/Lotus/Language/Items/AvatarMagGaussDarkName]
 "Mag Gauss Profile Icon"
@@ -24038,13 +24059,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Wukong Profile Icon"
 
 [/Lotus/Language/Items/AvatarNekrosAraknidBrightDescription]
-"A profile icon depicting Raknis Nekros on a bright background."
+"A profile icon depicting Nekros Raknis on a bright background."
 
 [/Lotus/Language/Items/AvatarNekrosAraknidBrightName]
 "Nekros Raknis Profile Icon"
 
 [/Lotus/Language/Items/AvatarNekrosAraknidDarkDescription]
-"A profile icon depicting Raknis Nekros on a dark background."
+"A profile icon depicting Nekros Raknis on a dark background."
 
 [/Lotus/Language/Items/AvatarNekrosAraknidDarkName]
 "Nekros Raknis Profile Icon"
@@ -24122,13 +24143,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Nezha Profile Icon"
 
 [/Lotus/Language/Items/AvatarNovaAltBrightDescription]
-"A profile icon depicting Flux Nova on a bright background."
+"A profile icon depicting Nova Flux on a bright background."
 
 [/Lotus/Language/Items/AvatarNovaAltBrightName]
 "Nova Flux Profile Icon"
 
 [/Lotus/Language/Items/AvatarNovaAltDarkDescription]
-"A profile icon depicting Flux Nova on a dark background."
+"A profile icon depicting Nova Flux on a dark background."
 
 [/Lotus/Language/Items/AvatarNovaAltDarkName]
 "Nova Flux Profile Icon"
@@ -24194,13 +24215,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Nyx Profile Icon"
 
 [/Lotus/Language/Items/AvatarNyxMenticideBrightDescription]
-"A profile icon depicting Menticide Nyx on a bright background."
+"A profile icon depicting Nyx Menticide on a bright background."
 
 [/Lotus/Language/Items/AvatarNyxMenticideBrightName]
 "Nyx Menticide Profile Icon"
 
 [/Lotus/Language/Items/AvatarNyxMenticideDarkDescription]
-"A profile icon depicting Menticide Nyx on a dark background."
+"A profile icon depicting Nyx Menticide on a dark background."
 
 [/Lotus/Language/Items/AvatarNyxMenticideDarkName]
 "Nyx Menticide Profile Icon"
@@ -24212,13 +24233,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "NYX NEMESIS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNyxVespaBrightDescription]
-"A profile icon depicting Vespa Nyx on a bright background."
+"A profile icon depicting Nyx Vespa on a bright background."
 
 [/Lotus/Language/Items/AvatarNyxVespaBrightName]
 "Nyx Vespa Profile Icon"
 
 [/Lotus/Language/Items/AvatarNyxVespaDarkDescription]
-"A profile icon depicting Vespa Nyx on a dark background."
+"A profile icon depicting Nyx Vespa on a dark background."
 
 [/Lotus/Language/Items/AvatarNyxVespaDarkName]
 "Nyx Vespa Profile Icon"
@@ -24242,25 +24263,25 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "OBERON FEYARCH PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarOberonMarkhorBrightDescription]
-"A profile icon depicting Markhor Oberon on a bright background."
+"A profile icon depicting Oberon Markhor on a bright background."
 
 [/Lotus/Language/Items/AvatarOberonMarkhorBrightName]
 "Oberon Markhor Profile Icon"
 
 [/Lotus/Language/Items/AvatarOberonMarkhorDarkDescription]
-"A profile icon depicting Markhor Oberon on a dark background."
+"A profile icon depicting Oberon Markhor on a dark background."
 
 [/Lotus/Language/Items/AvatarOberonMarkhorDarkName]
 "Oberon Markhor Profile Icon"
 
 [/Lotus/Language/Items/AvatarOberonOryxBrightDescription]
-"A profile icon depicting Oryx Oberon on a bright background."
+"A profile icon depicting Oberon Oryx on a bright background."
 
 [/Lotus/Language/Items/AvatarOberonOryxBrightName]
 "Oberon Oryx Profile Icon"
 
 [/Lotus/Language/Items/AvatarOberonOryxDarkDescription]
-"A profile icon depicting Oryx Oberon on a dark background."
+"A profile icon depicting Oberon Oryx on a dark background."
 
 [/Lotus/Language/Items/AvatarOberonOryxDarkName]
 "Oberon Oryx Profile Icon"
@@ -24596,13 +24617,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Hydroid Profile Icon"
 
 [/Lotus/Language/Items/AvatarPirateTritonBrightDescription]
-"A profile icon depicting Triton Hydroid on a bright background."
+"A profile icon depicting Hydroid Triton on a bright background."
 
 [/Lotus/Language/Items/AvatarPirateTritonBrightName]
 "Hydroid Triton Profile Icon"
 
 [/Lotus/Language/Items/AvatarPirateTritonDarkDescription]
-"A profile icon depicting Triton Hydroid on a dark background."
+"A profile icon depicting Hydroid Triton on a dark background."
 
 [/Lotus/Language/Items/AvatarPirateTritonDarkName]
 "Hydroid Triton Profile Icon"
@@ -24665,25 +24686,25 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Rhino Prime Profile Icon"
 
 [/Lotus/Language/Items/AvatarRhinoThrakBrightDescription]
-"A profile icon depicting Thrak Rhino on a bright background."
+"A profile icon depicting Rhino Thrak on a bright background."
 
 [/Lotus/Language/Items/AvatarRhinoThrakBrightName]
 "Rhino Thrak Profile Icon"
 
 [/Lotus/Language/Items/AvatarRhinoThrakDarkDescription]
-"A profile icon depicting Thrak Rhino on a dark background."
+"A profile icon depicting Rhino Thrak on a dark background."
 
 [/Lotus/Language/Items/AvatarRhinoThrakDarkName]
 "Rhino Thrak Profile Icon"
 
 [/Lotus/Language/Items/AvatarRhinoVanguardBrightDescription]
-"A profile icon depicting Vanguard Rhino on a bright background."
+"A profile icon depicting Rhino Vanguard on a bright background."
 
 [/Lotus/Language/Items/AvatarRhinoVanguardBrightName]
 "Rhino Vanguard Profile Icon"
 
 [/Lotus/Language/Items/AvatarRhinoVanguardDarkDescription]
-"A profile icon depicting Vanguard Rhino on a dark background."
+"A profile icon depicting Rhino Vanguard on a dark background."
 
 [/Lotus/Language/Items/AvatarRhinoVanguardDarkName]
 "Rhino Vanguard Profile Icon"
@@ -24719,13 +24740,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Saryn Profile Icon"
 
 [/Lotus/Language/Items/AvatarSarynChloraBrightDescription]
-"A profile icon depicting Chlora Saryn on a bright background."
+"A profile icon depicting Saryn Chlora on a bright background."
 
 [/Lotus/Language/Items/AvatarSarynChloraBrightName]
 "Saryn Chlora Profile Icon"
 
 [/Lotus/Language/Items/AvatarSarynChloraDarkDescription]
-"A profile icon depicting Chlora Saryn on a dark background."
+"A profile icon depicting Saryn Chlora on a dark background."
 
 [/Lotus/Language/Items/AvatarSarynChloraDarkName]
 "Saryn Chlora Profile Icon"
@@ -24743,13 +24764,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Saryn Orphid Profile Icon"
 
 [/Lotus/Language/Items/AvatarSarynHemlockBrightDescription]
-"A profile icon depicting Hemlock Saryn on a bright background."
+"A profile icon depicting Saryn Hemlock on a bright background."
 
 [/Lotus/Language/Items/AvatarSarynHemlockBrightName]
 "Saryn Hemlock Profile Icon"
 
 [/Lotus/Language/Items/AvatarSarynHemlockDarkDescription]
-"A profile icon depicting Hemlock Saryn on a dark background."
+"A profile icon depicting Saryn Hemlock on a dark background."
 
 [/Lotus/Language/Items/AvatarSarynHemlockDarkName]
 "Saryn Hemlock Profile Icon"
@@ -24800,13 +24821,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Titania Profile Icon"
 
 [/Lotus/Language/Items/AvatarTrapperAltBrightDescription]
-"A profile icon depicting Esprit Vauban on a bright background."
+"A profile icon depicting Vauban Esprit on a bright background."
 
 [/Lotus/Language/Items/AvatarTrapperAltBrightName]
 "Vauban Esprit Profile Icon"
 
 [/Lotus/Language/Items/AvatarTrapperAltDarkDescription]
-"A profile icon depicting Esprit Vauban on a dark background."
+"A profile icon depicting Vauban Esprit on a dark background."
 
 [/Lotus/Language/Items/AvatarTrapperAltDarkName]
 "Vauban Esprit Profile Icon"
@@ -24824,37 +24845,37 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Vauban Profile Icon"
 
 [/Lotus/Language/Items/AvatarTrapperGambitBrightDescription]
-"A profile icon depicting Gambit Vauban on a bright background."
+"A profile icon depicting Vauban Gambit on a bright background."
 
 [/Lotus/Language/Items/AvatarTrapperGambitBrightName]
 "Vauban Gambit Profile Icon"
 
 [/Lotus/Language/Items/AvatarTrapperGambitDarkDescription]
-"A profile icon depicting Gambit Vauban on a dark background."
+"A profile icon depicting Vauban Gambit on a dark background."
 
 [/Lotus/Language/Items/AvatarTrapperGambitDarkName]
 "Vauban Gambit Profile Icon"
 
 [/Lotus/Language/Items/AvatarTrapperSoldierBrightDescription]
-"A profile icon depicting Armistice Vauban on a bright background."
+"A profile icon depicting Vauban Armistice on a bright background."
 
 [/Lotus/Language/Items/AvatarTrapperSoldierBrightName]
 "Vauban Armistice Profile Icon"
 
 [/Lotus/Language/Items/AvatarTrapperSoldierDarkDescription]
-"A profile icon depicting Armistice Vauban on a dark background."
+"A profile icon depicting Vauban Armistice on a dark background."
 
 [/Lotus/Language/Items/AvatarTrapperSoldierDarkName]
 "Vauban Armistice Profile Icon"
 
 [/Lotus/Language/Items/AvatarTrinityAuraBrightDescription]
-"A profile icon depicting Aura Trinity on a bright background."
+"A profile icon depicting Trinity Aura on a bright background."
 
 [/Lotus/Language/Items/AvatarTrinityAuraBrightName]
 "Trinity Aura Profile Icon"
 
 [/Lotus/Language/Items/AvatarTrinityAuraDarkDescription]
-"A profile icon depicting Aura Trinity on a dark background."
+"A profile icon depicting Trinity Aura on a dark background."
 
 [/Lotus/Language/Items/AvatarTrinityAuraDarkName]
 "Trinity Aura Profile Icon"
@@ -24878,13 +24899,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Trinity Strega Profile Icon"
 
 [/Lotus/Language/Items/AvatarTrinityMeridianBrightDescription]
-"A profile icon depicting Meridian Trinity on a bright background."
+"A profile icon depicting Trinity Meridian on a bright background."
 
 [/Lotus/Language/Items/AvatarTrinityMeridianBrightName]
 "Trinity Meridian Profile Icon"
 
 [/Lotus/Language/Items/AvatarTrinityMeridianDarkDescription]
-"A profile icon depicting Meridian Trinity on a dark background."
+"A profile icon depicting Trinity Meridian on a dark background."
 
 [/Lotus/Language/Items/AvatarTrinityMeridianDarkName]
 "Trinity Meridian Profile Icon"
@@ -24932,13 +24953,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Valkyr Gersemi Profile Icon"
 
 [/Lotus/Language/Items/AvatarValkyrKaraBrightDescription]
-"A profile icon depicting Kara Valkyr on a bright background."
+"A profile icon depicting Valkyr Kara on a bright background."
 
 [/Lotus/Language/Items/AvatarValkyrKaraBrightName]
 "Valkyr Kara Profile Icon"
 
 [/Lotus/Language/Items/AvatarValkyrKaraDarkDescription]
-"A profile icon depicting Kara Valkyr on a dark background."
+"A profile icon depicting Valkyr Kara on a dark background."
 
 [/Lotus/Language/Items/AvatarValkyrKaraDarkName]
 "Valkyr Kara Profile Icon"
@@ -24980,25 +25001,25 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Volt Prime Profile Icon"
 
 [/Lotus/Language/Items/AvatarVoltPulseBrightDescription]
-"A profile icon depicting Pulse Volt on a bright background."
+"A profile icon depicting Volt Pulse on a bright background."
 
 [/Lotus/Language/Items/AvatarVoltPulseBrightName]
 "Volt Pulse Profile Icon"
 
 [/Lotus/Language/Items/AvatarVoltPulseDarkDescription]
-"A profile icon depicting Pulse Volt on a dark background."
+"A profile icon depicting Volt Pulse on a dark background."
 
 [/Lotus/Language/Items/AvatarVoltPulseDarkName]
 "Volt Pulse Profile Icon"
 
 [/Lotus/Language/Items/AvatarVoltStormBrightDescription]
-"A profile icon depicting Storm Volt on a bright background."
+"A profile icon depicting Volt Storm on a bright background."
 
 [/Lotus/Language/Items/AvatarVoltStormBrightName]
 "Volt Storm Profile Icon"
 
 [/Lotus/Language/Items/AvatarVoltStormDarkDescription]
-"A profile icon depicting Storm Volt on a dark background."
+"A profile icon depicting Volt Storm on a dark background."
 
 [/Lotus/Language/Items/AvatarVoltStormDarkName]
 "Volt Storm Profile Icon"
@@ -25010,13 +25031,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Zephyr Profile Icon"
 
 [/Lotus/Language/Items/AvatarZephyrCierzoBrightDescription]
-"A profile icon depicting Cierzo Zephyr on a bright background."
+"A profile icon depicting Zephyr Cierzo on a bright background."
 
 [/Lotus/Language/Items/AvatarZephyrCierzoBrightName]
 "Zephyr Cierzo Profile Icon"
 
 [/Lotus/Language/Items/AvatarZephyrCierzoDarkDescription]
-"A profile icon depicting Cierzo Zephyr on a dark background."
+"A profile icon depicting Zephyr Cierzo on a dark background."
 
 [/Lotus/Language/Items/AvatarZephyrCierzoDarkName]
 "Zephyr Cierzo Profile Icon"
@@ -25895,6 +25916,12 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/CeramicDaggerName]
 "CERAMIC DAGGER"
+
+[/Lotus/Language/Items/CeruleanFungusExtract]
+"CERULEAN FUNGUS EXTRACT"
+
+[/Lotus/Language/Items/CeruleanFungusExtractDesc]
+"Extracted from a Cerulean Fungus colony."
 
 [/Lotus/Language/Items/ChainLightningRifleDesc]
 "The Amprex rifle fires a continuous beam of high voltage electricity that arcs among nearby enemies. This weapon excels at crowd control."
@@ -27787,6 +27814,12 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/DualVastosName]
 "AKVASTO"
 
+[/Lotus/Language/Items/DusklightSarracenia]
+"DUSKLIGHT SARRACENIA EXTRACT"
+
+[/Lotus/Language/Items/DusklightSarraceniaDesc]
+"Extracted from a Dusklight Sarracenia."
+
 [/Lotus/Language/Items/EclipseAbility]
 "Eclipse"
 
@@ -28316,7 +28349,7 @@ Blueprint is reusable and will not be consumed."
 "[Placeholder]"
 
 [/Lotus/Language/Items/FairyName]
-"[Placeholder] Fairy"
+"TITANIA"
 
 [/Lotus/Language/Items/FairyNobleAnims]
 "TITANIA NOBLE ANIMATION SET"
@@ -28790,6 +28823,12 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/FrostDesc]
 "By channeling moisture and vapor in the surrounding environment, Frost creates formidable defenses and lethal attacks from sub zero conditions."
 
+[/Lotus/Language/Items/FrostleafExtract]
+"FROSTLEAF EXTRACT"
+
+[/Lotus/Language/Items/FrostleafExtractDesc]
+"Extracted from a Frostleaf bush."
+
 [/Lotus/Language/Items/FrostName]
 "FROST"
 
@@ -28944,6 +28983,12 @@ This bundle of 1 Gallium can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/GenericSuitCustomizationName]
 "HELMET OR SYANDANA"
+
+[/Lotus/Language/Items/GhostBrushExtract]
+"GHOST BRUSH EXTRACT"
+
+[/Lotus/Language/Items/GhostBrushExtractDesc]
+"Extracted from a Ghost Brush."
 
 [/Lotus/Language/Items/GhostStoreItemDesc]
 "Cloaks owner when enemies are close. The cloak is disrupted if owner attacks."
@@ -29113,6 +29158,18 @@ This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve pro
 
 [/Lotus/Language/Items/GreaterPowerLensName]
 "GREATER ZENURIK LENS"
+
+[/Lotus/Language/Items/GreaterRandomProjection]
+"GREATER RELIC PACK"
+
+[/Lotus/Language/Items/GreaterRandomProjectionBundleDesc]
+"Contains a Greater Relic Pack, featuring 6 Random Relics, two guaranteed Rare Relics and 20 Void Traces."
+
+[/Lotus/Language/Items/GreaterRandomProjectionBundleName]
+"VOID TRACE RELIC PACK"
+
+[/Lotus/Language/Items/GreaterRandomProjectionDesc]
+"6 Random Relics, two guaranteed Rare. What secrets exist within them?"
 
 [/Lotus/Language/Items/GreaterTacticLensDesc]
 "Channels a greater amount of Affinity into Focus for the Naramon Way."
@@ -29671,6 +29728,18 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 
 [/Lotus/Language/Items/GyroscopeShipName]
 "XIPHOS"
+
+[/Lotus/Language/Items/GyroscopeSkinIfritDesc]
+"A unique skin for the Xiphos landing craft."
+
+[/Lotus/Language/Items/GyroscopeSkinIfritName]
+"[PLACEHOLDER] XIPOHOS IFRIT SKIN"
+
+[/Lotus/Language/Items/GyroscopeSkinNekrognosDesc]
+"A unique skin for the Xiphos landing craft."
+
+[/Lotus/Language/Items/GyroscopeSkinNekrognosName]
+"[PLACEHOLDER] XIPOHOS NEKROGNOS SKIN"
 
 [/Lotus/Language/Items/HalloweenAklatoDesc]
 "A morbidly festive skin for the Aklato."
@@ -32032,6 +32101,12 @@ This skin requires a Nikana or a Dragon Nikana to use."
 [/Lotus/Language/Items/LuckyDragonAbilityDesc]
 "Depending on Chroma's elemental alignment, an offensive area-of-effect is created. Chroma and its nearby allies are imbued with defensive energy."
 
+[/Lotus/Language/Items/LunaroArenaPennantA]
+"[PLACEHOLDER] PENNANT A"
+
+[/Lotus/Language/Items/LunaroArenaPennantB]
+"[PLACEHOLDER] PENNANT B"
+
 [/Lotus/Language/Items/LunaroArmorCPackDesc]
 "This ornate set of guards was worn by ancient Lunaro champions."
 
@@ -32073,6 +32148,12 @@ This skin requires a Nikana or a Dragon Nikana to use."
 
 [/Lotus/Language/Items/LunaroSetCLegArmourName]
 "RIV ELITE-GUARD LEG"
+
+[/Lotus/Language/Items/LunarPitcherExtract]
+"LUNAR PITCHER EXTRACT"
+
+[/Lotus/Language/Items/LunarPitcherExtractDesc]
+"Extracted from a Lunar Pitcher."
 
 [/Lotus/Language/Items/LureAbilityDesc]
 "[Placeholder] Place a lure to distract enemies, explodes upon taking enough damage"
@@ -33309,6 +33390,51 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 
 [/Lotus/Language/Items/OrbiterDisplayBundleName]
 "DISPLAY PACK"
+
+[/Lotus/Language/Items/OrnateArchSwordDesc]
+"[PLACEHOLDER] Description"
+
+[/Lotus/Language/Items/OrnateArchSwordName]
+"[PLACEHOLDER] ORNATE VERITUX"
+
+[/Lotus/Language/Items/OrnateBallisticaDesc]
+"[PLACEHOLDER] Description"
+
+[/Lotus/Language/Items/OrnateBallisticaName]
+"[PLACEHOLDER] ORNATE BALLISTICA"
+
+[/Lotus/Language/Items/OrnateGalatineDesc]
+"[PLACEHOLDER] Description"
+
+[/Lotus/Language/Items/OrnateGalatineName]
+"[PLACEHOLDER] ORNATE GALATINE"
+
+[/Lotus/Language/Items/OrnateImperatorDesc]
+"[PLACEHOLDER] Description"
+
+[/Lotus/Language/Items/OrnateImperatorName]
+"[PLACEHOLDER] ORNATE IMPERATOR"
+
+[/Lotus/Language/Items/OrnateOrthosDesc]
+"[PLACEHOLDER] Description"
+
+[/Lotus/Language/Items/OrnateOrthosName]
+"[PLACEHOLDER] ORNATE ORTHOS"
+
+[/Lotus/Language/Items/OrnateTigrisDesc]
+"[PLACEHOLDER] Description"
+
+[/Lotus/Language/Items/OrnateTigrisName]
+"[PLACEHOLDER] ORNATE TIGRIS"
+
+[/Lotus/Language/Items/OrnateWeaponBundleDesc]
+"[PLACEHOLDER] Description"
+
+[/Lotus/Language/Items/OrnateWeaponBundleFeaturedText]
+"[PLACEHOLDER] Description"
+
+[/Lotus/Language/Items/OrnateWeaponBundleName]
+"[PLACEHOLDER] ORNATE WEAPON PACK"
 
 [/Lotus/Language/Items/OrokinCaptureKeyADesc]
 "A Capture mission within the Void"
@@ -35714,6 +35840,12 @@ Note: This item requires two open slots."
 "A jagged crystalline ore. Gives off radiant energy.
 This bundle of 450 Rubedo can be used for crafting items in your Foundry."
 
+[/Lotus/Language/Items/RuksClawExtract]
+"RUK'S CLAW EXTRACT"
+
+[/Lotus/Language/Items/RuksClawExtractDesc]
+"Extracted from a Ruk's Claw."
+
 [/Lotus/Language/Items/RussianRouletteAbility]
 "Shooting Gallery"
 
@@ -35953,7 +36085,7 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "Lunging spirals and shattering combos."
 
 [/Lotus/Language/Items/SearchTheDeadAbilityAugmentDesc]
-"Desecrate Augment - No longer consumes energy, but consumes |HEALTH_AMMOUNT| health instead."
+"Desecrate Augment - No longer consumes energy, but consumes |HEALTH_AMOUNT| health per second instead."
 
 [/Lotus/Language/Items/SearchTheDeadAbilityAugmentName]
 "Despoil"
@@ -36064,10 +36196,13 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "[Placeholder] Glaive Weapon"
 
 [/Lotus/Language/Items/SentinelHealthRegenPreceptNightwatchModDesc]
-"Sentinel will occasionally heal its owner, restoring |healPct|% health over |duration|s"
+"restoring |healPct|% health over |duration|s"
 
 [/Lotus/Language/Items/SentinelHealthRegenPreceptNightwatchModName]
 "Medi-Ray"
+
+[/Lotus/Language/Items/SentinelHealthRegenPreceptNightwatchModShortDesc]
+"Sentinel will occasionally heal its owner"
 
 [/Lotus/Language/Items/SentinelJetWingsName]
 "JET WINGS"
@@ -36330,7 +36465,7 @@ Sell this item to remove the decorations at any time."
 "MARS NAV SEGMENT"
 
 [/Lotus/Language/Items/ShipNavMercury]
-"MERCURY NAV SEGMENT"
+"GALLEON NAV COORDINATES"
 
 [/Lotus/Language/Items/ShipNavNeptune]
 "NEPTUNE NAV SEGMENT"
@@ -36516,6 +36651,12 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 
 [/Lotus/Language/Items/SkanaPrimeName]
 "SKANA PRIME"
+
+[/Lotus/Language/Items/SkateweedExtract]
+"SKATEWEED EXTRACT"
+
+[/Lotus/Language/Items/SkateweedExtractDesc]
+"Extracted from Skateweed."
 
 [/Lotus/Language/Items/SkullBadgeBronzeDesc]
 "Awarded to Tenno who achieved a Bronze Rank on the retired Global Leaderboards."
@@ -37678,6 +37819,9 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 [/Lotus/Language/Items/t4voidprojectiong]
 "AXI N2 RELIC"
 
+[/Lotus/Language/Items/t4voidprojectionh]
+"AXI V3 RELIC"
+
 [/Lotus/Language/Items/TacticFocusAbilityDesc]
 "Path of the Sky Rogue"
 
@@ -38766,6 +38910,12 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 [/Lotus/Language/Items/VaultRaiderPackName]
 "Vault Raider Package"
 
+[/Lotus/Language/Items/VestanMossExtract]
+"VESTAN MOSS EXTRACT"
+
+[/Lotus/Language/Items/VestanMossExtractDesc]
+"Extracted from Vestan Moss."
+
 [/Lotus/Language/Items/VIPPistolDesc]
 "A special version of the standard Lato pistol with a slower fire rate but offering higher accuracy and damage values. The Lato Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the grips."
 
@@ -39797,7 +39947,7 @@ Note: This item requires two open slots."
 "CONFRONT SPECTER"
 
 [/Lotus/Language/Junction/RegionDesc]
-"Complete all the tasks listed below to gain access to a new planet"
+"Complete all the goals listed below to gain access to a new planet"
 
 [/Lotus/Language/Junction/RegionTitle]
 "|REGION| Junction"
@@ -40252,22 +40402,22 @@ Visit the in-game Market to obtain the latest Prime Access offering different pa
 "Xbox Live features are disabled - an update for the system software is available."
 
 [/Lotus/Language/Launcher/TAB1_DESC]
-"A contact ball sport played long ago by Tenno of years past, Lunaro is a new Conclave mode that accommodates up to three players per team. This new game mode focuses on skill, mobility, teamwork and creativity."
+"Archwing - the game mode invokes many things in a Tenno. With Specters of the Rail comes an entirely overhauled flight system! In addition to completely reworked Archwing movement, Specters of the Rail adds a new Support Class, game modes and new weapons to unleash against the enemy!"
 
 [/Lotus/Language/Launcher/TAB1_TITLE]
-"LUNARO IS HERE!"
+"Archwing Overhaul and New Additions!"
 
 [/Lotus/Language/Launcher/TAB2_DESC]
-"Honor the traditions of your Tenno ancestors with Lunaro-themed Armor."
+"Every Tenno needs a companion. Kubrows and Sentinels have given Tenno aid in battle for years, and now a new species of Companion enters the Arsenal -- Kavats! Domesticate your own Kavat. Choose to keep your ship extra-adorable with the roaming kitten or puppy versions OR simply Mature them for a formative Companion to join you in the fight. Adorn your faithful Companion in the Armor it deserves and enhance it with new Mods!"
 
 [/Lotus/Language/Launcher/TAB2_TITLE]
-"LUNARO ARMOR"
+"New Companions: Kavats"
 
 [/Lotus/Language/Launcher/TAB3_DESC]
-"Visit your Operator to view a variety of new Customizations."
+"A redesign of the original Star Chart will bring back the nostalgic roadmap design, making it easier to travel the Origin System. With the introduction of the Star Chart comes a new way to acquire Prime items. Don’t worry Tenno, your Void Keys still hold value!The Market has been completely reworked from the ground up. Quickly navigate through the Market to discover all the new additions."
 
 [/Lotus/Language/Launcher/TAB3_TITLE]
-"OPERATOR CUSTOMIZATIONS"
+"Star Chart and Market Facelift"
 
 [/Lotus/Language/Launcher/TEST]
 "Test"
@@ -44042,6 +44192,9 @@ SPEAK TO CEPHALON SIMARIS"
 
 [/Lotus/Language/Menu/ConfirmJoinHighPing]
 "Poor connection quality detected (|PING|ms ping). Are you sure you want to join?"
+
+[/Lotus/Language/Menu/ConfirmJoinNotEnoughSlots]
+"Session doesn't have enough slots for your whole squad (|SLOTS| slots free). Are you sure you want to join?"
 
 [/Lotus/Language/Menu/ConfirmMaturePet]
 "|NAME| will grow to adulthood and become ready for combat.
@@ -48258,6 +48411,9 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 [/Lotus/Language/Menu/Leading_Space_Warning]
 "Clan name cannot begin with a space."
 
+[/Lotus/Language/Menu/LeaveGuild_AllianceCreator_Confirm]
+"Your clan is the creator clan of your Alliance. If you disband the clan, your permissions as creator clan will be transferred to |NEW_CREATOR_CLAN|. Do you still want to disband your clan?"
+
 [/Lotus/Language/Menu/LeaveGuild_Confirm]
 "Are you sure you want to leave your clan? Your dojo key/blueprint for this clan will be destroyed."
 
@@ -48325,6 +48481,9 @@ Are you sure?"
 
 [/Lotus/Language/Menu/Loadout_Archwing]
 "ARCHWING"
+
+[/Lotus/Language/Menu/Loadout_Arena]
+"[PLACEHOLDER] ARENA CUSTOMIZATION"
 
 [/Lotus/Language/Menu/Loadout_AuraSlot]
 "Slot Aura Mods here... Aura Mods affect all players!"
@@ -48571,6 +48730,9 @@ Are you sure?"
 
 [/Lotus/Language/Menu/Loadout_Options_Swap]
 "SWAP"
+
+[/Lotus/Language/Menu/Loadout_Pennant]
+"[PLACEHOLDER] PENNANT"
 
 [/Lotus/Language/Menu/Loadout_PhysicalTitle]
 "PHYSIQUE"
@@ -49493,6 +49655,9 @@ The Lotus"
 [/Lotus/Language/Menu/Mission_RoundRewardsDisqualified]
 "Not eligible for reward (dead or inactive)"
 
+[/Lotus/Language/Menu/Mission_StartingWarmUp]
+"Starting warm up in |SEC|"
+
 [/Lotus/Language/Menu/Mission_Success_Summary]
 "MISSION SUCCESS: SUMMARY"
 
@@ -49619,6 +49784,9 @@ The Lotus"
 [/Lotus/Language/Menu/MissionStats_BonusXP]
 "Bonus XP"
 
+[/Lotus/Language/Menu/MissionStats_BoostedCredits]
+"Boosted credits"
+
 [/Lotus/Language/Menu/MissionStats_Complete]
 "MISSION COMPLETE"
 
@@ -49681,6 +49849,12 @@ The Lotus"
 
 [/Lotus/Language/Menu/MissionStats_Title]
 "MISSION RESULTS"
+
+[/Lotus/Language/Menu/MissionStats_TotalCredits]
+"Total credits"
+
+[/Lotus/Language/Menu/MissionStats_UnboostedCredits]
+"Unboosted credit reward"
 
 [/Lotus/Language/Menu/MissionStats_UpgradesReceived]
 "Upgrades Received"
@@ -51758,6 +51932,9 @@ Do you wish to enable Recruit Conditioning?"
 [/Lotus/Language/Menu/Quests_SetActive]
 "BEGIN"
 
+[/Lotus/Language/Menu/Quests_SetNullActive]
+"Clear Active Quest"
+
 [/Lotus/Language/Menu/QuickMatch_Failure]
 "Failed to find match. Please try again."
 
@@ -53526,6 +53703,9 @@ Only 4 revives can be used in this mission, you can supplement |COUNT| for |PRIC
 [/Lotus/Language/Menu/SwitchProfile]
 "SWITCH PROFILE"
 
+[/Lotus/Language/Menu/SwitchTeam]
+"SWITCH TEAM"
+
 [/Lotus/Language/Menu/SwitchWeapon]
 "Switch Weapon"
 
@@ -54069,6 +54249,12 @@ This one is dedicated to you."
 [/Lotus/Language/Menu/VoidRewardSelect_LumBonusTitle]
 "CONTRIBUTOR"
 
+[/Lotus/Language/Menu/VoidRewardSelect_NoQualifyDesc]
+"To be eligible for Void Fissure rewards, you must collect enough Reactant."
+
+[/Lotus/Language/Menu/VoidRewardSelect_NoQualifyTitle]
+"INSUFFICIENT REACTANT COLLECTED"
+
 [/Lotus/Language/Menu/VoidRewardSelect_NoRewardDesc]
 "To be eligible for Void Fissure rewards, a Relic must be equipped prior to the mission."
 
@@ -54084,17 +54270,26 @@ This one is dedicated to you."
 [/Lotus/Language/Menu/VoidTearCancelled]
 "VOID FISSURE DESTABILIZED"
 
+[/Lotus/Language/Menu/VoidTearCorruptedEnemy]
+"CORRUPTED |ENEMY|"
+
 [/Lotus/Language/Menu/VoidTearMissionCategoryName]
 "VOID FISSURES"
 
 [/Lotus/Language/Menu/VoidTearMissionName]
 "|TIER| FISSURE"
 
+[/Lotus/Language/Menu/VoidTearProgressTitle]
+"REACTANT COLLECTED"
+
 [/Lotus/Language/Menu/VoidTearSealingComplete]
 "VOID FISSURE SEALED"
 
 [/Lotus/Language/Menu/VoidTearSealingProgress]
 "SEALING FISSURE: |PERCENT|%"
+
+[/Lotus/Language/Menu/VoidTearWeaponCorruption]
+"CORRUPTION"
 
 [/Lotus/Language/Menu/VoidTraderArrivalCountdown]
 "TRADER SURFACING IN |TIME|"
@@ -55866,7 +56061,7 @@ As proof of your deed"
 "Only Nekros Prime is permitted to wear the Mortos Prime Binds."
 
 [/Lotus/Language/Primes/NekrosPrimeDesc]
-"By desecrating the dead, Nekros Prime can amass a spectral army to assault his foes. Featuring altered mod polarities for greater customization."
+"Death’s new master. "
 
 [/Lotus/Language/Primes/NekrosPrimeHelmetDesc]
 "The standard issue helmet for the Nekros Prime Warframe."
@@ -55998,16 +56193,16 @@ As proof of your deed"
 "STINGER PRIME"
 
 [/Lotus/Language/Primes/PrimeSetThreeArmArmourName]
-"ARCANTHUS PRIME SHOULDER GUARD"
+"ACANTHUS PRIME SHOULDER GUARD"
 
 [/Lotus/Language/Primes/PrimeSetThreeArmourDesc]
 "Cast a shadow of pure menace."
 
 [/Lotus/Language/Primes/PrimeSetThreeChestArmourName]
-"ARCANTHUS PRIME CHESTPLATE"
+"ACANTHUS PRIME CHESTPLATE"
 
 [/Lotus/Language/Primes/PrimeSetThreeLegArmourName]
-"ARCANTHUS PRIME LEG GUARD"
+"ACANTHUS PRIME LEG GUARD"
 
 [/Lotus/Language/Primes/PrimeShadeDesc]
 "[PLACEHOLDER] Description"
@@ -64465,103 +64660,46 @@ Tap <MELEE> when you blade is drawn to strike."
 "That's it! You opened the Relic. Finish your mission and we'll take a look inside."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCAftermath0320Lotus]
-"The Fissure's gone and the Relic has been cracked open. You can find out what's inside after you finish your mission."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCEnroute0040Lotus]
-"Energy from the Fissure will fill the Relic and break open its casement."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCEnroute0050Lotus]
-"Careful, Tenno, Void Fissures are conduits for many dangerous possibilities."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCEnroute0060Lotus]
-"Exposure to the Void Fissure will open your Relic, but there's no telling what else will be unleashed in the process."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCFailed0240Lotus]
-"The Fissure closed before the Relic could be opened."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCFailed0250Lotus]
-"You ran out of time. The Fissure closed."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCFailed0260Lotus]
-"The Fissure has collapsed and you failed to open the Relic."
+"The Relic has been cracked open, finish your mission to find out what's inside."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCFissDetect0010Lotus]
-"There's a Void Fissure in the area, you can use it to crack open your Relic. But before you do, ask yourself, is it worth the risk?"
+"There are Void Fissures in the area, use these to crack open a Relic."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCFissDetect0020Lotus]
-"A Void Fissure! Tenno, only approach it if you have a matching Relic and you're confident you can withstand the reaction."
+"Void Fissures! You need them to open a relic, but are you confident you can withstand their fury?"
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCFissDetect0030Lotus]
-"Watch out, I'm detecting a Void Fissure nearby. Do you have a matching Relic?"
+"Watch out, I'm detecting a Void Fissures nearby. Do you have a matching Relic?"
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCFissureFound0070Lotus]
-"You found the Fissure, if you have a matching Relic, you can start the reaction now. Just make sure you're ready for what comes next."
+"You're near a Fissure."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCFissureFound0080Lotus]
-"It's the Fissure. Expose your Relic to start the reaction… if you're ready."
+"You found a Fissure. Look out for reactant."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCFissureFound0090Lotus]
-"That's the Fissure, are you sure you want to do this?"
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCMidpoint0200Lotus]
-"Keep fighting, Tenno, the Relic is starting to crack."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCMidpoint0210Lotus]
-"You're making progress. Don't stop now."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCMidpoint0220Lotus]
-"No one said this would be easy. Keep it up, Tenno."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCMidpoint0230Lotus]
-"It's working, the Relic is showing cracks."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCOverdrive0270Lotus]
-"Not much longer."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCOverdrive0280Lotus]
-"It's almost open. Just a little longer."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCOverdrive0290Lotus]
-"This is it."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCOverdrive0300Lotus]
-"You've almost done it."
+"A Fissure! Defend yourself and use reactant to open Relics. "
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCPickReact0130Lotus]
-"The enemies are dropping reactant. Feed it into the Fissure."
+"The enemies are dropping Reactant. "
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCPickReact0140Lotus]
-"They're dropping reactant. You need that to finish the process."
+"They're dropping Reactant. Use it to crack open a Relic."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCPickReact0150Lotus]
-"Quick, pick up that reactant and take it to the Fissure."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCReactionStarted0100Lotus]
-"The reaction has started. Assume defensive positions."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCReactionStarted0110Lotus]
-"Get ready, things are about to get rough."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCReactionStarted0120Lotus]
-"I have faith in you, Tenno."
+"Use that Reactant to open a Relic."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCReactNeeded0160Lotus]
-"The reaction is slowing. Hurry. Feed it more reactant."
+"The Reactant is working on your Relic. Find more."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCReactNeeded0170Lotus]
-"You need more reactant, feed it back into the Fissure before it closes."
+"You are going to need more Reactant if you want to open that Relic."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCReactNeeded0180Lotus]
-"Don't forget the reactant, you need to feed it back into the Fissure!"
+"Don't forget the Reactant, you need more to open that Relic."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCReactNeeded0190Lotus]
-"We need more reactant. Don't let the Fissure close before the Relic has opened."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCVoidTraces0330Lotus]
-"Look out for Void Traces, a valuable by-product of the Fissure's collapse."
-
-[/Lotus/Language/Subtitles/MissionObjectives/DVRCVoidTraces0340Lotus]
-"Pick up any Void Traces left behind by the reaction."
+"Keep fighting, look for more Reactant."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCVoidTraces0360Ordis]
 "Void Relics, what a baffling concept. 
@@ -71313,6 +71451,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Syndicates/Syndicates_TradeInEventItem]
 "TURN IN |ITEM|?"
+
+[/Lotus/Language/Syndicates/WorldStateSyndicateMission]
+"|MISSION_TYPE| MISSION (|TITLE|)"
 
 [/Lotus/Language/Tutorial/LunaroArcataTutorial]
 "Arcata"
