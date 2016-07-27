@@ -4728,25 +4728,25 @@
     "value": "Failed"
   },
   "/lotus/language/challenges/challenge_find1000mods_description": {
-    "value": "Find 1000 Mods."
+    "value": "Find 1000 Mods or Fusion Cores."
   },
   "/lotus/language/challenges/challenge_find1000mods_name": {
     "value": "So Many Choices"
   },
   "/lotus/language/challenges/challenge_find100mods_description": {
-    "value": "Find 100 Mods."
+    "value": "Find 100 Mods or Fusion Cores."
   },
   "/lotus/language/challenges/challenge_find100mods_name": {
     "value": "Collector"
   },
   "/lotus/language/challenges/challenge_find1mod_description": {
-    "value": "Find a Mod."
+    "value": "Find a Mod or Fusion Core."
   },
   "/lotus/language/challenges/challenge_find1mod_name": {
     "value": "Secrets of the Orokin"
   },
   "/lotus/language/challenges/challenge_find20mods_description": {
-    "value": "Find 20 Mods."
+    "value": "Find 20 Mods or Fusion Cores."
   },
   "/lotus/language/challenges/challenge_find20mods_name": {
     "value": "Behold the Possibilities"
@@ -5067,7 +5067,7 @@
     "value": "Support either the Corpus or Grineer in an INVASION mission"
   },
   "/lotus/language/challenges/challenge_mpvoidtears_name": {
-    "value": "Seal 3 LITH FISSURES"
+    "value": "Open 3 LITH VOID RELICS"
   },
   "/lotus/language/challenges/challenge_multikill_description": {
     "value": "Kill 4 opponents within 3 seconds"
@@ -5157,7 +5157,7 @@
     "value": "Defeat PHORID during an INFESTED OUTBREAK"
   },
   "/lotus/language/challenges/challenge_pevoidtears_name": {
-    "value": "Seal 3 NEO FISSURES"
+    "value": "Open 3 NEO VOID RELICS"
   },
   "/lotus/language/challenges/challenge_pistolmaster_description": {
     "value": "Get 20 kills with your Pistol"
@@ -6192,7 +6192,7 @@
     "value": "Defeat VOR and KRIL at WAR on MARS"
   },
   "/lotus/language/challenges/challenge_suvoidtears_name": {
-    "value": "Seal 3 MESO FISSURES"
+    "value": "Open 3 MESO VOID RELICS"
   },
   "/lotus/language/challenges/challenge_swordsman_description": {
     "value": "Get 10 Melee kills."
@@ -6234,10 +6234,10 @@
     "value": "Fully unlock a focus skill tree"
   },
   "/lotus/language/challenges/challenge_thisiswhatyouare_name": {
-    "value": "This is what you are"
+    "value": "This Is What You Are"
   },
   "/lotus/language/challenges/challenge_treasurehunter_description": {
-    "value": "Find 1 Mod."
+    "value": "Find 1 Mod or Fusion Core."
   },
   "/lotus/language/challenges/challenge_treasurehunter_name": {
     "value": "Treasure Hunter"
@@ -6339,7 +6339,7 @@
     "value": "Without a Hitch "
   },
   "/lotus/language/challenges/weapon_long_gun": {
-    "value": "WEAPON_LONG_GUN"
+    "value": "[Placeholder]"
   },
   "/lotus/language/champions/grineerbeastmasterdesc": {
     "value": "Summons Hyekka to aid her in battle."
@@ -9918,7 +9918,7 @@
     "value": "Could not reduce Clan tier: Clan size is greater than max Clan size at reduced tier."
   },
   "/lotus/language/dojo/reduceguildtier_insufficient_barracks": {
-    "value": "Could not reduce Clan tier: Your Dojo does not contain the required Barracks."
+    "value": "Could not reduce Clan tier to |NEW_TIER_NAME|: Your Dojo does not contain the required Barracks."
   },
   "/lotus/language/dojo/reduceguildtier_room_in_progres": {
     "value": "Could not reduce Clan tier: Please finish contributions for pending rooms, or abort these rooms, before reducing Clan tier."
@@ -9927,7 +9927,7 @@
     "value": "Clan Tier successfully reduced!"
   },
   "/lotus/language/dojo/reduceguildtier_too_many_barracks": {
-    "value": "Could not reduce Clan tier: You Dojo contains Barracks required for a higher tier."
+    "value": "Could not reduce Clan tier to |NEW_TIER_NAME|: You Dojo contains Barracks required for a higher tier."
   },
   "/lotus/language/dojo/reduceguildtier_unknownerror": {
     "value": "Could not reduce Clan tier."
@@ -11074,6 +11074,18 @@
   },
   "/lotus/language/emotes/shrugemotename": {
     "value": "SHRUG"
+  },
+  "/lotus/language/enemies/fairyquestloki": {
+    "value": "KNAVE SPECTER"
+  },
+  "/lotus/language/enemies/fairyquestoberon": {
+    "value": "FEYARCH SPECTER"
+  },
+  "/lotus/language/enemies/fairyquestsaryn": {
+    "value": "ORPHID SPECTER"
+  },
+  "/lotus/language/enemies/fairyquesttitania": {
+    "value": "[PLACEHOLDER] TITANIA SPECTER"
   },
   "/lotus/language/enemies/replicantchroma": {
     "value": "CHROMA SPECTER"
@@ -14328,13 +14340,13 @@
     "value": "Enemy Proximity: Immediate. Defensive Systems Employed: Dismemberment."
   },
   "/lotus/language/g1taunts/hyenadeath01": {
-    "value": "Hyenna destroyed, our circuits demand revenge."
+    "value": "Hyena destroyed, our circuits demand revenge."
   },
   "/lotus/language/g1taunts/hyenadeath02": {
-    "value": "Hyenna down, intensify the hunt."
+    "value": "Hyena down, intensify the hunt."
   },
   "/lotus/language/g1taunts/hyenadeath03": {
-    "value": "Hyenna disabled, the pack grows weak."
+    "value": "Hyena disabled, the pack grows weak."
   },
   "/lotus/language/g1taunts/hyenanew_taunt1": {
     "value": "The Pack calls for your death."
@@ -15439,6 +15451,9 @@
   },
   "/lotus/language/game/drainmaintenanceexit": {
     "value": "<USE> MAINTENANCE EXIT"
+  },
+  "/lotus/language/game/drone_damage": {
+    "value": "DRONE DAMAGE"
   },
   "/lotus/language/game/drop_chance": {
     "value": "DROP CHANCE"
@@ -16763,11 +16778,17 @@
   "/lotus/language/game/lunaro_halftime": {
     "value": "HALFTIME"
   },
+  "/lotus/language/game/lunaro_matchstartsin": {
+    "value": "STARTING MATCH IN |SEC|"
+  },
   "/lotus/language/game/lunaro_playerscored": {
     "value": "|PLAYER_NAME| SCORED!"
   },
   "/lotus/language/game/lunaro_secondhalf": {
     "value": "SECOND HALF"
+  },
+  "/lotus/language/game/lunaro_warmupwaitingforplayers": {
+    "value": "WAITING FOR PLAYERS |NUM|/|TOT|"
   },
   "/lotus/language/game/lureavatar": {
     "value": "VOID LURE"
@@ -19893,13 +19914,13 @@
     "value": "Ash Profile Icon"
   },
   "/lotus/language/items/avatarashlocustbrightdescription": {
-    "value": "A profile icon depicting Locust Ash on a bright background."
+    "value": "A profile icon depicting Ash Locust on a bright background."
   },
   "/lotus/language/items/avatarashlocustbrightname": {
     "value": "Ash Locust Profile Icon"
   },
   "/lotus/language/items/avatarashlocustdarkdescription": {
-    "value": "A profile icon depicting Locust Ash on a dark background."
+    "value": "A profile icon depicting Ash Locust on a dark background."
   },
   "/lotus/language/items/avatarashlocustdarkname": {
     "value": "Ash Locust Profile Icon"
@@ -19917,13 +19938,13 @@
     "value": "Ash Prime Profile Icon"
   },
   "/lotus/language/items/avatarashscorpionbrightdescription": {
-    "value": "A profile icon depicting Scorpion Ash on a bright background."
+    "value": "A profile icon depicting Ash Scorpion on a bright background."
   },
   "/lotus/language/items/avatarashscorpionbrightname": {
     "value": "Ash Scorpion Profile Icon"
   },
   "/lotus/language/items/avatarashscorpiondarkdescription": {
-    "value": "A profile icon depicting Scorpion Ash on a dark background."
+    "value": "A profile icon depicting Ash Scorpion on a dark background."
   },
   "/lotus/language/items/avatarashscorpiondarkname": {
     "value": "Ash Scorpion Profile Icon"
@@ -19935,13 +19956,13 @@
     "value": "Banshee Profile Icon"
   },
   "/lotus/language/items/avatarbansheechorusbrightdescription": {
-    "value": "A profile icon depicting Chorus Banshee on a bright background."
+    "value": "A profile icon depicting Banshee Chorus on a bright background."
   },
   "/lotus/language/items/avatarbansheechorusbrightname": {
     "value": "Banshee Chorus Profile Icon"
   },
   "/lotus/language/items/avatarbansheechorusdarkdescription": {
-    "value": "A profile icon depicting Chorus Banshee on a dark background."
+    "value": "A profile icon depicting Banshee Chorus on a dark background."
   },
   "/lotus/language/items/avatarbansheechorusdarkname": {
     "value": "Banshee Chorus Profile Icon"
@@ -19959,13 +19980,13 @@
     "value": "Banshee Soprana Profile Icon"
   },
   "/lotus/language/items/avatarbansheereverbbrightdescription": {
-    "value": "A profile icon depicting Reverb Banshee on a bright background."
+    "value": "A profile icon depicting Banshee Reverb on a bright background."
   },
   "/lotus/language/items/avatarbansheereverbbrightname": {
     "value": "Banshee Reverb Profile Icon"
   },
   "/lotus/language/items/avatarbansheereverbdarkdescription": {
-    "value": "A profile icon depicting Reverb Banshee on a dark background."
+    "value": "A profile icon depicting Banshee Reverb on a dark background."
   },
   "/lotus/language/items/avatarbansheereverbdarkname": {
     "value": "Banshee Reverb Profile Icon"
@@ -20046,13 +20067,13 @@
     "value": "THE BEAST PROFILE ICON"
   },
   "/lotus/language/items/avataremberbackdraftbrightdescription": {
-    "value": "A profile icon depicting Backdraft Ember on a bright background."
+    "value": "A profile icon depicting Ember Backdraft on a bright background."
   },
   "/lotus/language/items/avataremberbackdraftbrightname": {
     "value": "Ember Backdraft Profile Icon"
   },
   "/lotus/language/items/avataremberbackdraftdarkdescription": {
-    "value": "A profile icon depicting Backdraft Ember on a dark background."
+    "value": "A profile icon depicting Ember Backdraft on a dark background."
   },
   "/lotus/language/items/avataremberbackdraftdarkname": {
     "value": "Ember Backdraft Profile Icon"
@@ -20070,13 +20091,13 @@
     "value": "Ember Profile Icon"
   },
   "/lotus/language/items/avataremberpheonixbrightdescription": {
-    "value": "A profile icon depicting Phoenix Ember on a bright background."
+    "value": "A profile icon depicting Ember Phoenix on a bright background."
   },
   "/lotus/language/items/avataremberpheonixbrightname": {
     "value": "Phoenix Ember Profile Icon"
   },
   "/lotus/language/items/avataremberpheonixdarkdescription": {
-    "value": "A profile icon depicting Phoenix Ember on a dark background."
+    "value": "A profile icon depicting Ember Phoenix on a dark background."
   },
   "/lotus/language/items/avataremberpheonixdarkname": {
     "value": "Phoenix Ember Profile Icon"
@@ -20121,13 +20142,13 @@
     "value": "Equinox Solstice Profile Icon"
   },
   "/lotus/language/items/avatarexcaliburavalonbrightdescription": {
-    "value": "A profile icon depicting Avalon Excalibur on a bright background."
+    "value": "A profile icon depicting Excalibur Avalon on a bright background."
   },
   "/lotus/language/items/avatarexcaliburavalonbrightname": {
     "value": "Excalibur Avalon Profile Icon"
   },
   "/lotus/language/items/avatarexcaliburavalondarkdescription": {
-    "value": "A profile icon depicting Avalon Excalibur on a dark background."
+    "value": "A profile icon depicting Excalibur Avalon on a dark background."
   },
   "/lotus/language/items/avatarexcaliburavalondarkname": {
     "value": "Excalibur Avalon Profile Icon"
@@ -20145,25 +20166,25 @@
     "value": "Excalibur Profile Icon"
   },
   "/lotus/language/items/avatarexcaliburmordredbrightdescription": {
-    "value": "A profile icon depicting Mordred Excalibur on a bright background."
+    "value": "A profile icon depicting Excalibur Mordred on a bright background."
   },
   "/lotus/language/items/avatarexcaliburmordredbrightname": {
     "value": "Excalibur Mordred Profile Icon"
   },
   "/lotus/language/items/avatarexcaliburmordreddarkdescription": {
-    "value": "A profile icon depicting Mordred Excalibur on a dark background."
+    "value": "A profile icon depicting Excalibur Mordred on a dark background."
   },
   "/lotus/language/items/avatarexcaliburmordreddarkname": {
     "value": "Excalibur Mordred Profile Icon"
   },
   "/lotus/language/items/avatarexcaliburpendragonbrightdescription": {
-    "value": "A profile icon depicting Pendragon Excalibur on a bright background."
+    "value": "A profile icon depicting Excalibur Pendragon on a bright background."
   },
   "/lotus/language/items/avatarexcaliburpendragonbrightname": {
     "value": "Excalibur Pendragon Profile Icon"
   },
   "/lotus/language/items/avatarexcaliburpendragondarkdescription": {
-    "value": "A profile icon depicting Pendragon Excalibur on a dark background."
+    "value": "A profile icon depicting Excalibur Pendragon on a dark background."
   },
   "/lotus/language/items/avatarexcaliburpendragondarkname": {
     "value": "Excalibur Pendragon Profile Icon"
@@ -20190,13 +20211,13 @@
     "value": "TRANSFIGURE PROFILE ICON"
   },
   "/lotus/language/items/avatarfrostaurorabrightdescription": {
-    "value": "A profile icon depicting Aurora Frost on a bright background."
+    "value": "A profile icon depicting Frost Aurora on a bright background."
   },
   "/lotus/language/items/avatarfrostaurorabrightname": {
     "value": "Frost Aurora Profile Icon"
   },
   "/lotus/language/items/avatarfrostauroradarkdescription": {
-    "value": "A profile icon depicting Aurora Frost on a dark background."
+    "value": "A profile icon depicting Frost Aurora on a dark background."
   },
   "/lotus/language/items/avatarfrostauroradarkname": {
     "value": "Frost Aurora Profile Icon"
@@ -20226,13 +20247,13 @@
     "value": "Frost Prime Profile Icon"
   },
   "/lotus/language/items/avatarfrostsquallbrightdescription": {
-    "value": "A profile icon depicting Squall Frost on a bright background."
+    "value": "A profile icon depicting Frost Squall on a bright background."
   },
   "/lotus/language/items/avatarfrostsquallbrightname": {
     "value": "Frost Squall Profile Icon"
   },
   "/lotus/language/items/avatarfrostsqualldarkdescription": {
-    "value": "A profile icon depicting Squall Frost on a dark background."
+    "value": "A profile icon depicting Frost Squall on a dark background."
   },
   "/lotus/language/items/avatarfrostsqualldarkname": {
     "value": "Frost Squall Profile Icon"
@@ -20343,13 +20364,13 @@
     "value": "THE LOTUS PROFILE ICON"
   },
   "/lotus/language/items/avatarlimboaristeasbrightdescription": {
-    "value": "A profile icon depicting Aristeas Limbo on a bright background."
+    "value": "A profile icon depicting Limbo Aristeas on a bright background."
   },
   "/lotus/language/items/avatarlimboaristeasbrightname": {
     "value": "Limbo Aristeas Profile Icon"
   },
   "/lotus/language/items/avatarlimboaristeasdarkdescription": {
-    "value": "A profile icon depicting Aristeas Limbo on a dark background."
+    "value": "A profile icon depicting Limbo Aristeas on a dark background."
   },
   "/lotus/language/items/avatarlimboaristeasdarkname": {
     "value": "Limbo Aristeas Profile Icon"
@@ -20412,13 +20433,13 @@
     "value": "Loki Enigma Profile Icon"
   },
   "/lotus/language/items/avatarlokiessencebrightdescription": {
-    "value": "A profile icon depicting Essence Loki on a bright background."
+    "value": "A profile icon depicting Loki Essence on a bright background."
   },
   "/lotus/language/items/avatarlokiessencebrightname": {
     "value": "Loki Essence Profile Icon"
   },
   "/lotus/language/items/avatarlokiessencedarkdescription": {
-    "value": "A profile icon depicting Essence Loki on a dark background."
+    "value": "A profile icon depicting Loki Essence on a dark background."
   },
   "/lotus/language/items/avatarlokiessencedarkname": {
     "value": "Loki Essence Profile Icon"
@@ -20436,13 +20457,13 @@
     "value": "Loki Prime Profile Icon"
   },
   "/lotus/language/items/avatarlokiswindlebrightdescription": {
-    "value": "A profile icon depicting Swindle Loki on a bright background."
+    "value": "A profile icon depicting Loki Swindle on a bright background."
   },
   "/lotus/language/items/avatarlokiswindlebrightname": {
     "value": "Loki Swindle Profile Icon"
   },
   "/lotus/language/items/avatarlokiswindledarkdescription": {
-    "value": "A profile icon depicting Swindle Loki on a dark background."
+    "value": "A profile icon depicting Loki Swindle on a dark background."
   },
   "/lotus/language/items/avatarlokiswindledarkname": {
     "value": "Loki Swindle Profile Icon"
@@ -20454,13 +20475,13 @@
     "value": "Mag Profile Icon"
   },
   "/lotus/language/items/avatarmagcoilbrightdescription": {
-    "value": "A profile icon depicting Coil Mag on a bright background."
+    "value": "A profile icon depicting Mag Coil on a bright background."
   },
   "/lotus/language/items/avatarmagcoilbrightname": {
     "value": "Mag Coil Profile Icon"
   },
   "/lotus/language/items/avatarmagcoildarkdescription": {
-    "value": "A profile icon depicting Coil Mag on a dark background."
+    "value": "A profile icon depicting Mag Coil on a dark background."
   },
   "/lotus/language/items/avatarmagcoildarkname": {
     "value": "Mag Coil Profile Icon"
@@ -20472,13 +20493,13 @@
     "value": "Mag Profile Icon"
   },
   "/lotus/language/items/avatarmaggaussbrightdescription": {
-    "value": "A profile icon depicting Gauss Mag on a bright background."
+    "value": "A profile icon depicting Mag Gauss on a bright background."
   },
   "/lotus/language/items/avatarmaggaussbrightname": {
     "value": "Mag Gauss Profile Icon"
   },
   "/lotus/language/items/avatarmaggaussdarkdescription": {
-    "value": "A profile icon depicting Gauss Mag on a dark background."
+    "value": "A profile icon depicting Mag Gauss on a dark background."
   },
   "/lotus/language/items/avatarmaggaussdarkname": {
     "value": "Mag Gauss Profile Icon"
@@ -20568,13 +20589,13 @@
     "value": "Wukong Profile Icon"
   },
   "/lotus/language/items/avatarnekrosaraknidbrightdescription": {
-    "value": "A profile icon depicting Raknis Nekros on a bright background."
+    "value": "A profile icon depicting Nekros Raknis on a bright background."
   },
   "/lotus/language/items/avatarnekrosaraknidbrightname": {
     "value": "Nekros Raknis Profile Icon"
   },
   "/lotus/language/items/avatarnekrosarakniddarkdescription": {
-    "value": "A profile icon depicting Raknis Nekros on a dark background."
+    "value": "A profile icon depicting Nekros Raknis on a dark background."
   },
   "/lotus/language/items/avatarnekrosarakniddarkname": {
     "value": "Nekros Raknis Profile Icon"
@@ -20652,13 +20673,13 @@
     "value": "Nezha Profile Icon"
   },
   "/lotus/language/items/avatarnovaaltbrightdescription": {
-    "value": "A profile icon depicting Flux Nova on a bright background."
+    "value": "A profile icon depicting Nova Flux on a bright background."
   },
   "/lotus/language/items/avatarnovaaltbrightname": {
     "value": "Nova Flux Profile Icon"
   },
   "/lotus/language/items/avatarnovaaltdarkdescription": {
-    "value": "A profile icon depicting Flux Nova on a dark background."
+    "value": "A profile icon depicting Nova Flux on a dark background."
   },
   "/lotus/language/items/avatarnovaaltdarkname": {
     "value": "Nova Flux Profile Icon"
@@ -20724,13 +20745,13 @@
     "value": "Nyx Profile Icon"
   },
   "/lotus/language/items/avatarnyxmenticidebrightdescription": {
-    "value": "A profile icon depicting Menticide Nyx on a bright background."
+    "value": "A profile icon depicting Nyx Menticide on a bright background."
   },
   "/lotus/language/items/avatarnyxmenticidebrightname": {
     "value": "Nyx Menticide Profile Icon"
   },
   "/lotus/language/items/avatarnyxmenticidedarkdescription": {
-    "value": "A profile icon depicting Menticide Nyx on a dark background."
+    "value": "A profile icon depicting Nyx Menticide on a dark background."
   },
   "/lotus/language/items/avatarnyxmenticidedarkname": {
     "value": "Nyx Menticide Profile Icon"
@@ -20742,13 +20763,13 @@
     "value": "NYX NEMESIS PROFILE ICON"
   },
   "/lotus/language/items/avatarnyxvespabrightdescription": {
-    "value": "A profile icon depicting Vespa Nyx on a bright background."
+    "value": "A profile icon depicting Nyx Vespa on a bright background."
   },
   "/lotus/language/items/avatarnyxvespabrightname": {
     "value": "Nyx Vespa Profile Icon"
   },
   "/lotus/language/items/avatarnyxvespadarkdescription": {
-    "value": "A profile icon depicting Vespa Nyx on a dark background."
+    "value": "A profile icon depicting Nyx Vespa on a dark background."
   },
   "/lotus/language/items/avatarnyxvespadarkname": {
     "value": "Nyx Vespa Profile Icon"
@@ -20772,25 +20793,25 @@
     "value": "OBERON FEYARCH PROFILE ICON"
   },
   "/lotus/language/items/avataroberonmarkhorbrightdescription": {
-    "value": "A profile icon depicting Markhor Oberon on a bright background."
+    "value": "A profile icon depicting Oberon Markhor on a bright background."
   },
   "/lotus/language/items/avataroberonmarkhorbrightname": {
     "value": "Oberon Markhor Profile Icon"
   },
   "/lotus/language/items/avataroberonmarkhordarkdescription": {
-    "value": "A profile icon depicting Markhor Oberon on a dark background."
+    "value": "A profile icon depicting Oberon Markhor on a dark background."
   },
   "/lotus/language/items/avataroberonmarkhordarkname": {
     "value": "Oberon Markhor Profile Icon"
   },
   "/lotus/language/items/avataroberonoryxbrightdescription": {
-    "value": "A profile icon depicting Oryx Oberon on a bright background."
+    "value": "A profile icon depicting Oberon Oryx on a bright background."
   },
   "/lotus/language/items/avataroberonoryxbrightname": {
     "value": "Oberon Oryx Profile Icon"
   },
   "/lotus/language/items/avataroberonoryxdarkdescription": {
-    "value": "A profile icon depicting Oryx Oberon on a dark background."
+    "value": "A profile icon depicting Oberon Oryx on a dark background."
   },
   "/lotus/language/items/avataroberonoryxdarkname": {
     "value": "Oberon Oryx Profile Icon"
@@ -21126,13 +21147,13 @@
     "value": "Hydroid Profile Icon"
   },
   "/lotus/language/items/avatarpiratetritonbrightdescription": {
-    "value": "A profile icon depicting Triton Hydroid on a bright background."
+    "value": "A profile icon depicting Hydroid Triton on a bright background."
   },
   "/lotus/language/items/avatarpiratetritonbrightname": {
     "value": "Hydroid Triton Profile Icon"
   },
   "/lotus/language/items/avatarpiratetritondarkdescription": {
-    "value": "A profile icon depicting Triton Hydroid on a dark background."
+    "value": "A profile icon depicting Hydroid Triton on a dark background."
   },
   "/lotus/language/items/avatarpiratetritondarkname": {
     "value": "Hydroid Triton Profile Icon"
@@ -21195,25 +21216,25 @@
     "value": "Rhino Prime Profile Icon"
   },
   "/lotus/language/items/avatarrhinothrakbrightdescription": {
-    "value": "A profile icon depicting Thrak Rhino on a bright background."
+    "value": "A profile icon depicting Rhino Thrak on a bright background."
   },
   "/lotus/language/items/avatarrhinothrakbrightname": {
     "value": "Rhino Thrak Profile Icon"
   },
   "/lotus/language/items/avatarrhinothrakdarkdescription": {
-    "value": "A profile icon depicting Thrak Rhino on a dark background."
+    "value": "A profile icon depicting Rhino Thrak on a dark background."
   },
   "/lotus/language/items/avatarrhinothrakdarkname": {
     "value": "Rhino Thrak Profile Icon"
   },
   "/lotus/language/items/avatarrhinovanguardbrightdescription": {
-    "value": "A profile icon depicting Vanguard Rhino on a bright background."
+    "value": "A profile icon depicting Rhino Vanguard on a bright background."
   },
   "/lotus/language/items/avatarrhinovanguardbrightname": {
     "value": "Rhino Vanguard Profile Icon"
   },
   "/lotus/language/items/avatarrhinovanguarddarkdescription": {
-    "value": "A profile icon depicting Vanguard Rhino on a dark background."
+    "value": "A profile icon depicting Rhino Vanguard on a dark background."
   },
   "/lotus/language/items/avatarrhinovanguarddarkname": {
     "value": "Rhino Vanguard Profile Icon"
@@ -21249,13 +21270,13 @@
     "value": "Saryn Profile Icon"
   },
   "/lotus/language/items/avatarsarynchlorabrightdescription": {
-    "value": "A profile icon depicting Chlora Saryn on a bright background."
+    "value": "A profile icon depicting Saryn Chlora on a bright background."
   },
   "/lotus/language/items/avatarsarynchlorabrightname": {
     "value": "Saryn Chlora Profile Icon"
   },
   "/lotus/language/items/avatarsarynchloradarkdescription": {
-    "value": "A profile icon depicting Chlora Saryn on a dark background."
+    "value": "A profile icon depicting Saryn Chlora on a dark background."
   },
   "/lotus/language/items/avatarsarynchloradarkname": {
     "value": "Saryn Chlora Profile Icon"
@@ -21273,13 +21294,13 @@
     "value": "Saryn Orphid Profile Icon"
   },
   "/lotus/language/items/avatarsarynhemlockbrightdescription": {
-    "value": "A profile icon depicting Hemlock Saryn on a bright background."
+    "value": "A profile icon depicting Saryn Hemlock on a bright background."
   },
   "/lotus/language/items/avatarsarynhemlockbrightname": {
     "value": "Saryn Hemlock Profile Icon"
   },
   "/lotus/language/items/avatarsarynhemlockdarkdescription": {
-    "value": "A profile icon depicting Hemlock Saryn on a dark background."
+    "value": "A profile icon depicting Saryn Hemlock on a dark background."
   },
   "/lotus/language/items/avatarsarynhemlockdarkname": {
     "value": "Saryn Hemlock Profile Icon"
@@ -21324,13 +21345,13 @@
     "value": "Titania Profile Icon"
   },
   "/lotus/language/items/avatartrapperaltbrightdescription": {
-    "value": "A profile icon depicting Esprit Vauban on a bright background."
+    "value": "A profile icon depicting Vauban Esprit on a bright background."
   },
   "/lotus/language/items/avatartrapperaltbrightname": {
     "value": "Vauban Esprit Profile Icon"
   },
   "/lotus/language/items/avatartrapperaltdarkdescription": {
-    "value": "A profile icon depicting Esprit Vauban on a dark background."
+    "value": "A profile icon depicting Vauban Esprit on a dark background."
   },
   "/lotus/language/items/avatartrapperaltdarkname": {
     "value": "Vauban Esprit Profile Icon"
@@ -21348,37 +21369,37 @@
     "value": "Vauban Profile Icon"
   },
   "/lotus/language/items/avatartrappergambitbrightdescription": {
-    "value": "A profile icon depicting Gambit Vauban on a bright background."
+    "value": "A profile icon depicting Vauban Gambit on a bright background."
   },
   "/lotus/language/items/avatartrappergambitbrightname": {
     "value": "Vauban Gambit Profile Icon"
   },
   "/lotus/language/items/avatartrappergambitdarkdescription": {
-    "value": "A profile icon depicting Gambit Vauban on a dark background."
+    "value": "A profile icon depicting Vauban Gambit on a dark background."
   },
   "/lotus/language/items/avatartrappergambitdarkname": {
     "value": "Vauban Gambit Profile Icon"
   },
   "/lotus/language/items/avatartrappersoldierbrightdescription": {
-    "value": "A profile icon depicting Armistice Vauban on a bright background."
+    "value": "A profile icon depicting Vauban Armistice on a bright background."
   },
   "/lotus/language/items/avatartrappersoldierbrightname": {
     "value": "Vauban Armistice Profile Icon"
   },
   "/lotus/language/items/avatartrappersoldierdarkdescription": {
-    "value": "A profile icon depicting Armistice Vauban on a dark background."
+    "value": "A profile icon depicting Vauban Armistice on a dark background."
   },
   "/lotus/language/items/avatartrappersoldierdarkname": {
     "value": "Vauban Armistice Profile Icon"
   },
   "/lotus/language/items/avatartrinityaurabrightdescription": {
-    "value": "A profile icon depicting Aura Trinity on a bright background."
+    "value": "A profile icon depicting Trinity Aura on a bright background."
   },
   "/lotus/language/items/avatartrinityaurabrightname": {
     "value": "Trinity Aura Profile Icon"
   },
   "/lotus/language/items/avatartrinityauradarkdescription": {
-    "value": "A profile icon depicting Aura Trinity on a dark background."
+    "value": "A profile icon depicting Trinity Aura on a dark background."
   },
   "/lotus/language/items/avatartrinityauradarkname": {
     "value": "Trinity Aura Profile Icon"
@@ -21402,13 +21423,13 @@
     "value": "Trinity Strega Profile Icon"
   },
   "/lotus/language/items/avatartrinitymeridianbrightdescription": {
-    "value": "A profile icon depicting Meridian Trinity on a bright background."
+    "value": "A profile icon depicting Trinity Meridian on a bright background."
   },
   "/lotus/language/items/avatartrinitymeridianbrightname": {
     "value": "Trinity Meridian Profile Icon"
   },
   "/lotus/language/items/avatartrinitymeridiandarkdescription": {
-    "value": "A profile icon depicting Meridian Trinity on a dark background."
+    "value": "A profile icon depicting Trinity Meridian on a dark background."
   },
   "/lotus/language/items/avatartrinitymeridiandarkname": {
     "value": "Trinity Meridian Profile Icon"
@@ -21456,13 +21477,13 @@
     "value": "Valkyr Gersemi Profile Icon"
   },
   "/lotus/language/items/avatarvalkyrkarabrightdescription": {
-    "value": "A profile icon depicting Kara Valkyr on a bright background."
+    "value": "A profile icon depicting Valkyr Kara on a bright background."
   },
   "/lotus/language/items/avatarvalkyrkarabrightname": {
     "value": "Valkyr Kara Profile Icon"
   },
   "/lotus/language/items/avatarvalkyrkaradarkdescription": {
-    "value": "A profile icon depicting Kara Valkyr on a dark background."
+    "value": "A profile icon depicting Valkyr Kara on a dark background."
   },
   "/lotus/language/items/avatarvalkyrkaradarkname": {
     "value": "Valkyr Kara Profile Icon"
@@ -21504,25 +21525,25 @@
     "value": "Volt Prime Profile Icon"
   },
   "/lotus/language/items/avatarvoltpulsebrightdescription": {
-    "value": "A profile icon depicting Pulse Volt on a bright background."
+    "value": "A profile icon depicting Volt Pulse on a bright background."
   },
   "/lotus/language/items/avatarvoltpulsebrightname": {
     "value": "Volt Pulse Profile Icon"
   },
   "/lotus/language/items/avatarvoltpulsedarkdescription": {
-    "value": "A profile icon depicting Pulse Volt on a dark background."
+    "value": "A profile icon depicting Volt Pulse on a dark background."
   },
   "/lotus/language/items/avatarvoltpulsedarkname": {
     "value": "Volt Pulse Profile Icon"
   },
   "/lotus/language/items/avatarvoltstormbrightdescription": {
-    "value": "A profile icon depicting Storm Volt on a bright background."
+    "value": "A profile icon depicting Volt Storm on a bright background."
   },
   "/lotus/language/items/avatarvoltstormbrightname": {
     "value": "Volt Storm Profile Icon"
   },
   "/lotus/language/items/avatarvoltstormdarkdescription": {
-    "value": "A profile icon depicting Storm Volt on a dark background."
+    "value": "A profile icon depicting Volt Storm on a dark background."
   },
   "/lotus/language/items/avatarvoltstormdarkname": {
     "value": "Volt Storm Profile Icon"
@@ -21534,13 +21555,13 @@
     "value": "Zephyr Profile Icon"
   },
   "/lotus/language/items/avatarzephyrcierzobrightdescription": {
-    "value": "A profile icon depicting Cierzo Zephyr on a bright background."
+    "value": "A profile icon depicting Zephyr Cierzo on a bright background."
   },
   "/lotus/language/items/avatarzephyrcierzobrightname": {
     "value": "Zephyr Cierzo Profile Icon"
   },
   "/lotus/language/items/avatarzephyrcierzodarkdescription": {
-    "value": "A profile icon depicting Cierzo Zephyr on a dark background."
+    "value": "A profile icon depicting Zephyr Cierzo on a dark background."
   },
   "/lotus/language/items/avatarzephyrcierzodarkname": {
     "value": "Zephyr Cierzo Profile Icon"
@@ -22381,6 +22402,12 @@
   },
   "/lotus/language/items/ceramicdaggername": {
     "value": "CERAMIC DAGGER"
+  },
+  "/lotus/language/items/ceruleanfungusextract": {
+    "value": "CERULEAN FUNGUS EXTRACT"
+  },
+  "/lotus/language/items/ceruleanfungusextractdesc": {
+    "value": "Extracted from a Cerulean Fungus colony."
   },
   "/lotus/language/items/chainlightningrifledesc": {
     "value": "The Amprex rifle fires a continuous beam of high voltage electricity that arcs among nearby enemies. This weapon excels at crowd control."
@@ -23358,7 +23385,7 @@
     "value": "FRUGAL CREDIT BUNDLE"
   },
   "/lotus/language/items/creditbundleadesc": {
-    "value": "By purchasing this item you can directly exchange 30<PLATINUM_CREDITS>(Platinum) for 50000<CREDITS>(Credits)."
+    "value": "By purchasing this item you can directly exchange 50<PLATINUM_CREDITS>(Platinum) for 50000<CREDITS>(Credits)."
   },
   "/lotus/language/items/creditbundleb": {
     "value": "PRODIGAL CREDIT BUNDLE"
@@ -24128,6 +24155,12 @@
   "/lotus/language/items/dualvastosname": {
     "value": "AKVASTO"
   },
+  "/lotus/language/items/dusklightsarracenia": {
+    "value": "DUSKLIGHT SARRACENIA EXTRACT"
+  },
+  "/lotus/language/items/dusklightsarraceniadesc": {
+    "value": "Extracted from a Dusklight Sarracenia."
+  },
   "/lotus/language/items/eclipseability": {
     "value": "Eclipse"
   },
@@ -24633,7 +24666,7 @@
     "value": "[Placeholder]"
   },
   "/lotus/language/items/fairyname": {
-    "value": "[Placeholder] Fairy"
+    "value": "TITANIA"
   },
   "/lotus/language/items/fairynobleanims": {
     "value": "TITANIA NOBLE ANIMATION SET"
@@ -25103,6 +25136,12 @@
   "/lotus/language/items/frostdesc": {
     "value": "By channeling moisture and vapor in the surrounding environment, Frost creates formidable defenses and lethal attacks from sub zero conditions."
   },
+  "/lotus/language/items/frostleafextract": {
+    "value": "FROSTLEAF EXTRACT"
+  },
+  "/lotus/language/items/frostleafextractdesc": {
+    "value": "Extracted from a Frostleaf bush."
+  },
   "/lotus/language/items/frostname": {
     "value": "FROST"
   },
@@ -25240,6 +25279,12 @@
   },
   "/lotus/language/items/genericsuitcustomizationname": {
     "value": "HELMET OR SYANDANA"
+  },
+  "/lotus/language/items/ghostbrushextract": {
+    "value": "GHOST BRUSH EXTRACT"
+  },
+  "/lotus/language/items/ghostbrushextractdesc": {
+    "value": "Extracted from a Ghost Brush."
   },
   "/lotus/language/items/ghoststoreitemdesc": {
     "value": "Cloaks owner when enemies are close. The cloak is disrupted if owner attacks."
@@ -25399,6 +25444,18 @@
   },
   "/lotus/language/items/greaterpowerlensname": {
     "value": "GREATER ZENURIK LENS"
+  },
+  "/lotus/language/items/greaterrandomprojection": {
+    "value": "GREATER RELIC PACK"
+  },
+  "/lotus/language/items/greaterrandomprojectionbundledesc": {
+    "value": "Contains a Greater Relic Pack, featuring 6 Random Relics, two guaranteed Rare Relics and 20 Void Traces."
+  },
+  "/lotus/language/items/greaterrandomprojectionbundlename": {
+    "value": "VOID TRACE RELIC PACK"
+  },
+  "/lotus/language/items/greaterrandomprojectiondesc": {
+    "value": "6 Random Relics, two guaranteed Rare. What secrets exist within them?"
   },
   "/lotus/language/items/greatertacticlensdesc": {
     "value": "Channels a greater amount of Affinity into Focus for the Naramon Way."
@@ -25948,6 +26005,18 @@
   },
   "/lotus/language/items/gyroscopeshipname": {
     "value": "XIPHOS"
+  },
+  "/lotus/language/items/gyroscopeskinifritdesc": {
+    "value": "A unique skin for the Xiphos landing craft."
+  },
+  "/lotus/language/items/gyroscopeskinifritname": {
+    "value": "[PLACEHOLDER] XIPOHOS IFRIT SKIN"
+  },
+  "/lotus/language/items/gyroscopeskinnekrognosdesc": {
+    "value": "A unique skin for the Xiphos landing craft."
+  },
+  "/lotus/language/items/gyroscopeskinnekrognosname": {
+    "value": "[PLACEHOLDER] XIPOHOS NEKROGNOS SKIN"
   },
   "/lotus/language/items/halloweenaklatodesc": {
     "value": "A morbidly festive skin for the Aklato."
@@ -28289,6 +28358,12 @@
   "/lotus/language/items/luckydragonabilitydesc": {
     "value": "Depending on Chroma's elemental alignment, an offensive area-of-effect is created. Chroma and its nearby allies are imbued with defensive energy."
   },
+  "/lotus/language/items/lunaroarenapennanta": {
+    "value": "[PLACEHOLDER] PENNANT A"
+  },
+  "/lotus/language/items/lunaroarenapennantb": {
+    "value": "[PLACEHOLDER] PENNANT B"
+  },
   "/lotus/language/items/lunaroarmorcpackdesc": {
     "value": "This ornate set of guards was worn by ancient Lunaro champions."
   },
@@ -28330,6 +28405,12 @@
   },
   "/lotus/language/items/lunarosetclegarmourname": {
     "value": "RIV ELITE-GUARD LEG"
+  },
+  "/lotus/language/items/lunarpitcherextract": {
+    "value": "LUNAR PITCHER EXTRACT"
+  },
+  "/lotus/language/items/lunarpitcherextractdesc": {
+    "value": "Extracted from a Lunar Pitcher."
   },
   "/lotus/language/items/lureabilitydesc": {
     "value": "[Placeholder] Place a lure to distract enemies, explodes upon taking enough damage"
@@ -29527,6 +29608,51 @@
   },
   "/lotus/language/items/orbiterdisplaybundlename": {
     "value": "DISPLAY PACK"
+  },
+  "/lotus/language/items/ornatearchsworddesc": {
+    "value": "[PLACEHOLDER] Description"
+  },
+  "/lotus/language/items/ornatearchswordname": {
+    "value": "[PLACEHOLDER] ORNATE VERITUX"
+  },
+  "/lotus/language/items/ornateballisticadesc": {
+    "value": "[PLACEHOLDER] Description"
+  },
+  "/lotus/language/items/ornateballisticaname": {
+    "value": "[PLACEHOLDER] ORNATE BALLISTICA"
+  },
+  "/lotus/language/items/ornategalatinedesc": {
+    "value": "[PLACEHOLDER] Description"
+  },
+  "/lotus/language/items/ornategalatinename": {
+    "value": "[PLACEHOLDER] ORNATE GALATINE"
+  },
+  "/lotus/language/items/ornateimperatordesc": {
+    "value": "[PLACEHOLDER] Description"
+  },
+  "/lotus/language/items/ornateimperatorname": {
+    "value": "[PLACEHOLDER] ORNATE IMPERATOR"
+  },
+  "/lotus/language/items/ornateorthosdesc": {
+    "value": "[PLACEHOLDER] Description"
+  },
+  "/lotus/language/items/ornateorthosname": {
+    "value": "[PLACEHOLDER] ORNATE ORTHOS"
+  },
+  "/lotus/language/items/ornatetigrisdesc": {
+    "value": "[PLACEHOLDER] Description"
+  },
+  "/lotus/language/items/ornatetigrisname": {
+    "value": "[PLACEHOLDER] ORNATE TIGRIS"
+  },
+  "/lotus/language/items/ornateweaponbundledesc": {
+    "value": "[PLACEHOLDER] Description"
+  },
+  "/lotus/language/items/ornateweaponbundlefeaturedtext": {
+    "value": "[PLACEHOLDER] Description"
+  },
+  "/lotus/language/items/ornateweaponbundlename": {
+    "value": "[PLACEHOLDER] ORNATE WEAPON PACK"
   },
   "/lotus/language/items/orokincapturekeyadesc": {
     "value": "A Capture mission within the Void"
@@ -31799,6 +31925,12 @@
   "/lotus/language/items/rubedoskinyamakosyandananame": {
     "value": "RUBEDO PLATED YAMAKO SYANDANA"
   },
+  "/lotus/language/items/ruksclawextract": {
+    "value": "RUK'S CLAW EXTRACT"
+  },
+  "/lotus/language/items/ruksclawextractdesc": {
+    "value": "Extracted from a Ruk's Claw."
+  },
   "/lotus/language/items/russianrouletteability": {
     "value": "Shooting Gallery"
   },
@@ -32034,7 +32166,7 @@
     "value": "Lunging spirals and shattering combos."
   },
   "/lotus/language/items/searchthedeadabilityaugmentdesc": {
-    "value": "Desecrate Augment - No longer consumes energy, but consumes |HEALTH_AMMOUNT| health instead."
+    "value": "Desecrate Augment - No longer consumes energy, but consumes |HEALTH_AMOUNT| health per second instead."
   },
   "/lotus/language/items/searchthedeadabilityaugmentname": {
     "value": "Despoil"
@@ -32145,10 +32277,13 @@
     "value": "[Placeholder] Glaive Weapon"
   },
   "/lotus/language/items/sentinelhealthregenpreceptnightwatchmoddesc": {
-    "value": "Sentinel will occasionally heal its owner, restoring |healPct|% health over |duration|s"
+    "value": "restoring |healPct|% health over |duration|s"
   },
   "/lotus/language/items/sentinelhealthregenpreceptnightwatchmodname": {
     "value": "Medi-Ray"
+  },
+  "/lotus/language/items/sentinelhealthregenpreceptnightwatchmodshortdesc": {
+    "value": "Sentinel will occasionally heal its owner"
   },
   "/lotus/language/items/sentineljetwingsname": {
     "value": "JET WINGS"
@@ -32379,7 +32514,7 @@
     "value": "MARS NAV SEGMENT"
   },
   "/lotus/language/items/shipnavmercury": {
-    "value": "MERCURY NAV SEGMENT"
+    "value": "GALLEON NAV COORDINATES"
   },
   "/lotus/language/items/shipnavneptune": {
     "value": "NEPTUNE NAV SEGMENT"
@@ -32560,6 +32695,12 @@
   },
   "/lotus/language/items/skanaprimename": {
     "value": "SKANA PRIME"
+  },
+  "/lotus/language/items/skateweedextract": {
+    "value": "SKATEWEED EXTRACT"
+  },
+  "/lotus/language/items/skateweedextractdesc": {
+    "value": "Extracted from Skateweed."
   },
   "/lotus/language/items/skullbadgebronzedesc": {
     "value": "Awarded to Tenno who achieved a Bronze Rank on the retired Global Leaderboards."
@@ -33499,6 +33640,9 @@
   },
   "/lotus/language/items/t4voidprojectiong": {
     "value": "AXI N2 RELIC"
+  },
+  "/lotus/language/items/t4voidprojectionh": {
+    "value": "AXI V3 RELIC"
   },
   "/lotus/language/items/tacticfocusabilitydesc": {
     "value": "Path of the Sky Rogue"
@@ -34553,6 +34697,12 @@
   "/lotus/language/items/vaultraiderpackname": {
     "value": "Vault Raider Package"
   },
+  "/lotus/language/items/vestanmossextract": {
+    "value": "VESTAN MOSS EXTRACT"
+  },
+  "/lotus/language/items/vestanmossextractdesc": {
+    "value": "Extracted from Vestan Moss."
+  },
   "/lotus/language/items/vippistoldesc": {
     "value": "A special version of the standard Lato pistol with a slower fire rate but offering higher accuracy and damage values. The Lato Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the grips."
   },
@@ -35574,7 +35724,7 @@
     "value": "CONFRONT SPECTER"
   },
   "/lotus/language/junction/regiondesc": {
-    "value": "Complete all the tasks listed below to gain access to a new planet"
+    "value": "Complete all the goals listed below to gain access to a new planet"
   },
   "/lotus/language/junction/regiontitle": {
     "value": "|REGION| Junction"
@@ -35958,22 +36108,22 @@
     "value": "Xbox Live features are disabled - an update for the system software is available."
   },
   "/lotus/language/launcher/tab1_desc": {
-    "value": "A contact ball sport played long ago by Tenno of years past, Lunaro is a new Conclave mode that accommodates up to three players per team. This new game mode focuses on skill, mobility, teamwork and creativity."
+    "value": "Archwing - the game mode invokes many things in a Tenno. With Specters of the Rail comes an entirely overhauled flight system! In addition to completely reworked Archwing movement, Specters of the Rail adds a new Support Class, game modes and new weapons to unleash against the enemy!"
   },
   "/lotus/language/launcher/tab1_title": {
-    "value": "LUNARO IS HERE!"
+    "value": "Archwing Overhaul and New Additions!"
   },
   "/lotus/language/launcher/tab2_desc": {
-    "value": "Honor the traditions of your Tenno ancestors with Lunaro-themed Armor."
+    "value": "Every Tenno needs a companion. Kubrows and Sentinels have given Tenno aid in battle for years, and now a new species of Companion enters the Arsenal -- Kavats! Domesticate your own Kavat. Choose to keep your ship extra-adorable with the roaming kitten or puppy versions OR simply Mature them for a formative Companion to join you in the fight. Adorn your faithful Companion in the Armor it deserves and enhance it with new Mods!"
   },
   "/lotus/language/launcher/tab2_title": {
-    "value": "LUNARO ARMOR"
+    "value": "New Companions: Kavats"
   },
   "/lotus/language/launcher/tab3_desc": {
-    "value": "Visit your Operator to view a variety of new Customizations."
+    "value": "A redesign of the original Star Chart will bring back the nostalgic roadmap design, making it easier to travel the Origin System. With the introduction of the Star Chart comes a new way to acquire Prime items. Don’t worry Tenno, your Void Keys still hold value!The Market has been completely reworked from the ground up. Quickly navigate through the Market to discover all the new additions."
   },
   "/lotus/language/launcher/tab3_title": {
-    "value": "OPERATOR CUSTOMIZATIONS"
+    "value": "Star Chart and Market Facelift"
   },
   "/lotus/language/launcher/test": {
     "value": "Test"
@@ -39731,6 +39881,9 @@
   "/lotus/language/menu/confirmjoinhighping": {
     "value": "Poor connection quality detected (|PING|ms ping). Are you sure you want to join?"
   },
+  "/lotus/language/menu/confirmjoinnotenoughslots": {
+    "value": "Session doesn't have enough slots for your whole squad (|SLOTS| slots free). Are you sure you want to join?"
+  },
   "/lotus/language/menu/confirmmultihubinstance": {
     "value": "Multiple instances are available. Please choose one."
   },
@@ -39765,7 +39918,7 @@
     "value": "Please connect an Xbox One Wireless Controller."
   },
   "/lotus/language/menu/connectiondelay": {
-    "value": "UNEXPECTED SERVER DELAY"
+    "value": "NETWORK NOT RESPONDING"
   },
   "/lotus/language/menu/connectionerror_loginexpired": {
     "value": "Connection Error. Login Expired."
@@ -40807,6 +40960,15 @@
   },
   "/lotus/language/menu/craftingcomponent_latronprimestock": {
     "value": "LATRON PRIME STOCK"
+  },
+  "/lotus/language/menu/craftingcomponent_latronwraithbarrel": {
+    "value": "LATRON WRAITH BARREL"
+  },
+  "/lotus/language/menu/craftingcomponent_latronwraithreceiver": {
+    "value": "LATRON WRAITH RECEIVER"
+  },
+  "/lotus/language/menu/craftingcomponent_latronwraithstock": {
+    "value": "LATRON WRAITH STOCK"
   },
   "/lotus/language/menu/craftingcomponent_lexprimebarrel": {
     "value": "LEX PRIME BARREL"
@@ -43835,6 +43997,9 @@
   "/lotus/language/menu/leading_space_warning": {
     "value": "Clan name cannot begin with a space."
   },
+  "/lotus/language/menu/leaveguild_alliancecreator_confirm": {
+    "value": "Your clan is the creator clan of your Alliance. If you disband the clan, your permissions as creator clan will be transferred to |NEW_CREATOR_CLAN|. Do you still want to disband your clan?"
+  },
   "/lotus/language/menu/leaveguild_confirm": {
     "value": "Are you sure you want to leave your clan? Your dojo key/blueprint for this clan will be destroyed."
   },
@@ -43897,6 +44062,9 @@
   },
   "/lotus/language/menu/loadout_archwing": {
     "value": "ARCHWING"
+  },
+  "/lotus/language/menu/loadout_arena": {
+    "value": "[PLACEHOLDER] ARENA CUSTOMIZATION"
   },
   "/lotus/language/menu/loadout_auraslot": {
     "value": "Slot Aura Mods here... Aura Mods affect all players!"
@@ -44143,6 +44311,9 @@
   },
   "/lotus/language/menu/loadout_options_swap": {
     "value": "SWAP"
+  },
+  "/lotus/language/menu/loadout_pennant": {
+    "value": "[PLACEHOLDER] PENNANT"
   },
   "/lotus/language/menu/loadout_physicaltitle": {
     "value": "PHYSIQUE"
@@ -45035,6 +45206,9 @@
   "/lotus/language/menu/mission_roundrewardsdisqualified": {
     "value": "Not eligible for reward (dead or inactive)"
   },
+  "/lotus/language/menu/mission_startingwarmup": {
+    "value": "Starting warm up in |SEC|"
+  },
   "/lotus/language/menu/mission_success_summary": {
     "value": "MISSION SUCCESS: SUMMARY"
   },
@@ -45161,6 +45335,9 @@
   "/lotus/language/menu/missionstats_bonusxp": {
     "value": "Bonus XP"
   },
+  "/lotus/language/menu/missionstats_boostedcredits": {
+    "value": "Boosted credits"
+  },
   "/lotus/language/menu/missionstats_complete": {
     "value": "MISSION COMPLETE"
   },
@@ -45223,6 +45400,12 @@
   },
   "/lotus/language/menu/missionstats_title": {
     "value": "MISSION RESULTS"
+  },
+  "/lotus/language/menu/missionstats_totalcredits": {
+    "value": "Total credits"
+  },
+  "/lotus/language/menu/missionstats_unboostedcredits": {
+    "value": "Unboosted credit reward"
   },
   "/lotus/language/menu/missionstats_upgradesreceived": {
     "value": "Upgrades Received"
@@ -47243,6 +47426,9 @@
   "/lotus/language/menu/quests_setactive": {
     "value": "BEGIN"
   },
+  "/lotus/language/menu/quests_setnullactive": {
+    "value": "Clear Active Quest"
+  },
   "/lotus/language/menu/quickmatch_failure": {
     "value": "Failed to find match. Please try again."
   },
@@ -48935,6 +49121,9 @@
   "/lotus/language/menu/switchprofile": {
     "value": "SWITCH PROFILE"
   },
+  "/lotus/language/menu/switchteam": {
+    "value": "SWITCH TEAM"
+  },
   "/lotus/language/menu/switchweapon": {
     "value": "Switch Weapon"
   },
@@ -49448,6 +49637,12 @@
   "/lotus/language/menu/voidrewardselect_lumbonustitle": {
     "value": "CONTRIBUTOR"
   },
+  "/lotus/language/menu/voidrewardselect_noqualifydesc": {
+    "value": "To be eligible for Void Fissure rewards, you must collect enough Reactant."
+  },
+  "/lotus/language/menu/voidrewardselect_noqualifytitle": {
+    "value": "INSUFFICIENT REACTANT COLLECTED"
+  },
   "/lotus/language/menu/voidrewardselect_norewarddesc": {
     "value": "To be eligible for Void Fissure rewards, a Relic must be equipped prior to the mission."
   },
@@ -49463,17 +49658,26 @@
   "/lotus/language/menu/voidtearcancelled": {
     "value": "VOID FISSURE DESTABILIZED"
   },
+  "/lotus/language/menu/voidtearcorruptedenemy": {
+    "value": "CORRUPTED |ENEMY|"
+  },
   "/lotus/language/menu/voidtearmissioncategoryname": {
     "value": "VOID FISSURES"
   },
   "/lotus/language/menu/voidtearmissionname": {
     "value": "|TIER| FISSURE"
   },
+  "/lotus/language/menu/voidtearprogresstitle": {
+    "value": "REACTANT COLLECTED"
+  },
   "/lotus/language/menu/voidtearsealingcomplete": {
     "value": "VOID FISSURE SEALED"
   },
   "/lotus/language/menu/voidtearsealingprogress": {
     "value": "SEALING FISSURE: |PERCENT|%"
+  },
+  "/lotus/language/menu/voidtearweaponcorruption": {
+    "value": "CORRUPTION"
   },
   "/lotus/language/menu/voidtraderarrivalcountdown": {
     "value": "TRADER SURFACING IN |TIME|"
@@ -51215,8 +51419,14 @@
   "/lotus/language/primes/mirageprimename": {
     "value": "MIRAGE PRIME"
   },
+  "/lotus/language/primes/necrosprimedangles": {
+    "value": "MORTOS PRIME BINDS"
+  },
+  "/lotus/language/primes/necrosprimedanglesdesc": {
+    "value": "Only Nekros Prime is permitted to wear the Mortos Prime Binds."
+  },
   "/lotus/language/primes/nekrosprimedesc": {
-    "value": "By desecrating the dead, Nekros Prime can amass a spectral army to assault his foes. Featuring altered mod polarities for greater customization."
+    "value": "Death’s new master. "
   },
   "/lotus/language/primes/nekrosprimehelmetdesc": {
     "value": "The standard issue helmet for the Nekros Prime Warframe."
@@ -51299,6 +51509,12 @@
   "/lotus/language/primes/primefragorname": {
     "value": "FRAGOR PRIME"
   },
+  "/lotus/language/primes/primegalatinedesc": {
+    "value": "Only Tenno were strong enough to wield this noble beast of a weapon. "
+  },
+  "/lotus/language/primes/primegalatinename": {
+    "value": "GALATINE PRIME"
+  },
   "/lotus/language/primes/primeheliosdesc": {
     "value": "[PLACEHOLDER] Description"
   },
@@ -51342,22 +51558,28 @@
     "value": "STINGER PRIME"
   },
   "/lotus/language/primes/primesetthreearmarmourname": {
-    "value": "[PLACEHOLDER] PRIME THREE ARMS"
+    "value": "ACANTHUS PRIME SHOULDER GUARD"
   },
   "/lotus/language/primes/primesetthreearmourdesc": {
-    "value": "[PLACEHOLDER] Description"
+    "value": "Cast a shadow of pure menace."
   },
   "/lotus/language/primes/primesetthreechestarmourname": {
-    "value": "[PLACEHOLDER] PRIME THREE CHEST"
+    "value": "ACANTHUS PRIME CHESTPLATE"
   },
   "/lotus/language/primes/primesetthreelegarmourname": {
-    "value": "[PLACEHOLDER] PRIME THREE LEGS"
+    "value": "ACANTHUS PRIME LEG GUARD"
   },
   "/lotus/language/primes/primeshadedesc": {
     "value": "[PLACEHOLDER] Description"
   },
   "/lotus/language/primes/primeshadename": {
     "value": "SHADE PRIME"
+  },
+  "/lotus/language/primes/primetigrisdesc": {
+    "value": "An artifact of exquisite beauty. A weapon of deadly purpose. "
+  },
+  "/lotus/language/primes/primetigrisname": {
+    "value": "TIGRIS PRIME"
   },
   "/lotus/language/primes/sarynprimedesc": {
     "value": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization."
@@ -51384,10 +51606,10 @@
     "value": "TRINITY PRIME"
   },
   "/lotus/language/primes/uruprimescarfdesc": {
-    "value": "[PLACEHOLDER] Description"
+    "value": "Let these massive segments of interlinked gold and silver ripple down a Warframe’s back. "
   },
   "/lotus/language/primes/uruprimescarfname": {
-    "value": "[PLACEHOLDER] URU PRIME SCARF"
+    "value": "URU PRIME SYANDANA"
   },
   "/lotus/language/primes/uruprimesyandanadesc": {
     "value": "[PLACEHOLDER] Description"
@@ -54514,6 +54736,9 @@
   },
   "/lotus/language/sorties/sortieseason7rewardstitle": {
     "value": "SEASON 7 REWARD POOL"
+  },
+  "/lotus/language/sorties/sortieseason8rewardstitle": {
+    "value": "SEASON 8 REWARD POOL"
   },
   "/lotus/language/sorties/sortieseasonrewardscompletedhint": {
     "value": "Sortie completed. You have received the item highlighted below."
@@ -59040,103 +59265,46 @@
     "value": "That's it! You opened the Relic. Finish your mission and we'll take a look inside."
   },
   "/lotus/language/subtitles/missionobjectives/dvrcaftermath0320lotus": {
-    "value": "The Fissure's gone and the Relic has been cracked open. You can find out what's inside after you finish your mission."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcenroute0040lotus": {
-    "value": "Energy from the Fissure will fill the Relic and break open its casement."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcenroute0050lotus": {
-    "value": "Careful, Tenno, Void Fissures are conduits for many dangerous possibilities."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcenroute0060lotus": {
-    "value": "Exposure to the Void Fissure will open your Relic, but there's no telling what else will be unleashed in the process."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcfailed0240lotus": {
-    "value": "The Fissure closed before the Relic could be opened."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcfailed0250lotus": {
-    "value": "You ran out of time. The Fissure closed."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcfailed0260lotus": {
-    "value": "The Fissure has collapsed and you failed to open the Relic."
+    "value": "The Relic has been cracked open, finish your mission to find out what's inside."
   },
   "/lotus/language/subtitles/missionobjectives/dvrcfissdetect0010lotus": {
-    "value": "There's a Void Fissure in the area, you can use it to crack open your Relic. But before you do, ask yourself, is it worth the risk?"
+    "value": "There are Void Fissures in the area, use these to crack open a Relic."
   },
   "/lotus/language/subtitles/missionobjectives/dvrcfissdetect0020lotus": {
-    "value": "A Void Fissure! Tenno, only approach it if you have a matching Relic and you're confident you can withstand the reaction."
+    "value": "Void Fissures! You need them to open a relic, but are you confident you can withstand their fury?"
   },
   "/lotus/language/subtitles/missionobjectives/dvrcfissdetect0030lotus": {
-    "value": "Watch out, I'm detecting a Void Fissure nearby. Do you have a matching Relic?"
+    "value": "Watch out, I'm detecting a Void Fissures nearby. Do you have a matching Relic?"
   },
   "/lotus/language/subtitles/missionobjectives/dvrcfissurefound0070lotus": {
-    "value": "You found the Fissure, if you have a matching Relic, you can start the reaction now. Just make sure you're ready for what comes next."
+    "value": "You're near a Fissure."
   },
   "/lotus/language/subtitles/missionobjectives/dvrcfissurefound0080lotus": {
-    "value": "It's the Fissure. Expose your Relic to start the reaction… if you're ready."
+    "value": "You found a Fissure. Look out for reactant."
   },
   "/lotus/language/subtitles/missionobjectives/dvrcfissurefound0090lotus": {
-    "value": "That's the Fissure, are you sure you want to do this?"
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcmidpoint0200lotus": {
-    "value": "Keep fighting, Tenno, the Relic is starting to crack."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcmidpoint0210lotus": {
-    "value": "You're making progress. Don't stop now."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcmidpoint0220lotus": {
-    "value": "No one said this would be easy. Keep it up, Tenno."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcmidpoint0230lotus": {
-    "value": "It's working, the Relic is showing cracks."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcoverdrive0270lotus": {
-    "value": "Not much longer."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcoverdrive0280lotus": {
-    "value": "It's almost open. Just a little longer."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcoverdrive0290lotus": {
-    "value": "This is it."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcoverdrive0300lotus": {
-    "value": "You've almost done it."
+    "value": "A Fissure! Defend yourself and use reactant to open Relics. "
   },
   "/lotus/language/subtitles/missionobjectives/dvrcpickreact0130lotus": {
-    "value": "The enemies are dropping reactant. Feed it into the Fissure."
+    "value": "The enemies are dropping Reactant. "
   },
   "/lotus/language/subtitles/missionobjectives/dvrcpickreact0140lotus": {
-    "value": "They're dropping reactant. You need that to finish the process."
+    "value": "They're dropping Reactant. Use it to crack open a Relic."
   },
   "/lotus/language/subtitles/missionobjectives/dvrcpickreact0150lotus": {
-    "value": "Quick, pick up that reactant and take it to the Fissure."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcreactionstarted0100lotus": {
-    "value": "The reaction has started. Assume defensive positions."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcreactionstarted0110lotus": {
-    "value": "Get ready, things are about to get rough."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcreactionstarted0120lotus": {
-    "value": "I have faith in you, Tenno."
+    "value": "Use that Reactant to open a Relic."
   },
   "/lotus/language/subtitles/missionobjectives/dvrcreactneeded0160lotus": {
-    "value": "The reaction is slowing. Hurry. Feed it more reactant."
+    "value": "The Reactant is working on your Relic. Find more."
   },
   "/lotus/language/subtitles/missionobjectives/dvrcreactneeded0170lotus": {
-    "value": "You need more reactant, feed it back into the Fissure before it closes."
+    "value": "You are going to need more Reactant if you want to open that Relic."
   },
   "/lotus/language/subtitles/missionobjectives/dvrcreactneeded0180lotus": {
-    "value": "Don't forget the reactant, you need to feed it back into the Fissure!"
+    "value": "Don't forget the Reactant, you need more to open that Relic."
   },
   "/lotus/language/subtitles/missionobjectives/dvrcreactneeded0190lotus": {
-    "value": "We need more reactant. Don't let the Fissure close before the Relic has opened."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcvoidtraces0330lotus": {
-    "value": "Look out for Void Traces, a valuable by-product of the Fissure's collapse."
-  },
-  "/lotus/language/subtitles/missionobjectives/dvrcvoidtraces0340lotus": {
-    "value": "Pick up any Void Traces left behind by the reaction."
+    "value": "Keep fighting, look for more Reactant."
   },
   "/lotus/language/subtitles/missionobjectives/this_file_is_autogenerated_by_the_dialog_tool": {
     "value": ""
@@ -65755,6 +65923,9 @@
   },
   "/lotus/language/syndicates/syndicates_tradeineventitem": {
     "value": "TURN IN |ITEM|?"
+  },
+  "/lotus/language/syndicates/worldstatesyndicatemission": {
+    "value": "|MISSION_TYPE| MISSION (|TITLE|)"
   },
   "/lotus/language/tutorial/lunaroarcatatutorial": {
     "value": "Arcata"
