@@ -8389,16 +8389,19 @@ Wish you good luck in monkey year!
 "Happy Monkey Year!"
 
 [/Lotus/Language/CommunityMessages/VoidTraderAppearanceMessage]
-"[PLACEHOLDER]
-Hello, 
+"Tenno, 
 
-Void Trader is at |NODE_NAME| (|NODE_REGION_NAME|).
+The wait is over. I, Baro Ki’Teer, have returned with more treasures from the Void. 
 
-Sincerely,
-ProgrammerWhoIsNotAWriter"
+All Tenno of means are invited to peruse my latest treasures in the |NODE_NAME| on |NODE_REGION_NAME|. 
+
+I implore you not to hesitate, for, as always, my visit will be brief and my items exquisite.
+
+Graciously,
+Baro Ki’Teer"
 
 [/Lotus/Language/CommunityMessages/VoidTraderAppearanceTitle]
-"[PLACEHOLDER] Void Trader is here"
+"The Void Trader Has Returned"
 
 [/Lotus/Language/CompanionApp/Alerts]
 "ALERTS"
@@ -25442,6 +25445,12 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/BlueSkySkinGrineerQueensName]
 "[Placeholder] SCIMITAR QUEENS SKIN"
 
+[/Lotus/Language/Items/BlueSkySkinPrimeTraderDesc]
+"A unique skin for the Scimitar landing craft."
+
+[/Lotus/Language/Items/BlueSkySkinPrimeTraderName]
+"SCIMITAR PRISMA SKIN"
+
 [/Lotus/Language/Items/BlueSkySkinSoundDesc]
 "A unique skin for the Scimitar landing craft."
 
@@ -29777,6 +29786,12 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 [/Lotus/Language/Items/GyroscopeSkinNekrognosName]
 "XIPHOS HENIPA SKIN"
 
+[/Lotus/Language/Items/GyroscopeSkinPrimeTraderDesc]
+"A unique skin for the Xiphos landing craft."
+
+[/Lotus/Language/Items/GyroscopeSkinPrimeTraderName]
+"XIPHOS PRISMA SKIN"
+
 [/Lotus/Language/Items/HalloweenAklatoDesc]
 "A morbidly festive skin for the Aklato."
 
@@ -30669,6 +30684,12 @@ Blueprint is reusable and will not be consumed."
 
 [/Lotus/Language/Items/InsectShipSkinNautilusName]
 "MANTIS OSCURO SKIN"
+
+[/Lotus/Language/Items/InsectShipSkinPrimeTraderDesc]
+"A unique skin for the Mantis landing craft."
+
+[/Lotus/Language/Items/InsectShipSkinPrimeTraderName]
+"MANTIS PRISMA SKIN"
 
 [/Lotus/Language/Items/InstantShieldOnDamageName]
 "ARCANE BARRIER"
@@ -63316,6 +63337,15 @@ Tap <MELEE> when you blade is drawn to strike."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DArchwingDemo070FrohdBek]
 "Impossible... All units, full alert, prepare for boarding..."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAugustDeals0010Darvo]
+"Friends, I've done it again, I've ticked off the entire Corpus board with my amazing deals. They're so upset they make up lies, like,  "Darvo's merchandise is our merchandise!" 
+
+To which I say, "You can't prove anything."
+
+So, to ensure they can't prove anything, I'm having a liquidation sale. Everyday a new deal. It all has to go. Act quick because any stock that's left when the Corpus troops come knocking is getting dumped into space. Got it? Good.
+
+Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DAwol0010Ordis]
 "Operator, you are leaving the battle if you continue any further I will be forced to extract you and this mission will be a failure."
