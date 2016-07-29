@@ -13827,6 +13827,23 @@ Your New Associate"
 [/Lotus/Language/G1Quests/DarvoDealNyxNemesisBundle]
 "Tenno, you ever drink Ganymede Geyser Water? One of my suppliers brought a case to the store yesterday. "Have a sip," he says, "we'll look over my items," he says. Next thing I remember, I wake up with a headache surrounded by crates and crates of something called the NYX NEMESIS SKIN? Well, I hope this item is of interest to you Tenno, because I bought a lot of it. You check the market for a Darvo Deal. I'm going back to bed."
 
+[/Lotus/Language/G1Quests/DarvosTotallyLegitSaleBody]
+"Friends, 
+
+I've done it again, I've ticked off the entire Corpus board with my amazing deals. They're so upset they make up lies, like,  "Darvo's merchandise is our merchandise!" 
+
+To which I say, "You can't prove anything."
+
+So, to ensure they can't prove anything, I'm having a liquidation sale. Everyday a new deal. It all has to go. Act quick because any stock that's left when the Corpus troops come knocking is getting dumped into space. Got it? Good.
+
+Darvo's Totally Legit sale: You pick the best, I'm flushing the rest.
+
+Happy Shopping, 
+Darvo"
+
+[/Lotus/Language/G1Quests/DarvosTotallyLegitSaleTitle]
+"Darvo's Totally Legit Sale"
+
 [/Lotus/Language/G1Quests/DarvoThanksgivingDealBody]
 "Friends!
 
@@ -15041,6 +15058,19 @@ Piece together the Limbo Theorem to uncover its source"
 
 [/Lotus/Language/G1Quests/LimboQuestComplete]
 "Quest Complete"
+
+[/Lotus/Language/G1Quests/LiquidationCompleteBody]
+"Friends, 
+
+We've reached the final deal, and not a moment too soon either. My spies tell the Corpus are surging their forces to hunt for smugglers and stolen shipments. I wish them good luck with that, smugglers are just the worst. 
+
+Though I do hope they stay safe, I hear there's a lot of newly armed Tenno running about. It would be a shame if they ran into one of them... a shame.
+
+Your loyal merchant, 
+Darvo"
+
+[/Lotus/Language/G1Quests/LiquidationCompleteTitle]
+"Liquidation Complete"
 
 [/Lotus/Language/G1Quests/Lotus_InvasionRewardBody_Tier3_CorpusWinGrineerSupported]
 "Tenno, the Corpus have successfully halted the Grineer invasion of Mars, and Alad V is rewarding his supporters with new Corpus weapon technology. This outcome means that our captured Tenno brethren remain at the mercy of Alad V, however, your loyalty to your comrades throughout this battle makes you worthy of reward. Tenno spies have returned intel allowing us to reverse-engineer the Detron weapon. I’m delivering these blueprints to you now."
@@ -25905,6 +25935,12 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/CephalonSudaProfileIconName]
 "Cephalon Suda Profile Icon"
 
+[/Lotus/Language/Items/CephHammerDesc]
+"Obtain enlightenment with this massive hammer that performs a Codex scan on each fatal strike. Scans require an equipped Codex Scanner and an available charge."
+
+[/Lotus/Language/Items/CephHammerName]
+"HELIOCOR"
+
 [/Lotus/Language/Items/CephPrimaryDesc]
 "Creates miniature gravitational singularities that can be used for scientific study or self-defense."
 
@@ -29733,13 +29769,13 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 "A unique skin for the Xiphos landing craft."
 
 [/Lotus/Language/Items/GyroscopeSkinIfritName]
-"[PLACEHOLDER] XIPOHOS IFRIT SKIN"
+"XIPHOS IFRIT SKIN"
 
 [/Lotus/Language/Items/GyroscopeSkinNekrognosDesc]
 "A unique skin for the Xiphos landing craft."
 
 [/Lotus/Language/Items/GyroscopeSkinNekrognosName]
-"[PLACEHOLDER] XIPOHOS NEKROGNOS SKIN"
+"XIPHOS HENIPA SKIN"
 
 [/Lotus/Language/Items/HalloweenAklatoDesc]
 "A morbidly festive skin for the Aklato."
@@ -32424,7 +32460,7 @@ Pack Includes:
 "Melee Prowess"
 
 [/Lotus/Language/Items/MeleePetDesc]
-"With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the versatile Helios Sentinel acts as both a lethal guardian and an automatic codex scanner."
+"With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the versatile Helios Sentinel acts as both a lethal guardian and an automatic codex scanner. Scans require an equipped Codex Scanner and an available charge."
 
 [/Lotus/Language/Items/MeleePetName]
 "HELIOS"
@@ -33392,49 +33428,55 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 "DISPLAY PACK"
 
 [/Lotus/Language/Items/OrnateArchSwordDesc]
-"[PLACEHOLDER] Description"
+"An ornate skin forged by the Tekelu School of weaponsmiths."
 
 [/Lotus/Language/Items/OrnateArchSwordName]
-"[PLACEHOLDER] ORNATE VERITUX"
+"VERITUX TEKELU SKIN"
 
 [/Lotus/Language/Items/OrnateBallisticaDesc]
-"[PLACEHOLDER] Description"
+"An ornate skin forged by the Tekelu School of weaponsmiths."
 
 [/Lotus/Language/Items/OrnateBallisticaName]
-"[PLACEHOLDER] ORNATE BALLISTICA"
+"BALLISTICA TEKELU SKIN"
 
 [/Lotus/Language/Items/OrnateGalatineDesc]
-"[PLACEHOLDER] Description"
+"An ornate skin forged by the Tekelu School of weaponsmiths."
 
 [/Lotus/Language/Items/OrnateGalatineName]
-"[PLACEHOLDER] ORNATE GALATINE"
+"GALATINE TEKELU SKIN"
 
 [/Lotus/Language/Items/OrnateImperatorDesc]
-"[PLACEHOLDER] Description"
+"An ornate skin forged by the Tekelu School of weaponsmiths."
 
 [/Lotus/Language/Items/OrnateImperatorName]
-"[PLACEHOLDER] ORNATE IMPERATOR"
+"IMPERATOR TEKELU SKIN"
 
 [/Lotus/Language/Items/OrnateOrthosDesc]
-"[PLACEHOLDER] Description"
+"An ornate skin forged by the Tekelu School of weaponsmiths."
 
 [/Lotus/Language/Items/OrnateOrthosName]
-"[PLACEHOLDER] ORNATE ORTHOS"
+"ORTHOS TEKELU SKIN"
 
 [/Lotus/Language/Items/OrnateTigrisDesc]
-"[PLACEHOLDER] Description"
+"An ornate skin forged by the Tekelu School of weaponsmiths."
 
 [/Lotus/Language/Items/OrnateTigrisName]
-"[PLACEHOLDER] ORNATE TIGRIS"
+"TIGRIS TEKELU SKIN"
+
+[/Lotus/Language/Items/OrnateVectisDesc]
+"An ornate skin forged by the Tekelu School of weaponsmiths."
+
+[/Lotus/Language/Items/OrnateVectisName]
+"VECTIS TEKELU SKIN"
 
 [/Lotus/Language/Items/OrnateWeaponBundleDesc]
-"[PLACEHOLDER] Description"
+"Forged by masters from the Tekelu School of weaponsmiths, these skins feature intricate designs of an unmatched quality."
 
 [/Lotus/Language/Items/OrnateWeaponBundleFeaturedText]
-"[PLACEHOLDER] Description"
+"Forged by masters from the Tekelu School of weaponsmiths."
 
 [/Lotus/Language/Items/OrnateWeaponBundleName]
-"[PLACEHOLDER] ORNATE WEAPON PACK"
+"THE TEKELU COLLECTION"
 
 [/Lotus/Language/Items/OrokinCaptureKeyADesc]
 "A Capture mission within the Void"
@@ -37756,6 +37798,18 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 [/Lotus/Language/Items/t1voidprojectiong]
 "LITH A1 RELIC"
 
+[/Lotus/Language/Items/t1voidprojectioni]
+"LITH S3 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectionj]
+"LITH C1 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectionk]
+"LITH K1 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectionl]
+"LITH N1 RELIC"
+
 [/Lotus/Language/Items/t2voidprojectiona]
 "MESO D1 RELIC"
 
@@ -37777,6 +37831,15 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 [/Lotus/Language/Items/t2voidprojectiong]
 "MESO V1 RELIC"
 
+[/Lotus/Language/Items/t2voidprojectioni]
+"MESO S1 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectionj]
+"MESO S2 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectionk]
+"MESO F1 RELIC"
+
 [/Lotus/Language/Items/t3voidprojectiona]
 "NEO S1 RELIC"
 
@@ -37797,6 +37860,15 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 
 [/Lotus/Language/Items/t3voidprojectiong]
 "NEO S3 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectioni]
+"NEO N3 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectionj]
+"NEO V2 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectionk]
+"NEO V3 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectiona]
 "AXI S1 RELIC"
@@ -37821,6 +37893,15 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 
 [/Lotus/Language/Items/t4voidprojectionh]
 "AXI V3 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectioni]
+"AXI N3 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectionj]
+"AXI T1 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectionk]
+"AXI G1 RELIC"
 
 [/Lotus/Language/Items/TacticFocusAbilityDesc]
 "Path of the Sky Rogue"
@@ -40402,22 +40483,24 @@ Visit the in-game Market to obtain the latest Prime Access offering different pa
 "Xbox Live features are disabled - an update for the system software is available."
 
 [/Lotus/Language/Launcher/TAB1_DESC]
-"Archwing - the game mode invokes many things in a Tenno. With Specters of the Rail comes an entirely overhauled flight system! In addition to completely reworked Archwing movement, Specters of the Rail adds a new Support Class, game modes and new weapons to unleash against the enemy!"
+"Archwing – the game mode invokes many things in a Tenno. With Specters of the Rail comes an entirely overhauled flight system! In addition to completely reworked Archwing movement, Specters of the Rail adds a new Support Class, game modes and new weapons to unleash against the enemy!"
 
 [/Lotus/Language/Launcher/TAB1_TITLE]
-"Archwing Overhaul and New Additions!"
+"ARCHWING OVERHAUL AND NEW ADDITIONS!"
 
 [/Lotus/Language/Launcher/TAB2_DESC]
-"Every Tenno needs a companion. Kubrows and Sentinels have given Tenno aid in battle for years, and now a new species of Companion enters the Arsenal -- Kavats! Domesticate your own Kavat. Choose to keep your ship extra-adorable with the roaming kitten or puppy versions OR simply Mature them for a formative Companion to join you in the fight. Adorn your faithful Companion in the Armor it deserves and enhance it with new Mods!"
+"Every Tenno needs a companion. Kubrows and Sentinels have given Tenno aid in battle for years, and now a new species of Companion enters the Arsenal – Kavats! Domesticate your own Kavat. Choose to keep your ship extra-adorable with the roaming kitten or puppy versions OR simply Mature them for a formative Companion to join you in the fight. Adorn your faithful Companion in the Armor it deserves and enhance it with new Mods!"
 
 [/Lotus/Language/Launcher/TAB2_TITLE]
-"New Companions: Kavats"
+"NEW COMPANIONS: KAVATS"
 
 [/Lotus/Language/Launcher/TAB3_DESC]
-"A redesign of the original Star Chart will bring back the nostalgic roadmap design, making it easier to travel the Origin System. With the introduction of the Star Chart comes a new way to acquire Prime items. Don’t worry Tenno, your Void Keys still hold value!The Market has been completely reworked from the ground up. Quickly navigate through the Market to discover all the new additions."
+"A redesign of the original Star Chart will bring back the nostalgic roadmap design, making it easier to travel the Origin System. With the introduction of the Star Chart comes a new way to acquire Prime items. Don’t worry Tenno, your Void Keys still hold value!
+
+The Market has been completely reworked from the ground up. Quickly navigate through the Market to discover all the new additions."
 
 [/Lotus/Language/Launcher/TAB3_TITLE]
-"Star Chart and Market Facelift"
+"STAR CHART AND MARKET FACELIFT"
 
 [/Lotus/Language/Launcher/TEST]
 "Test"
@@ -51604,6 +51687,9 @@ Doing so will consume this Relic."
 
 [/Lotus/Language/Menu/ProjectionManager_Rewards]
 "POSSIBLE REWARDS"
+
+[/Lotus/Language/Menu/ProjectionManager_SelectModeTitle]
+"VOID RELIC SELECTION"
 
 [/Lotus/Language/Menu/ProjectionManager_SelectProjection]
 "SELECT RELIC"
