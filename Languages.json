@@ -12425,6 +12425,9 @@
   "/lotus/language/g1quests/darvodealnyxnemesisbundle": {
     "value": "Tenno, you ever drink Ganymede Geyser Water? One of my suppliers brought a case to the store yesterday. \"Have a sip,\" he says, \"we'll look over my items,\" he says. Next thing I remember, I wake up with a headache surrounded by crates and crates of something called the NYX NEMESIS SKIN? Well, I hope this item is of interest to you Tenno, because I bought a lot of it. You check the market for a Darvo Deal. I'm going back to bed."
   },
+  "/lotus/language/g1quests/darvostotallylegitsaletitle": {
+    "value": "Darvo's Totally Legit Sale"
+  },
   "/lotus/language/g1quests/darvothanksgivingdealintrotitle": {
     "value": "Just a Small Favor?"
   },
@@ -13147,6 +13150,9 @@
   },
   "/lotus/language/g1quests/limboquestcomplete": {
     "value": "Quest Complete"
+  },
+  "/lotus/language/g1quests/liquidationcompletetitle": {
+    "value": "Liquidation Complete"
   },
   "/lotus/language/g1quests/lotus_invasionrewardbody_tier3_corpuswingrineersupported": {
     "value": "Tenno, the Corpus have successfully halted the Grineer invasion of Mars, and Alad V is rewarding his supporters with new Corpus weapon technology. This outcome means that our captured Tenno brethren remain at the mercy of Alad V, however, your loyalty to your comrades throughout this battle makes you worthy of reward. Tenno spies have returned intel allowing us to reverse-engineer the Detron weapon. I’m delivering these blueprints to you now."
@@ -22391,6 +22397,12 @@
   "/lotus/language/items/cephalonsudaprofileiconname": {
     "value": "Cephalon Suda Profile Icon"
   },
+  "/lotus/language/items/cephhammerdesc": {
+    "value": "Obtain enlightenment with this massive hammer that performs a Codex scan on each fatal strike. Scans require an equipped Codex Scanner and an available charge."
+  },
+  "/lotus/language/items/cephhammername": {
+    "value": "HELIOCOR"
+  },
   "/lotus/language/items/cephprimarydesc": {
     "value": "Creates miniature gravitational singularities that can be used for scientific study or self-defense."
   },
@@ -26010,13 +26022,13 @@
     "value": "A unique skin for the Xiphos landing craft."
   },
   "/lotus/language/items/gyroscopeskinifritname": {
-    "value": "[PLACEHOLDER] XIPOHOS IFRIT SKIN"
+    "value": "XIPHOS IFRIT SKIN"
   },
   "/lotus/language/items/gyroscopeskinnekrognosdesc": {
     "value": "A unique skin for the Xiphos landing craft."
   },
   "/lotus/language/items/gyroscopeskinnekrognosname": {
-    "value": "[PLACEHOLDER] XIPOHOS NEKROGNOS SKIN"
+    "value": "XIPHOS HENIPA SKIN"
   },
   "/lotus/language/items/halloweenaklatodesc": {
     "value": "A morbidly festive skin for the Aklato."
@@ -28668,7 +28680,7 @@
     "value": "Melee Prowess"
   },
   "/lotus/language/items/meleepetdesc": {
-    "value": "With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the versatile Helios Sentinel acts as both a lethal guardian and an automatic codex scanner."
+    "value": "With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the versatile Helios Sentinel acts as both a lethal guardian and an automatic codex scanner. Scans require an equipped Codex Scanner and an available charge."
   },
   "/lotus/language/items/meleepetname": {
     "value": "HELIOS"
@@ -29610,49 +29622,55 @@
     "value": "DISPLAY PACK"
   },
   "/lotus/language/items/ornatearchsworddesc": {
-    "value": "[PLACEHOLDER] Description"
+    "value": "An ornate skin forged by the Tekelu School of weaponsmiths."
   },
   "/lotus/language/items/ornatearchswordname": {
-    "value": "[PLACEHOLDER] ORNATE VERITUX"
+    "value": "VERITUX TEKELU SKIN"
   },
   "/lotus/language/items/ornateballisticadesc": {
-    "value": "[PLACEHOLDER] Description"
+    "value": "An ornate skin forged by the Tekelu School of weaponsmiths."
   },
   "/lotus/language/items/ornateballisticaname": {
-    "value": "[PLACEHOLDER] ORNATE BALLISTICA"
+    "value": "BALLISTICA TEKELU SKIN"
   },
   "/lotus/language/items/ornategalatinedesc": {
-    "value": "[PLACEHOLDER] Description"
+    "value": "An ornate skin forged by the Tekelu School of weaponsmiths."
   },
   "/lotus/language/items/ornategalatinename": {
-    "value": "[PLACEHOLDER] ORNATE GALATINE"
+    "value": "GALATINE TEKELU SKIN"
   },
   "/lotus/language/items/ornateimperatordesc": {
-    "value": "[PLACEHOLDER] Description"
+    "value": "An ornate skin forged by the Tekelu School of weaponsmiths."
   },
   "/lotus/language/items/ornateimperatorname": {
-    "value": "[PLACEHOLDER] ORNATE IMPERATOR"
+    "value": "IMPERATOR TEKELU SKIN"
   },
   "/lotus/language/items/ornateorthosdesc": {
-    "value": "[PLACEHOLDER] Description"
+    "value": "An ornate skin forged by the Tekelu School of weaponsmiths."
   },
   "/lotus/language/items/ornateorthosname": {
-    "value": "[PLACEHOLDER] ORNATE ORTHOS"
+    "value": "ORTHOS TEKELU SKIN"
   },
   "/lotus/language/items/ornatetigrisdesc": {
-    "value": "[PLACEHOLDER] Description"
+    "value": "An ornate skin forged by the Tekelu School of weaponsmiths."
   },
   "/lotus/language/items/ornatetigrisname": {
-    "value": "[PLACEHOLDER] ORNATE TIGRIS"
+    "value": "TIGRIS TEKELU SKIN"
+  },
+  "/lotus/language/items/ornatevectisdesc": {
+    "value": "An ornate skin forged by the Tekelu School of weaponsmiths."
+  },
+  "/lotus/language/items/ornatevectisname": {
+    "value": "VECTIS TEKELU SKIN"
   },
   "/lotus/language/items/ornateweaponbundledesc": {
-    "value": "[PLACEHOLDER] Description"
+    "value": "Forged by masters from the Tekelu School of weaponsmiths, these skins feature intricate designs of an unmatched quality."
   },
   "/lotus/language/items/ornateweaponbundlefeaturedtext": {
-    "value": "[PLACEHOLDER] Description"
+    "value": "Forged by masters from the Tekelu School of weaponsmiths."
   },
   "/lotus/language/items/ornateweaponbundlename": {
-    "value": "[PLACEHOLDER] ORNATE WEAPON PACK"
+    "value": "THE TEKELU COLLECTION"
   },
   "/lotus/language/items/orokincapturekeyadesc": {
     "value": "A Capture mission within the Void"
@@ -33578,6 +33596,18 @@
   "/lotus/language/items/t1voidprojectiong": {
     "value": "LITH A1 RELIC"
   },
+  "/lotus/language/items/t1voidprojectioni": {
+    "value": "LITH S3 RELIC"
+  },
+  "/lotus/language/items/t1voidprojectionj": {
+    "value": "LITH C1 RELIC"
+  },
+  "/lotus/language/items/t1voidprojectionk": {
+    "value": "LITH K1 RELIC"
+  },
+  "/lotus/language/items/t1voidprojectionl": {
+    "value": "LITH N1 RELIC"
+  },
   "/lotus/language/items/t2voidprojectiona": {
     "value": "MESO D1 RELIC"
   },
@@ -33599,6 +33629,15 @@
   "/lotus/language/items/t2voidprojectiong": {
     "value": "MESO V1 RELIC"
   },
+  "/lotus/language/items/t2voidprojectioni": {
+    "value": "MESO S1 RELIC"
+  },
+  "/lotus/language/items/t2voidprojectionj": {
+    "value": "MESO S2 RELIC"
+  },
+  "/lotus/language/items/t2voidprojectionk": {
+    "value": "MESO F1 RELIC"
+  },
   "/lotus/language/items/t3voidprojectiona": {
     "value": "NEO S1 RELIC"
   },
@@ -33619,6 +33658,15 @@
   },
   "/lotus/language/items/t3voidprojectiong": {
     "value": "NEO S3 RELIC"
+  },
+  "/lotus/language/items/t3voidprojectioni": {
+    "value": "NEO N3 RELIC"
+  },
+  "/lotus/language/items/t3voidprojectionj": {
+    "value": "NEO V2 RELIC"
+  },
+  "/lotus/language/items/t3voidprojectionk": {
+    "value": "NEO V3 RELIC"
   },
   "/lotus/language/items/t4voidprojectiona": {
     "value": "AXI S1 RELIC"
@@ -33643,6 +33691,15 @@
   },
   "/lotus/language/items/t4voidprojectionh": {
     "value": "AXI V3 RELIC"
+  },
+  "/lotus/language/items/t4voidprojectioni": {
+    "value": "AXI N3 RELIC"
+  },
+  "/lotus/language/items/t4voidprojectionj": {
+    "value": "AXI T1 RELIC"
+  },
+  "/lotus/language/items/t4voidprojectionk": {
+    "value": "AXI G1 RELIC"
   },
   "/lotus/language/items/tacticfocusabilitydesc": {
     "value": "Path of the Sky Rogue"
@@ -36108,22 +36165,19 @@
     "value": "Xbox Live features are disabled - an update for the system software is available."
   },
   "/lotus/language/launcher/tab1_desc": {
-    "value": "Archwing - the game mode invokes many things in a Tenno. With Specters of the Rail comes an entirely overhauled flight system! In addition to completely reworked Archwing movement, Specters of the Rail adds a new Support Class, game modes and new weapons to unleash against the enemy!"
+    "value": "Archwing – the game mode invokes many things in a Tenno. With Specters of the Rail comes an entirely overhauled flight system! In addition to completely reworked Archwing movement, Specters of the Rail adds a new Support Class, game modes and new weapons to unleash against the enemy!"
   },
   "/lotus/language/launcher/tab1_title": {
-    "value": "Archwing Overhaul and New Additions!"
+    "value": "ARCHWING OVERHAUL AND NEW ADDITIONS!"
   },
   "/lotus/language/launcher/tab2_desc": {
-    "value": "Every Tenno needs a companion. Kubrows and Sentinels have given Tenno aid in battle for years, and now a new species of Companion enters the Arsenal -- Kavats! Domesticate your own Kavat. Choose to keep your ship extra-adorable with the roaming kitten or puppy versions OR simply Mature them for a formative Companion to join you in the fight. Adorn your faithful Companion in the Armor it deserves and enhance it with new Mods!"
+    "value": "Every Tenno needs a companion. Kubrows and Sentinels have given Tenno aid in battle for years, and now a new species of Companion enters the Arsenal – Kavats! Domesticate your own Kavat. Choose to keep your ship extra-adorable with the roaming kitten or puppy versions OR simply Mature them for a formative Companion to join you in the fight. Adorn your faithful Companion in the Armor it deserves and enhance it with new Mods!"
   },
   "/lotus/language/launcher/tab2_title": {
-    "value": "New Companions: Kavats"
-  },
-  "/lotus/language/launcher/tab3_desc": {
-    "value": "A redesign of the original Star Chart will bring back the nostalgic roadmap design, making it easier to travel the Origin System. With the introduction of the Star Chart comes a new way to acquire Prime items. Don’t worry Tenno, your Void Keys still hold value!The Market has been completely reworked from the ground up. Quickly navigate through the Market to discover all the new additions."
+    "value": "NEW COMPANIONS: KAVATS"
   },
   "/lotus/language/launcher/tab3_title": {
-    "value": "Star Chart and Market Facelift"
+    "value": "STAR CHART AND MARKET FACELIFT"
   },
   "/lotus/language/launcher/test": {
     "value": "Test"
@@ -47107,6 +47161,9 @@
   },
   "/lotus/language/menu/projectionmanager_rewards": {
     "value": "POSSIBLE REWARDS"
+  },
+  "/lotus/language/menu/projectionmanager_selectmodetitle": {
+    "value": "VOID RELIC SELECTION"
   },
   "/lotus/language/menu/projectionmanager_selectprojection": {
     "value": "SELECT RELIC"
