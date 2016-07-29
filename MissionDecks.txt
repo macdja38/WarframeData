@@ -1740,7 +1740,6 @@ Rotation C:
  - Sedna, Scylla, MT_SURVIVAL, FC_GRINEER
  - Sedna, Yemaja, MT_SURVIVAL, FC_GRINEER
  - Europa, Cryotic Front, MT_EXCAVATE, FC_CORPUS
- - Void, Mot, MT_SURVIVAL, FC_OROKIN
  - LUA, Tycho, MT_SURVIVAL, FC_CORPUS
 
 Rotation A:
@@ -1884,6 +1883,53 @@ Rotation C:
   1 Killing Blow, COMMON, 5.26%
   1 Antitoxin, COMMON, 5.26%
   1 Vital Sense, COMMON, 5.26%
+  1 Pistol Ammo Mutation, COMMON, 5.26%
+  1 Arrow Mutation, COMMON, 5.26%
+  1 Rifle Ammo Mutation, COMMON, 5.26%
+  1 Sniper Ammo Mutation, COMMON, 5.26%
+  1 Shotgun Ammo Mutation, COMMON, 5.26%
+
+
+[SurvivalMissionRewards/SurvivalUltraLevelRewards]
+ - Void, Mot, MT_SURVIVAL, FC_OROKIN
+
+Rotation A:
+  1 3000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  5 Rare Fusion Core, COMMON, 25%
+
+Rotation B:
+  Attenuation: 0.3
+  1 AXI S1 RELIC, COMMON, 11.06%
+  1 AXI N2 RELIC, COMMON, 11.06%
+  1 AXI V3 RELIC, COMMON, 11.06%
+  1 AXI K1 RELIC, COMMON, 11.06%
+  1 AXI N1 RELIC, COMMON, 11.06%
+  1 AXI V1 RELIC, COMMON, 11.06%
+  1 AXI A1 RELIC, COMMON, 11.06%
+  1 NEO S1 RELIC, UNCOMMON, 3.76%
+  1 NEO S3 RELIC, UNCOMMON, 3.76%
+  1 NEO N1 RELIC, UNCOMMON, 3.76%
+  1 NEO N2 RELIC, UNCOMMON, 3.76%
+  1 NEO S2 RELIC, UNCOMMON, 3.76%
+  1 NEO V1 RELIC, UNCOMMON, 3.76%
+
+Rotation C:
+  1 4000 CREDITS, COMMON, 5.26%
+  1 4000 CREDITS, COMMON, 5.26%
+  1 Steady Hands, COMMON, 5.26%
+  1 Stabilizer, COMMON, 5.26%
+  1 Power Throw, COMMON, 5.26%
+  1 Steel Fiber, COMMON, 5.26%
+  1 Stretch, COMMON, 5.26%
+  1 Serration, COMMON, 5.26%
+  1 Hell's Chamber, COMMON, 5.26%
+  1 Cleanse Infested, COMMON, 5.26%
+  1 Sundering Strike, COMMON, 5.26%
+  1 Hornet Strike, COMMON, 5.26%
+  1 Flow, COMMON, 5.26%
+  1 Split Chamber, COMMON, 5.26%
   1 Pistol Ammo Mutation, COMMON, 5.26%
   1 Arrow Mutation, COMMON, 5.26%
   1 Rifle Ammo Mutation, COMMON, 5.26%
