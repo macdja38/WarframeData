@@ -7347,7 +7347,7 @@
     "value": "Happy Monkey Year!"
   },
   "/lotus/language/communitymessages/voidtraderappearancetitle": {
-    "value": "[PLACEHOLDER] Void Trader is here"
+    "value": "The Void Trader Has Returned"
   },
   "/lotus/language/companionapp/alerts": {
     "value": "ALERTS"
@@ -21914,6 +21914,12 @@
   "/lotus/language/items/blueskyskingrineerqueensname": {
     "value": "[Placeholder] SCIMITAR QUEENS SKIN"
   },
+  "/lotus/language/items/blueskyskinprimetraderdesc": {
+    "value": "A unique skin for the Scimitar landing craft."
+  },
+  "/lotus/language/items/blueskyskinprimetradername": {
+    "value": "SCIMITAR PRISMA SKIN"
+  },
   "/lotus/language/items/blueskyskinsounddesc": {
     "value": "A unique skin for the Scimitar landing craft."
   },
@@ -26030,6 +26036,12 @@
   "/lotus/language/items/gyroscopeskinnekrognosname": {
     "value": "XIPHOS HENIPA SKIN"
   },
+  "/lotus/language/items/gyroscopeskinprimetraderdesc": {
+    "value": "A unique skin for the Xiphos landing craft."
+  },
+  "/lotus/language/items/gyroscopeskinprimetradername": {
+    "value": "XIPHOS PRISMA SKIN"
+  },
   "/lotus/language/items/halloweenaklatodesc": {
     "value": "A morbidly festive skin for the Aklato."
   },
@@ -26917,6 +26929,12 @@
   },
   "/lotus/language/items/insectshipskinnautilusname": {
     "value": "MANTIS OSCURO SKIN"
+  },
+  "/lotus/language/items/insectshipskinprimetraderdesc": {
+    "value": "A unique skin for the Mantis landing craft."
+  },
+  "/lotus/language/items/insectshipskinprimetradername": {
+    "value": "MANTIS PRISMA SKIN"
   },
   "/lotus/language/items/instantshieldondamagename": {
     "value": "ARCANE BARRIER"
