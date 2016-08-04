@@ -23005,7 +23005,9 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "[PLACEHOLDER] The traditional sugatra for Lunaro for generations."
 
 [/Lotus/Language/Items/ArcDroneDesc]
-"Diriga shocks nearby enemies, and picks off distant threats, utilizing the Vulklok sniper rifle and the 'Calculated Shot', 'Arc Coil' and 'Electro Pulse' precepts."
+"Diriga shocks nearby enemies, and picks off distant threats, utilizing the Vulklok sniper rifle and the 'Calculated Shot', 'Arc Coil' and 'Electro Pulse' precepts.
+
+Note: This item requires two open slots."
 
 [/Lotus/Language/Items/ArcDroneName]
 "DIRIGA"
@@ -23594,7 +23596,7 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Ember Prime Profile Icon"
 
 [/Lotus/Language/Items/AvatarEpsilonDesc]
-"A prize-winning profile icon, designed by Epsilon
+"A prize-winning profile icon, designed by NaturallySelected
 
 
 <UGC> TennoGen"
@@ -24198,6 +24200,12 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 
 [/Lotus/Language/Items/AvatarNovaDarkName]
 "Nova Profile Icon"
+
+[/Lotus/Language/Items/AvatarNovaDeluxeDesc]
+"A profile icon depicting Nova Asuri."
+
+[/Lotus/Language/Items/AvatarNovaDeluxeName]
+"NOVA ASURI PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNovaPrimeBrightDescription]
 "A profile icon depicting Nova Prime on a bright background."
@@ -28372,6 +28380,12 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/FairyAgileAnimsDesc]
 "The Agile Animation Set for Titania."
 
+[/Lotus/Language/Items/FairyAltHelmetDesc]
+"[PLACEHOLDER] Description"
+
+[/Lotus/Language/Items/FairyAltHelmetName]
+"[PLACEHOLDER] TITANIA ALT HELMET"
+
 [/Lotus/Language/Items/FairyDesc]
 "[Placeholder]"
 
@@ -29127,12 +29141,6 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve problems and defeat the enemy. This mission can be initiated from Pluto."
 
 [/Lotus/Language/Items/GolemTrialsName]
-"<RAID> THE JORDAS VERDICT"
-
-[/Lotus/Language/Items/GolemTrialsNamePart2]
-"<RAID> THE JORDAS VERDICT"
-
-[/Lotus/Language/Items/GolemTrialsNamePart3]
 "<RAID> THE JORDAS VERDICT"
 
 [/Lotus/Language/Items/GoodStuffDropChanceBoosterDesc]
@@ -33170,6 +33178,39 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 [/Lotus/Language/Items/NovaDefaultHelmetName]
 "NOVA HELMET"
 
+[/Lotus/Language/Items/NovaDeluxeBoDesc]
+"A symbol of unity between unrelenting aggression and unwavering defense."
+
+[/Lotus/Language/Items/NovaDeluxeBoName]
+"RASHASI POLEARM SKIN"
+
+[/Lotus/Language/Items/NovaDeluxeBundleDesc]
+"This enlightened bundle features the Nova Asuri Skin, Rashasi Polearm Skin for any polearm weapon and the sacred Danavi Syandana."
+
+[/Lotus/Language/Items/NovaDeluxeBundleName]
+"NOVA ASURI COLLECTION"
+
+[/Lotus/Language/Items/NovaDeluxeDesc]
+"Ascend and become the legendary many-armed warrior of Asuri."
+
+[/Lotus/Language/Items/NovaDeluxeHelmetDesc]
+"A helmet to match the Nova Asuri Skin."
+
+[/Lotus/Language/Items/NovaDeluxeHelmetName]
+"NOVA ASURI HELMET"
+
+[/Lotus/Language/Items/NovaDeluxeName]
+"NOVA ASURI SKIN"
+
+[/Lotus/Language/Items/NovaDeluxeScarfDesc]
+"Nova Asuri’s signature syandana."
+
+[/Lotus/Language/Items/NovaDeluxeScarfName]
+"DANAVI SYANDANA"
+
+[/Lotus/Language/Items/NovaDeluxeSkinFeatureText]
+"Ascend and become the legendary many-armed warrior of Asuri."
+
 [/Lotus/Language/Items/NovaName]
 "NOVA"
 
@@ -33778,6 +33819,9 @@ This bundle of 1 Orokin Cell can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/OrokittyBadgeName]
 "KURIA EMBLEM"
+
+[/Lotus/Language/Items/OrokittyGlyphName]
+"KURIA GLYPH"
 
 [/Lotus/Language/Items/OrthosPolearmDesc]
 "The Tenno forged Orthos is a rare double bladed staff. Those who take the time to master it speak of its impressive striking distance and ability to hit multiple targets."
@@ -35248,6 +35292,12 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/RangerBowAbilityName]
 "Artemis Bow"
 
+[/Lotus/Language/Items/RangerControlAbilityAugmentDesc]
+"[PLACEHOLDER] Navigator Augment - Teleports Ivara to the projectile's position upon deactivation, but drains |DRAIN|% more energy while active."
+
+[/Lotus/Language/Items/RangerControlAbilityAugmentName]
+"[PLACEHOLDER] NAVIGATOR AUGMENT"
+
 [/Lotus/Language/Items/RangerControlAbilityDesc]
 "Assume control of a projectile and guide it to the target."
 
@@ -35277,6 +35327,12 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/RangerPvpQuiverArrow3Name]
 "Encumbered Arrow"
+
+[/Lotus/Language/Items/RangerQuiverAbilityAugmentDesc]
+"[PLACEHOLDER] Quiver Augment - Allies within |RADIUS|m of the arrow's impact point will regenerate |HEAL| health over |DURATION|s."
+
+[/Lotus/Language/Items/RangerQuiverAbilityAugmentName]
+"[PLACEHOLDER] QUIVER AUGMENT"
 
 [/Lotus/Language/Items/RangerQuiverAbilityAugmentPvPDesc]
 "Quiver Augment - Quiver fires three arrows and consumes |ENERGY| more energy."
@@ -36021,6 +36077,12 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/SandmanStormAbility]
 "Sandstorm"
 
+[/Lotus/Language/Items/SandmanStormAbilityAugmentDesc]
+"[PLACEHOLDER] Sandstorm Augment - The storm has a |CHANCE|% chance of inducing status effects based on the elemental properties of Inaros' melee weapon."
+
+[/Lotus/Language/Items/SandmanStormAbilityAugmentName]
+"[PLACEHOLDER] SANDSTORM AUGMENT"
+
 [/Lotus/Language/Items/SandmanStormAbilityDesc]
 "Become a whirling spiral of sand that sends enemies flying and devours those trapped in quicksand."
 
@@ -36148,7 +36210,7 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "Lunging spirals and shattering combos."
 
 [/Lotus/Language/Items/SearchTheDeadAbilityAugmentDesc]
-"Desecrate Augment - No longer consumes energy, but consumes |HEALTH_AMOUNT| health per second instead."
+"Desecrate Augment - No longer consumes energy, but consumes |HEALTH_AMMOUNT| health instead."
 
 [/Lotus/Language/Items/SearchTheDeadAbilityAugmentName]
 "Despoil"
@@ -37307,7 +37369,7 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "[Placeholder] Description"
 
 [/Lotus/Language/Items/SundialMeleeWeaponName]
-"[Placeholder] SundialMelee"
+"ZENISTAR"
 
 [/Lotus/Language/Items/SundialPistolDesc]
 "This intricate automatic pistol is able to fire its clip which then spins in the air for a short time, firing lasers at nearby enemies."
@@ -37359,6 +37421,12 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 
 [/Lotus/Language/Items/SupportWardAbilityName]
 "Warding Grace"
+
+[/Lotus/Language/Items/SupportWardAugmentDesc]
+"[PLACEHOLDER] Any active status effects are applied to enemies within |val|m"
+
+[/Lotus/Language/Items/SupportWardAugmentName]
+"[PLACEHOLDER] Support Ward Augment"
 
 [/Lotus/Language/Items/SupremeSomaSetDesc]
 "This bundle features the Soma assault rifle, Dual Raza battle hachets and Aksomati pistols. Sharing a unique visual style, the weapons in this set will inspire awe in your allies and fear in your foes."
@@ -42963,6 +43031,12 @@ Darvo"
 [/Lotus/Language/Menu/Apply_Fusion_For_Credits]
 "APPLY FUSION FOR <CREDITS> |CREDITS|"
 
+[/Lotus/Language/Menu/ApplyFusionConfirm]
+"Applying this fusion will cost:
+|FUSION_POINTS|<FUSION_POINTS>
+|CREDITS|<CREDITS>
+Are you sure?"
+
 [/Lotus/Language/Menu/ApplySpectre]
 "Click APPLY to upload current loadout."
 
@@ -44002,6 +44076,9 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/Chat_WhisperSent]
 "To |USER|: |MESSAGE|"
 
+[/Lotus/Language/Menu/ChooseCurrencyTypeCreditsFusionPoints]
+"Will you sell these mods for <CREDITS> credits or <FUSION_POINTS> fusion points?"
+
 [/Lotus/Language/Menu/ChooseInvasionFaction]
 "Choose Ally."
 
@@ -44089,6 +44166,9 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/Codex_Objects]
 "OBJECTS"
 
+[/Lotus/Language/Menu/Codex_Projections]
+"RELICS"
+
 [/Lotus/Language/Menu/Codex_QuestMissionTasksTitle]
 "MISSION TASKS"
 
@@ -44097,6 +44177,9 @@ A Solar Rail is required in order to travel here."
 
 [/Lotus/Language/Menu/Codex_Quests]
 "QUESTS"
+
+[/Lotus/Language/Menu/Codex_RelicsAndArcanes]
+"RELICS & ARCANES"
 
 [/Lotus/Language/Menu/Codex_Sentinels]
 "Companions"
@@ -44341,6 +44424,9 @@ Are you sure you want to put |NAME| in stasis?"
 You will no longer own |NAME|.
 
 Are you sure?"
+
+[/Lotus/Language/Menu/ConfirmSellFormattedPrice]
+"Are you sure you want to sell |ITEMS| for |FORMATTED_PRICE|?"
 
 [/Lotus/Language/Menu/ConfirmSellingInstalledMod]
 "|MOD| is currently installed. Are you sure you want to sell it?"
@@ -47053,6 +47139,9 @@ Scales with Mastery Rank"
 
 [/Lotus/Language/Menu/FusionAmount]
 "APPLY FUSION FOR |COST|<CREDITS>"
+
+[/Lotus/Language/Menu/FusionAmountFusex]
+""
 
 [/Lotus/Language/Menu/FusionMax]
 "Mod is at maximum rank."
@@ -52500,6 +52589,9 @@ Thank you for your partnership."
 [/Lotus/Language/Menu/SELL_Description]
 "Sell your Mods for credits."
 
+[/Lotus/Language/Menu/SELL_DescriptionFusex]
+""
+
 [/Lotus/Language/Menu/SELL_NoCardsSelectedError]
 "SELECT MODS TO PREVIEW SELL VALUE"
 
@@ -52514,6 +52606,9 @@ Thank you for your partnership."
 
 [/Lotus/Language/Menu/SELL_SellStack]
 "SELL |NUM| SELECTED MODS FOR |PRICE|<CREDITS>"
+
+[/Lotus/Language/Menu/SELL_SellStackFusex]
+""
 
 [/Lotus/Language/Menu/SellManifest]
 "Please verify that these are the items you wish to sell:"
