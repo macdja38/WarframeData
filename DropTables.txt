@@ -4417,7 +4417,7 @@ DROP_POWERUP (Drop Chance: 75%)
 
 [SpaceDropTables/GrineerSpaceDroneDropTable]
  - DREG (GrineerSpaceDroneAvatar)
- - [PLACEHOLDER] Suicide Mutalist (SuicideSpaceDroneAvatar)
+ - [PH] Suicide Mutalist (SuicideSpaceDroneAvatar)
  - Mutalist Lightning Carrier (CarrierLightningSpaceDroneAvatar)
  - Mutalist Toxic Carrier (CarrierSpaceDroneAvatar)
  - Attack Mutalist (InfestedAttackDroneAvatar)
