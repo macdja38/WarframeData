@@ -2337,10 +2337,10 @@ You will receive an email from your 2K contact when the console has been approve
 "STATUS IMMUNITY DURATION"
 
 [/Game/AVATAR_PROC_REFLECT_AMPLIFICATION]
-"[PLACEHOLDER] REFLECT DAMAGE AMPLIFICATION"
+"[PH] REFLECT DAMAGE AMPLIFICATION"
 
 [/Game/AVATAR_PROC_REFLECT_CHANCE]
-"[PLACEHOLDER] REFLECT PROC CHANCE"
+"[PH] REFLECT PROC CHANCE"
 
 [/Game/AVATAR_PROC_TIME]
 "STATUS DURATION ON SELF"
@@ -2406,7 +2406,7 @@ You will receive an email from your 2K contact when the console has been approve
 "SPRINT SPEED"
 
 [/Game/AVATAR_STAMINA]
-"[PLACEHOLDER] MOBILITY POINTS"
+"[PH] MOBILITY POINTS"
 
 [/Game/AVATAR_STAMINA_COST_MULTIPLIER]
 "STAMINA COST REDUCTION"
@@ -3063,10 +3063,10 @@ You will receive an email from your 2K contact when the console has been approve
 "STATUS DURATION"
 
 [/Game/WEAPON_PROJECTILE_BOUNCES]
-"[PLACEHOLDER] MAX BOUNCES"
+"[PH] MAX BOUNCES"
 
 [/Game/WEAPON_PROJECTILE_ELASTICITY]
-"[PLACEHOLDER] ELASTICITY"
+"[PH] ELASTICITY"
 
 [/Game/WEAPON_PROJECTILE_EXPLOSION_CHANCE]
 "PROJECTILE EXPLOSION CHANCE"
@@ -3348,7 +3348,7 @@ You will receive an email from your 2K contact when the console has been approve
 "<AMMO_MUTATION> SNIPER AMMO"
 
 [/Lotus/Language/Actions/StaminaIncrease]
-"[PLACEHOLDER] MOBILITY POINTS"
+"[PH] MOBILITY POINTS"
 
 [/Lotus/Language/Actions/Stand]
 "Stand"
@@ -5695,7 +5695,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Complete a Corpus SPY mission with 3 successful data extractions on JUPITER"
 
 [/Lotus/Language/Challenges/Challenge_JSVoidTears_Name]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/Challenges/Challenge_Kaboom_Description]
 "Kill 10 or more enemies with a single explosion (Tonkor, etc)"
@@ -7084,7 +7084,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Triple Kill"
 
 [/Lotus/Language/Challenges/Challenge_Uber_Description]
-"Use your Warframe Ability once"
+"Use your Warframe fourth Ability once"
 
 [/Lotus/Language/Challenges/Challenge_Uber_Name]
 "From Within"
@@ -7174,7 +7174,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Without a Hitch "
 
 [/Lotus/Language/Challenges/WEAPON_LONG_GUN]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Champions/GrineerBeastMasterDesc]
 "Summons Hyekka to aid her in battle."
@@ -7378,6 +7378,15 @@ But the experiment was only a partial success. Without pain, Dhurnam grew weak a
 [/Lotus/Language/ChangeInfo/SCEAAPPVER_01.35_SCEAMASTERVER_01.00_SCEEAPPVER_01.34_SCEEMASTERVER_01.00]
 "Lunaro"
 
+[/Lotus/Language/Changyou/AdjustmentColourPickerAbbrev]
+"[PH] ADJUSTMENTS"
+
+[/Lotus/Language/Changyou/AdjustmentColourPickerDesc]
+"[PH] Adjustments"
+
+[/Lotus/Language/Changyou/AdjustmentColourPickerName]
+"[PH] Adjustments"
+
 [/Lotus/Language/Changyou/AliasNameConfirm]
 "Use '|NEW_NAME|' as your Warframe alias?"
 
@@ -7460,6 +7469,9 @@ I am counting on you Tenno.
 
 [/Lotus/Language/Changyou/CYDyeSettlementLineItem]
 "|COUNT| times of |PALETTE|, cost |PRICE|"
+
+[/Lotus/Language/Changyou/CYDyeSettlementLineItemNoCount]
+"|PALETTE|, cost |PRICE|"
 
 [/Lotus/Language/Changyou/CYDyeSettlementTotal]
 "Total consumption is |PRICE|. Settlement or not?"
@@ -7652,10 +7664,13 @@ Your combat skills impress me. These rewards are what you deserve. Use them wise
 "You've raised to rank |NEW_RANK|, this is a gift from Lotus"
 
 [/Lotus/Language/Changyou/MirageBundleDesc]
-"[PLACEHOLDER] Get Mirage and her helmets/icons in this pack!"
+"[PH] Get Mirage and her helmets/icons in this pack!"
 
 [/Lotus/Language/Changyou/MirageBundleName]
 "MIRAGE BUNDLE"
+
+[/Lotus/Language/Changyou/MiscColorChanges]
+"[PH] Other Changes"
 
 [/Lotus/Language/Changyou/MissingChangyouInfo]
 "An error occurred while logging in; the main menu will now be reloaded."
@@ -7668,6 +7683,15 @@ Your combat skills impress me. These rewards are what you deserve. Use them wise
 
 [/Lotus/Language/Changyou/MotpVerifying]
 "Verifying MOTP..."
+
+[/Lotus/Language/Changyou/OperatorSkinColourPickerAbbrev]
+"[PH] SKIN"
+
+[/Lotus/Language/Changyou/OperatorSkinColourPickerDesc]
+"[PH] Skin Tone"
+
+[/Lotus/Language/Changyou/OperatorSkinColourPickerName]
+"[PH] Skin Tone"
 
 [/Lotus/Language/Changyou/ReferedPlayer_WelcomeMessage]
 "Welcome Tenno!
@@ -8259,7 +8283,7 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 "Torid lobs a toxic payload."
 
 [/Lotus/Language/Codex/DarkExcaliburLongDesc]
-"[Placeholder] Dark Excalibur"
+"[PH] Dark Excalibur"
 
 [/Lotus/Language/Codex/EmberLongDesc]
 "Three figures waited behind a simple table. Their attention on a single chair, bathed in light. An old woman’s voice from the shadow: 'Send her in'. Across the room a security officer, stern and plain, opened the door. The outline of a young woman appeared at the door. She hesitated, but only for an instant, then crossed the room and sat.
@@ -11207,10 +11231,10 @@ Blueprint Replication <CREDITS>|PRICE|"
 "PRIMARY GENERATOR ROOM"
 
 [/Lotus/Language/Dojo/SectorWarsMid03Desc]
-"[Placeholder] This should not be shipping with Update 14."
+"[PH] This should not be shipping with Update 14."
 
 [/Lotus/Language/Dojo/SectorWarsMid03Name]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Dojo/SectorWarsMid04Desc]
 "Several generators power the defense grid protecting this room. Do not let your enemies destroy them."
@@ -11714,7 +11738,7 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "Are you sure you want to exit the trade? This will close your trading session with |PLAYER_NAME|"
 
 [/Lotus/Language/Dojo/TradeMissingPrerequisite]
-"[Placeholder] |REQ| is required for |ITEM|; you cannot trade for this item at this time."
+"[PH] |REQ| is required for |ITEM|; you cannot trade for this item at this time."
 
 [/Lotus/Language/Dojo/TradeModDesc]
 "|MOD| (|RARITY| RANK |X|)"
@@ -12251,7 +12275,7 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "ORPHID SPECTER"
 
 [/Lotus/Language/Enemies/FairyQuestTitania]
-"[PLACEHOLDER] TITANIA SPECTER"
+"[PH] TITANIA SPECTER"
 
 [/Lotus/Language/Enemies/ReplicantChroma]
 "CHROMA SPECTER"
@@ -13253,7 +13277,7 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "MARS"
 
 [/Lotus/Language/Fragments/Phobos1Desc]
-"A primitive and devout civilization was carved into the dust-filled canyons of Mars. These aging and severely eroded habitations miraculously remain intact, regardless of how much Grineer machinery has be fastened to it. Rusty metal and oil-soaked sand mark the territory of its new proprietors."
+"A primitive and devout civilization was carved into the dust-filled canyons of Mars. These aging and severely eroded habitations miraculously remain intact, regardless of how much Grineer machinery has been fastened to it. Rusty metal and oil-soaked sand mark the territory of its new proprietors."
 
 [/Lotus/Language/Fragments/Phobos1Flavor]
 "Phobos"
@@ -13423,7 +13447,7 @@ I suspect troop movements or worse. I will alert you the next time one of these 
 "Suspicious Shipments"
 
 [/Lotus/Language/G1Quests/AladVWeaponsStolen]
-"[Placeholder] Now your weapons are mine, fool! Mwa ha ha ha!"
+"[PH] Now your weapons are mine, fool! Mwa ha ha ha!"
 
 [/Lotus/Language/G1Quests/AnnounceRelayBody]
 "Visit relays on:
@@ -14484,22 +14508,22 @@ The Lotus"
 "Steal Grineer research."
 
 [/Lotus/Language/G1Quests/GrineerRaidMission1Desc]
-"[PLACEHOLDER] Shut down the Toxin Injectors"
+"[PH] Shut down the Toxin Injectors"
 
 [/Lotus/Language/G1Quests/GrineerRaidMission1Title]
-"[PLACEHOLDER] Law of Retribution - Stage 1"
+"[PH] Law of Retribution - Stage 1"
 
 [/Lotus/Language/G1Quests/GrineerRaidMission2Desc]
-"[PLACEHOLDER] Hijack the Fomorian Power Core"
+"[PH] Hijack the Fomorian Power Core"
 
 [/Lotus/Language/G1Quests/GrineerRaidMission2Title]
-"[PLACEHOLDER] Law of Retribution - Stage 2"
+"[PH] Law of Retribution - Stage 2"
 
 [/Lotus/Language/G1Quests/GrineerRaidMission3Desc]
-"[PLACEHOLDER] Find and destroy Vay Hek"
+"[PH] Find and destroy Vay Hek"
 
 [/Lotus/Language/G1Quests/GrineerRaidMission3Title]
-"[PLACEHOLDER] Law of Retribution - Stage 3"
+"[PH] Law of Retribution - Stage 3"
 
 [/Lotus/Language/G1Quests/GrineerSeaLabA]
 "Research Station Alpha"
@@ -14739,7 +14763,7 @@ The Infested are vulnerable to fire. I have sent a fire damage mod for you to in
 "We will use this to our advantage"
 
 [/Lotus/Language/G1Quests/IIQFoundCodex]
-"[Placeholder] 
+"[PH] 
 Rough notes for this entry. They were dormant until he found them. He thinks they could make excellent shock troops. Only problem is that he hasn’t found a good way to control them. Testing has resulted in many of these creatures being destroyed, fire works best. The Grineer have stock piled fire modifications explicitly for this purpose. These creatures are truly a thing of beauty, I am anxious to see them unleashed on the Tenno.”"
 
 [/Lotus/Language/G1Quests/IIQIntroMessageBody]
@@ -17992,6 +18016,9 @@ Arming: Turrets"
 [/Lotus/Language/Game/AttemptsLeft]
 "Attempts Left"
 
+[/Lotus/Language/Game/ATTRACT_RADIUS]
+"ATTRACT RADIUS"
+
 [/Lotus/Language/Game/AuraGrineerLancerRifle]
 "AURA LANCER"
 
@@ -18068,7 +18095,7 @@ Arming: Turrets"
 "CAPTURE"
 
 [/Lotus/Language/Game/CatbrowDesc]
-"[PLACEHOLDER] CATBROW Desc"
+"[PH] CATBROW Desc"
 
 [/Lotus/Language/Game/CatbrowName]
 "KAVAT"
@@ -18521,7 +18548,7 @@ Your Battle Cards are ready now... Go!"
 "ARC TRAP"
 
 [/Lotus/Language/Game/DestructibleObject_EmpTrap]
-"[PLACEHOLDER] EMP TRAP"
+"[PH] EMP TRAP"
 
 [/Lotus/Language/Game/DestructibleObject_Fan]
 "FAN"
@@ -18854,10 +18881,10 @@ Your Battle Cards are ready now... Go!"
 "Contains hazardous materials. Store in a cool, dry place. Do not expose to heat. Do not rupture the container."
 
 [/Lotus/Language/Game/ExtendedInfestedSyringeDesc]
-"[PLACEHOLDER] Syringe with 5m range"
+"[PH] Syringe with 5m range"
 
 [/Lotus/Language/Game/ExtendedInfestedSyringeName]
-"[PLACEHOLDER] EXTENDED INFESTED SYRINGE"
+"[PH] EXTENDED INFESTED SYRINGE"
 
 [/Lotus/Language/Game/ExterminateMissionFail]
 "Mission Failure Imminent. Eliminate Remaining Targets!"
@@ -19367,7 +19394,7 @@ Your Battle Cards are ready now... Go!"
 "GRINEER EXPLODING BARREL"
 
 [/Lotus/Language/Game/GrnFortressStandingGunName]
-"[PLACEHOLDER] IMPERIAL RAMPART"
+"[PH] IMPERIAL RAMPART"
 
 [/Lotus/Language/Game/GrnMegaExplodingBarrel]
 "LARGE GRINEER EXPLODING BARREL"
@@ -19404,6 +19431,9 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/HEALTH]
 "HEALTH"
+
+[/Lotus/Language/Game/HEALTH_DECAY_RATE]
+"HEALTH DECAY PER SECOND (%)"
 
 [/Lotus/Language/Game/HEALTH_MULTIPLIER]
 "HEALTH MULTIPLIER"
@@ -19667,10 +19697,10 @@ Your Battle Cards are ready now... Go!"
 "Carries Lightning Crawlers"
 
 [/Lotus/Language/Game/InfestedSpaceSuicideDrone]
-"[PLACEHOLDER] Suicide Mutalist"
+"[PH] Suicide Mutalist"
 
 [/Lotus/Language/Game/InfestedSpaceSuicideDroneDesc]
-"[PLACEHOLDER] Carries infested Purifiers"
+"[PH] Carries infested Purifiers"
 
 [/Lotus/Language/Game/InfestedSpaceToxicCarrier]
 "Mutalist Toxic Carrier"
@@ -20329,7 +20359,7 @@ A call echoes across the stars - as a menace approaches..."
 "NIGHTWATCH BOMBARD"
 
 [/Lotus/Language/Game/NightwatchFlamebladeDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Game/NightwatchFlamebladeName]
 "NIGHTWATCH FLAMEBLADE"
@@ -20344,7 +20374,7 @@ A call echoes across the stars - as a menace approaches..."
 "NIGHTWATCH LANCER"
 
 [/Lotus/Language/Game/NightwatchPowerClawDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Game/NightwatchPowerClawName]
 "NIGHTWATCH POWERCLAW"
@@ -20353,7 +20383,7 @@ A call echoes across the stars - as a menace approaches..."
 "NIGHTWATCH SEEKER"
 
 [/Lotus/Language/Game/NightwatchShieldLancerDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Game/NightwatchShieldLancerName]
 "NIGHTWATCH BRUNT LANCER"
@@ -20768,7 +20798,7 @@ A call echoes across the stars - as a menace approaches..."
 "Energy Surge!"
 
 [/Lotus/Language/Game/PVP_Event_RemainingPlayers]
-"[Placeholder] Remaining Players |COUNT|"
+"[PH] Remaining Players |COUNT|"
 
 [/Lotus/Language/Game/PVP_FlagCapturedXP]
 "Flag Captured!"
@@ -21280,6 +21310,9 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/ShadowRogueAcolyte]
 "SHADOW OF MANIA"
 
+[/Lotus/Language/Game/SHIELD_MULTIPLIER]
+"SHIELD MULTIPLIER"
+
 [/Lotus/Language/Game/SHIELD_RANGE]
 "SHIELD RANGE"
 
@@ -21530,13 +21563,13 @@ A call echoes across the stars - as a menace approaches..."
 "TESHIN SHADOW"
 
 [/Lotus/Language/Game/TeshinStealDisc]
-"[PLACEHOLDER] STEAL DISC"
+"[PH] STEAL DISC"
 
 [/Lotus/Language/Game/TimedDoor]
 "DECRYPTING LOCKING MECHANISM"
 
 [/Lotus/Language/Game/TnSentinelCross]
-"[PLACEHOLDER] STARTER PET"
+"[PH] STARTER PET"
 
 [/Lotus/Language/Game/TORNADOES]
 "TORNADOES"
@@ -22571,10 +22604,10 @@ We do not enforce trades for promises, clan membership, and other favors. Trade 
 "Absorb"
 
 [/Lotus/Language/Items/AbsorbAbilityAugmentDesc]
-"[PLACEHOLDER] Absorb Augment - Nyx can move at |SPEED|% speed while using Absorb, but the bubble is |SIZE|% its original size."
+"[PH] Absorb Augment - Nyx can move at |SPEED|% speed while using Absorb, but the bubble is half its original size."
 
 [/Lotus/Language/Items/AbsorbAbilityAugmentName]
-"[PLACEHOLDER] ABSORB AUGMENT"
+"[PH] ABSORB AUGMENT"
 
 [/Lotus/Language/Items/AbsorbAbilityAugmentPvPDesc]
 "Absorb Augment - Creates a ring every 3 seconds that drags in enemies at |PULL_STR| meters per second."
@@ -22999,10 +23032,10 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "ARCATA RIV SKIN"
 
 [/Lotus/Language/Items/ArcataSugatra]
-"[PLACEHOLDER] LUNARO SUGATRA"
+"[PH] LUNARO SUGATRA"
 
 [/Lotus/Language/Items/ArcataSugatraDesc]
-"[PLACEHOLDER] The traditional sugatra for Lunaro for generations."
+"[PH] The traditional sugatra for Lunaro for generations."
 
 [/Lotus/Language/Items/ArcDroneDesc]
 "Diriga shocks nearby enemies, and picks off distant threats, utilizing the Vulklok sniper rifle and the 'Calculated Shot', 'Arc Coil' and 'Electro Pulse' precepts.
@@ -23110,10 +23143,10 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "ARCHWING"
 
 [/Lotus/Language/Items/ArchwingElectEventMeleeMod]
-"[Placeholder] FOMORIAN EVENT MOD - MELEE"
+"[PH] FOMORIAN EVENT MOD - MELEE"
 
 [/Lotus/Language/Items/ArchwingElectEventRifleMod]
-"[Placeholder] FOMORIAN EVENT MOD - RIFLE"
+"[PH] FOMORIAN EVENT MOD - RIFLE"
 
 [/Lotus/Language/Items/ArchwingFireEventMeleeMod]
 "Searing Steel"
@@ -23176,7 +23209,7 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Automatic Trigger"
 
 [/Lotus/Language/Items/ArchwingRiflePunctureMod]
-"[Placeholder] Spinal Tap"
+"[PH] Spinal Tap"
 
 [/Lotus/Language/Items/ArchwingRifleRangeMod]
 "Ballista Measure"
@@ -23365,10 +23398,10 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Avalanche"
 
 [/Lotus/Language/Items/AvalancheAbilityAugment1]
-"[Placeholder] AVALANCHE AUGMENT"
+"[PH] AVALANCHE AUGMENT"
 
 [/Lotus/Language/Items/AvalancheAbilityAugment1Desc]
-"[Placeholder] Avalanche Augment - Grants allies within the radius a coat of ice that absorbs |ABSORB| damage."
+"[PH] Avalanche Augment - Grants allies within the radius a coat of ice that absorbs |ABSORB| damage."
 
 [/Lotus/Language/Items/AvalancheAbilityBoost]
 "Increase the range of your Avalanche."
@@ -24838,16 +24871,16 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "THE STALKER PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTitaniaAltBrightDesc]
-"[PLACEHOLDER] A profile icon depicting Titania Alt on a bright background."
+"[PH] A profile icon depicting Titania Alt on a bright background."
 
 [/Lotus/Language/Items/AvatarTitaniaAltBrightName]
-"[PLACEHOLDER] Titania Alt Profile Icon"
+"[PH] Titania Alt Profile Icon"
 
 [/Lotus/Language/Items/AvatarTitaniaAltDarkDesc]
-"[PLACEHOLDER] A profile icon depicting Titania Alt on a dark background."
+"[PH] A profile icon depicting Titania Alt on a dark background."
 
 [/Lotus/Language/Items/AvatarTitaniaAltDarkName]
-"[PLACEHOLDER] Titania Alt Profile Icon"
+"[PH] Titania Alt Profile Icon"
 
 [/Lotus/Language/Items/AvatarTitaniaBrightDesc]
 "A profile icon depicting Titania on a bright background."
@@ -25233,6 +25266,12 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 [/Lotus/Language/Items/BaroArrowName]
 "KI'TEER ARROW SKIN"
 
+[/Lotus/Language/Items/BaroBadgeDesc]
+"Stand apart from the crowd with this Ki'Teer original."
+
+[/Lotus/Language/Items/BaroBadgeName]
+"KI'TEER SEKHARA"
+
 [/Lotus/Language/Items/BaroCapeDesc]
 "Walk the cutting edge of fashion with this exclusive Ki'Teer original."
 
@@ -25258,13 +25297,13 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "KI'TEER SENTINEL WINGS"
 
 [/Lotus/Language/Items/BasicColourPickerAbbrev]
-"[Placeholder] BAS"
+"[PH] BAS"
 
 [/Lotus/Language/Items/BasicColourPickerDescription]
-"[Placeholder] Basic Colours"
+"[PH] Basic Colours"
 
 [/Lotus/Language/Items/BasicColourPickerName]
-"[Placeholder] Basic Colours"
+"[PH] Basic Colours"
 
 [/Lotus/Language/Items/BasicResourceDrone]
 "TITAN EXTRACTOR"
@@ -25388,8 +25427,8 @@ This bundle of 1 Mutagen Sample can be used for crafting items in your Foundry."
 "ORTHOS PHASED SKIN"
 
 [/Lotus/Language/Items/BlankTraitPrintDesc]
-"Copies the dominant genes of a Kubrow onto the template. 
-This can then be used to increase the chances that traits from the original Kubrow will carry across to a newborn clone."
+"Copies the dominant genes of a pet onto the template. 
+This can then be used to increase the chances that traits from the original pet will carry across to a newborn clone."
 
 [/Lotus/Language/Items/BlankTraitPrintName]
 "GENETIC CODE TEMPLATE"
@@ -25403,10 +25442,10 @@ Blueprint is reusable and will not be consumed."
 "Blessing"
 
 [/Lotus/Language/Items/BlessingAbilityAugment1]
-"[PLACEHOLDER] BLESSING AUGMENT"
+"[PH] BLESSING AUGMENT"
 
 [/Lotus/Language/Items/BlessingAbilityAugment1Desc]
-"[PLACEHOLDER] Blessing - Allies will gain a |DAMAGE|% damage boost, a |PARKOUR|% Bullet Jump boost, and |KNOCKDOWN|% knockdown resistance."
+"[PH] Blessing - Allies will gain a |DAMAGE|% damage boost, a |PARKOUR|% Bullet Jump boost, and |KNOCKDOWN|% knockdown resistance."
 
 [/Lotus/Language/Items/BlessingAbilityBoost]
 "Boosting this ability increases the duration of the invulnerability."
@@ -25448,10 +25487,10 @@ Blueprint is reusable and will not be consumed."
 "SCIMITAR MAGUS SKIN"
 
 [/Lotus/Language/Items/BlueSkySkinGrineerQueensDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/BlueSkySkinGrineerQueensName]
-"[Placeholder] SCIMITAR QUEENS SKIN"
+"[PH] SCIMITAR QUEENS SKIN"
 
 [/Lotus/Language/Items/BlueSkySkinPrimeTraderDesc]
 "A unique skin for the Scimitar landing craft."
@@ -25484,10 +25523,10 @@ Blueprint is reusable and will not be consumed."
 "BOAR PRIME"
 
 [/Lotus/Language/Items/BobbleheadVorDesc]
-"[Placeholder] Remember Vor? He's back, in bobblehead form"
+"[PH] Remember Vor? He's back, in bobblehead form"
 
 [/Lotus/Language/Items/BobbleheadVorName]
-"[Placeholder] Vor Bobblehead"
+"[PH] Vor Bobblehead"
 
 [/Lotus/Language/Items/BoltonfaDesc]
 "An intimidating Tonfa set designed to match the briary design of the Boltor."
@@ -25679,10 +25718,10 @@ Blueprint is reusable and will not be consumed."
 "The Noble Animation Set for Atlas."
 
 [/Lotus/Language/Items/BrawlerPunchAbilityAugmentDesc]
-"[Placeholder] Landslide Augment - Leave behind a trail for |TRAIL_DURATION|s, petrifying enemies that touch it for |STONE_DURATION|s at a rate of |STONE_RATE|%/s."
+"[PH] Landslide Augment - Leave behind a trail for |TRAIL_DURATION|s, petrifying enemies that touch it for |STONE_DURATION|s at a rate of |STONE_RATE|%/s."
 
 [/Lotus/Language/Items/BrawlerPunchAbilityAugmentName]
-"[Placeholder] LANDSLIDE AUGMENT"
+"[PH] LANDSLIDE AUGMENT"
 
 [/Lotus/Language/Items/BrawlerPunchAbilityDesc]
 "Bash enemies with an explosive sliding punch, repeat for a devastating combo."
@@ -25729,10 +25768,10 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 "Magnetize"
 
 [/Lotus/Language/Items/BulletAttractorAbilityAugmentDesc]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Items/BulletAttractorAbilityAugmentName]
-"[Placeholder] MAGNETIZE AUGMENT"
+"[PH] MAGNETIZE AUGMENT"
 
 [/Lotus/Language/Items/BulletAttractorAbilityBoost]
 "Boosting this ability increases the area of the magnetic field."
@@ -25792,10 +25831,10 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 "Tempest Barrage"
 
 [/Lotus/Language/Items/CannonBarrageAbilityAugmentDesc]
-"[Placeholder] Tempest Barrage Augment - Each projectile has a |CHANCE|% chance of inflicting a corrosive proc."
+"[PH] Tempest Barrage Augment - Each projectile has a |CHANCE|% chance of inflicting a corrosive proc."
 
 [/Lotus/Language/Items/CannonBarrageAbilityAugmentName]
-"[Placeholder] TEMPEST BARRAGE AUGMENT"
+"[PH] TEMPEST BARRAGE AUGMENT"
 
 [/Lotus/Language/Items/CapsuleTail]
 "CAPSULE SENTINEL TAIL"
@@ -25821,7 +25860,7 @@ Note: This item requires two open slots."
 "CARRIER"
 
 [/Lotus/Language/Items/CarryAbilityDesc]
-"[Placeholder] Merge with a friend or foe for a duration of time"
+"[PH] Merge with a friend or foe for a duration of time"
 
 [/Lotus/Language/Items/CarryAbilityName]
 "Void Carry"
@@ -25836,7 +25875,7 @@ Note: This item requires two open slots."
 "Decorative armor fitted for a Kavat."
 
 [/Lotus/Language/Items/CatbrowArmorGrnQueenName]
-"[Placeholder] CatbrowGrnQueen"
+"[PH] CatbrowGrnQueen"
 
 [/Lotus/Language/Items/CatbrowCatsEyePreceptDesc]
 "Adarza Kavat grants increased critical chance to all nearby Tenno for a short duration."
@@ -25863,7 +25902,7 @@ Note: This item requires two open slots."
 "Contains the genetic code sequence of a Kavat."
 
 [/Lotus/Language/Items/CatbrowHoardPreceptDesc]
-"[Placeholder] The kavat sniffs out loot hidden in crates and dropped by enemies, retrieving these items for its master."
+"[PH] The kavat sniffs out loot hidden in crates and dropped by enemies, retrieving these items for its master."
 
 [/Lotus/Language/Items/CatbrowHoardPreceptName]
 "Hoard"
@@ -26116,7 +26155,7 @@ Blueprint is reusable and will not be consumed."
 This bundle of 1500 Circuits can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/ClanCreatorStoreItemDesc]
-"[Placeholder] Clan Creator Description"
+"[PH] Clan Creator Description"
 
 [/Lotus/Language/Items/ClanCreatorStoreItemName]
 "Clan Creator"
@@ -26204,17 +26243,17 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/ClemBallDesc]
 "Deploys a clone of Clem to fight for you."
 
-[/Lotus/Language/Items/CloneTheDeadAbilityAugmentDesc]
-"Shadows of the Dead Augment - Shadows within |RANGE| meters each take |LINK_PCT|% of the damage done to Nekros in his stead."
+[/Lotus/Language/Items/CloneTheDeadAbility]
+"Shadows of the Dead"
 
-[/Lotus/Language/Items/CloneTheDeadAbilityAugmentName]
+[/Lotus/Language/Items/CloneTheDeadAbilityAugment1]
 "Shield of Shadows"
+
+[/Lotus/Language/Items/CloneTheDeadAbilityAugment1Desc]
+"Shadows of the Dead Augment - Shadows within |RANGE| meters each take |LINK_PCT|% of the damage done to Nekros in his stead."
 
 [/Lotus/Language/Items/CloneTheDeadAbilityDesc]
 "Summon shadow versions of vanquished enemies to fight alongside you for a short period."
-
-[/Lotus/Language/Items/CloneTheDeadAbilityName]
-"Shadows of the Dead"
 
 [/Lotus/Language/Items/ColorPackBDesc]
 "A fine selection of color palettes."
@@ -26441,13 +26480,13 @@ Unlocks additional color options for Warframe customization."
 One Fusion Core has a chance to be Rare."
 
 [/Lotus/Language/Items/CommonPaidAAbbrev]
-"[Placeholder] COM"
+"[PH] COM"
 
 [/Lotus/Language/Items/CommonPaidADescription]
-"[Placeholder] Common Paid"
+"[PH] Common Paid"
 
 [/Lotus/Language/Items/CommonPaidAName]
-"[Placeholder] Common Paid"
+"[PH] Common Paid"
 
 [/Lotus/Language/Items/CommonUpgradePack]
 "HAWK MOD PACK"
@@ -27362,7 +27401,7 @@ In the Simulacrum you can face mimeographs of enemies you have fully researched 
 "EXCALIBUR UMBRA"
 
 [/Lotus/Language/Items/DarkSwordDaggerDesc]
-"[Placeholder] Dark Sword Dagger desc"
+"[PH] Dark Sword Dagger desc"
 
 [/Lotus/Language/Items/DarkSwordDaggerHybridDesc]
 "Use as a devastating heavy sword or apply a Dual Melee stance and split the weapon into two ferocious blades."
@@ -27371,7 +27410,7 @@ In the Simulacrum you can face mimeographs of enemies you have fully researched 
 "DARK SPLIT-SWORD"
 
 [/Lotus/Language/Items/DarkSwordDaggerName]
-"[Placeholder] Dark Sword Dagger name"
+"[PH] Dark Sword Dagger name"
 
 [/Lotus/Language/Items/DarkSwordDesc]
 "A blade forged using dark metals, capable of delivering innate Radiation damage with attacks."
@@ -27518,10 +27557,10 @@ Blueprint is reusable and will not be consumed."
 "Decoy"
 
 [/Lotus/Language/Items/DecoyAbilityAugment1]
-"[Placeholder] DECOY AUGMENT"
+"[PH] DECOY AUGMENT"
 
 [/Lotus/Language/Items/DecoyAbilityAugment1Desc]
-"[Placeholder] Decoy Augment - When Loki takes fatal damage, Decoy swaps locations and absorbs the damage instead. Loki becomes invulnerable for |DURATION|s."
+"[PH] Decoy Augment - When Loki takes fatal damage, Decoy swaps locations and absorbs the damage instead. Loki becomes invulnerable for |DURATION|s."
 
 [/Lotus/Language/Items/DecoyAbilityAugmentPvPDesc]
 "Decoy Augment - |LINK_PCT|% of damage Loki takes is transferred to Decoy, and vice versa."
@@ -28381,31 +28420,31 @@ Blueprint is reusable and will not be consumed."
 "The Agile Animation Set for Titania."
 
 [/Lotus/Language/Items/FairyAltHelmetDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/FairyAltHelmetName]
-"[PLACEHOLDER] TITANIA ALT HELMET"
+"[PH] TITANIA ALT HELMET"
 
 [/Lotus/Language/Items/FairyDesc]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Items/FairyDustAbility]
-"[Placeholder] Dust"
+"[PH] Dust"
 
 [/Lotus/Language/Items/FairyDustAbilityDesc]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Items/FairyFlightAbility]
-"[Placeholder] Flight"
+"[PH] Flight"
 
 [/Lotus/Language/Items/FairyFlightAbilityDesc]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Items/FairyLightAbility]
-"[Placeholder] Light"
+"[PH] Light"
 
 [/Lotus/Language/Items/FairyLightAbilityDesc]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Items/FairyName]
 "TITANIA"
@@ -28417,10 +28456,10 @@ Blueprint is reusable and will not be consumed."
 "The Noble Animation Set for Titania."
 
 [/Lotus/Language/Items/FairySoulAbility]
-"[Placeholder] Soul"
+"[PH] Soul"
 
 [/Lotus/Language/Items/FairySoulAbilityDesc]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Items/FalseProfitAccessoriesDesc]
 "A sigil and an emblem commemorating the Tenno's victory over Nef Anyo."
@@ -28652,10 +28691,10 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 "TONBO"
 
 [/Lotus/Language/Items/FomorianNegatorBetaDesc]
-"[Placeholder] Use this to destroy Beta MacGuffins."
+"[PH] Use this to destroy Beta MacGuffins."
 
 [/Lotus/Language/Items/FomorianNegatorBetaName]
-"[Placeholder] FOMORIAN NEGATOR BETA"
+"[PH] FOMORIAN NEGATOR BETA"
 
 [/Lotus/Language/Items/FomorianNegatorDesc]
 "When activated, it disrupts a Fomorian core's Omega energy field, making it vulnerable. Also shields Tenno from Omega radiation."
@@ -28823,13 +28862,13 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 "GRAND MASTER SIGIL"
 
 [/Lotus/Language/Items/FreeColourPickerAbbrev]
-"[Placeholder] FREE"
+"[PH] FREE"
 
 [/Lotus/Language/Items/FreeColourPickerDescription]
-"[Placeholder] Free Colours"
+"[PH] Free Colours"
 
 [/Lotus/Language/Items/FreeColourPickerName]
-"[Placeholder] Free Colours"
+"[PH] Free Colours"
 
 [/Lotus/Language/Items/FreezeAbility]
 "Freeze"
@@ -28850,10 +28889,10 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 "ARCANE WARMTH"
 
 [/Lotus/Language/Items/FrogLancerDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/FrogLancerName]
-"[Placeholder] AQUA LANCER"
+"[PH] AQUA LANCER"
 
 [/Lotus/Language/Items/FrostAgileAnims]
 "FROST AGILE ANIMATION SET"
@@ -29168,10 +29207,10 @@ This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve pro
 "Prism"
 
 [/Lotus/Language/Items/GrandFinaleAbilityAugmentDesc]
-"[PLACEHOLDER] Prism Augment - Prism has a |CHANCE|% chance to cause a random elemental status effect on every hit."
+"[PH] Prism Augment - Prism has a |CHANCE|% chance to cause a random elemental status effect on every hit."
 
 [/Lotus/Language/Items/GrandFinaleAbilityAugmentName]
-"[PLACEHOLDER] PRISM AUGMENT"
+"[PH] PRISM AUGMENT"
 
 [/Lotus/Language/Items/GrandFinaleAbilityAugmentPvPDesc]
 "Prism Augment - Prism follows above Mirage for |DURATION| seconds."
@@ -29519,10 +29558,10 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 "HALIKAR"
 
 [/Lotus/Language/Items/GrnCannonDesc]
-"[Placeholder] Grineer Cannon Desc"
+"[PH] Grineer Cannon Desc"
 
 [/Lotus/Language/Items/GrnCannonName]
-"[Placeholder] Grineer Cannon"
+"[PH] Grineer Cannon"
 
 [/Lotus/Language/Items/GrnClawsDesc]
 "Motorized saw fists."
@@ -29549,10 +29588,10 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 "TONKOR"
 
 [/Lotus/Language/Items/GrnHalberdDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/GrnHalberdName]
-"[Placeholder] GRINEER HALBERD"
+"[PH] GRINEER HALBERD"
 
 [/Lotus/Language/Items/GrnHarpoonGunDesc]
 "Spike enemies to the wall or reel them in with this automatic harpoon gun."
@@ -29567,10 +29606,10 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 "ATOMOS"
 
 [/Lotus/Language/Items/GrnHoodedCapeDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/GrnHoodedCapeName]
-"[Placeholder] GRINEER HOOD"
+"[PH] GRINEER HOOD"
 
 [/Lotus/Language/Items/GrnMeleeDangleDesc]
 "Only Grineer who have proven their strength in combat can brandish these."
@@ -29579,34 +29618,34 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 "CAGGRO SUGATRA"
 
 [/Lotus/Language/Items/GrnQueenGuardDualPistolsDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/GrnQueenGuardDualPistolsName]
-"[Placeholder] GrnQueenGuardDualPistols"
+"[PH] GrnQueenGuardDualPistols"
 
 [/Lotus/Language/Items/GrnQueensArmorArmsDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/GrnQueensArmorArmsName]
-"[Placeholder] GRNQUEENS ARMS"
+"[PH] GRNQUEENS ARMS"
 
 [/Lotus/Language/Items/GrnQueensArmorChestDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/GrnQueensArmorChestName]
-"[Placeholder] GRNQUEENS CHEST"
+"[PH] GRNQUEENS CHEST"
 
 [/Lotus/Language/Items/GrnQueensArmorLegsDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/GrnQueensArmorLegsName]
-"[Placeholder] GRNQUEENS LEGS"
+"[PH] GRNQUEENS LEGS"
 
 [/Lotus/Language/Items/GrnQueensMeleeDangleDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/GrnQueensMeleeDangleName]
-"[Placeholder] QUEENS MELEE DANGLE"
+"[PH] QUEENS MELEE DANGLE"
 
 [/Lotus/Language/Items/GrnSeaLabEventBadgeDesc]
 "An emblem awarded the Tenno who fought to destroy Tyl Regor's cloning labs."
@@ -29774,10 +29813,10 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 "Featuring Sentry Gun air-support, this stylish landing craft is an asset in any battle."
 
 [/Lotus/Language/Items/GyroscopeShipGrineerQueensDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/GyroscopeShipGrineerQueensName]
-"[Placeholder] XIPHOS QUEENS SKIN"
+"[PH] XIPHOS QUEENS SKIN"
 
 [/Lotus/Language/Items/GyroscopeShipName]
 "XIPHOS"
@@ -30283,13 +30322,13 @@ Blueprint is reusable and will not be consumed."
 "FESTIVE IMPERATOR SYANDANA"
 
 [/Lotus/Language/Items/Holster_BowUpperBack]
-"[Placeholder] Upper Back"
+"[PH] Upper Back"
 
 [/Lotus/Language/Items/Holster_PistolHips]
-"[Placeholder] Hips"
+"[PH] Hips"
 
 [/Lotus/Language/Items/Holster_RifleUpperBack]
-"[Placeholder] Upper Back"
+"[PH] Upper Back"
 
 [/Lotus/Language/Items/HolsterSeriesOnePackDesc]
 "A collection of alternate styles for holstering and drawing a range of melee weapons."
@@ -30682,10 +30721,10 @@ Blueprint is reusable and will not be consumed."
 "MANTIS GLOAM SKIN"
 
 [/Lotus/Language/Items/InsectShipSkinGrineerQueensDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/InsectShipSkinGrineerQueensName]
-"[Placeholder] MANTIS QUEENS SKIN"
+"[PH] MANTIS QUEENS SKIN"
 
 [/Lotus/Language/Items/InsectShipSkinNautilusDesc]
 "A unique skin for the Mantis landing craft."
@@ -30754,16 +30793,16 @@ Blueprint is reusable and will not be consumed."
 "Rhino hardens his skin, insulating himself from all damage."
 
 [/Lotus/Language/Items/ItemCodexScannerStoreItemDesc]
-"[Placeholder] Scans environment desc"
+"[PH] Scans environment desc"
 
 [/Lotus/Language/Items/ItemCodexScannerStoreItemName]
-"[Placeholder] Scans environment"
+"[PH] Scans environment"
 
 [/Lotus/Language/Items/ItemThrowGlaiveStoreItemDesc]
-"[Placeholder] Throws glaives"
+"[PH] Throws glaives"
 
 [/Lotus/Language/Items/ItemThrowGlaiveStoreItemName]
-"[Placeholder] Throw Glaive desc"
+"[PH] Throw Glaive desc"
 
 [/Lotus/Language/Items/ItemVacuumStoreItemDesc]
 "Detects and collects items throughout the room for its master, including mods."
@@ -31143,7 +31182,7 @@ Requires: Installed KAVAT INCUBATOR UPGRADE SEGMENT"
 "Stalk"
 
 [/Lotus/Language/Items/KubrowColdMeleeMod]
-"[Placeholder] cold damage"
+"[PH] cold damage"
 
 [/Lotus/Language/Items/KubrowCollarDesc]
 "A common adornment used to distinguish a Kubrow that is loyal to its master."
@@ -31383,7 +31422,7 @@ Requires: Installed KAVAT INCUBATOR UPGRADE SEGMENT"
 "KUBROW EGG"
 
 [/Lotus/Language/Items/KubrowElectricMeleeMod]
-"[Placeholder] electric damage"
+"[PH] electric damage"
 
 [/Lotus/Language/Items/KubrowFearPreceptDesc]
 "The kubrow cries out with a blood-curdling howl that strikes fear into its foes."
@@ -31404,7 +31443,7 @@ Requires: Installed KAVAT INCUBATOR UPGRADE SEGMENT"
 "Savagery"
 
 [/Lotus/Language/Items/KubrowFireMeleeMod]
-"[Placeholder] fire damage"
+"[PH] fire damage"
 
 [/Lotus/Language/Items/KubrowHealthLinkModName]
 "Link Health"
@@ -31566,7 +31605,7 @@ Requires: Installed KAVAT INCUBATOR UPGRADE SEGMENT"
 "CRIMSON NOSE PATTERN"
 
 [/Lotus/Language/Items/KubrowPoisonMeleeMod]
-"[Placeholder] poison damage"
+"[PH] poison damage"
 
 [/Lotus/Language/Items/KubrowSanctuaryStoreItemName]
 "Shelter"
@@ -31673,10 +31712,10 @@ Requires: Installed INCUBATOR SEGMENT"
 "Hysteria"
 
 [/Lotus/Language/Items/LastStandAbilityAugmentDesc]
-"[PLACEHOLDER] Hysteria Augment - Alt fire to teleport to enemies up to |RANGE| meters away."
+"[PH] Hysteria Augment - Alt fire to teleport to enemies up to |RANGE| meters away."
 
 [/Lotus/Language/Items/LastStandAbilityAugmentName]
-"[PLACEHOLDER] HYSTERIA AUGMENT"
+"[PH] HYSTERIA AUGMENT"
 
 [/Lotus/Language/Items/LastStandAbilityAugmentPvPDesc]
 "Hysteria Augment - While Hysteria is active, each kill restores |SHIELD_PCT|% max shields."
@@ -31888,13 +31927,13 @@ This skin requires a Nikana or a Dragon Nikana to use."
 "CARPET BOMB"
 
 [/Lotus/Language/Items/LisetBaseHullDesc]
-"[Placeholder] Base Liset hull."
+"[PH] Base Liset hull."
 
 [/Lotus/Language/Items/LisetBaseHullName]
 "BASE LISET"
 
 [/Lotus/Language/Items/LisetInsectHullDesc]
-"[Placeholder] Insect Liset hull."
+"[PH] Insect Liset hull."
 
 [/Lotus/Language/Items/LisetInsectHullName]
 "INSECT"
@@ -31930,10 +31969,10 @@ This skin requires a Nikana or a Dragon Nikana to use."
 "LISET ZIKHA SKIN"
 
 [/Lotus/Language/Items/LisetSkinGrineerQueensDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/LisetSkinGrineerQueensName]
-"[Placeholder] LISET QUEENS SKIN"
+"[PH] LISET QUEENS SKIN"
 
 [/Lotus/Language/Items/LisetSkinJadeDesc]
 "A customized exterior for your Liset."
@@ -32167,10 +32206,10 @@ This skin requires a Nikana or a Dragon Nikana to use."
 "Depending on Chroma's elemental alignment, an offensive area-of-effect is created. Chroma and its nearby allies are imbued with defensive energy."
 
 [/Lotus/Language/Items/LunaroArenaPennantA]
-"[PLACEHOLDER] PENNANT A"
+"[PH] PENNANT A"
 
 [/Lotus/Language/Items/LunaroArenaPennantB]
-"[PLACEHOLDER] PENNANT B"
+"[PH] PENNANT B"
 
 [/Lotus/Language/Items/LunaroArmorCPackDesc]
 "This ornate set of guards was worn by ancient Lunaro champions."
@@ -32221,7 +32260,7 @@ This skin requires a Nikana or a Dragon Nikana to use."
 "Extracted from a Lunar Pitcher."
 
 [/Lotus/Language/Items/LureAbilityDesc]
-"[Placeholder] Place a lure to distract enemies, explodes upon taking enough damage"
+"[PH] Place a lure to distract enemies, explodes upon taking enough damage"
 
 [/Lotus/Language/Items/LureAbilityName]
 "Void Lure"
@@ -32678,10 +32717,10 @@ Pack Includes:
 "Cloud Walker"
 
 [/Lotus/Language/Items/MonkeyCloudAbilityAugmentDesc]
-"[Placeholder] Cloud Walker Augment - Allies within |RANGE|m of the cloud become invisible to enemies."
+"[PH] Cloud Walker Augment - Allies within |RANGE|m of the cloud become invisible to enemies."
 
 [/Lotus/Language/Items/MonkeyCloudAbilityAugmentName]
-"[Placeholder] CLOUD WALKER AUGMENT"
+"[PH] CLOUD WALKER AUGMENT"
 
 [/Lotus/Language/Items/MonkeyCloudAbilityDesc]
 "Evaporate into a cloud of mist and float through the battlefield."
@@ -32690,10 +32729,10 @@ Pack Includes:
 "Defy"
 
 [/Lotus/Language/Items/MonkeyDeathAbilityAugmentDesc]
-"[Placeholder] Defy Augment - While invulnerable, Wukong aggros nearby enemies. When the invulnerability ends, he blinds enemies within |RANGE|m for |DURATION|s."
+"[PH] Defy Augment - While invulnerable, Wukong aggros nearby enemies. When the invulnerability ends, he blinds enemies within |RANGE|m for |DURATION|s."
 
 [/Lotus/Language/Items/MonkeyDeathAbilityAugmentName]
-"[Placeholder] DEFY AUGMENT"
+"[PH] DEFY AUGMENT"
 
 [/Lotus/Language/Items/MonkeyDeathAbilityDesc]
 "Escape death by receiving a boost of health when killed."
@@ -32802,7 +32841,7 @@ This bundle of 1 Morphic can be used for crafting items in your Foundry."
 "MUTALIST INCURSIONS EMBLEM"
 
 [/Lotus/Language/Items/MysteryBox]
-"[Placeholder] |ENEMY| Mystery Box"
+"[PH] |ENEMY| Mystery Box"
 
 [/Lotus/Language/Items/MysticFusionPart]
 "Mystic Core"
@@ -33009,10 +33048,10 @@ This bundle of 1 Neurode can be used for crafting items in your Foundry."
 "Blazing Chakram"
 
 [/Lotus/Language/Items/NezhaRingAbilityAugmentDesc]
-"[PLACEHOLDER] Blazing Chakram - The chakram seeks out enemies within |ANGLE| degrees while doing |INCREASE|% more damage and healing per enemy hit."
+"[PH] Blazing Chakram - The chakram seeks out enemies within |ANGLE| degrees while doing |INCREASE|% more damage and healing per enemy hit."
 
 [/Lotus/Language/Items/NezhaRingAbilityAugmentName]
-"[PLACEHOLDER] BLAZING CHAKRAM AUGMENT"
+"[PH] BLAZING CHAKRAM AUGMENT"
 
 [/Lotus/Language/Items/NezhaRingAbilityDesc]
 "Hurl a flaming ring that burns enemies and causes them to emit a healing blast on death. Reactivate to instantly travel to the ring's location."
@@ -33021,10 +33060,10 @@ This bundle of 1 Neurode can be used for crafting items in your Foundry."
 "Warding Halo"
 
 [/Lotus/Language/Items/NezhaSashAbilityAugment1]
-"[PLACEHOLDER] WARDING HALO AUGMENT"
+"[PH] WARDING HALO AUGMENT"
 
 [/Lotus/Language/Items/NezhaSashAbilityAugment1Desc]
-"[PLACEHOLDER] Warding Halo - Warding Halo can now be cast on allied Tenno with |MULT|% effectiveness."
+"[PH] Warding Halo - Warding Halo can now be cast on allied Tenno with |MULT|% effectiveness."
 
 [/Lotus/Language/Items/NezhaSashAbilityAugmentPvPDesc]
 "Warding Halo Augment - |ENERGY_PCT|% of the casting cost returned based on how much protection is left."
@@ -33039,10 +33078,10 @@ This bundle of 1 Neurode can be used for crafting items in your Foundry."
 "Divine Spears"
 
 [/Lotus/Language/Items/NezhaSpearAbilityAugmentDesc]
-"[PLACEHOLDER] Divine Spears - Hurting impaled enemies will heal |PERCENT|% of the damage dealt up to |CAP| health."
+"[PH] Divine Spears - Hurting impaled enemies will heal |PERCENT|% of the damage dealt up to |CAP| health."
 
 [/Lotus/Language/Items/NezhaSpearAbilityAugmentName]
-"[PLACEHOLDER] DIVINE SPEARS AUGMENT"
+"[PH] DIVINE SPEARS AUGMENT"
 
 [/Lotus/Language/Items/NezhaSpearAbilityDesc]
 "Impale nearby enemies on spears that erupt from the ground."
@@ -33346,7 +33385,7 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 "Produced by a Fomorian’s power core, these particles only appear on or around planets where a Fomorian is present."
 
 [/Lotus/Language/Items/OmegaRifleMod]
-"[Placeholder] |RANK| <OMEGA>"
+"[PH] |RANK| <OMEGA>"
 
 [/Lotus/Language/Items/OperatorAttackAbilityName]
 "MADURAI"
@@ -33833,10 +33872,10 @@ This bundle of 1 Orokin Cell can be used for crafting items in your Foundry."
 "Accelerant"
 
 [/Lotus/Language/Items/OverheatAbilityAugment1]
-"[PLACEHOLDER] ACCELERANT AUGMENT"
+"[PH] ACCELERANT AUGMENT"
 
 [/Lotus/Language/Items/OverheatAbilityAugment1Desc]
-"[PLACEHOLDER] Accelerant Augment - Accelerant increases casting speed by |SPEED|% for allies within range."
+"[PH] Accelerant Augment - Accelerant increases casting speed by |SPEED|% for allies within range."
 
 [/Lotus/Language/Items/OverheatAbilityBoost]
 "Boosting this ability increases its duration and damage."
@@ -33978,7 +34017,7 @@ This bundle of 300 Oxium can be used for crafting items in your Foundry."
 "DARK SPLIT-SWORD DULUS SKIN"
 
 [/Lotus/Language/Items/PentaLoginRewardDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/PentaLoginRewardName]
 "CARMINE PENTA"
@@ -34163,10 +34202,10 @@ This bundle of 300 Oxium can be used for crafting items in your Foundry."
 "ARCANE VELOCITY"
 
 [/Lotus/Language/Items/PlaceholderDesc]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Items/PlaceholderName]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Items/PlasmaGrenadeBuilderDesc]
 "Builds plasma grenades."
@@ -34581,7 +34620,7 @@ This item may only be purchased once per account."
 "CARRIER PRIME"
 
 [/Lotus/Language/Items/PrimeDethCubeDesc]
-"[Placeholder]
+"[PH]
 With 'Swift Deth' and 'Vaporize' as default precepts, Dethcube acts exactly as advertised, as a badass cube of 'deth'. Comes loaded with Deth Machine Rifle weapon.
 
 Note: This item requires two open slots."
@@ -34590,7 +34629,7 @@ Note: This item requires two open slots."
 "DETHCUBE PRIME"
 
 [/Lotus/Language/Items/PrimeDjinnSentinelDesc]
-"[Placeholder]
+"[PH]
 With 'Thumper' and 'Fatal Attraction' as default Precepts, Djinn is a combat Sentinel. Djinn also comes with a poison dart weapon.
 Note: This item requires two open slots."
 
@@ -34664,7 +34703,7 @@ Note: This item requires two open slots."
 "Primed Reach"
 
 [/Lotus/Language/Items/PrimeMeleePetDesc]
-"[Placeholder]
+"[PH]
 With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the versatile Helios Sentinel acts as both a lethal guardian and an automatic codex scanner."
 
 [/Lotus/Language/Items/PrimeMeleePetName]
@@ -34707,7 +34746,7 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 "UNDA PRIME SENTINEL WINGS"
 
 [/Lotus/Language/Items/PrimeShadePowerSuitStoreItemDesc]
-"[Placeholder]
+"[PH]
 With 'Revenge' and 'Ghost' as default Precepts, Shade is well suited for stealth gameplay. Shade also comes with a burst laser pistol.
 
 Note: This item requires two open slots."
@@ -34803,10 +34842,10 @@ Note: This item requires two open slots."
 "PRISMA MECH HEAD SENTINEL MASK"
 
 [/Lotus/Language/Items/PrismaMeleeDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/PrismaMeleeName]
-"[Placeholder] PRISMA MELEE WEAPON"
+"[PH] PRISMA MELEE WEAPON"
 
 [/Lotus/Language/Items/PrismaSentinelAccessoriesDesc]
 "An ordinary Sentinel becomes extraordinary with striking prisma accessories."
@@ -35044,13 +35083,13 @@ Note: This item requires two open slots."
 "ARCANE DEFENSE"
 
 [/Lotus/Language/Items/PureColourAbbrev]
-"[Placeholder] PURE"
+"[PH] PURE"
 
 [/Lotus/Language/Items/PureColourDescription]
-"[Placeholder] Pure Colours"
+"[PH] Pure Colours"
 
 [/Lotus/Language/Items/PureColourName]
-"[Placeholder] Pure Colours"
+"[PH] Pure Colours"
 
 [/Lotus/Language/Items/PurpleAntitoxinBlueprintDesc]
 "Fuses the extracts from Moonlight Threshcones to create a mild antitoxin."
@@ -35281,10 +35320,10 @@ Note: This item requires two open slots."
 "IVARA LOXLEY HELMET"
 
 [/Lotus/Language/Items/RangerBowAbilityAugmentDesc]
-"[Placeholder] Artemis Bow Augment - Fires a single arrow that deals |DAMAGE_MULT|x damage, and knocks down enemies in a small radius."
+"[PH] Artemis Bow Augment - Fires a single arrow that deals |DAMAGE_MULT|x damage, and knocks down enemies in a small radius."
 
 [/Lotus/Language/Items/RangerBowAbilityAugmentName]
-"[Placeholder] ARTEMIS BOW AUGMENT"
+"[PH] ARTEMIS BOW AUGMENT"
 
 [/Lotus/Language/Items/RangerBowAbilityDesc]
 "Summon a mighty bow and unleash a volley of devastating arrows."
@@ -35293,10 +35332,10 @@ Note: This item requires two open slots."
 "Artemis Bow"
 
 [/Lotus/Language/Items/RangerControlAbilityAugmentDesc]
-"[PLACEHOLDER] Navigator Augment - Teleports Ivara to the projectile's position upon deactivation, but drains |DRAIN|% more energy while active."
+"[PH] Navigator Augment - Teleports Ivara to the projectile's position upon deactivation, but drains |DRAIN|% more energy while active."
 
 [/Lotus/Language/Items/RangerControlAbilityAugmentName]
-"[PLACEHOLDER] NAVIGATOR AUGMENT"
+"[PH] NAVIGATOR AUGMENT"
 
 [/Lotus/Language/Items/RangerControlAbilityDesc]
 "Assume control of a projectile and guide it to the target."
@@ -35329,10 +35368,10 @@ Note: This item requires two open slots."
 "Encumbered Arrow"
 
 [/Lotus/Language/Items/RangerQuiverAbilityAugmentDesc]
-"[PLACEHOLDER] Quiver Augment - Allies within |RADIUS|m of the arrow's impact point will regenerate |HEAL| health over |DURATION|s."
+"[PH] Quiver Augment - Allies within |RADIUS|m of the arrow's impact point will regenerate |HEAL| health over |DURATION|s."
 
 [/Lotus/Language/Items/RangerQuiverAbilityAugmentName]
-"[PLACEHOLDER] QUIVER AUGMENT"
+"[PH] QUIVER AUGMENT"
 
 [/Lotus/Language/Items/RangerQuiverAbilityAugmentPvPDesc]
 "Quiver Augment - Quiver fires three arrows and consumes |ENERGY| more energy."
@@ -35506,7 +35545,7 @@ Note: This item requires two open slots."
 "ZHUGE"
 
 [/Lotus/Language/Items/RepelAbilityDesc]
-"[Placeholder] Send nearby enemies flying"
+"[PH] Send nearby enemies flying"
 
 [/Lotus/Language/Items/RepelAbilityName]
 "Repel"
@@ -35578,7 +35617,7 @@ Note: This item requires two open slots."
 "CHESA KUBROW IMPRINT"
 
 [/Lotus/Language/Items/ReturnAbilityDesc]
-"[Placeholder] Enemies return to the position they were when the ability was cast after a delay"
+"[PH] Enemies return to the position they were when the ability was cast after a delay"
 
 [/Lotus/Language/Items/ReturnAbilityName]
 "Deja Vu"
@@ -35641,7 +35680,7 @@ Note: This item requires two open slots."
 "The standard issue helmet for the Rhino warframe."
 
 [/Lotus/Language/Items/RhinoDeluxeBundleDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/RhinoDeluxeBundleName]
 "PALATINE RHINO PACK"
@@ -35671,7 +35710,7 @@ Note: This item requires two open slots."
 "PALATINE SYANDANA"
 
 [/Lotus/Language/Items/RhinoDeluxeSigilDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/RhinoDeluxeSigilName]
 "PALATINE SIGIL"
@@ -35725,10 +35764,10 @@ Note: This item requires two open slots."
 "Rhino Stomp"
 
 [/Lotus/Language/Items/RhinoStompAbilityAugmentDesc]
-"[PLACEHOLDER] Rhino Stomp - Iron Skin is replenished by |AMOUNT| for each enemy affected."
+"[PH] Rhino Stomp - Iron Skin is replenished by |AMOUNT| for each enemy affected."
 
 [/Lotus/Language/Items/RhinoStompAbilityAugmentName]
-"[PLACEHOLDER] RHINO STOMP AUGMENT"
+"[PH] RHINO STOMP AUGMENT"
 
 [/Lotus/Language/Items/RhinoStompAbilityBoost]
 "Boosting this ability increases its area of effect and the damage dealt."
@@ -36078,10 +36117,10 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "Sandstorm"
 
 [/Lotus/Language/Items/SandmanStormAbilityAugmentDesc]
-"[PLACEHOLDER] Sandstorm Augment - The storm has a |CHANCE|% chance of inducing status effects based on the elemental properties of Inaros' melee weapon."
+"[PH] Sandstorm Augment - The storm has a |CHANCE|% chance of inducing status effects based on the elemental properties of Inaros' melee weapon."
 
 [/Lotus/Language/Items/SandmanStormAbilityAugmentName]
-"[PLACEHOLDER] SANDSTORM AUGMENT"
+"[PH] SANDSTORM AUGMENT"
 
 [/Lotus/Language/Items/SandmanStormAbilityDesc]
 "Become a whirling spiral of sand that sends enemies flying and devours those trapped in quicksand."
@@ -36156,10 +36195,10 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "POISONOUS ATTITUDE PACK"
 
 [/Lotus/Language/Items/SarynPrimeDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/SarynPrimeName]
-"[Placeholder] SARYN PRIME"
+"[PH] SARYN PRIME"
 
 [/Lotus/Language/Items/ScannerDesc]
 "Samples a target of interest for later analysis in your Codex (25 charges)."
@@ -36210,7 +36249,7 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "Lunging spirals and shattering combos."
 
 [/Lotus/Language/Items/SearchTheDeadAbilityAugmentDesc]
-"Desecrate Augment - No longer consumes energy, but consumes |HEALTH_AMMOUNT| health instead."
+"Desecrate Augment - No longer consumes energy, but consumes |HEALTH_AMOUNT| health per corpse instead."
 
 [/Lotus/Language/Items/SearchTheDeadAbilityAugmentName]
 "Despoil"
@@ -36315,10 +36354,10 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "KOI TAIL"
 
 [/Lotus/Language/Items/SentinelGlaiveWeaponDesc]
-"[Placeholder] Standard weapon for Helios Sentinel, throws glaives"
+"[PH] Standard weapon for Helios Sentinel, throws glaives"
 
 [/Lotus/Language/Items/SentinelGlaiveWeaponName]
-"[Placeholder] Glaive Weapon"
+"[PH] Glaive Weapon"
 
 [/Lotus/Language/Items/SentinelHealthRegenPreceptNightwatchModDesc]
 "restoring |healPct|% health over |duration|s"
@@ -36363,7 +36402,7 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "Calculated Redirection"
 
 [/Lotus/Language/Items/SentinelMoreTargets]
-"[Placeholder] More Glaives"
+"[PH] More Glaives"
 
 [/Lotus/Language/Items/SentinelShotgunDesc]
 "Standard issue weapon for Carrier Sentinel. Fires shotgun rounds."
@@ -36416,10 +36455,10 @@ Note: This item requires two open slots."
 "Electric Shield"
 
 [/Lotus/Language/Items/ShieldAbilityAugmentDesc]
-"[Placeholder] Electric Shield Augment - Electric Shield follows Volt, but is reduced in size and reduces movement speed by |SLOW_PCT|%."
+"[PH] Electric Shield Augment - Electric Shield follows Volt, but is reduced in size and reduces movement speed by |SLOW_PCT|%."
 
 [/Lotus/Language/Items/ShieldAbilityAugmentName]
-"[Placeholder] ELECTRIC SHIELD AUGMENT"
+"[PH] ELECTRIC SHIELD AUGMENT"
 
 [/Lotus/Language/Items/ShieldAbilityAugmentPvPDesc]
 "Electric Shield Augment - Allies that pass through have |SHIELD_INC| shields restored."
@@ -37366,7 +37405,7 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "SUMMUS PRIME SENTINEL WINGS"
 
 [/Lotus/Language/Items/SundialMeleeWeaponDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/SundialMeleeWeaponName]
 "ZENISTAR"
@@ -37423,10 +37462,10 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "Warding Grace"
 
 [/Lotus/Language/Items/SupportWardAugmentDesc]
-"[PLACEHOLDER] Any active status effects are applied to enemies within |val|m"
+"[PH] Any active status effects are applied to enemies within |val|m"
 
 [/Lotus/Language/Items/SupportWardAugmentName]
-"[PLACEHOLDER] Support Ward Augment"
+"[PH] Support Ward Augment"
 
 [/Lotus/Language/Items/SupremeSomaSetDesc]
 "This bundle features the Soma assault rifle, Dual Raza battle hachets and Aksomati pistols. Sharing a unique visual style, the weapons in this set will inspire awe in your allies and fear in your foes."
@@ -38133,7 +38172,7 @@ Blueprint is reusable and will not be consumed."
 "SOMA"
 
 [/Lotus/Language/Items/TennoBallStanceOne]
-"[Placeholder]Lunaro"
+"[PH]Lunaro"
 
 [/Lotus/Language/Items/TennoCapePackDesc]
 "Three colorful silken capes inspired by nature."
@@ -38285,16 +38324,16 @@ Blueprint is reusable and will not be consumed."
 "Terrify"
 
 [/Lotus/Language/Items/TeshinDiscWeaponDesc]
-"[Placeholder] Teshin's disc has mind altering abilities"
+"[PH] Teshin's disc has mind altering abilities"
 
 [/Lotus/Language/Items/TeshinDiscWeaponName]
-"[Placeholder] TESHIN DISC"
+"[PH] TESHIN DISC"
 
 [/Lotus/Language/Items/TeshinKatanaDesc]
-"[Placeholder] Teshin's Katana is super great"
+"[PH] Teshin's Katana is super great"
 
 [/Lotus/Language/Items/TeshinKatanaName]
-"[Placeholder] TESHIN KATANA"
+"[PH] TESHIN KATANA"
 
 [/Lotus/Language/Items/TestKeyShipyardsRetrieval]
 "TETHRA CIPHER"
@@ -38306,7 +38345,7 @@ Blueprint is reusable and will not be consumed."
 "Beta Recipe"
 
 [/Lotus/Language/Items/TestSolarRailDesc]
-"[Placeholder] Test Solar Rail description"
+"[PH] Test Solar Rail description"
 
 [/Lotus/Language/Items/TestSolarRailName]
 "Test Solar Rail"
@@ -38414,10 +38453,10 @@ Blueprint is reusable and will not be consumed."
 "KRONEN"
 
 [/Lotus/Language/Items/TnSentinelCrossDesc]
-"[Placeholder] Description"
+"[PH] Description"
 
 [/Lotus/Language/Items/TnSentinelCrossName]
-"[Placeholder] STARTER PET"
+"[PH] STARTER PET"
 
 [/Lotus/Language/Items/TnTAbility]
 "Bloomer"
@@ -38975,10 +39014,10 @@ Blueprint is reusable and will not be consumed."
 "This item lets you use VOLT's noble animation set with any warframe of your choosing."
 
 [/Lotus/Language/Items/UnnamedStance]
-"[Placeholder] UNNAMED STANCE"
+"[PH] UNNAMED STANCE"
 
 [/Lotus/Language/Items/UnnamedStanceDesc]
-"[Placeholder] This stance needs a name and description."
+"[PH] This stance needs a name and description."
 
 [/Lotus/Language/Items/Update10BundleFeaturedDescription]
 "Get Nekros and the deadliest weapons from Update 10, all in one place"
@@ -39129,10 +39168,10 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "AKVASTO PHASED SKIN"
 
 [/Lotus/Language/Items/VoidSkinPackDesc]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Items/VoidSkinPackName]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Items/VoidSkinTigrisDesc]
 "The Void's corrupting energy has scarred this weapon, leaving it permanently out of phase with conventional space."
@@ -39468,7 +39507,7 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "Intensify"
 
 [/Lotus/Language/Items/WarframeModAfterburner]
-"[Placeholder] AFTERBURNER"
+"[PH] AFTERBURNER"
 
 [/Lotus/Language/Items/WarframeModArmor]
 "Steel Fiber"
@@ -39636,7 +39675,7 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "Maglev"
 
 [/Lotus/Language/Items/WarframeModSpawnEnergyIncrease]
-"[Placeholder] PvP Spawn Energy++"
+"[PH] PvP Spawn Energy++"
 
 [/Lotus/Language/Items/WarframeModSprintSpeed]
 "Rush"
@@ -39827,7 +39866,7 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "TENNOGEN WEAPON SKIN BUNDLE"
 
 [/Lotus/Language/Items/WeaponUpgradePlaceholder]
-"[Placeholder] Missing Loc tag! Please create a loc tag for this upgrade in Items.loc"
+"[PH] Missing Loc tag! Please create a loc tag for this upgrade in Items.loc"
 
 [/Lotus/Language/Items/WellOfLifeAbility]
 "Well Of Life"
@@ -39979,10 +40018,10 @@ Note: This item requires two open slots."
 "Peaceful Provocation"
 
 [/Lotus/Language/Items/YinYangBurstAbilityAugmentDesc]
-"[Placeholder] Mend & Maim Augment - Mend damages enemy shields by |SHIELD_DRAIN|/s and restores ally shields by |SHIELD_REGEN|/s. Maim damages enemy health by |HEALTH_DRAIN|/s and regenerates ally health by |HEALTH_REGEN|/s."
+"[PH] Mend & Maim Augment - Mend damages enemy shields by |SHIELD_DRAIN|/s and restores ally shields by |SHIELD_REGEN|/s. Maim damages enemy health by |HEALTH_DRAIN|/s and regenerates ally health by |HEALTH_REGEN|/s."
 
 [/Lotus/Language/Items/YinYangBurstAbilityAugmentName]
-"[Placeholder] MEND & MAIM AUGMENT"
+"[PH] MEND & MAIM AUGMENT"
 
 [/Lotus/Language/Items/YinYangBurstDesc]
 "In Night Form, allies are healed with each nearby enemy killed. In Day Form, nearby enemies are bled and then subjected to a wave of slashing force."
@@ -41771,7 +41810,7 @@ The Market has been completely reworked from the ground up. Quickly navigate thr
 "Zeugma"
 
 [/Lotus/Language/LongGuns/PlaceholderName4]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Lore/AridFear]
 "ARID FEAR"
@@ -42891,7 +42930,7 @@ Darvo"
 "Justified Punishment"
 
 [/Lotus/Language/MeleeWeapons/PlaceholderName3]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Menu/Ability_Locked]
 "|SUIT| RANK |X| REQUIRED"
@@ -44165,6 +44204,9 @@ A Solar Rail is required in order to travel here."
 
 [/Lotus/Language/Menu/Codex_Objects]
 "OBJECTS"
+
+[/Lotus/Language/Menu/Codex_PrimeVault]
+"This Relic is currently in the Prime Vault."
 
 [/Lotus/Language/Menu/Codex_Projections]
 "RELICS"
@@ -47141,7 +47183,7 @@ Scales with Mastery Rank"
 "APPLY FUSION FOR |COST|<CREDITS>"
 
 [/Lotus/Language/Menu/FusionAmountFusex]
-""
+"APPLY FUSION FOR |FUSION_POINTS|<FUSION_POINTS> AND |CREDITS|<CREDITS>"
 
 [/Lotus/Language/Menu/FusionMax]
 "Mod is at maximum rank."
@@ -47154,6 +47196,12 @@ Scales with Mastery Rank"
 
 [/Lotus/Language/Menu/FusionModeSelect]
 "FUSION"
+
+[/Lotus/Language/Menu/FusionPoints]
+"<FUSION_POINTS> FUSION POINTS"
+
+[/Lotus/Language/Menu/FusionPointsFormatted]
+"<FUSION_POINTS> |FUSION_POINTS|"
 
 [/Lotus/Language/Menu/FusionSelect]
 "SELECT A MOD"
@@ -48676,7 +48724,7 @@ Are you sure?"
 "ARCHWING"
 
 [/Lotus/Language/Menu/Loadout_Arena]
-"[PLACEHOLDER] ARENA CUSTOMIZATION"
+"[PH] ARENA CUSTOMIZATION"
 
 [/Lotus/Language/Menu/Loadout_AuraSlot]
 "Slot Aura Mods here... Aura Mods affect all players!"
@@ -48925,7 +48973,7 @@ Are you sure?"
 "SWAP"
 
 [/Lotus/Language/Menu/Loadout_Pennant]
-"[PLACEHOLDER] PENNANT"
+"[PH] PENNANT"
 
 [/Lotus/Language/Menu/Loadout_PhysicalTitle]
 "PHYSIQUE"
@@ -50531,13 +50579,13 @@ REWARD"
 "UPDATE INBOUND IN |TIME| MINUTES."
 
 [/Lotus/Language/Menu/OmegaLimit_SellConfirm]
-"[PLACEHOLDER] Sell the selected Omega Mods for <CREDITS>|PRICE|?"
+"[PH] Sell the selected Omega Mods for <CREDITS>|PRICE|?"
 
 [/Lotus/Language/Menu/OmegaLimit_Title]
-"[PLACEHOLDER] SELL OMEGA MODS"
+"[PH] SELL OMEGA MODS"
 
 [/Lotus/Language/Menu/OmegaLimit_Warning]
-"[PLACEHOLDER] You are currently over the Omega mod capacity limit, Please select |NUM| mods from the list to sell."
+"[PH] You are currently over the Omega mod capacity limit, Please select |NUM| mods from the list to sell."
 
 [/Lotus/Language/Menu/OnlineModeRequired]
 "This mission can only be played when your Matchmaking Mode is set to Public."
@@ -51542,13 +51590,13 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "SECONDARY WEAPONS"
 
 [/Lotus/Language/Menu/Profile_PlatformerLeaderboard]
-"[Placeholder] Platformer"
+"[PH] Platformer"
 
 [/Lotus/Language/Menu/Profile_PlatformerScore]
 "Score"
 
 [/Lotus/Language/Menu/Profile_PlatformerScoreDesc]
-"[Placeholder] Platformer Score"
+"[PH] Platformer Score"
 
 [/Lotus/Language/Menu/Profile_Points]
 "Points"
@@ -51963,6 +52011,9 @@ Do you wish to enable Recruit Conditioning?"
 [/Lotus/Language/Menu/PvpForfeitMatch]
 "Match was forfeited..."
 
+[/Lotus/Language/Menu/PVPLeaverWarning]
+"WARNING! If you quit before EOM you'll be penalized"
+
 [/Lotus/Language/Menu/PvpLostRound]
 "You lost this round..."
 
@@ -51991,7 +52042,7 @@ Do you wish to enable Recruit Conditioning?"
 "VICTORY!"
 
 [/Lotus/Language/Menu/PvpReplay]
-"[Placeholder] REPLAY"
+"[PH] REPLAY"
 
 [/Lotus/Language/Menu/PvpRoundStarting]
 "Round starting..."
@@ -52201,7 +52252,7 @@ Do you wish to enable Recruit Conditioning?"
 "RANK |X|"
 
 [/Lotus/Language/Menu/RankupRetry]
-"[Placeholder] rank up retry test"
+"[PH] rank up retry test"
 
 [/Lotus/Language/Menu/ReadyToIncubate]
 "Kubrow cloning sequence ready."
@@ -52590,7 +52641,7 @@ Thank you for your partnership."
 "Sell your Mods for credits."
 
 [/Lotus/Language/Menu/SELL_DescriptionFusex]
-""
+"Sell your Mods for credits or fusion points."
 
 [/Lotus/Language/Menu/SELL_NoCardsSelectedError]
 "SELECT MODS TO PREVIEW SELL VALUE"
@@ -52608,7 +52659,7 @@ Thank you for your partnership."
 "SELL |NUM| SELECTED MODS FOR |PRICE|<CREDITS>"
 
 [/Lotus/Language/Menu/SELL_SellStackFusex]
-""
+"SELL |NUM| SELECTED MODS FOR |PRICE|<CREDITS> OR |FUSION_POINTS|<FUSION_POINTS>"
 
 [/Lotus/Language/Menu/SellManifest]
 "Please verify that these are the items you wish to sell:"
@@ -54463,6 +54514,9 @@ This one is dedicated to you."
 [/Lotus/Language/Menu/VoidRewardSelect_NoRewardTitle]
 "NO RELIC EQUIPPED"
 
+[/Lotus/Language/Menu/VoidRewardSelect_RetrievingRewards]
+"Retrieving rewards from the server..."
+
 [/Lotus/Language/Menu/VoidRewardSelect_Title]
 "VOID MISSION COMPLETE!"
 
@@ -54799,40 +54853,40 @@ https://warframe.com/eula"
 "Spring-Loaded Broadhead"
 
 [/Lotus/Language/Mods/DamageBiasAntiImpactMeleeMod]
-"[PLACEHOLDER] LESS IMPACT"
+"[PH] LESS IMPACT"
 
 [/Lotus/Language/Mods/DamageBiasAntiImpactPistolMod]
-"[PLACEHOLDER] LESS IMPACT"
+"[PH] LESS IMPACT"
 
 [/Lotus/Language/Mods/DamageBiasAntiImpactRifleMod]
-"[PLACEHOLDER] LESS IMPACT"
+"[PH] LESS IMPACT"
 
 [/Lotus/Language/Mods/DamageBiasAntiImpactShotgunMod]
-"[PLACEHOLDER] LESS IMPACT"
+"[PH] LESS IMPACT"
 
 [/Lotus/Language/Mods/DamageBiasAntiPunctureMeleeMod]
-"[PLACEHOLDER] LESS PUNCTURE"
+"[PH] LESS PUNCTURE"
 
 [/Lotus/Language/Mods/DamageBiasAntiPuncturePistolMod]
-"[PLACEHOLDER] LESS PUNCTURE"
+"[PH] LESS PUNCTURE"
 
 [/Lotus/Language/Mods/DamageBiasAntiPunctureRifleMod]
-"[PLACEHOLDER] LESS PUNCTURE"
+"[PH] LESS PUNCTURE"
 
 [/Lotus/Language/Mods/DamageBiasAntiPunctureShotgunMod]
-"[PLACEHOLDER] LESS PUNCTURE"
+"[PH] LESS PUNCTURE"
 
 [/Lotus/Language/Mods/DamageBiasAntiSlashMeleeMod]
-"[PLACEHOLDER] LESS SLASH"
+"[PH] LESS SLASH"
 
 [/Lotus/Language/Mods/DamageBiasAntiSlashPistolMod]
-"[PLACEHOLDER] LESS SLASH"
+"[PH] LESS SLASH"
 
 [/Lotus/Language/Mods/DamageBiasAntiSlashRifleMod]
-"[PLACEHOLDER] LESS SLASH"
+"[PH] LESS SLASH"
 
 [/Lotus/Language/Mods/DamageBiasAntiSlashShotgunMod]
-"[PLACEHOLDER] LESS SLASH"
+"[PH] LESS SLASH"
 
 [/Lotus/Language/Mods/DamageBiasImpactMeleeMod]
 "Counterweight"
@@ -55072,7 +55126,7 @@ https://warframe.com/eula"
 "On Kill, |val| Health Regen for 5 seconds"
 
 [/Lotus/Language/Mods/HighEfficiencyTestMod]
-"[Placeholder] 0 Energy cost"
+"[PH] 0 Energy cost"
 
 [/Lotus/Language/Mods/HigherAimedDamageMoreRecoilSniperMod]
 "Lie In Wait"
@@ -55102,7 +55156,7 @@ https://warframe.com/eula"
 "Feathered Arrows"
 
 [/Lotus/Language/Mods/HolsterSpeedBonusMod]
-"[PLACEHOLDER] Speed Holster"
+"[PH] Speed Holster"
 
 [/Lotus/Language/Mods/HolsterSpeedBonusModDesc]
 ""
@@ -55198,10 +55252,10 @@ https://warframe.com/eula"
 "|val|% melee damage resistance,"
 
 [/Lotus/Language/Mods/MeleeStaminaDamageBonus]
-"[PLACEHOLDER] Stamina Damage"
+"[PH] Stamina Damage"
 
 [/Lotus/Language/Mods/MeleeStaminaDamageBonusDesc]
-"[PLACEHOLDER]"
+"[PH]"
 
 [/Lotus/Language/Mods/MeleeVictimStaminaDrain]
 "Relentless Assault"
@@ -55417,7 +55471,7 @@ https://warframe.com/eula"
 "Bandolier"
 
 [/Lotus/Language/Mods/TonkorNightwatchMod]
-"[PLACEHOLDER] Airstrike"
+"[PH] Airstrike"
 
 [/Lotus/Language/Mods/TwinBasolkNightwatchMod]
 "Rift Strike"
@@ -56146,13 +56200,13 @@ As proof of your deed"
 "Confused and bewildered"
 
 [/Lotus/Language/Pistols/PlaceholderName2]
-"[Placeholder]"
+"[PH]"
 
 [/Lotus/Language/Primes/AsaPrimeSyandanaDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/AsaPrimeSyandanaName]
-"[PLACEHOLDER] Name"
+"[PH] Name"
 
 [/Lotus/Language/Primes/AshPrimeDesc]
 "Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization."
@@ -56197,10 +56251,10 @@ As proof of your deed"
 "CHROMA PRIME"
 
 [/Lotus/Language/Primes/HecatePrimeSyandanaDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/HecatePrimeSyandanaName]
-"[PLACEHOLDER] Name"
+"[PH] Name"
 
 [/Lotus/Language/Primes/HydroidPrimeDesc]
 "Command the waves and summon eldritch horrors from the depths with Hydroid Prime. Featuring altered mod polarities for greater customization."
@@ -56215,10 +56269,10 @@ As proof of your deed"
 "HYDROID PRIME"
 
 [/Lotus/Language/Primes/ImperatorPrimeSyandanaDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/ImperatorPrimeSyandanaName]
-"[PLACEHOLDER] Name"
+"[PH] Name"
 
 [/Lotus/Language/Primes/LimboPrimeDesc]
 "Limbo Prime harnesses the energies of the Rift to displace adversaries and shift between realities. Featuring altered mod polarities for greater customization."
@@ -56299,7 +56353,7 @@ As proof of your deed"
 "AKSTILETTO PRIME"
 
 [/Lotus/Language/Primes/PrimeDethCubeDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/PrimeDethCubeName]
 "DETHCUBE PRIME"
@@ -56311,13 +56365,13 @@ As proof of your deed"
 "DETH MACHINE RIFLE PRIME"
 
 [/Lotus/Language/Primes/PrimeDirigaDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/PrimeDirigaName]
 "DIRIGA PRIME"
 
 [/Lotus/Language/Primes/PrimeDjinnDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/PrimeDjinnName]
 "DJINN PRIME"
@@ -56329,13 +56383,13 @@ As proof of your deed"
 "DUAL KAMAS PRIME"
 
 [/Lotus/Language/Primes/PrimeDualRazaDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/PrimeDualRazaName]
 "DUAL RAZA PRIME"
 
 [/Lotus/Language/Primes/PrimeDualZorenDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/PrimeDualZorenName]
 "DUAL ZOREN PRIME"
@@ -56353,10 +56407,10 @@ As proof of your deed"
 "GALATINE PRIME"
 
 [/Lotus/Language/Primes/PrimeHeliosDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/PrimeHeliosGlaiveWeaponDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/PrimeHeliosGlaiveWeaponName]
 "DECONSTRUCTOR PRIME"
@@ -56407,7 +56461,7 @@ As proof of your deed"
 "ACANTHUS PRIME LEG GUARD"
 
 [/Lotus/Language/Primes/PrimeShadeDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/PrimeShadeName]
 "SHADE PRIME"
@@ -56449,10 +56503,10 @@ As proof of your deed"
 "URU PRIME SYANDANA"
 
 [/Lotus/Language/Primes/UruPrimeSyandanaDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/UruPrimeSyandanaName]
-"[PLACEHOLDER] Name"
+"[PH] Name"
 
 [/Lotus/Language/Primes/ValkyrPrimeDesc]
 "Devastation incarnate, Valkyr Prime is an unstoppable force of violence that dances across the battlefield. Featuring altered mod polarities for greater customization."
@@ -56485,10 +56539,10 @@ As proof of your deed"
 "YAMAKO PRIME SYANDANA"
 
 [/Lotus/Language/Primes/YomoPrimeSyandanaDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Primes/YomoPrimeSyandanaName]
-"[PLACEHOLDER] Name"
+"[PH] Name"
 
 [/Lotus/Language/Primes/ZephyrPrimeDesc]
 "Graceful and deadly, Zephyr Prime uses her extreme mobility and power over the winds to decimate the enemy. Featuring altered mod polarities for greater customization."
@@ -59016,10 +59070,10 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "CYCLE TWO SIGIL"
 
 [/Lotus/Language/Sigils/RhinoDeluxeSigilDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Sigils/RhinoDeluxeSigilName]
-"[PLACEHOLDER] RHINO DELUXE SIGIL"
+"[PH] RHINO DELUXE SIGIL"
 
 [/Lotus/Language/Sigils/ScarSigilDesc]
 "A memento for those who have awoken from the Second Dream."
@@ -59538,7 +59592,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "CHAMPION SIGIL"
 
 [/Lotus/Language/Sigils/TennoCon2016SigilDesc]
-"[PLACEHOLDER] Description"
+"[PH] Description"
 
 [/Lotus/Language/Sigils/TennoCon2016SigilName]
 "TENNOCON SIGIL"
@@ -60360,7 +60414,7 @@ Using Archwing’s jets for thrust, this massive hammer crushes anything in its 
 "MESA DEAD EYE HELMET"
 
 [/Lotus/Language/SteamWorkshop/NekrosVisceraBindsDesc]
-"[Placeholder] Binds for Nekros, designed by ???
+"[PH] Binds for Nekros, designed by ???
 
 <UGC> TennoGen"
 
@@ -71010,13 +71064,13 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Toxic Sequence"
 
 [/Lotus/Language/SyndicateRewards/AshMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/BallisticaMod]
 "Soaring Truth"
 
 [/Lotus/Language/SyndicateRewards/BansheeMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/BoltoMod]
 "Entropy Spike"
@@ -71031,16 +71085,16 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Justice Blades"
 
 [/Lotus/Language/SyndicateRewards/EmberMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/EmbolistMod]
 "Eroding Blight"
 
 [/Lotus/Language/SyndicateRewards/ExcaliburMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/FrostMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/FurisMod]
 "Winds of Purity"
@@ -71052,7 +71106,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Scattered Justice"
 
 [/Lotus/Language/SyndicateRewards/HydroidMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/JawSwordMod]
 "Blade of Truth"
@@ -71061,43 +71115,43 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Entropy Flight"
 
 [/Lotus/Language/SyndicateRewards/KunaiMod]
-"[PLACEHOLDER] REPLICATING HOLSTER"
+"[PH] REPLICATING HOLSTER"
 
 [/Lotus/Language/SyndicateRewards/LokiMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/MagMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/MirageMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/MireMod]
 "Toxic Blight"
 
 [/Lotus/Language/SyndicateRewards/MiterMod]
-"[PLACEHOLDER] BUBBLE SHREDDER"
+"[PH] BUBBLE SHREDDER"
 
 [/Lotus/Language/SyndicateRewards/NekrosMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/NovaMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/NyxMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/OberonMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/RhinoMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/SarynMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/SilvaAegisMod]
-"[PLACEHOLDER] Blocky McChargeFace"
+"[PH] Blocky McChargeFace"
 
 [/Lotus/Language/SyndicateRewards/SkanaMod]
 "Bright Purity"
@@ -71112,25 +71166,25 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Entropy Burst"
 
 [/Lotus/Language/SyndicateRewards/TrinityMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/ValkyrMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/VaubanMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/ViperMod]
 "Stinging Truth"
 
 [/Lotus/Language/SyndicateRewards/VoltMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/VulkarMod]
 "Lasting Purity"
 
 [/Lotus/Language/SyndicateRewards/ZephyrMod]
-"[Placeholder] TBD"
+"[PH] TBD"
 
 [/Lotus/Language/Syndicates/ArbitersDesc]
 "The dogmatic Arbiters seek a truth through discipline and practice. They reject the Tenno as Warrior mythology... A lie constructed to limit their potential."
@@ -72423,7 +72477,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "and rounds have a |val|% chance to explode. (Use with Caution)"
 
 [/Lotus/Language/Upgrades/KarakNightwatchModDesc]
-"[Placeholder] |val| flat status chance. Special bullets only deal impact, heat, cold, or blast damage."
+"[PH] |val| flat status chance. Special bullets only deal impact, heat, cold, or blast damage."
 
 [/Lotus/Language/Upgrades/KarakNightwatchRicochetModDesc]
 "Increases ricochets by |val|%"
@@ -72480,7 +72534,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "and Crit Damage increased by |val|%,"
 
 [/Lotus/Language/Upgrades/NukorNightwatchModDesc]
-"[PLACEHOLDER] Inflation is permanent and increases crit chance by |val|"
+"[PH] Inflation is permanent and increases crit chance by |val|"
 
 [/Lotus/Language/Upgrades/NukorNightwatchSetCritModDesc]
 "Crit Chance becomes |val|%"
@@ -72720,7 +72774,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "|val| Base Status Chance"
 
 [/Lotus/Language/Upgrades/WeaponBlockingStoreChargeDamage]
-"[PLACEHOLDER] While blocking, |val|% incoming damage is stored and released as extra damage for next charge attack."
+"[PH] While blocking, |val|% incoming damage is stored and released as extra damage for next charge attack."
 
 [/Lotus/Language/Upgrades/WeaponChannelingDmgModDesc]
 "|val|% Channeling Damage"
@@ -72858,7 +72912,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "|val|% Multishot"
 
 [/Lotus/Language/Upgrades/WeaponNullifierBubblePopChance]
-"[PLACEHOLDER]|val|% chance to pop nullifier bubbles"
+"[PH]|val|% chance to pop nullifier bubbles"
 
 [/Lotus/Language/Upgrades/WeaponOverheatDamageModDesc]
 "|val|% Max Overheat Damage"
