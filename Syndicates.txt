@@ -47,7 +47,7 @@ Favored Warframes: HYDROID, MAG, NYX, OBERON, TRINITY, ZEPHYR
 Favored Weapons: MAGISTAR, SILVA & AEGIS, ORTHOS
 
 Titles:
-	Level 5 Flawless, Sacrifice: 1 NYX PRIME NEUROPTICS + 500000 Credits
+	Level 5 Flawless, Sacrifice: 1 VAUBAN PRIME NEUROPTICS + 500000 Credits
 	Level 4 Pure, Sacrifice: 1 ORTHOS PRIME BLADE + 250000 Credits
 	Level 3 Benevolent, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
 	Level 2 Bountiful, Sacrifice: 1 FORMA + 50000 Credits
@@ -69,7 +69,7 @@ Favored Weapons: SCINDO, SCOLIAC, KARYST
 
 Titles:
 	Level 5 Partner, Sacrifice: 1 VOLT PRIME NEUROPTICS + 500000 Credits
-	Level 4 Senior Executive, Sacrifice: 1 SCINDO PRIME BLADE + 250000 Credits
+	Level 4 Senior Executive, Sacrifice: 1 NIKANA PRIME BLADE + 250000 Credits
 	Level 3 Executive, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
 	Level 2 Senior Associate, Sacrifice: 1 FORMA + 50000 Credits
 	Level 1 Associate, Sacrifice: 2 DETONITE AMPULE + 30000 Credits
