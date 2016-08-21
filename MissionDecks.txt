@@ -2,19 +2,19 @@
 
 
 [ArchwingExterminateRewards]
- - Mercury, Caduceus, MT_EXTERMINATION, FC_GRINEER
- - Venus, Montes, MT_EXTERMINATION, FC_CORPUS
- - Mars, Syrtis, MT_EXTERMINATION, FC_GRINEER
+ - Mercury, Caduceus, MT_EXTERMINATION, FC_GRINEER, NT_EVENT
+ - Venus, Montes, MT_EXTERMINATION, FC_CORPUS, NT_MISSION
+ - Mars, Syrtis, MT_EXTERMINATION, FC_GRINEER, NT_MISSION
 
 
 [ArchwingMobileDRewards]
- - Earth, Erpo, MT_MOBILE_DEFENSE, FC_GRINEER
- - Neptune, Salacia, MT_MOBILE_DEFENSE, FC_CORPUS
- - Europa, Gamygyn, MT_MOBILE_DEFENSE, FC_GRINEER
+ - Earth, Erpo, MT_MOBILE_DEFENSE, FC_GRINEER, NT_MISSION
+ - Neptune, Salacia, MT_MOBILE_DEFENSE, FC_CORPUS, NT_MISSION
+ - Europa, Gamygyn, MT_MOBILE_DEFENSE, FC_GRINEER, NT_EVENT
 
 
 [ArchwingPursuitRewards]
- - Saturn, Pandora, MT_PURSUIT, FC_GRINEER
+ - Saturn, Pandora, MT_PURSUIT, FC_GRINEER, NT_MISSION
 
 Rotation A:
   1 Tempered Blade, COMMON, 10.84%
@@ -22,10 +22,10 @@ Rotation A:
   1 Poisonous Sting, COMMON, 10.84%
   1 Glacial Edge, COMMON, 10.84%
   1 Galvanized Blade, COMMON, 10.84%
-  10 ENDO, COMMON, 10.84%
+  10 5 ENDO, COMMON, 10.84%
   1 Furor, COMMON, 10.84%
-  1 ENDO, UNCOMMON, 22.11%
-  1 ENDO, RARE, 2.01%
+  1 35 ENDO, UNCOMMON, 22.11%
+  1 80 ENDO, RARE, 2.01%
 
 Rotation B:
   1 Extend, UNCOMMON, 3.76%
@@ -34,10 +34,10 @@ Rotation B:
   1 System Reroute, UNCOMMON, 3.76%
   1 Efficient Transferral, UNCOMMON, 3.76%
   1 Blazing Steel, UNCOMMON, 3.76%
-  3 ENDO, COMMON, 77.44%
+  3 35 ENDO, COMMON, 77.44%
 
 Rotation C:
-  5 ENDO, COMMON, 14.29%
+  5 80 ENDO, COMMON, 14.29%
   1 MESO D1 RELIC, COMMON, 14.29%
   1 MESO N1 RELIC, COMMON, 14.29%
   1 MESO C1 RELIC, COMMON, 14.29%
@@ -47,126 +47,126 @@ Rotation C:
 
 
 [ArchwingSabotageRewards]
- - Jupiter, Galilea, MT_SABOTAGE, FC_CORPUS
+ - Jupiter, Galilea, MT_SABOTAGE, FC_CORPUS, NT_MISSION
 
 
 [BossMissionRewards/AtlasRewards]
 
 
 [BossMissionRewards/BerserkerRewards]
- - Jupiter, Themisto, MT_ASSASSINATION, FC_CORPUS
+ - Jupiter, Themisto, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 
 
 [BossMissionRewards/CowgirlRewards]
 
 
 [BossMissionRewards/EmberRewards]
- - Saturn, Tethys, MT_ASSASSINATION, FC_GRINEER
+ - Saturn, Tethys, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 
 
 [BossMissionRewards/ExcaliburRewards]
- - Pluto, Hades, MT_ASSASSINATION, FC_CORPUS
+ - Pluto, Hades, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 
 
 [BossMissionRewards/FrostRewards]
- - Mars, War, MT_ASSASSINATION, FC_GRINEER
+ - Mars, War, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 
 
 [BossMissionRewards/HydroidRewards]
- - Earth, Oro, MT_ASSASSINATION, FC_GRINEER
+ - Earth, Oro, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 
 
 [BossMissionRewards/LokiRewards]
- - Neptune, Psamathe, MT_ASSASSINATION, FC_CORPUS
+ - Neptune, Psamathe, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 
 
 [BossMissionRewards/MagRewards]
- - Phobos, Iliad, MT_ASSASSINATION, FC_CORPUS
+ - Phobos, Iliad, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 
 
 [BossMissionRewards/MiterGremlinsRewards]
- - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER
+ - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 
 
 [BossMissionRewards/NovaRewards]
- - Europa, Naamah, MT_ASSASSINATION, FC_CORPUS
+ - Europa, Naamah, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 
 
 [BossMissionRewards/NyxRewards]
 
 
 [BossMissionRewards/RhinoRewards]
- - Venus, Fossa, MT_ASSASSINATION, FC_CORPUS
+ - Venus, Fossa, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 
 
 [BossMissionRewards/SarynRewards]
- - Sedna, Merrow, MT_ASSASSINATION, FC_GRINEER
+ - Sedna, Merrow, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 
 
 [BossMissionRewards/SeerPistolRewards]
- - Mercury, Tolstoj, MT_ASSASSINATION, FC_GRINEER
+ - Mercury, Tolstoj, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 
 
 [BossMissionRewards/TrinityRewards]
- - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER
+ - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 
 
 [BossMissionRewards/YinYangRewards]
- - Uranus, Titania, MT_ASSASSINATION, FC_GRINEER
+ - Uranus, Titania, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 
 
 [CacheRewardsEasy]
- - Mercury, Terminus, MT_SABOTAGE, FC_INFESTATION
- - Mercury, Neruda, MT_SABOTAGE, FC_GRINEER
- - Venus, Ishtar, MT_SABOTAGE, FC_CORPUS
- - Mars, Gradivus, MT_SABOTAGE, FC_CORPUS
+ - Mercury, Terminus, MT_SABOTAGE, FC_INFESTATION, NT_MISSION
+ - Mercury, Neruda, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+ - Venus, Ishtar, MT_SABOTAGE, FC_CORPUS, NT_MISSION
+ - Mars, Gradivus, MT_SABOTAGE, FC_CORPUS, NT_MISSION
 
 
 [CacheRewardsHard]
- - Uranus, Portia, MT_SABOTAGE, FC_GRINEER
- - Neptune, Thalassa, MT_SABOTAGE, FC_CORPUS
- - Neptune, Halimede, MT_SABOTAGE, FC_CORPUS
- - Pluto, Charon, MT_SABOTAGE, FC_CORPUS
- - Pluto, Cypress, MT_SABOTAGE, FC_CORPUS
- - Sedna, Kelpie, MT_SABOTAGE, FC_GRINEER
+ - Uranus, Portia, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+ - Neptune, Thalassa, MT_SABOTAGE, FC_CORPUS, NT_EVENT
+ - Neptune, Halimede, MT_SABOTAGE, FC_CORPUS, NT_EVENT
+ - Pluto, Charon, MT_SABOTAGE, FC_CORPUS, NT_EVENT
+ - Pluto, Cypress, MT_SABOTAGE, FC_CORPUS, NT_MISSION
+ - Sedna, Kelpie, MT_SABOTAGE, FC_GRINEER, NT_MISSION
 
 
 [CacheRewardsMedium]
- - Jupiter, Adrastea, MT_SABOTAGE, FC_CORPUS
- - Saturn, Pallene, MT_SABOTAGE, FC_GRINEER
- - Saturn, Calypso, MT_SABOTAGE, FC_GRINEER
- - Ceres, Thon, MT_SABOTAGE, FC_GRINEER
+ - Jupiter, Adrastea, MT_SABOTAGE, FC_CORPUS, NT_MISSION
+ - Saturn, Pallene, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+ - Saturn, Calypso, MT_SABOTAGE, FC_GRINEER, NT_MISSION
+ - Ceres, Thon, MT_SABOTAGE, FC_GRINEER, NT_MISSION
 
 
 [CacheRewardsVoid]
- - Void, Stribog, MT_SABOTAGE, FC_OROKIN
- - Void, Marduk, MT_SABOTAGE, FC_GRINEER
+ - Void, Stribog, MT_SABOTAGE, FC_OROKIN, NT_MISSION
+ - Void, Marduk, MT_SABOTAGE, FC_GRINEER, NT_MISSION
 
 
 [CaptureMissionRewardsA]
- - Mercury, Elion, MT_CAPTURE, FC_GRINEER
- - Venus, Venera, MT_CAPTURE, FC_CORPUS
- - Earth, Mantle, MT_CAPTURE, FC_GRINEER
- - Mars, Quirinus, MT_CAPTURE, FC_CORPUS
- - Jupiter, Ananke, MT_CAPTURE, FC_CORPUS
- - Saturn, Phoebe, MT_CAPTURE, FC_GRINEER
- - Saturn, Cassini, MT_CAPTURE, FC_GRINEER
- - Uranus, Desdemona, MT_CAPTURE, FC_GRINEER
- - Uranus, Trinculo, MT_CAPTURE, FC_GRINEER
- - Neptune, Galatea, MT_CAPTURE, FC_CORPUS
- - Pluto, Hydra, MT_CAPTURE, FC_CORPUS
- - Pluto, Corb, MT_CAPTURE, FC_CORPUS
- - Eris, Cosis, MT_CAPTURE, FC_INFESTATION
- - Eris, Isos, MT_CAPTURE, FC_INFESTATION
- - Europa, Abaddon, MT_CAPTURE, FC_CORPUS
- - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS
- - Europa, Beleth, MT_CAPTURE, FC_CORPUS
- - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS
- - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS
- - Void, Hepit, MT_CAPTURE, FC_OROKIN
- - Void, Ukko, MT_CAPTURE, FC_OROKIN
- - Phobos, Limtoc, MT_CAPTURE, FC_GRINEER
- - Phobos, Todd, MT_CAPTURE, FC_GRINEER
+ - Mercury, Elion, MT_CAPTURE, FC_GRINEER, NT_MISSION
+ - Venus, Venera, MT_CAPTURE, FC_CORPUS, NT_MISSION
+ - Earth, Mantle, MT_CAPTURE, FC_GRINEER, NT_MISSION
+ - Mars, Quirinus, MT_CAPTURE, FC_CORPUS, NT_EVENT
+ - Jupiter, Ananke, MT_CAPTURE, FC_CORPUS, NT_MISSION
+ - Saturn, Phoebe, MT_CAPTURE, FC_GRINEER, NT_EVENT
+ - Saturn, Cassini, MT_CAPTURE, FC_GRINEER, NT_MISSION
+ - Uranus, Desdemona, MT_CAPTURE, FC_GRINEER, NT_MISSION
+ - Uranus, Trinculo, MT_CAPTURE, FC_GRINEER, NT_EVENT
+ - Neptune, Galatea, MT_CAPTURE, FC_CORPUS, NT_MISSION
+ - Pluto, Hydra, MT_CAPTURE, FC_CORPUS, NT_MISSION
+ - Pluto, Corb, MT_CAPTURE, FC_CORPUS, NT_EVENT
+ - Eris, Cosis, MT_CAPTURE, FC_INFESTATION, NT_EVENT
+ - Eris, Isos, MT_CAPTURE, FC_INFESTATION, NT_MISSION
+ - Europa, Abaddon, MT_CAPTURE, FC_CORPUS, NT_MISSION
+ - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS, NT_EVENT
+ - Europa, Beleth, MT_CAPTURE, FC_CORPUS, NT_EVENT
+ - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS, NT_EVENT
+ - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS, NT_EVENT
+ - Void, Hepit, MT_CAPTURE, FC_OROKIN, NT_MISSION
+ - Void, Ukko, MT_CAPTURE, FC_OROKIN, NT_MISSION
+ - Phobos, Limtoc, MT_CAPTURE, FC_GRINEER, NT_EVENT
+ - Phobos, Todd, MT_CAPTURE, FC_GRINEER, NT_EVENT
 
 Rotation A:
   1 Vitality, COMMON, 9.48%
@@ -206,15 +206,15 @@ Rotation C:
 
 
 [CorpusInfestedSabotageRewards]
- - Eris, Candiru, MT_HIVE, FC_INFESTATION
- - Eris, Lepis, MT_HIVE, FC_INFESTATION
- - Eris, Psoro, MT_HIVE, FC_INFESTATION
- - Eris, Viver, MT_HIVE, FC_INFESTATION
- - Eris, Naeglar, MT_HIVE, FC_INFESTATION
+ - Eris, Candiru, MT_HIVE, FC_INFESTATION, NT_EVENT
+ - Eris, Lepis, MT_HIVE, FC_INFESTATION, NT_EVENT
+ - Eris, Psoro, MT_HIVE, FC_INFESTATION, NT_EVENT
+ - Eris, Viver, MT_HIVE, FC_INFESTATION, NT_EVENT
+ - Eris, Naeglar, MT_HIVE, FC_INFESTATION, NT_MISSION
 
 
 [DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy]
- - Phobos, Kepler, MT_RACE, FC_CORPUS
+ - Phobos, Kepler, MT_RACE, FC_CORPUS, NT_MISSION
 
 Rotation A:
   1 Tempered Blade, COMMON, 14.29%
@@ -222,7 +222,7 @@ Rotation A:
   1 Poisonous Sting, COMMON, 14.29%
   1 Glacial Edge, COMMON, 14.29%
   1 Galvanized Blade, COMMON, 14.29%
-  10 ENDO, COMMON, 14.29%
+  10 5 ENDO, COMMON, 14.29%
   1 Furor, COMMON, 14.29%
 
 Rotation B:
@@ -232,13 +232,13 @@ Rotation B:
   1 System Reroute, UNCOMMON, 3.76%
   1 Efficient Transferral, UNCOMMON, 3.76%
   1 Blazing Steel, UNCOMMON, 3.76%
-  3 ENDO, COMMON, 77.44%
+  3 35 ENDO, COMMON, 77.44%
 
 Rotation C:
   1 Meteor Crash, UNCOMMON, 7.52%
   1 Nebula Bore, UNCOMMON, 7.52%
   1 Astral Slash, UNCOMMON, 7.52%
-  5 ENDO, COMMON, 11.06%
+  5 80 ENDO, COMMON, 11.06%
   1 LITH S1 RELIC, COMMON, 11.06%
   1 LITH S2 RELIC, COMMON, 11.06%
   1 LITH F1 RELIC, COMMON, 11.06%
@@ -248,19 +248,19 @@ Rotation C:
 
 
 [DefenseMissionRewards/BadlandsDefenseMissionRewards]
- - Venus, Romula, MT_DEFENSE, FC_INFESTATION
- - Earth, Coba, MT_DEFENSE, FC_INFESTATION
- - Mars, Kadesh, MT_DEFENSE, FC_INFESTATION
- - Jupiter, Sinai, MT_DEFENSE, FC_INFESTATION
- - Saturn, Caracol, MT_DEFENSE, FC_INFESTATION
- - Uranus, Ur, MT_DEFENSE, FC_INFESTATION
- - Neptune, Yursa, MT_DEFENSE, FC_INFESTATION
- - Pluto, Sechura, MT_DEFENSE, FC_INFESTATION
- - Ceres, Seimeni, MT_DEFENSE, FC_INFESTATION
- - Eris, Akkad, MT_DEFENSE, FC_INFESTATION
- - Sedna, Sangeru, MT_DEFENSE, FC_INFESTATION
- - Europa, Larzac, MT_DEFENSE, FC_INFESTATION
- - Phobos, Memphis, MT_DEFENSE, FC_INFESTATION
+ - Venus, Romula, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Earth, Coba, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Mars, Kadesh, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Jupiter, Sinai, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Saturn, Caracol, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Uranus, Ur, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Neptune, Yursa, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Pluto, Sechura, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Ceres, Seimeni, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Eris, Akkad, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Sedna, Sangeru, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Europa, Larzac, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+ - Phobos, Memphis, MT_DEFENSE, FC_INFESTATION, NT_CLAN
 
 Rotation A:
   1 Vitality, COMMON, 15.18%
@@ -314,8 +314,8 @@ Rotation C:
   1 Intensify, UNCOMMON, 2.21%
   1 NEO N1 RELIC, UNCOMMON, 2.21%
   1 Thunderbolt, RARE, 0.4%
-  1 ENDO, COMMON, 15.18%
-  1 ENDO, UNCOMMON, 2.21%
+  1 10 ENDO, COMMON, 15.18%
+  1 15 ENDO, UNCOMMON, 2.21%
   1 MESO C1 RELIC, COMMON, 15.18%
   1 MESO V2 RELIC, COMMON, 15.18%
   1 NEO S1 RELIC, UNCOMMON, 2.21%
@@ -329,16 +329,16 @@ Rotation C:
 
 
 [DefenseMissionRewards/DefenseMissionRewardsEasy]
- - Mercury, Lares, MT_DEFENSE, FC_INFESTATION
- - Venus, Tessera, MT_DEFENSE, FC_CORPUS
- - Earth, Lith, MT_DEFENSE, FC_GRINEER
- - Mars, Spear, MT_DEFENSE, FC_GRINEER
- - Ceres, Varro, MT_DEFENSE, FC_GRINEER
- - Ceres, Casta, MT_DEFENSE, FC_GRINEER
- - Ceres, Egeria, MT_DEFENSE, FC_GRINEER
- - Void, Taranis, MT_DEFENSE, FC_OROKIN
- - Phobos, Drunlo, MT_DEFENSE, FC_GRINEER
- - Phobos, Gulliver, MT_DEFENSE, FC_CORPUS
+ - Mercury, Lares, MT_DEFENSE, FC_INFESTATION, NT_MISSION
+ - Venus, Tessera, MT_DEFENSE, FC_CORPUS, NT_MISSION
+ - Earth, Lith, MT_DEFENSE, FC_GRINEER, NT_MISSION
+ - Mars, Spear, MT_DEFENSE, FC_GRINEER, NT_MISSION
+ - Ceres, Varro, MT_DEFENSE, FC_GRINEER, NT_EVENT
+ - Ceres, Casta, MT_DEFENSE, FC_GRINEER, NT_MISSION
+ - Ceres, Egeria, MT_DEFENSE, FC_GRINEER, NT_EVENT
+ - Void, Taranis, MT_DEFENSE, FC_OROKIN, NT_MISSION
+ - Phobos, Drunlo, MT_DEFENSE, FC_GRINEER, NT_EVENT
+ - Phobos, Gulliver, MT_DEFENSE, FC_CORPUS, NT_MISSION
 
 Rotation A:
   1 Vitality, COMMON, 9.09%
@@ -364,7 +364,7 @@ Rotation B:
   1 Cryo Rounds, COMMON, 9.09%
   1 Hell's Chamber, COMMON, 9.09%
   1 Shocking Touch, COMMON, 9.09%
-  1 ENDO, COMMON, 9.09%
+  1 10 ENDO, COMMON, 9.09%
 
 Rotation C:
   1 Metal Auger, UNCOMMON, 9.09%
@@ -375,21 +375,21 @@ Rotation C:
   1 MESO D1 RELIC, UNCOMMON, 9.09%
   1 Continuity, UNCOMMON, 9.09%
   1 Master Thief, UNCOMMON, 9.09%
-  1 ENDO, UNCOMMON, 9.09%
+  1 15 ENDO, UNCOMMON, 9.09%
   1 MESO N2 RELIC, UNCOMMON, 9.09%
   1 MESO V1 RELIC, UNCOMMON, 9.09%
 
 
 [DefenseMissionRewards/DefenseMissionRewardsHard]
- - Uranus, Miranda, MT_DEFENSE, FC_GRINEER
- - Uranus, Bianca, MT_DEFENSE, FC_GRINEER
- - Neptune, Proteus, MT_DEFENSE, FC_CORPUS
- - Pluto, Outer Terminus, MT_DEFENSE, FC_CORPUS
- - Eris, Kala-azar, MT_DEFENSE, FC_INFESTATION
- - Eris, Ixodes, MT_DEFENSE, FC_INFESTATION
- - Sedna, Hydron, MT_DEFENSE, FC_GRINEER
- - Void, Belenus, MT_DEFENSE, FC_OROKIN
- - LUA, Stöfler, MT_DEFENSE, FC_GRINEER
+ - Uranus, Miranda, MT_DEFENSE, FC_GRINEER, NT_EVENT
+ - Uranus, Bianca, MT_DEFENSE, FC_GRINEER, NT_EVENT
+ - Neptune, Proteus, MT_DEFENSE, FC_CORPUS, NT_MISSION
+ - Pluto, Outer Terminus, MT_DEFENSE, FC_CORPUS, NT_MISSION
+ - Eris, Kala-azar, MT_DEFENSE, FC_INFESTATION, NT_MISSION
+ - Eris, Ixodes, MT_DEFENSE, FC_INFESTATION, NT_EVENT
+ - Sedna, Hydron, MT_DEFENSE, FC_GRINEER, NT_MISSION
+ - Void, Belenus, MT_DEFENSE, FC_OROKIN, NT_MISSION
+ - LUA, Stöfler, MT_DEFENSE, FC_GRINEER, NT_MISSION
 
 Rotation A:
   1 Vitality, COMMON, 11.11%
@@ -417,7 +417,7 @@ Rotation B:
   1 Hell's Chamber, COMMON, 6.67%
   1 Streamline, COMMON, 6.67%
   1 Shocking Touch, COMMON, 6.67%
-  1 ENDO, COMMON, 6.67%
+  1 10 ENDO, COMMON, 6.67%
 
 Rotation C:
   1 Vital Sense, UNCOMMON, 2.26%
@@ -429,7 +429,7 @@ Rotation C:
   1 Split Chamber, UNCOMMON, 2.26%
   1 Continuity, UNCOMMON, 2.26%
   1 Master Thief, UNCOMMON, 2.26%
-  1 ENDO, UNCOMMON, 2.26%
+  1 15 ENDO, UNCOMMON, 2.26%
   1 AXI S1 RELIC, COMMON, 11.06%
   1 AXI V1 RELIC, COMMON, 11.06%
   1 AXI K1 RELIC, COMMON, 11.06%
@@ -440,11 +440,11 @@ Rotation C:
 
 
 [DefenseMissionRewards/DefenseMissionRewardsMedium]
- - Jupiter, Io, MT_DEFENSE, FC_CORPUS
- - Saturn, Helene, MT_DEFENSE, FC_GRINEER
- - Saturn, Birog, MT_DEFENSE, FC_GRINEER
- - Sedna, Camenae, MT_DEFENSE, FC_GRINEER
- - Europa, Paimon, MT_DEFENSE, FC_CORPUS
+ - Jupiter, Io, MT_DEFENSE, FC_CORPUS, NT_MISSION
+ - Saturn, Helene, MT_DEFENSE, FC_GRINEER, NT_MISSION
+ - Saturn, Birog, MT_DEFENSE, FC_GRINEER, NT_EVENT
+ - Sedna, Camenae, MT_DEFENSE, FC_GRINEER, NT_EVENT
+ - Europa, Paimon, MT_DEFENSE, FC_CORPUS, NT_MISSION
 
 Rotation A:
   1 MESO D1 RELIC, COMMON, 14.29%
@@ -453,7 +453,7 @@ Rotation A:
   1 MESO V2 RELIC, COMMON, 14.29%
   1 MESO N2 RELIC, COMMON, 14.29%
   1 MESO V1 RELIC, COMMON, 14.29%
-  1 ENDO, COMMON, 14.29%
+  1 5 ENDO, COMMON, 14.29%
 
 Rotation B:
   1 NEO S1 RELIC, COMMON, 6.67%
@@ -470,14 +470,14 @@ Rotation B:
   1 Stormbringer, COMMON, 6.67%
   1 Point Blank, COMMON, 6.67%
   1 Fury, COMMON, 6.67%
-  1 ENDO, COMMON, 6.67%
+  1 10 ENDO, COMMON, 6.67%
 
 Rotation C:
   1 Vital Sense, UNCOMMON, 4.51%
   1 Metal Auger, UNCOMMON, 4.51%
   1 Ravage, UNCOMMON, 4.51%
   1 Stretch, UNCOMMON, 4.51%
-  1 ENDO, UNCOMMON, 4.51%
+  1 15 ENDO, UNCOMMON, 4.51%
   1 NEO S1 RELIC, COMMON, 12.91%
   1 NEO S2 RELIC, COMMON, 12.91%
   1 NEO S3 RELIC, COMMON, 12.91%
@@ -489,8 +489,8 @@ Rotation C:
 [DerelictDefenseRewards]
 
 Rotation A:
-  3 ENDO, COMMON, 12.5%
-  3 ENDO, COMMON, 12.5%
+  3 15 ENDO, COMMON, 12.5%
+  3 10 ENDO, COMMON, 12.5%
   1 LITH S2 RELIC, COMMON, 12.5%
   1 LITH F1 RELIC, COMMON, 12.5%
   1 LITH V1 RELIC, COMMON, 12.5%
@@ -499,8 +499,8 @@ Rotation A:
   1 LITH F2 RELIC, COMMON, 12.5%
 
 Rotation B:
-  3 ENDO, COMMON, 38.72%
-  3 ENDO, COMMON, 38.72%
+  3 15 ENDO, COMMON, 38.72%
+  3 10 ENDO, COMMON, 38.72%
   1 MUTALIST ALAD V NAV COORDINATE, UNCOMMON, 22.56%
 
 Rotation C:
@@ -516,8 +516,8 @@ Rotation C:
 [DerelictSurvivalRewards]
 
 Rotation A:
-  3 ENDO, COMMON, 25%
-  3 ENDO, COMMON, 25%
+  3 15 ENDO, COMMON, 25%
+  3 10 ENDO, COMMON, 25%
   1 LITH S1 RELIC, COMMON, 25%
   1 LITH A1 RELIC, COMMON, 25%
 
@@ -542,16 +542,16 @@ Rotation C:
 
 
 [ExtractionMissionRewards/ExtractionHighLevelRewards]
- - Neptune, Despina, MT_EXCAVATE, FC_CORPUS
- - Pluto, Hieracon, MT_EXCAVATE, FC_INFESTATION
- - Europa, Cryotic Front, MT_EXCAVATE, FC_CORPUS
- - Europa, Cholistan, MT_EXCAVATE, FC_INFESTATION
+ - Neptune, Despina, MT_EXCAVATE, FC_CORPUS, NT_MISSION
+ - Pluto, Hieracon, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
+ - Europa, Cryotic Front, MT_EXCAVATE, FC_CORPUS, NT_EVENT
+ - Europa, Cholistan, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
 
 Rotation A:
   1 2000 CREDITS, COMMON, 25%
   1 2500 CREDITS, COMMON, 25%
   1 3000 CREDITS, COMMON, 25%
-  5 ENDO, COMMON, 25%
+  5 15 ENDO, COMMON, 25%
 
 Rotation B:
   1 NEO S1 RELIC, COMMON, 7.14%
@@ -586,20 +586,20 @@ Rotation C:
 
 
 [ExtractionMissionRewards/ExtractionLowLevelRewards]
- - Venus, Kiliken, MT_EXCAVATE, FC_CORPUS
- - Earth, Everest, MT_EXCAVATE, FC_GRINEER
- - Earth, Tikal, MT_EXCAVATE, FC_INFESTATION
- - Mars, Augustus, MT_EXCAVATE, FC_GRINEER
- - Phobos, Wendell, MT_EXCAVATE, FC_GRINEER
+ - Venus, Kiliken, MT_EXCAVATE, FC_CORPUS, NT_MISSION
+ - Earth, Everest, MT_EXCAVATE, FC_GRINEER, NT_MISSION
+ - Earth, Tikal, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
+ - Mars, Augustus, MT_EXCAVATE, FC_GRINEER, NT_MISSION
+ - Phobos, Wendell, MT_EXCAVATE, FC_GRINEER, NT_EVENT
 
 Rotation A:
   1 500 CREDITS, COMMON, 14.29%
   1 1000 CREDITS, COMMON, 14.29%
   1 1500 CREDITS, COMMON, 14.29%
   1 2000 CREDITS, COMMON, 14.29%
-  1 ENDO, COMMON, 14.29%
-  1 ENDO, COMMON, 14.29%
-  1 ENDO, COMMON, 14.29%
+  1 5 ENDO, COMMON, 14.29%
+  1 10 ENDO, COMMON, 14.29%
+  1 15 ENDO, COMMON, 14.29%
 
 Rotation B:
   1 LITH S2 RELIC, COMMON, 8.33%
@@ -631,16 +631,16 @@ Rotation C:
 
 
 [ExtractionMissionRewards/ExtractionMidLevelRewards]
- - Europa, Lillith, MT_EXCAVATE, FC_CORPUS
- - Europa, Valefor, MT_EXCAVATE, FC_CORPUS
+ - Europa, Lillith, MT_EXCAVATE, FC_CORPUS, NT_EVENT
+ - Europa, Valefor, MT_EXCAVATE, FC_CORPUS, NT_MISSION
 
 Rotation A:
   1 1500 CREDITS, COMMON, 16.67%
   1 2000 CREDITS, COMMON, 16.67%
   1 2500 CREDITS, COMMON, 16.67%
-  1 ENDO, COMMON, 16.67%
-  1 ENDO, COMMON, 16.67%
-  1 ENDO, COMMON, 16.67%
+  1 5 ENDO, COMMON, 16.67%
+  1 10 ENDO, COMMON, 16.67%
+  1 15 ENDO, COMMON, 16.67%
 
 Rotation B:
   1 MESO D1 RELIC, COMMON, 7.69%
@@ -727,7 +727,7 @@ Rotation C:
 
 
 [ForestSabotageRewards]
- - Earth, Cervantes, MT_SABOTAGE, FC_GRINEER
+ - Earth, Cervantes, MT_SABOTAGE, FC_GRINEER, NT_MISSION
 
 
 [FusionCoreRewards]
@@ -743,7 +743,7 @@ Rotation C:
 
 
 [InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard]
- - Uranus, Caelus, MT_TERRITORY, FC_GRINEER
+ - Uranus, Caelus, MT_TERRITORY, FC_GRINEER, NT_MISSION
 
 Rotation A:
   1 Automatic Trigger, UNCOMMON, 2.51%
@@ -755,8 +755,8 @@ Rotation A:
   1 Parallax Scope, UNCOMMON, 2.51%
   1 Rubedo-Lined Barrel, UNCOMMON, 2.51%
   1 Venomous Clip, UNCOMMON, 2.51%
-  3 ENDO, COMMON, 38.72%
-  5 ENDO, COMMON, 38.72%
+  3 50 ENDO, COMMON, 38.72%
+  5 35 ENDO, COMMON, 38.72%
 
 Rotation B:
   1 Superior Defenses, COMMON, 10%
@@ -764,15 +764,15 @@ Rotation B:
   1 Superior Defenses, COMMON, 10%
   1 Argon Plating, COMMON, 10%
   1 Furor, COMMON, 10%
-  5 ENDO, COMMON, 10%
+  5 10 ENDO, COMMON, 10%
   1 Glacial Edge, COMMON, 10%
   1 Electrified Barrel, COMMON, 10%
   1 Energy Inversion, COMMON, 10%
-  1 ENDO, COMMON, 10%
+  1 10 ENDO, COMMON, 10%
 
 Rotation C:
-  5 ENDO, UNCOMMON, 22.56%
-  5 ENDO, COMMON, 9.68%
+  5 80 ENDO, UNCOMMON, 22.56%
+  5 35 ENDO, COMMON, 9.68%
   1 AXI S1 RELIC, COMMON, 9.68%
   1 AXI V1 RELIC, COMMON, 9.68%
   1 AXI K1 RELIC, COMMON, 9.68%
@@ -783,10 +783,10 @@ Rotation C:
 
 
 [InterceptionMissionRewards/InterceptionMissionRewardsEasy]
- - Mercury, Odin, MT_TERRITORY, FC_GRINEER
- - Venus, Cytherean, MT_TERRITORY, FC_CORPUS
- - Earth, Gaia, MT_TERRITORY, FC_GRINEER
- - Ceres, Cinxia, MT_TERRITORY, FC_GRINEER
+ - Mercury, Odin, MT_TERRITORY, FC_GRINEER, NT_MISSION
+ - Venus, Cytherean, MT_TERRITORY, FC_CORPUS, NT_MISSION
+ - Earth, Gaia, MT_TERRITORY, FC_GRINEER, NT_MISSION
+ - Ceres, Cinxia, MT_TERRITORY, FC_GRINEER, NT_MISSION
 
 Rotation A:
   1 Vitality, COMMON, 10%
@@ -829,13 +829,13 @@ Rotation C:
 
 
 [InterceptionMissionRewards/InterceptionMissionRewardsHard]
- - Uranus, Stephano, MT_TERRITORY, FC_GRINEER
- - Pluto, Cerberus, MT_TERRITORY, FC_CORPUS
- - Eris, Sporid, MT_TERRITORY, FC_INFESTATION
- - Eris, Phalan, MT_TERRITORY, FC_INFESTATION
- - Eris, Xini, MT_TERRITORY, FC_INFESTATION
- - Sedna, Berehynia, MT_TERRITORY, FC_GRINEER
- - Void, Mithra, MT_TERRITORY, FC_GRINEER
+ - Uranus, Stephano, MT_TERRITORY, FC_GRINEER, NT_MISSION
+ - Pluto, Cerberus, MT_TERRITORY, FC_CORPUS, NT_MISSION
+ - Eris, Sporid, MT_TERRITORY, FC_INFESTATION, NT_EVENT
+ - Eris, Phalan, MT_TERRITORY, FC_INFESTATION, NT_EVENT
+ - Eris, Xini, MT_TERRITORY, FC_INFESTATION, NT_MISSION
+ - Sedna, Berehynia, MT_TERRITORY, FC_GRINEER, NT_MISSION
+ - Void, Mithra, MT_TERRITORY, FC_GRINEER, NT_MISSION
 
 Rotation A:
   1 Vitality, COMMON, 11.11%
@@ -867,11 +867,11 @@ Rotation C:
 
 
 [InterceptionMissionRewards/InterceptionMissionRewardsMedium]
- - Jupiter, Callisto, MT_TERRITORY, FC_CORPUS
- - Saturn, Iapetus, MT_TERRITORY, FC_GRINEER
- - Saturn, Rhea, MT_TERRITORY, FC_GRINEER
- - Uranus, Umbriel, MT_TERRITORY, FC_GRINEER
- - Europa, Ose, MT_TERRITORY, FC_CORPUS
+ - Jupiter, Callisto, MT_TERRITORY, FC_CORPUS, NT_MISSION
+ - Saturn, Iapetus, MT_TERRITORY, FC_GRINEER, NT_EVENT
+ - Saturn, Rhea, MT_TERRITORY, FC_GRINEER, NT_MISSION
+ - Uranus, Umbriel, MT_TERRITORY, FC_GRINEER, NT_MISSION
+ - Europa, Ose, MT_TERRITORY, FC_CORPUS, NT_MISSION
 
 Rotation A:
   1 Vitality, COMMON, 10%
@@ -883,7 +883,7 @@ Rotation A:
   1 MESO C1 RELIC, COMMON, 10%
   1 MESO N1 RELIC, COMMON, 10%
   1 MESO N2 RELIC, COMMON, 10%
-  1 ENDO, COMMON, 10%
+  1 5 ENDO, COMMON, 10%
 
 Rotation B:
   1 Target Cracker, COMMON, 7.14%
@@ -899,7 +899,7 @@ Rotation B:
   1 NEO N1 RELIC, COMMON, 7.14%
   1 NEO S2 RELIC, COMMON, 7.14%
   1 NEO V1 RELIC, COMMON, 7.14%
-  1 ENDO, COMMON, 7.14%
+  1 10 ENDO, COMMON, 7.14%
 
 Rotation C:
   1 NEO S3 RELIC, COMMON, 16.67%
@@ -963,8 +963,8 @@ Rotation C:
   1 Handspring, RARE, 1.01%
   1 MESO C1 RELIC, COMMON, 18.97%
   1 MESO V2 RELIC, COMMON, 18.97%
-  1 ENDO, COMMON, 18.97%
-  1 ENDO, UNCOMMON, 2.21%
+  1 10 ENDO, COMMON, 18.97%
+  1 15 ENDO, UNCOMMON, 2.21%
   1 NEO S1 RELIC, UNCOMMON, 2.21%
   1 NEO S2 RELIC, UNCOMMON, 2.21%
   1 NEO S3 RELIC, UNCOMMON, 2.21%
@@ -972,22 +972,22 @@ Rotation C:
 
 
 [KelaEventRewardsEasy]
- - Sedna, Undine, MT_ARENA, FC_GRINEER
+ - Sedna, Undine, MT_ARENA, FC_GRINEER, NT_EVENT
 
 
 [KelaEventRewardsHard]
- - Sedna, Vodyanoi, MT_ARENA, FC_GRINEER
- - Sedna, Yam, MT_ARENA, FC_GRINEER
+ - Sedna, Vodyanoi, MT_ARENA, FC_GRINEER, NT_MISSION
+ - Sedna, Yam, MT_ARENA, FC_GRINEER, NT_MISSION
 
 
 [KelaEventRewardsMedium]
- - Sedna, Nakki, MT_ARENA, FC_GRINEER
+ - Sedna, Nakki, MT_ARENA, FC_GRINEER, NT_MISSION
 
 
 [MacheteMayhemBonusRewards]
 
 Rotation A:
-  5 ENDO, COMMON, 75.88%
+  5 80 ENDO, COMMON, 75.88%
   1 MADURAI LENS, RARE, 0.29%
   1 VAZARIN LENS, RARE, 0.29%
   1 ZENURIK LENS, RARE, 0.29%
@@ -1057,8 +1057,8 @@ Rotation C:
   1 Master Thief, RARE, 2.01%
   1 MESO C1 RELIC, COMMON, 15.18%
   1 MESO V2 RELIC, COMMON, 15.18%
-  1 ENDO, COMMON, 15.18%
-  1 ENDO, UNCOMMON, 2.21%
+  1 10 ENDO, COMMON, 15.18%
+  1 15 ENDO, UNCOMMON, 2.21%
   1 NEO S1 RELIC, UNCOMMON, 2.21%
   1 NEO S2 RELIC, UNCOMMON, 2.21%
   1 NEO S3 RELIC, UNCOMMON, 2.21%
@@ -1118,8 +1118,8 @@ Rotation C:
   1 Handspring, RARE, 2.01%
   1 MESO C1 RELIC, COMMON, 15.18%
   1 MESO V2 RELIC, COMMON, 15.18%
-  1 ENDO, COMMON, 15.18%
-  1 ENDO, UNCOMMON, 2.21%
+  1 10 ENDO, COMMON, 15.18%
+  1 15 ENDO, UNCOMMON, 2.21%
   1 NEO S1 RELIC, UNCOMMON, 2.21%
   1 NEO S2 RELIC, UNCOMMON, 2.21%
   1 NEO S3 RELIC, UNCOMMON, 2.21%
@@ -1127,7 +1127,7 @@ Rotation C:
 
 
 [MissionRewardsInfested]
- - Phobos, Opik, MT_RACE, FC_CORPUS
+ - Phobos, Opik, MT_RACE, FC_CORPUS, NT_EVENT
 
 Rotation A:
   1 Vitality, COMMON, 15.18%
@@ -1178,8 +1178,8 @@ Rotation C:
   1 Intensify, UNCOMMON, 2.21%
   1 NEO N1 RELIC, UNCOMMON, 2.21%
   1 Thunderbolt, RARE, 2.01%
-  1 ENDO, COMMON, 15.18%
-  1 ENDO, UNCOMMON, 2.21%
+  1 10 ENDO, COMMON, 15.18%
+  1 15 ENDO, UNCOMMON, 2.21%
   1 MESO C1 RELIC, COMMON, 15.18%
   1 MESO V2 RELIC, COMMON, 15.18%
   1 NEO S1 RELIC, UNCOMMON, 2.21%
@@ -1192,18 +1192,18 @@ Rotation C:
 
 
 [OceanSabotageRewards]
- - Uranus, Ariel, MT_SABOTAGE, FC_GRINEER
- - Uranus, Prospero, MT_SABOTAGE, FC_GRINEER
- - Uranus, Setebos, MT_SABOTAGE, FC_GRINEER
+ - Uranus, Ariel, MT_SABOTAGE, FC_GRINEER, NT_MISSION
+ - Uranus, Prospero, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+ - Uranus, Setebos, MT_SABOTAGE, FC_GRINEER, NT_EVENT
 
 
 [OrokinDerelictSabotageRewards]
 
 
 [OrokinSabotageEventRewards]
- - Ceres, Gate Crash, MT_SABOTAGE, FC_GRINEER
- - Phobos, Shifting Sands, MT_SABOTAGE, FC_GRINEER
- - Phobos, Gate Crash, MT_SABOTAGE, FC_GRINEER
+ - Ceres, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+ - Phobos, Shifting Sands, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+ - Phobos, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT
 
 
 [ProjectFriendlyFireRewardsBasic]
@@ -1223,8 +1223,8 @@ Rotation A:
   1 Maim, RARE, 0.25%
   1 Fanged Fusillade, RARE, 0.25%
   1 Sweeping Serration, RARE, 0.25%
-  10 ENDO, UNCOMMON, 3.16%
-  5 ENDO, COMMON, 18.97%
+  10 15 ENDO, UNCOMMON, 3.16%
+  5 15 ENDO, COMMON, 18.97%
   1 3000 CREDITS, COMMON, 18.97%
   1 4000 CREDITS, UNCOMMON, 3.16%
   1 4000 CREDITS, UNCOMMON, 3.16%
@@ -1246,8 +1246,8 @@ Rotation A:
   1 Catalyzer Link, UNCOMMON, 5.61%
   1 Hydraulic Crosshairs, UNCOMMON, 5.61%
   1 Body Count, UNCOMMON, 5.61%
-  5 ENDO, COMMON, 38.52%
-  25 ENDO, LEGENDARY, 0.51%
+  5 15 ENDO, COMMON, 38.52%
+  25 80 ENDO, LEGENDARY, 0.51%
   1 Focused Defense, COMMON, 38.52%
 
 Rotation B:
@@ -1306,21 +1306,21 @@ Rotation A:
 
 
 [PVPMissionRewards/CTFRewards]
- - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER
- - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER
- - Neptune, Cephalon Capture, MT_PVP, FC_CORPUS
+ - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
+ - Neptune, Cephalon Capture, MT_PVP, FC_CORPUS, NT_PVP
 
 
 [PVPMissionRewards/DMRewards]
- - Saturn, Annihilation, MT_PVP, FC_GRINEER
- - Saturn, Annihilation, MT_PVP, FC_GRINEER
- - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER
- - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER
+ - Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER, NT_PVP
 
 
 [PVPMissionRewards/TDMRewards]
- - Saturn, Team Annihilation, MT_PVP, FC_GRINEER
- - Saturn, Team Annihilation, MT_PVP, FC_GRINEER
+ - Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
 
 
 [RaidRewards/GolemRaid]
@@ -1336,37 +1336,37 @@ Rotation A:
 
 
 [RescueMissionRewards/RescueMissionRewardsEasy]
- - Mercury, Caloris, MT_RESCUE, FC_GRINEER
- - Venus, V Prime, MT_RESCUE, FC_CORPUS
- - Venus, Linea, MT_RESCUE, FC_CORPUS
- - Mars, Martialis, MT_RESCUE, FC_GRINEER
- - Ceres, Olla, MT_RESCUE, FC_GRINEER
- - Ceres, Nuovo, MT_RESCUE, FC_GRINEER
- - Sedna, Jengu, MT_RESCUE, FC_GRINEER
- - Phobos, Monolith, MT_RESCUE, FC_CORPUS
+ - Mercury, Caloris, MT_RESCUE, FC_GRINEER, NT_MISSION
+ - Venus, V Prime, MT_RESCUE, FC_CORPUS, NT_MISSION
+ - Venus, Linea, MT_RESCUE, FC_CORPUS, NT_MISSION
+ - Mars, Martialis, MT_RESCUE, FC_GRINEER, NT_MISSION
+ - Ceres, Olla, MT_RESCUE, FC_GRINEER, NT_EVENT
+ - Ceres, Nuovo, MT_RESCUE, FC_GRINEER, NT_MISSION
+ - Sedna, Jengu, MT_RESCUE, FC_GRINEER, NT_EVENT
+ - Phobos, Monolith, MT_RESCUE, FC_CORPUS, NT_MISSION
 
 
 [RescueMissionRewards/RescueMissionRewardsHard]
- - Uranus, Mab, MT_RESCUE, FC_GRINEER
- - Uranus, Caliban, MT_RESCUE, FC_GRINEER
- - Neptune, Triton, MT_RESCUE, FC_CORPUS
- - Pluto, Regna, MT_RESCUE, FC_CORPUS
- - Eris, Brugia, MT_RESCUE, FC_INFESTATION
- - Eris, Ranova, MT_RESCUE, FC_INFESTATION
- - Eris, Sparga, MT_RESCUE, FC_INFESTATION
- - Sedna, Naga, MT_RESCUE, FC_GRINEER
- - LUA, Zeipel, MT_RESCUE, FC_CORPUS
+ - Uranus, Mab, MT_RESCUE, FC_GRINEER, NT_EVENT
+ - Uranus, Caliban, MT_RESCUE, FC_GRINEER, NT_MISSION
+ - Neptune, Triton, MT_RESCUE, FC_CORPUS, NT_MISSION
+ - Pluto, Regna, MT_RESCUE, FC_CORPUS, NT_MISSION
+ - Eris, Brugia, MT_RESCUE, FC_INFESTATION, NT_MISSION
+ - Eris, Ranova, MT_RESCUE, FC_INFESTATION, NT_EVENT
+ - Eris, Sparga, MT_RESCUE, FC_INFESTATION, NT_EVENT
+ - Sedna, Naga, MT_RESCUE, FC_GRINEER, NT_MISSION
+ - LUA, Zeipel, MT_RESCUE, FC_CORPUS, NT_MISSION
 
 
 [RescueMissionRewards/RescueMissionRewardsMedium]
- - Earth, Pacific, MT_RESCUE, FC_GRINEER
- - Jupiter, Metis, MT_RESCUE, FC_CORPUS
- - Saturn, Mimas, MT_RESCUE, FC_GRINEER
- - Saturn, Numa, MT_RESCUE, FC_GRINEER
- - Sedna, Veles, MT_RESCUE, FC_GRINEER
- - Europa, Eligor, MT_RESCUE, FC_CORPUS
- - Europa, Shax, MT_RESCUE, FC_CORPUS
- - Europa, Orias, MT_RESCUE, FC_CORPUS
+ - Earth, Pacific, MT_RESCUE, FC_GRINEER, NT_MISSION
+ - Jupiter, Metis, MT_RESCUE, FC_CORPUS, NT_MISSION
+ - Saturn, Mimas, MT_RESCUE, FC_GRINEER, NT_EVENT
+ - Saturn, Numa, MT_RESCUE, FC_GRINEER, NT_MISSION
+ - Sedna, Veles, MT_RESCUE, FC_GRINEER, NT_EVENT
+ - Europa, Eligor, MT_RESCUE, FC_CORPUS, NT_EVENT
+ - Europa, Shax, MT_RESCUE, FC_CORPUS, NT_EVENT
+ - Europa, Orias, MT_RESCUE, FC_CORPUS, NT_MISSION
 
 
 [RescueMissionRewards/RescueMissionRewardsNightmare]
@@ -1375,7 +1375,7 @@ Rotation A:
 [SortieRewards]
 
 Rotation A:
-  25 ENDO, COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
   1 OROKIN CATALYST BLUEPRINT, RARE, 1%
   1 Legendary Core, LEGENDARY, 0.17%
@@ -1393,13 +1393,13 @@ Rotation A:
   1 ZENURIK LENS, COMMON, 7.55%
   1 NARAMON LENS, COMMON, 7.55%
   1 UNAIRU LENS, COMMON, 7.55%
-  50 ENDO, LEGENDARY, 0.17%
+  50 80 ENDO, LEGENDARY, 0.17%
 
 
 [SortieRewardsB]
 
 Rotation A:
-  25 ENDO, COMMON, 9.44%
+  25 80 ENDO, COMMON, 9.44%
   1 Legendary Core, LEGENDARY, 0.17%
   1 DERA VANDAL BLUEPRINT, COMMON, 9.44%
   1 DERA VANDAL BARREL, COMMON, 9.44%
@@ -1411,7 +1411,7 @@ Rotation A:
   1 ZENURIK LENS, COMMON, 9.44%
   1 NARAMON LENS, COMMON, 9.44%
   1 UNAIRU LENS, COMMON, 9.44%
-  50 ENDO, LEGENDARY, 0.17%
+  50 80 ENDO, LEGENDARY, 0.17%
   1 OROKIN CATALYST BLUEPRINT, RARE, 1%
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
 
@@ -1419,7 +1419,7 @@ Rotation A:
 [SortieRewardsC]
 
 Rotation A:
-  25 ENDO, COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
   1 OROKIN CATALYST BLUEPRINT, RARE, 1%
   1 Legendary Core, LEGENDARY, 0.17%
@@ -1433,7 +1433,7 @@ Rotation A:
   1 ZENURIK LENS, COMMON, 7.55%
   1 NARAMON LENS, COMMON, 7.55%
   1 UNAIRU LENS, COMMON, 7.55%
-  50 ENDO, LEGENDARY, 0.17%
+  50 80 ENDO, LEGENDARY, 0.17%
   1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
   1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
@@ -1442,7 +1442,7 @@ Rotation A:
 [SortieRewardsD]
 
 Rotation A:
-  25 ENDO, COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
   1 PYRA SYANDANA, RARE, 1%
   1 OROKIN CATALYST BLUEPRINT, RARE, 1%
   1 Legendary Core, LEGENDARY, 0.17%
@@ -1456,7 +1456,7 @@ Rotation A:
   1 ZENURIK LENS, COMMON, 7.55%
   1 NARAMON LENS, COMMON, 7.55%
   1 UNAIRU LENS, COMMON, 7.55%
-  50 ENDO, LEGENDARY, 0.17%
+  50 80 ENDO, LEGENDARY, 0.17%
   1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
   1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
@@ -1465,7 +1465,7 @@ Rotation A:
 [SortieRewardsE]
 
 Rotation A:
-  25 ENDO, COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
   1 OROKIN CATALYST BLUEPRINT, RARE, 1%
   1 Legendary Core, LEGENDARY, 0.17%
   1 SHEEV BLUEPRINT, COMMON, 7.55%
@@ -1478,7 +1478,7 @@ Rotation A:
   1 ZENURIK LENS, COMMON, 7.55%
   1 NARAMON LENS, COMMON, 7.55%
   1 UNAIRU LENS, COMMON, 7.55%
-  50 ENDO, LEGENDARY, 0.17%
+  50 80 ENDO, LEGENDARY, 0.17%
   1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
   1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
@@ -1488,7 +1488,7 @@ Rotation A:
 [SortieRewardsF]
 
 Rotation A:
-  25 ENDO, COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
   1 OROKIN CATALYST BLUEPRINT, RARE, 1%
   1 Legendary Core, LEGENDARY, 0.17%
   1 SNIPETRON VANDAL BLUEPRINT, COMMON, 7.55%
@@ -1501,7 +1501,7 @@ Rotation A:
   1 ZENURIK LENS, COMMON, 7.55%
   1 NARAMON LENS, COMMON, 7.55%
   1 UNAIRU LENS, COMMON, 7.55%
-  50 ENDO, LEGENDARY, 0.17%
+  50 80 ENDO, LEGENDARY, 0.17%
   1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
   1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
@@ -1511,7 +1511,7 @@ Rotation A:
 [SortieRewardsG]
 
 Rotation A:
-  25 ENDO, COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
   1 Legendary Core, LEGENDARY, 0.17%
   1 DERA VANDAL BLUEPRINT, COMMON, 7.55%
   1 DERA VANDAL BARREL, COMMON, 7.55%
@@ -1523,7 +1523,7 @@ Rotation A:
   1 ZENURIK LENS, COMMON, 7.55%
   1 NARAMON LENS, COMMON, 7.55%
   1 UNAIRU LENS, COMMON, 7.55%
-  50 ENDO, LEGENDARY, 0.17%
+  50 80 ENDO, LEGENDARY, 0.17%
   1 OROKIN CATALYST BLUEPRINT, RARE, 1%
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
   1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
@@ -1534,7 +1534,7 @@ Rotation A:
 [SortieRewardsH]
 
 Rotation A:
-  25 ENDO, COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
   1 Legendary Core, LEGENDARY, 0.17%
   1 LATRON WRAITH BLUEPRINT, COMMON, 7.55%
   1 LATRON WRAITH BARREL, COMMON, 7.55%
@@ -1546,7 +1546,7 @@ Rotation A:
   1 ZENURIK LENS, COMMON, 7.55%
   1 NARAMON LENS, COMMON, 7.55%
   1 UNAIRU LENS, COMMON, 7.55%
-  50 ENDO, LEGENDARY, 0.17%
+  50 80 ENDO, LEGENDARY, 0.17%
   1 OROKIN CATALYST BLUEPRINT, RARE, 1%
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
   1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
@@ -1557,7 +1557,7 @@ Rotation A:
 [SortieRewardsI]
 
 Rotation A:
-  25 ENDO, COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
   1 Legendary Core, LEGENDARY, 0.17%
   1 WRAITH TWIN VIPERS BLUEPRINT, COMMON, 7.55%
   1 WRAITH TWIN VIPERS BARRELS, COMMON, 7.55%
@@ -1569,7 +1569,7 @@ Rotation A:
   1 ZENURIK LENS, COMMON, 7.55%
   1 NARAMON LENS, COMMON, 7.55%
   1 UNAIRU LENS, COMMON, 7.55%
-  50 ENDO, LEGENDARY, 0.17%
+  50 80 ENDO, LEGENDARY, 0.17%
   1 OROKIN CATALYST BLUEPRINT, RARE, 1%
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
   1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
@@ -1578,48 +1578,48 @@ Rotation A:
 
 
 [SpyMissionRewards/SpyHighMissionRewards]
- - Uranus, Rosalind, MT_INTEL, FC_GRINEER
- - Neptune, Laomedeia, MT_INTEL, FC_CORPUS
- - Pluto, Oceanum, MT_INTEL, FC_CORPUS
- - Eris, Cyath, MT_INTEL, FC_INFESTATION
- - Eris, Gnathos, MT_INTEL, FC_CORPUS
- - Sedna, Kappa, MT_INTEL, FC_GRINEER
- - Sedna, Tikoloshe, MT_INTEL, FC_GRINEER
+ - Uranus, Rosalind, MT_INTEL, FC_GRINEER, NT_MISSION
+ - Neptune, Laomedeia, MT_INTEL, FC_CORPUS, NT_MISSION
+ - Pluto, Oceanum, MT_INTEL, FC_CORPUS, NT_MISSION
+ - Eris, Cyath, MT_INTEL, FC_INFESTATION, NT_EVENT
+ - Eris, Gnathos, MT_INTEL, FC_CORPUS, NT_EVENT
+ - Sedna, Kappa, MT_INTEL, FC_GRINEER, NT_MISSION
+ - Sedna, Tikoloshe, MT_INTEL, FC_GRINEER, NT_MISSION
 
 
 [SpyMissionRewards/SpyLowMissionRewards]
- - Mercury, Suisei, MT_INTEL, FC_GRINEER
- - Venus, Vesper, MT_INTEL, FC_CORPUS
- - Venus, Unda, MT_INTEL, FC_CORPUS
- - Earth, Cambria, MT_INTEL, FC_GRINEER
- - Mars, Arval, MT_INTEL, FC_GRINEER
- - Ceres, Bode, MT_INTEL, FC_GRINEER
- - Ceres, Hapke, MT_INTEL, FC_GRINEER
- - Phobos, Grildrig, MT_INTEL, FC_GRINEER
- - Phobos, Shklovsky, MT_INTEL, FC_CORPUS
+ - Mercury, Suisei, MT_INTEL, FC_GRINEER, NT_MISSION
+ - Venus, Vesper, MT_INTEL, FC_CORPUS, NT_EVENT
+ - Venus, Unda, MT_INTEL, FC_CORPUS, NT_MISSION
+ - Earth, Cambria, MT_INTEL, FC_GRINEER, NT_MISSION
+ - Mars, Arval, MT_INTEL, FC_GRINEER, NT_MISSION
+ - Ceres, Bode, MT_INTEL, FC_GRINEER, NT_MISSION
+ - Ceres, Hapke, MT_INTEL, FC_GRINEER, NT_EVENT
+ - Phobos, Grildrig, MT_INTEL, FC_GRINEER, NT_EVENT
+ - Phobos, Shklovsky, MT_INTEL, FC_CORPUS, NT_MISSION
 
 
 [SpyMissionRewards/SpyMediumMissionRewards]
- - Jupiter, Amalthea, MT_INTEL, FC_CORPUS
- - Saturn, Dione, MT_INTEL, FC_GRINEER
- - Saturn, Aegaeon, MT_INTEL, FC_GRINEER
- - Europa, Valac, MT_INTEL, FC_CORPUS
+ - Jupiter, Amalthea, MT_INTEL, FC_CORPUS, NT_MISSION
+ - Saturn, Dione, MT_INTEL, FC_GRINEER, NT_MISSION
+ - Saturn, Aegaeon, MT_INTEL, FC_GRINEER, NT_EVENT
+ - Europa, Valac, MT_INTEL, FC_CORPUS, NT_MISSION
 
 
 [SpyMissionRewards/SpyMoonMissionRewards]
- - LUA, Pavlov, MT_INTEL, FC_CORPUS
+ - LUA, Pavlov, MT_INTEL, FC_CORPUS, NT_MISSION
 
 
 [SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards]
- - Uranus, Assur, MT_SURVIVAL, FC_INFESTATION
- - Neptune, Kelashin, MT_SURVIVAL, FC_INFESTATION
- - Sedna, Amarna, MT_SURVIVAL, FC_INFESTATION
+ - Uranus, Assur, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+ - Neptune, Kelashin, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+ - Sedna, Amarna, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 Rotation A:
   1 2000 CREDITS, COMMON, 25%
   1 2500 CREDITS, COMMON, 25%
   1 3000 CREDITS, COMMON, 25%
-  5 ENDO, COMMON, 25%
+  5 15 ENDO, COMMON, 25%
 
 Rotation B:
   1 NEO S1 RELIC, COMMON, 7.14%
@@ -1650,17 +1650,17 @@ Rotation C:
 
 
 [SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards]
- - Venus, Malva, MT_SURVIVAL, FC_INFESTATION
- - Ceres, Gabii, MT_SURVIVAL, FC_INFESTATION
+ - Venus, Malva, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+ - Ceres, Gabii, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 Rotation A:
   1 500 CREDITS, COMMON, 14.29%
   1 1000 CREDITS, COMMON, 14.29%
   1 1500 CREDITS, COMMON, 14.29%
   1 2000 CREDITS, COMMON, 14.29%
-  1 ENDO, COMMON, 14.29%
-  1 ENDO, COMMON, 14.29%
-  1 ENDO, COMMON, 14.29%
+  1 5 ENDO, COMMON, 14.29%
+  1 10 ENDO, COMMON, 14.29%
+  1 15 ENDO, COMMON, 14.29%
 
 Rotation B:
   1 LITH S2 RELIC, COMMON, 8.33%
@@ -1688,18 +1688,18 @@ Rotation C:
 
 
 [SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards]
- - Mars, Wahiba, MT_SURVIVAL, FC_INFESTATION
- - Jupiter, Cameria, MT_SURVIVAL, FC_INFESTATION
- - Saturn, Piscinas, MT_SURVIVAL, FC_INFESTATION
- - Phobos, Zeugma, MT_SURVIVAL, FC_INFESTATION
+ - Mars, Wahiba, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+ - Jupiter, Cameria, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+ - Saturn, Piscinas, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+ - Phobos, Zeugma, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 Rotation A:
   1 1500 CREDITS, COMMON, 16.67%
   1 2000 CREDITS, COMMON, 16.67%
   1 2500 CREDITS, COMMON, 16.67%
-  1 ENDO, COMMON, 16.67%
-  1 ENDO, COMMON, 16.67%
-  1 ENDO, COMMON, 16.67%
+  1 5 ENDO, COMMON, 16.67%
+  1 10 ENDO, COMMON, 16.67%
+  1 15 ENDO, COMMON, 16.67%
 
 Rotation B:
   1 MESO D1 RELIC, COMMON, 7.69%
@@ -1728,13 +1728,13 @@ Rotation C:
 
 
 [SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards]
- - Eris, Zabala, MT_SURVIVAL, FC_INFESTATION
+ - Eris, Zabala, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 Rotation A:
   1 2000 CREDITS, COMMON, 25%
   1 2500 CREDITS, COMMON, 25%
   1 3000 CREDITS, COMMON, 25%
-  5 ENDO, COMMON, 25%
+  5 15 ENDO, COMMON, 25%
 
 Rotation B:
   1 NEO S1 RELIC, COMMON, 16.67%
@@ -1760,30 +1760,30 @@ Rotation C:
 Rotation B:
   1 2000 CREDITS, COMMON, 33.33%
   1 4000 CREDITS, COMMON, 33.33%
-  1 ENDO, COMMON, 33.33%
+  1 15 ENDO, COMMON, 33.33%
 
 Rotation C:
   1 2000 CREDITS, COMMON, 33.33%
   1 4000 CREDITS, COMMON, 33.33%
-  1 ENDO, COMMON, 33.33%
+  1 15 ENDO, COMMON, 33.33%
 
 
 [SurvivalMissionRewards/SurvivalHighLevelRewards]
- - Uranus, Ophelia, MT_SURVIVAL, FC_GRINEER
- - Uranus, Cupid, MT_SURVIVAL, FC_GRINEER
- - Pluto, Palus, MT_SURVIVAL, FC_CORPUS
- - Eris, Hymeno, MT_SURVIVAL, FC_INFESTATION
- - Eris, Nimus, MT_SURVIVAL, FC_INFESTATION
- - Sedna, Selkie, MT_SURVIVAL, FC_GRINEER
- - Sedna, Scylla, MT_SURVIVAL, FC_GRINEER
- - Sedna, Yemaja, MT_SURVIVAL, FC_GRINEER
- - LUA, Tycho, MT_SURVIVAL, FC_CORPUS
+ - Uranus, Ophelia, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+ - Uranus, Cupid, MT_SURVIVAL, FC_GRINEER, NT_EVENT
+ - Pluto, Palus, MT_SURVIVAL, FC_CORPUS, NT_MISSION
+ - Eris, Hymeno, MT_SURVIVAL, FC_INFESTATION, NT_EVENT
+ - Eris, Nimus, MT_SURVIVAL, FC_INFESTATION, NT_MISSION
+ - Sedna, Selkie, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+ - Sedna, Scylla, MT_SURVIVAL, FC_GRINEER, NT_EVENT
+ - Sedna, Yemaja, MT_SURVIVAL, FC_GRINEER, NT_EVENT
+ - LUA, Tycho, MT_SURVIVAL, FC_CORPUS, NT_MISSION
 
 Rotation A:
   1 2000 CREDITS, COMMON, 25%
   1 2500 CREDITS, COMMON, 25%
   1 3000 CREDITS, COMMON, 25%
-  5 ENDO, COMMON, 25%
+  5 15 ENDO, COMMON, 25%
 
 Rotation B:
   1 NEO S1 RELIC, COMMON, 7.14%
@@ -1818,18 +1818,18 @@ Rotation C:
 
 
 [SurvivalMissionRewards/SurvivalLowLevelRewards]
- - Mercury, Apollodorus, MT_SURVIVAL, FC_INFESTATION
- - Mars, Arcadia, MT_SURVIVAL, FC_CORPUS
- - Phobos, Flimnap, MT_SURVIVAL, FC_GRINEER
+ - Mercury, Apollodorus, MT_SURVIVAL, FC_INFESTATION, NT_MISSION
+ - Mars, Arcadia, MT_SURVIVAL, FC_CORPUS, NT_EVENT
+ - Phobos, Flimnap, MT_SURVIVAL, FC_GRINEER, NT_EVENT
 
 Rotation A:
   1 500 CREDITS, COMMON, 14.29%
   1 1000 CREDITS, COMMON, 14.29%
   1 1500 CREDITS, COMMON, 14.29%
   1 2000 CREDITS, COMMON, 14.29%
-  1 ENDO, COMMON, 14.29%
-  1 ENDO, COMMON, 14.29%
-  1 ENDO, COMMON, 14.29%
+  1 5 ENDO, COMMON, 14.29%
+  1 10 ENDO, COMMON, 14.29%
+  1 15 ENDO, COMMON, 14.29%
 
 Rotation B:
   1 LITH S2 RELIC, COMMON, 8.33%
@@ -1861,20 +1861,20 @@ Rotation C:
 
 
 [SurvivalMissionRewards/SurvivalMidLevelRewards]
- - Jupiter, Elara, MT_SURVIVAL, FC_CORPUS
- - Saturn, Titan, MT_SURVIVAL, FC_GRINEER
- - Ceres, Draco, MT_SURVIVAL, FC_GRINEER
- - Europa, Zagan, MT_SURVIVAL, FC_CORPUS
- - Void, Ani, MT_SURVIVAL, FC_OROKIN
- - Phobos, Stickney, MT_SURVIVAL, FC_CORPUS
+ - Jupiter, Elara, MT_SURVIVAL, FC_CORPUS, NT_MISSION
+ - Saturn, Titan, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+ - Ceres, Draco, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+ - Europa, Zagan, MT_SURVIVAL, FC_CORPUS, NT_EVENT
+ - Void, Ani, MT_SURVIVAL, FC_OROKIN, NT_MISSION
+ - Phobos, Stickney, MT_SURVIVAL, FC_CORPUS, NT_MISSION
 
 Rotation A:
   1 1500 CREDITS, COMMON, 16.67%
   1 2000 CREDITS, COMMON, 16.67%
   1 2500 CREDITS, COMMON, 16.67%
-  1 ENDO, COMMON, 16.67%
-  1 ENDO, COMMON, 16.67%
-  1 ENDO, COMMON, 16.67%
+  1 5 ENDO, COMMON, 16.67%
+  1 10 ENDO, COMMON, 16.67%
+  1 15 ENDO, COMMON, 16.67%
 
 Rotation B:
   1 MESO D1 RELIC, COMMON, 7.69%
@@ -1907,13 +1907,13 @@ Rotation C:
 
 
 [SurvivalMissionRewards/SurvivalUltraLevelRewards]
- - Void, Mot, MT_SURVIVAL, FC_OROKIN
+ - Void, Mot, MT_SURVIVAL, FC_OROKIN, NT_MISSION
 
 Rotation A:
   1 2000 CREDITS, COMMON, 25%
   1 2500 CREDITS, COMMON, 25%
   1 3000 CREDITS, COMMON, 25%
-  5 ENDO, COMMON, 25%
+  5 15 ENDO, COMMON, 25%
 
 Rotation B:
   1 NEO S1 RELIC, COMMON, 16.67%

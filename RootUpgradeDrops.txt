@@ -1,6 +1,6 @@
 [/Lotus/Upgrades/Mods/DropTables/RootUpgradeDrops]
 Level: 0-10
-	Fusion Core, COMMON, AP_FUSION
+	5 ENDO, COMMON, AP_FUSION
 	Sundering Strike, RARE, AP_TACTIC
 	True Steel, COMMON, AP_ATTACK
 	Organ Shatter, COMMON, AP_ATTACK
@@ -26,7 +26,7 @@ Level: 0-10
 	Eagle Eye, UNCOMMON, AP_TACTIC
 
 Level: 10-20
-	Fusion Core, UNCOMMON, AP_FUSION
+	10 ENDO, UNCOMMON, AP_FUSION
 	Molten Impact, UNCOMMON, AP_TACTIC
 	Fury, UNCOMMON, AP_ATTACK
 	North Wind, UNCOMMON, AP_DEFENSE
@@ -52,7 +52,7 @@ Level: 10-20
 	Insulation, COMMON, AP_DEFENSE
 
 Level: 20-100
-	Fusion Core, RARE, AP_FUSION
+	15 ENDO, RARE, AP_FUSION
 	Pressure Point, COMMON, AP_ATTACK
 	Killing Blow, UNCOMMON, AP_ATTACK
 	Melee Prowess, COMMON, AP_DEFENSE
@@ -121,7 +121,7 @@ AP_FUSION=0.3
 
 [/Lotus/Upgrades/Mods/DropTables/CorpusUpgradeDrops]
 Level: 0-10
-	Fusion Core, COMMON, AP_FUSION
+	5 ENDO, COMMON, AP_FUSION
 	Sundering Strike, RARE, AP_TACTIC
 	True Steel, COMMON, AP_ATTACK
 	Organ Shatter, COMMON, AP_ATTACK
@@ -144,7 +144,7 @@ Level: 0-10
 	Rush, UNCOMMON, AP_TACTIC
 
 Level: 10-20
-	Fusion Core, UNCOMMON, AP_FUSION
+	10 ENDO, UNCOMMON, AP_FUSION
 	Molten Impact, UNCOMMON, AP_TACTIC
 	Fury, UNCOMMON, AP_ATTACK
 	North Wind, UNCOMMON, AP_DEFENSE
@@ -167,7 +167,7 @@ Level: 10-20
 	Thief's Wit, COMMON, AP_TACTIC
 
 Level: 20-100
-	Fusion Core, RARE, AP_FUSION
+	15 ENDO, RARE, AP_FUSION
 	Pressure Point, COMMON, AP_ATTACK
 	Killing Blow, UNCOMMON, AP_ATTACK
 	Melee Prowess, COMMON, AP_DEFENSE
@@ -218,7 +218,7 @@ AP_FUSION=0.3
 
 [/Lotus/Upgrades/Mods/DropTables/GrineerUpgradeDrops]
 Level: 0-10
-	Fusion Core, COMMON, AP_FUSION
+	5 ENDO, COMMON, AP_FUSION
 	Sundering Strike, RARE, AP_TACTIC
 	True Steel, COMMON, AP_ATTACK
 	Organ Shatter, COMMON, AP_ATTACK
@@ -241,7 +241,7 @@ Level: 0-10
 	Rush, UNCOMMON, AP_TACTIC
 
 Level: 10-20
-	Fusion Core, UNCOMMON, AP_FUSION
+	10 ENDO, UNCOMMON, AP_FUSION
 	Molten Impact, UNCOMMON, AP_TACTIC
 	Fury, UNCOMMON, AP_ATTACK
 	North Wind, UNCOMMON, AP_DEFENSE
@@ -264,7 +264,7 @@ Level: 10-20
 	Thief's Wit, COMMON, AP_TACTIC
 
 Level: 20-100
-	Fusion Core, RARE, AP_FUSION
+	15 ENDO, RARE, AP_FUSION
 	Pressure Point, COMMON, AP_ATTACK
 	Killing Blow, UNCOMMON, AP_ATTACK
 	Melee Prowess, COMMON, AP_DEFENSE
@@ -314,7 +314,7 @@ AP_FUSION=0.3
 
 [/Lotus/Upgrades/Mods/DropTables/InfestedUpgradeDrops]
 Level: 0-10
-	Fusion Core, COMMON, AP_FUSION
+	5 ENDO, COMMON, AP_FUSION
 	Sundering Strike, RARE, AP_TACTIC
 	True Steel, COMMON, AP_ATTACK
 	Organ Shatter, COMMON, AP_ATTACK
@@ -337,7 +337,7 @@ Level: 0-10
 	Rush, UNCOMMON, AP_TACTIC
 
 Level: 10-20
-	Fusion Core, UNCOMMON, AP_FUSION
+	10 ENDO, UNCOMMON, AP_FUSION
 	Molten Impact, UNCOMMON, AP_TACTIC
 	Fury, UNCOMMON, AP_ATTACK
 	North Wind, UNCOMMON, AP_DEFENSE
@@ -360,7 +360,7 @@ Level: 10-20
 	Thief's Wit, COMMON, AP_TACTIC
 
 Level: 20-100
-	Fusion Core, RARE, AP_FUSION
+	15 ENDO, RARE, AP_FUSION
 	Pressure Point, COMMON, AP_ATTACK
 	Killing Blow, UNCOMMON, AP_ATTACK
 	Melee Prowess, COMMON, AP_DEFENSE
