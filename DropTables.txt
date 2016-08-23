@@ -1036,9 +1036,9 @@ DROP_MISC_ITEM (Drop Chance: 25%)
 	FORMA, COMMON, 50%
 
 DROP_MOD (Drop Chance: 3%)
-	30 ENDO, RARE, 8.33%
+	80 ENDO, RARE, 8.33%
 	50 ENDO, UNCOMMON, 45.83%
-	25 ENDO, UNCOMMON, 45.83%
+	50 ENDO, UNCOMMON, 45.83%
 
 DROP_POWERUP (Drop Chance: 100%)
 	500-1500 CREDITS, RARE, 100%
@@ -9416,11 +9416,11 @@ DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [SpaceDropTables/GrineerSpaceDroneDropTable]
- - DREG (GrineerSpaceDroneAvatar)
  - Mutalist Lightning Carrier (CarrierLightningSpaceDroneAvatar)
  - Mutalist Toxic Carrier (CarrierSpaceDroneAvatar)
  - Attack Mutalist (InfestedAttackDroneAvatar)
  - [PH] Suicide Mutalist (SuicideSpaceDroneAvatar)
+ - DREG (GrineerSpaceDroneAvatar)
 
 DROP_AMMO (Drop Chance: 0%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -9911,13 +9911,13 @@ DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [TennoSpecterDropTable]
- - TENNO SPECTER (TennoReplicantAllyAvatar)
+ - TENNO SPECTER (YinYangSwitchAugmentOneAvatar)
  - TENNO SPECTER (TennoReplicantAvatar)
+ - TENNO SPECTER (TennoReplicantAllyAvatar)
  - TENNO SPECTER (TennoReplicantAttackDefendAvatar)
  - CHROMA (TennoReplicantChromaAvatar)
  - CHROMA (TennoReplicantChromaAvatarDerelict)
  - INFESTED MESA (TennoReplicantGunslingerAvatar)
- - TENNO SPECTER (YinYangSwitchAugmentOneAvatar)
  - LOKI SPECTER (TennoReplicantLokiAvatar)
  - OBERON SPECTER (TennoReplicantPaladinAvatar)
  - SARYN SPECTER (TennoReplicantSarynAvatar)
