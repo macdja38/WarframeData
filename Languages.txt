@@ -50869,7 +50869,7 @@ The Lotus"
 "This mod is installed on:"
 
 [/Lotus/Language/Menu/ModNameTip]
-"Each Mod type has a unique name. Duplicates are the most effective for Fusion."
+"Each Mod type has a unique name and details about compatible gear."
 
 [/Lotus/Language/Menu/ModPolarityTip]
 "Mod Polarity. Matching item's slot lowers capacity required. Matching polarity improves Fusion."
@@ -54854,6 +54854,12 @@ Only 4 revives can be used in this mission, you can supplement |COUNT| for |PRIC
 
 [/Lotus/Language/Menu/TennoCustomization_Hood]
 "HOOD"
+
+[/Lotus/Language/Menu/TennoCustomization_HoodClosed]
+"HOOD CLOSED"
+
+[/Lotus/Language/Menu/TennoCustomization_HoodOpen]
+"HOOD OPENED"
 
 [/Lotus/Language/Menu/TennoCustomization_InnerEyeColor]
 "INNER EYE COLOR"
@@ -67354,7 +67360,7 @@ Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
 "Lunaro is a team game, played on a field divided into two halves: Sun and Moon. The objective is simple: Get the ball, called a "Lunaro", through the opponent's goal at the opposite end of the arena. The team with the most points by the end of the match wins the game."
 
 [/Lotus/Language/Subtitles/PvP/DLunaroRulesPassing0010Teshin]
-"Good passing is crucial to winning Lunaro. When aiming near a teammate, you will see a chevron appear over them. Tapping fire with this chevron up will automatically pass to that player. Keep in mind it is still possible to intercept a pass, but a passed Lunaro moves faster and more accurately to a receiver than a standard launch."
+"Good passing is crucial to winning Lunaro. When aiming near a teammate you will see a chevron appear over them. Tapping pass with this chevron up will automatically pass to that player. Keep in mind it is still possible to intercept a pass, but a passed Lunaro moves faster and more accurately to a receiver than a standard launch."
 
 [/Lotus/Language/Subtitles/PvP/DLunaroRulesScoring0010Teshin]
 "Getting the Lunaro through the opponents goal is worth one point. If the goal is scored from outside the defender's zone, an additional point is given. If the Lunaro is unstable during the goal, an extra point is also awarded."
@@ -71353,7 +71359,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Your path has led here. Prove yourself, Tenno."
 
 [/Lotus/Language/Subtitles/Syndicates/DSyndAlertIntro0510CephSuda]
-"What a interesting place. I appreciate you doing this task for me."
+"What an interesting place. I appreciate you doing this task for me."
 
 [/Lotus/Language/Subtitles/Syndicates/DSyndAlertIntro0680Perrin]
 "Your calculated survival probability is encouraging… good luck."
@@ -72088,10 +72094,10 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Status Effects inflicted upon enemies last longer."
 
 [/Lotus/Language/Suits/PassiveAbilityTrinity]
-"Revive fallen allies faster and from further away."
+"Revive fallen allies faster and from farther away."
 
 [/Lotus/Language/Suits/PassiveAbilityTrinityPrime]
-"Revive fallen allies faster and from further away."
+"Revive fallen allies faster and from farther away."
 
 [/Lotus/Language/Suits/PassiveAbilityValkyr]
 "Faster recovery from being knockdown."
