@@ -2842,10 +2842,10 @@ DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [HyenaAgentDropTable]
- - Hyena Pb (HyenaGunAvatar)
  - Hyena Th (HyenaElecAvatar)
  - Hyena NG (HyenaFireAvatar)
  - Hyena LN2 (HyenaIceAvatar)
+ - Hyena Pb (HyenaGunAvatar)
  - HYENA PACK (MiniRobotAvatar)
 
 DROP_AMMO (Drop Chance: 70%)

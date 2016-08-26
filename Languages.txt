@@ -34463,7 +34463,7 @@ This bundle of 1 Orokin Cell can be used for crafting items in your Foundry."
 "[PH] ACCELERANT AUGMENT"
 
 [/Lotus/Language/Items/OverheatAbilityAugment1Desc]
-"[PH] Accelerant Augment - Accelerant increases casting speed by |SPEED|% for allies within range."
+"[PH] Accelerant Augment - Accelerant gives +|SPEED|% casting speed and +|DAMAGE_PCT|% <DT_FIRE> Fire damage for allies within range."
 
 [/Lotus/Language/Items/OverheatAbilityBoost]
 "Boosting this ability increases its duration and damage."
