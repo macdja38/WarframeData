@@ -3030,7 +3030,7 @@ You will receive an email from your 2K contact when the console has been approve
 "DAMAGE BLOCK"
 
 [/Game/WEAPON_PARRY_DAMAGE_REFLECTED]
-"damage taken is reflected when blocking attacks while channelling."
+"damage taken is reflected when blocking attacks while channelling"
 
 [/Game/WEAPON_PARRY_DAMAGE_TO_STAMINA]
 "PARRY DAMAGE TO STAMINA"
@@ -4106,6 +4106,9 @@ Darvo"
 [/Lotus/Language/Alerts/SabotageDesc9]
 "Deactivate Turrets"
 
+[/Lotus/Language/Alerts/SaveDarvoTitle]
+"Corpus Bust"
+
 [/Lotus/Language/Alerts/SurvivalDesc1]
 "Survive or DIE"
 
@@ -5085,6 +5088,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bosses/DeathSquadCName]
 "Shik Tal"
 
+[/Lotus/Language/Bosses/DebtCollector]
+"Debt Collector"
+
+[/Lotus/Language/Bosses/DebtCollectorTransmission]
+"We've found him. Death to the smuggler!"
+
 [/Lotus/Language/Bosses/FrohdBek]
 "Frohd Bek"
 
@@ -5445,8 +5454,29 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_Complication_ResetOnDowned]
 "[PH] without dying or becoming downed"
 
+[/Lotus/Language/Challenges/Challenge_Complication_ResetOnGearAirSupport]
+"[PH] without using air support"
+
+[/Lotus/Language/Challenges/Challenge_Complication_ResetOnGearAmmoRestores]
+"[PH] without using ammo consumables"
+
+[/Lotus/Language/Challenges/Challenge_Complication_ResetOnGearCipher]
+"[PH] without using ciphers"
+
+[/Lotus/Language/Challenges/Challenge_Complication_ResetOnGearEnergyRestores]
+"[PH] without using energy consumables"
+
+[/Lotus/Language/Challenges/Challenge_Complication_ResetOnGearHealthRestores]
+"[PH] without using health consumables"
+
+[/Lotus/Language/Challenges/Challenge_Complication_ResetOnGearShieldRestores]
+"[PH] without using shield consumables"
+
 [/Lotus/Language/Challenges/Challenge_Complication_ResetOnMissionFailure]
 "[PH] without failing a mission"
+
+[/Lotus/Language/Challenges/Challenge_Complication_ResetOnNewDay]
+"[PH] in one day"
 
 [/Lotus/Language/Challenges/Challenge_Complication_ResetOnProc]
 "[PH] without getting afflicted by a status effect"
@@ -10009,6 +10039,9 @@ Warframe Support Team"
 [/Lotus/Language/Dojo/ChangeSpawnRoomFail_UNKNOWN_ERROR]
 "Could not change spawn room. Try again later."
 
+[/Lotus/Language/Dojo/ChaseChallengeProgress]
+"CAPTURE PROGRESS: |PROGRESS|%"
+
 [/Lotus/Language/Dojo/ChooseRailToCustomize]
 "CHOOSE A RAIL TO CUSTOMIZE"
 
@@ -12397,6 +12430,18 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 [/Lotus/Language/Emotes/KataEmoteName]
 "SOLSTICE NARTA"
 
+[/Lotus/Language/Emotes/KneelEmoteDesc]
+"A stationary pose on one's knees."
+
+[/Lotus/Language/Emotes/KneelEmoteName]
+"KNEEL"
+
+[/Lotus/Language/Emotes/KneelOneLegEmoteDesc]
+"A pose to reflect honor and respect."
+
+[/Lotus/Language/Emotes/KneelOneLegEmoteName]
+"KNEE BEND"
+
 [/Lotus/Language/Emotes/MeditateEmoteName]
 "MEDITATE"
 
@@ -12405,6 +12450,12 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 
 [/Lotus/Language/Emotes/ShrugEmoteName]
 "SHRUG"
+
+[/Lotus/Language/Emotes/SitEmoteDesc]
+"A casual disengagement from action."
+
+[/Lotus/Language/Emotes/SitEmoteName]
+"SIT"
 
 [/Lotus/Language/Enemies/FairyQuestLoki]
 "KNAVE SPECTER"
@@ -16091,6 +16142,17 @@ Warframe on PS4 has completed its first trip around the Sun! We recently celebra
 
 Thank you for playing Warframe, Tenno, here's to another great year!"
 
+[/Lotus/Language/G1Quests/PS4ThirdAnniversaryMessage]
+"Tenno,
+
+For three Earth cycles you have been awake, fighting valiantly against all oppressors. Your bravery and unbreakable will has not been taken for granted.
+
+As tribute to you and your achievements, please accept these gifts. They are a small gesture of my gratitude for all you have done for this System. 
+
+Thank you, Tenno.
+
+-The Lotus"
+
 [/Lotus/Language/G1Quests/PSIVGiftMessage]
 "|PLAYER_NAME|, 
 
@@ -17424,6 +17486,17 @@ Welcome back. In your absence, chaos has brewed unchecked. The System needs you 
 [/Lotus/Language/G1Quests/WelcomeBackInboxTitle]
 "Welcome back"
 
+[/Lotus/Language/G1Quests/XB1SecondAnniversaryMessage]
+"Tenno, 
+
+Two Earth Cycles have now passed. You’ve fought to bring balance between the Corpus and Grineer factions, consumed by power and technology. You’ve repressed further mutation brought by the Infested. You’ve developed unimaginable power, skills and abilities through combat.
+
+Through all your efforts, you’ve brought us honor.
+
+Take these gifts, brave Tenno, as a reminder of your contributions to the Solar System.
+
+- The Lotus"
+
 [/Lotus/Language/G1Quests/XmasAlert1Desc]
 "Tenno,
 
@@ -18512,6 +18585,9 @@ SEGMENT REQUIRED"
 
 [/Lotus/Language/Game/CorpusSpaceTurretName]
 "CANNON BATTERY"
+
+[/Lotus/Language/Game/CorpusStasisMine]
+"Corpus Stasis Mine"
 
 [/Lotus/Language/Game/CorpusSwarmDroneDesc]
 "Follows a target while attacking them with lasers"
@@ -20887,6 +20963,12 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/PlayerDialog_SynthesisTutorialLaunch]
 "I would like to run the Synthesis simulation."
 
+[/Lotus/Language/Game/PlayerDialog_VendorGuyTradeTreasures]
+"Extract Endo from my Ayatan Items"
+
+[/Lotus/Language/Game/PlayerDialog_VendorGuyTreasureTutorial]
+"Ayatan Treasures?"
+
 [/Lotus/Language/Game/PlayerDialog_VendorGuyWantToBuy]
 "Looking to buy something."
 
@@ -22283,6 +22365,13 @@ When you capture a point, it will start decoding a message. The more points you 
 This mission can be repeated until one faction has completely taken control. If enough missions for the same faction are completed, they may see fit to grant you battle pay. Battle Pay can only be earned for a single faction.
 
 Information for progress of the conflict can be found on the Solar Chart. Once a faction wins enough battles, the conflict will end."
+
+[/Lotus/Language/GameModes/LunaroDesc]
+"Lunaro is an ancient ball-sport, once played both as training and recreation by Tenno of old.
+
+Sun and Moon form teams of up to three players. Using an Arcata scoop, players try to hurl the ball - known as a Lunaro - through the opposing team’s goal. Teams defend their own goal by intercepting the Lunaro when passed or shot at the goal. Lunaro is a contact sport and players are free to forcefully knock the Lunaro out of another player’s Arcata. 
+
+After a goal, the scoring team must leave the opposition's zone before they can take possession of the Lunaro again. Lunaro consists of two 5-minute periods. The team with the highest score at the end of the second period is declared the winner."
 
 [/Lotus/Language/GameModes/MobileDefense]
 "Mobile Defense"
@@ -26941,6 +27030,12 @@ One Fusion Core has a chance to be Rare."
 [/Lotus/Language/Items/ConflictModMoveSpeedAura]
 "Move Speed Aura Mod"
 
+[/Lotus/Language/Items/ConsoleTennogenABundleDesc]
+"This bundle features a collection of cosmetic items created by the community."
+
+[/Lotus/Language/Items/ConsoleTennogenABundleName]
+"ADAU TENNOGEN BUNDLE"
+
 [/Lotus/Language/Items/ConsumablesPackDesc]
 "A collection of restorative items to keep you and your teammates alive."
 
@@ -29195,7 +29290,7 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 "FORMA"
 
 [/Lotus/Language/Items/FormaDesc]
-"This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Sentinel or Weapon and then resets their affinity to Level 1. This can only be used on Level 30 Warframes, Sentinels and Weapons."
+"This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons."
 
 [/Lotus/Language/Items/FormaPackDesc]
 "A collection of three Formas."
@@ -31281,6 +31376,24 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/JadeColorPickerName]
 "JADE"
 
+[/Lotus/Language/Items/JadeDaedalusChestPlateDesc]
+"A next generation breastplate for your Warframe."
+
+[/Lotus/Language/Items/JadeDaedalusChestPlateName]
+"JADE DAEDALUS CHEST PLATE"
+
+[/Lotus/Language/Items/JadeDaedalusKneePlatesDesc]
+"Next generation leg plates for your Warframe."
+
+[/Lotus/Language/Items/JadeDaedalusKneePlatesName]
+"JADE DAEDALUS KNEE PLATES"
+
+[/Lotus/Language/Items/JadeDaedalusShoulderPlatesDesc]
+"Next generation shoulder plates for your Warframe."
+
+[/Lotus/Language/Items/JadeDaedalusShoulderPlatesName]
+"JADE DAEDALUS SHOULDER PLATES"
+
 [/Lotus/Language/Items/JadeDefaultHelmet]
 "NYX HELMET"
 
@@ -32183,10 +32296,10 @@ Requires: Installed INCUBATOR SEGMENT"
 "Hysteria"
 
 [/Lotus/Language/Items/LastStandAbilityAugmentDesc]
-"[PH] Hysteria Augment - Alt fire to teleport to enemies up to |RANGE| meters away."
+"Hysteria Augment - Use Secondary Fire to leap onto enemies up to |RANGE|m away."
 
 [/Lotus/Language/Items/LastStandAbilityAugmentName]
-"[PH] HYSTERIA AUGMENT"
+"Hysterical Assault"
 
 [/Lotus/Language/Items/LastStandAbilityAugmentPvPDesc]
 "Hysteria Augment - While Hysteria is active, each kill restores |SHIELD_PCT|% max shields."
@@ -34460,10 +34573,10 @@ This bundle of 1 Orokin Cell can be used for crafting items in your Foundry."
 "Accelerant"
 
 [/Lotus/Language/Items/OverheatAbilityAugment1]
-"[PH] ACCELERANT AUGMENT"
+"Flash Accelerant"
 
 [/Lotus/Language/Items/OverheatAbilityAugment1Desc]
-"[PH] Accelerant Augment - Accelerant gives +|SPEED|% casting speed and +|DAMAGE_PCT|% <DT_FIRE> Fire damage for allies within range."
+"Accelerant Augment - Accelerant gives +|SPEED|% casting speed and +|DAMAGE_PCT|% <DT_FIRE> Fire damage to allies within range."
 
 [/Lotus/Language/Items/OverheatAbilityBoost]
 "Boosting this ability increases its duration and damage."
@@ -35095,6 +35208,12 @@ One Fusion Core is guaranteed Uncommon."
 [/Lotus/Language/Items/PremiumUncommonUpgradePackDesc]
 "Roll the dice to get a 5 pack of mods, with two guaranteed Uncommon or better."
 
+[/Lotus/Language/Items/PrestigePackEightDesc]
+"[PH]"
+
+[/Lotus/Language/Items/PrestigePackEightName]
+"EXCLUSIVE PRESTIGE PACK VIII"
+
 [/Lotus/Language/Items/PrestigePackFiveBannerDesc]
 "Show your Xbox One allegiance with the all-new Prestige Pack V!"
 
@@ -35130,6 +35249,12 @@ This pack may only be purchased once per account and is available for a limited 
 
 [/Lotus/Language/Items/PrestigePackFourName]
 "EXCLUSIVE PRESTIGE PACK IV"
+
+[/Lotus/Language/Items/PrestigePackSevenDesc]
+"[PH]"
+
+[/Lotus/Language/Items/PrestigePackSevenName]
+"EXCLUSIVE PRESTIGE PACK VII"
 
 [/Lotus/Language/Items/PrestigePackSixBannerDesc]
 "Now Available for a Limited Time"
@@ -36711,10 +36836,10 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "Sandstorm"
 
 [/Lotus/Language/Items/SandmanStormAbilityAugmentDesc]
-"[PH] Sandstorm Augment - The storm has a |CHANCE|% chance of inducing status effects based on the elemental properties of Inaros' melee weapon."
+"Sandstorm Augment - Sandstorm has a |CHANCE|% chance of inflicting status effects based on the damage types and mods on equipped melee weapon."
 
 [/Lotus/Language/Items/SandmanStormAbilityAugmentName]
-"[PH] SANDSTORM AUGMENT"
+"Elemental Sandstorm"
 
 [/Lotus/Language/Items/SandmanStormAbilityDesc]
 "Become a whirling spiral of sand that sends enemies flying and devours those trapped in quicksand."
@@ -47277,7 +47402,7 @@ Pack Includes:
 "CUSTOMIZE LANDING CRAFT"
 
 [/Lotus/Language/Menu/CustomizeShipExteriorDesc]
-"Modify Landing Craft stylings and color."
+"MODIFY LANDING CRAFT STYLINGS AND COLOR"
 
 [/Lotus/Language/Menu/CustomizeShipHull]
 "LANDING CRAFT"
@@ -47289,7 +47414,7 @@ Pack Includes:
 "CUSTOMIZE INTERIOR"
 
 [/Lotus/Language/Menu/CustomizeShipInteriorDesc]
-"Modify the ship's interior."
+"MODIFY THE SHIP'S INTERIOR"
 
 [/Lotus/Language/Menu/CustomizeShipTitle]
 "LANDING CRAFT APPEARANCE"
@@ -47888,7 +48013,7 @@ Scales with Mastery Rank"
 "CANNOT FUSE A TRANSMUTE CORE"
 
 [/Lotus/Language/Menu/FUSION_ModAtMaxLevelError]
-"|MOD| IS ALREADY AT MAX LEVEL"
+"|MOD|: ALREADY MAXED"
 
 [/Lotus/Language/Menu/FUSION_Prompt]
 "<WARNING> SELECT ITEMS TO CONTRIBUTE TOWARDS MODIFICATION OF TARGET MOD <WARNING>"
@@ -47897,7 +48022,7 @@ Scales with Mastery Rank"
 "SELECT A MOD TO BEGIN FUSION"
 
 [/Lotus/Language/Menu/FUSION_TooManySelectionsError]
-"CAN ONLY HAVE 1 MOD SELECTED TO BEGIN FUSION"
+"SELECT ONLY 1 MOD TO BEGIN FUSION"
 
 [/Lotus/Language/Menu/FusionAmount]
 "APPLY FUSION FOR <CREDITS> |COST|"
@@ -47947,6 +48072,9 @@ Scales with Mastery Rank"
 [/Lotus/Language/Menu/FusionPointsMode_NoCardsSelectedError]
 "SELECT MODS TO PREVIEW <FUSION_POINTS> VALUE"
 
+[/Lotus/Language/Menu/FusionPointsWithIcon]
+"<FUSION_POINTS> |PRICE|"
+
 [/Lotus/Language/Menu/FusionSelect]
 "SELECT A MOD"
 
@@ -47955,6 +48083,30 @@ Scales with Mastery Rank"
 
 [/Lotus/Language/Menu/FusionTooManySelected]
 "You currently have %i Mods selected. You can only select 1 Mod to Fuse."
+
+[/Lotus/Language/Menu/FusionTreasureMgr_SocketItemConfirm]
+"[PH] Are you sure you want to slot |ITEM| into the selected socket? It will be consumed in the process."
+
+[/Lotus/Language/Menu/FusionTreasureMgr_SocketItemFailed]
+"[PH] Could not socket item, your account has not been modified. Please try again."
+
+[/Lotus/Language/Menu/FusionTreasureMgr_SocketItemSuccess]
+"[PH] |ITEM| was successfully slotted into the socket."
+
+[/Lotus/Language/Menu/FusionTreasuresMgr_EmptySocketInfo]
+"[PH] This socket fits:"
+
+[/Lotus/Language/Menu/FusionTreasuresMgr_NoTreasuresHint]
+"[PH] You do not own any Treasures."
+
+[/Lotus/Language/Menu/FusionTreasuresMgr_SocketHint]
+"[PH] Click to socket item."
+
+[/Lotus/Language/Menu/FusionTreasuresMgr_Title]
+"[PH] FUSION TREASURES"
+
+[/Lotus/Language/Menu/FusionTreauresMgr_NoItemsForSocket]
+"[PH] You do not have any |ITEM| that can be slotted into this socket."
 
 [/Lotus/Language/Menu/GameInviteAcceptHint]
 "Click to join"
@@ -48889,6 +49041,9 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 [/Lotus/Language/Menu/Input_VIEW_MISSION_PROGRESS]
 "View Mission Progress"
 
+[/Lotus/Language/Menu/Input_VIEW_QUICK_PROGRESS]
+"Quick Progress View"
+
 [/Lotus/Language/Menu/InputBinding_NotBound]
 "Not Bound"
 
@@ -49179,6 +49334,9 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 
 [/Lotus/Language/Menu/ItemInventory_SellingPrimeTitle]
 "DUCAT KIOSK"
+
+[/Lotus/Language/Menu/ItemInventory_SellingTreasureTitle]
+"[PH] TREASURE EXCHANGE"
 
 [/Lotus/Language/Menu/ItemInventory_SellPile]
 "SELL PILE"
@@ -49486,7 +49644,7 @@ Are you sure?"
 "Automatically setup your Mod configuration."
 
 [/Lotus/Language/Menu/Loadout_AvailableLoadoutSlots]
-"(|SLOTS| slots available)"
+"(|SLOTS| SLOTS AVAILABLE)"
 
 [/Lotus/Language/Menu/Loadout_Boosters]
 "BOOSTERS"
@@ -50494,7 +50652,7 @@ The Lotus"
 "ABANDON THE FIGHT"
 
 [/Lotus/Language/Menu/MenuFocusDescription]
-"Unlock the power of the Tenno Ways"
+"UNLOCK THE POWER OF THE TENNO WAYS"
 
 [/Lotus/Language/Menu/MenuFoundry]
 "FOUNDRY"
@@ -50554,7 +50712,7 @@ The Lotus"
 "OPTIONS"
 
 [/Lotus/Language/Menu/MenuOptionsDescription]
-"CUSTOMIZE GAME SETTINGS."
+"CUSTOMIZE GAME SETTINGS"
 
 [/Lotus/Language/Menu/MenuProfile]
 "PROFILE"
@@ -50563,7 +50721,7 @@ The Lotus"
 "PERSONAL, CLAN AND WORLD STATISTICS"
 
 [/Lotus/Language/Menu/MenuQuestsDescription]
-"Embrace the path of a true Tenno"
+"EMBRACE THE PATH OF A TRUE TENNO"
 
 [/Lotus/Language/Menu/MenuQuitGameDescription]
 "LEAVE TO FIGHT ANOTHER DAY"
@@ -50572,7 +50730,7 @@ The Lotus"
 "RANK UP"
 
 [/Lotus/Language/Menu/MenuRankUpDescription]
-"TEST YOUR SKILLS TO REACH THE NEXT RANK."
+"TEST YOUR SKILLS TO REACH THE NEXT RANK"
 
 [/Lotus/Language/Menu/MenuStarChart]
 "NAVIGATION"
@@ -50593,7 +50751,7 @@ The Lotus"
 "SWITCH PROFILE"
 
 [/Lotus/Language/Menu/MenuSyndicatesDescription]
-"See your standing with the known Syndicates."
+"SEE YOUR STANDING WITH THE KNOWN SYNDICATES"
 
 [/Lotus/Language/Menu/MenuWorldState]
 "WORLD STATE"
@@ -51170,7 +51328,7 @@ Please close other programs that may be reserving it."
 "Next half in %i..."
 
 [/Lotus/Language/Menu/NextLoadoutSlot]
-"Earn a new slot at Mastery Rank |RANK_NUMBER|."
+"EARN A NEW SLOT AT MASTERY RANK |RANK_NUMBER|"
 
 [/Lotus/Language/Menu/NextPower]
 "Cycle Power Right"
@@ -51352,13 +51510,13 @@ REWARD"
 "Active Tab Notifications Only"
 
 [/Lotus/Language/Menu/Options_AnalyzeNetwork]
-"Analyze network"
+"Analyze Network"
 
 [/Lotus/Language/Menu/Options_Audio_Effects]
 "Sound Effects Volume"
 
 [/Lotus/Language/Menu/Options_Audio_Enable_AGC]
-"Auto Gain Control(Outbound)"
+"Auto Gain Control (Outbound)"
 
 [/Lotus/Language/Menu/Options_Audio_Enable_Mic_Volume]
 "Enable Microphone Volume Control"
@@ -51370,7 +51528,7 @@ REWARD"
 "Transmissions Volume"
 
 [/Lotus/Language/Menu/Options_Audio_Lotus_Destination]
-"Transmissions through controller"
+"Transmissions through Controller"
 
 [/Lotus/Language/Menu/Options_Audio_Microphone_Silence]
 "Mic Cutoff"
@@ -51502,7 +51660,7 @@ REWARD"
 "Gamepad Presets"
 
 [/Lotus/Language/Menu/Options_Controls_HoldToWallrun]
-"Hold Jump To Wallrun"
+"Hold Jump to Wallrun"
 
 [/Lotus/Language/Menu/Options_Controls_Interface]
 "Interface"
@@ -51541,16 +51699,16 @@ REWARD"
 "Enable Gamepad Southpaw"
 
 [/Lotus/Language/Menu/Options_Controls_TapToDodge]
-"Double Tap To Dodge"
+"Double Tap to Dodge"
 
 [/Lotus/Language/Menu/Options_Controls_Toggle]
 "Toggle |INPUT_NAME|"
 
 [/Lotus/Language/Menu/Options_Controls_ToggleCrouch]
-"Crouch button is toggle"
+"Crouch Button Is Toggle"
 
 [/Lotus/Language/Menu/Options_Controls_UseAbilitiesOnSelection]
-"Use Abilities On Selection"
+"Use Abilities on Selection"
 
 [/Lotus/Language/Menu/Options_Controls_UseMeleeAssist]
 "Melee Auto Targeting"
@@ -51571,7 +51729,7 @@ REWARD"
 "Anisotropic Filtering"
 
 [/Lotus/Language/Menu/Options_Display_Antialiasing]
-"Anti-aliasing"
+"Anti-Aliasing"
 
 [/Lotus/Language/Menu/Options_Display_Antialiasing_DISABLED]
 "Disabled"
@@ -51642,7 +51800,7 @@ Please update your drivers."
 "Contrast"
 
 [/Lotus/Language/Menu/Options_Display_DOF]
-"Depth of field"
+"Depth of Field"
 
 [/Lotus/Language/Menu/Options_Display_DynamicLighting]
 "Dynamic Lighting"
@@ -51700,7 +51858,7 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "Display Mode"
 
 [/Lotus/Language/Menu/Options_DisplayCustomize_Fov]
-"Field Of View"
+"Field of View"
 
 [/Lotus/Language/Menu/Options_DisplayCustomize_FullScreen]
 "Fullscreen"
@@ -51721,7 +51879,7 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "Medium"
 
 [/Lotus/Language/Menu/Options_DisplayCustomize_MFR_Uncapped]
-"No limit"
+"No Limit"
 
 [/Lotus/Language/Menu/Options_DisplayCustomize_Narrow]
 "Narrow"
@@ -51757,13 +51915,13 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "Windowed"
 
 [/Lotus/Language/Menu/Options_EmojiColors]
-"Emoji color"
+"Emoji Color"
 
 [/Lotus/Language/Menu/Options_EmoticonConversion]
 ":) -> :SMILE: Conversion"
 
 [/Lotus/Language/Menu/Options_EnableEmojis]
-"Emojis As Text"
+"Emojis as Text"
 
 [/Lotus/Language/Menu/Options_ForceProxy]
 "Force Proxy"
@@ -51868,7 +52026,7 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "Show Enemy Names"
 
 [/Lotus/Language/Menu/Options_HUDHealthBarOverEnemies]
-"Show Health Over Enemies"
+"Show Health over Enemies"
 
 [/Lotus/Language/Menu/Options_HUDScale]
 "HUD Scale"
@@ -51898,7 +52056,7 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "Manage Ignore List"
 
 [/Lotus/Language/Menu/Options_MarkKubrow]
-"Mark your Kubrow"
+"Mark Your Pet"
 
 [/Lotus/Language/Menu/Options_PreferOverlayMap]
 "Prefer Overlay Map"
@@ -51916,7 +52074,7 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "Trade Chat"
 
 [/Lotus/Language/Menu/Options_UIScreenshots]
-"UI In Screenshots"
+"UI in Screenshots"
 
 [/Lotus/Language/Menu/Options_Voice_Select_In]
 "Select Mic Input Device"
@@ -52560,7 +52718,7 @@ Doing so will consume this Relic."
 "Submit higher-rarity Void Traces to increase your chance of higher rewards."
 
 [/Lotus/Language/Menu/ProjectionManager_Desc]
-"Manage your Relics"
+"MANAGE YOUR RELICS"
 
 [/Lotus/Language/Menu/ProjectionManager_EnhancementsTitle]
 "REFINEMENT"
@@ -53372,7 +53530,7 @@ Thank you for your partnership."
 "SELECT LANDING CRAFT"
 
 [/Lotus/Language/Menu/SelectShipHullDesc]
-"Change Landing craft"
+"CHANGE LANDING CRAFT"
 
 [/Lotus/Language/Menu/SelectSpecificItemType]
 "SELECT A |ITEM_NAME|"
@@ -55039,7 +55197,7 @@ Ordis, Ship's Cephalon"
 "CANNOT TRANSMUTE LAST OF ABILITY MOD |MOD|"
 
 [/Lotus/Language/Menu/TRANSMUTE_SelectedCookedModError]
-"CANNOT TRANSMUTE RANKED MOD |MOD|"
+"CANNOT TRANSMUTE RANKED MOD: |MOD|"
 
 [/Lotus/Language/Menu/TRANSMUTE_TooManySelectionsError]
 "CAN ONLY HAVE 4 MODS SELECTED TO BEGIN TRANSMUTATION"
@@ -55204,7 +55362,7 @@ This one is dedicated to you."
 "ABILITIES"
 
 [/Lotus/Language/Menu/ViewAbilitiesDescription]
-"Look at the abilities of your Warframe"
+"LOOK AT THE ABILITIES OF YOUR WARFRAME"
 
 [/Lotus/Language/Menu/ViewLastMissionDescription]
 "EXAMINE THE RESULTS OF YOUR LAST MISSION"
@@ -61299,6 +61457,254 @@ Using Archwing’s jets for thrust, this massive hammer crushes anything in its 
 [/Lotus/Language/SteamWorkshop/SetkaSyandanaName]
 "SETKA SYANDANA"
 
+[/Lotus/Language/SteamWorkshop/SWRFourAylaScarfDesc]
+"A syandana for your Warframe, designed by Cobalt and malayu
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourAylaScarfName]
+"AYLA SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWRFourDisconnectScarfDesc]
+"A syandana for your Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourDisconnectScarfName]
+"DISCONNECT SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburApexHelmetDesc]
+"A helmet for the Excalibur Warframe, designed by antoineflemming
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburApexHelmetName]
+"EXCALIBUR APEX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburApexSkinDesc]
+"A unique skin for the Excalibur Warframe, designed by antoineflemming
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburApexSkinName]
+"EXCALIBUR APEX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburCadutoHelmetDesc]
+"A helmet for the Excalibur Warframe, designed by Hitsu San
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburCadutoHelmetName]
+"EXCALIBUR CADUTO HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburCadutoSkinDesc]
+"A unique skin for the Excalibur Warframe, designed by Hitsu San
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburCadutoSkinName]
+"EXCALIBUR CADUTO SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburGraxxHelmetDesc]
+"A helmet for the Excalibur Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburGraxxHelmetName]
+"EXCALIBUR GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburGraxxSkinDesc]
+"A unique skin for the Excalibur Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourExcaliburGraxxSkinName]
+"EXCALIBUR GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRFourFrostJotunHelmetDesc]
+"A helmet for the Frost Warframe, designed by malayu and Stenchfury
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourFrostJotunHelmetName]
+"FROST JOTUN HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourGraxxAltHelmetDesc]
+"A helmet for the Excalibur Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourGraxxAltHelmetName]
+"GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourLokiErsatzHelmetDesc]
+"A helmet for the Loki Warframe, designed by Rekkou
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourLokiErsatzHelmetName]
+"LOKI ERSATZ HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMaharliqaScarfDesc]
+"A syandana for your Warframe, designed by led2012
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMaharliqaScarfName]
+"MAHARLIQA SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMirageGraxxHelmetDesc]
+"A helmet for the Mirage Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMirageGraxxHelmetName]
+"MIRAGE GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMirageGraxxSkinDesc]
+"A unique skin for the Mirage Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMirageGraxxSkinName]
+"MIRAGE GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMirageJolliHelmetDesc]
+"A helmet for the Mirage Warframe, designed by Cheshire
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMirageJolliHelmetName]
+"MIRAGE JOLLI HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMirageSigynHelmetDesc]
+"A helmet for the Mirage Warframe, designed by novadragon01
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMirageSigynHelmetName]
+"MIRAGE SIGYN HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMirageSigynSkinDesc]
+"A unique skin for the Mirage Warframe, designed by novadragon01
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourMirageSigynSkinName]
+"MIRAGE SIGYN SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRFourNovaFusionHelmetDesc]
+"A helmet for the Nova Warframe, designed by Coridium
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourNovaFusionHelmetName]
+"NOVA FUSION HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourNyxAthenaHelmetDesc]
+"A helmet for the Nyx Warframe, designed by prosetisen
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourNyxAthenaHelmetName]
+"NYX ATHENA HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourNyxAthenaSkinDesc]
+"A unique skin for the Nyx Warframe, designed by prosetisen
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourNyxAthenaSkinName]
+"NYX ATHENA SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRFourRhinoGraxxHelmetDesc]
+"A helmet for the Rhino Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourRhinoGraxxHelmetName]
+"RHINO GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourRhinoGraxxSkinDesc]
+"A unique skin for the Rhino Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourRhinoGraxxSkinName]
+"RHINO GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRFourRhinoVojnikSkinDesc]
+"A unique skin for the Rhino Warframe, designed by Volkovyi
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourRhinoVojnikSkinName]
+"RHINO VOJNIK SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRFourSciathinScarfDesc]
+"A syandana for your Warframe, designed by Master Noob
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourSciathinScarfName]
+"SCIATHIN SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWRFourTeploScarfDesc]
+"A syandana for your Warframe, designed by FrellingHazmot
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourTeploScarfName]
+"TEPLO SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWRFourValkyrGraxxHelmetDesc]
+"A helmet for the Valkyr Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourValkyrGraxxHelmetName]
+"VALKYR GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourValkyrGraxxSkinDesc]
+"A unique skin for the Valkyr Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourValkyrGraxxSkinName]
+"VALKYR GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRFourVaubanChapelonHelmetDesc]
+"A helmet for the Vauban Warframe, designed by Rekkou
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourVaubanChapelonHelmetName]
+"VAUBAN CHAPELON HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourVoltGraxxHelmetDesc]
+"A helmet for the Volt Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourVoltGraxxHelmetName]
+"VOLT GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFourVoltGraxxSkinDesc]
+"A unique skin for the Volt Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourVoltGraxxSkinName]
+"VOLT GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRFourZephyrMigisiHelmetDesc]
+"A helmet for the Zephyr Warframe, designed by FrellingHazmot
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFourZephyrMigisiHelmetName]
+"ZEPHYR MISIGI HELMET"
+
 [/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0010Ordis]
 "[1] I have hidden the truth of my existence… from the Operator… from myself. Take it from me, knowing is hell. Stop now. You will want to laugh, you will want to scream."
 
@@ -61552,7 +61958,7 @@ Using Archwing’s jets for thrust, this massive hammer crushes anything in its 
 "It's done. This lab won't produce any more of Tyl Regor's killers."
 
 [/Lotus/Language/Subtitles/Events/DCloningFinishNef240NefAnyo]
-"Can you feel that Tenno? The Void has shown Alad V and Tyl Regor the brunt of its justice.  The Void be the word and the word be profit."
+"Can you feel that Tenno? The Void has shown Alad V and Tyl Regor the brunt of its justice. The Void be the word and the word be profit."
 
 [/Lotus/Language/Subtitles/Events/DCloningFinishNef250Tyl]
 "Attack me? My science? Maybe you thought you were dealing with that legless parrot... NO! I'm no Hek. You give me a Fomorian fleet 'n you get a different outcome... hellish outcome."
@@ -61663,7 +62069,7 @@ Using Archwing’s jets for thrust, this massive hammer crushes anything in its 
 "Now quick, destroy the hive!"
 
 [/Lotus/Language/Subtitles/Events/DInboxBlast0010NefAnyo]
-"Scoundrels, heretics, believers, listen! ;Do you crave redemption? Do you feel that burden of poverty crushing you? You need relief but how? How can you ask for help, unless you first help yourself? ;Give unto The Void.; I was once a wretched Crewman, breaking my back just to earn a Credit. Then I found that glorious Energy! ;Oh and when I gave my first offering... how its richness rained down upon me! Do you want what I have received? ;Do you want it for yourself?; Then - Give unto The Void. ;Let your Credits be the seeds of  your prosperity. ;Give unto The Void... ;...and you will be rewarded a hundredfold.; The Void be the word and the word be Profit."
+"Scoundrels, heretics, believers, listen! Do you crave redemption? Do you feel that burden of poverty crushing you? You need relief but how? How can you ask for help, unless you first help yourself? Give unto The Void. I was once a wretched Crewman, breaking my back just to earn a Credit. Then I found that glorious Energy! Oh and when I gave my first offering... how its richness rained down upon me! Do you want what I have received? Do you want it for yourself? Then - Give unto The Void. Let your Credits be the seeds of your prosperity. Give unto The Void... and you will be rewarded a hundredfold. The Void be the word and the word be Profit."
 
 [/Lotus/Language/Subtitles/Events/DManicAlad300AladV]
 "This is Tyl Regor's latest and greatest. Pity, this one's still brewing, would have been interesting to see it in action. Nevertheless, I need you to retrieve any data that can help me with my predicament."
@@ -61690,7 +62096,7 @@ Using Archwing’s jets for thrust, this massive hammer crushes anything in its 
 "The beast is dead. Your work is done."
 
 [/Lotus/Language/Subtitles/Events/DManicKilledNef290Tyl]
-"Preacher, preacher... this your idea? Ha... how 'bout I scalpel off your little danglers...  give them unto void... What ya think 'bout that idea Neffy?"
+"Preacher, preacher... this your idea? Ha... how 'bout I scalpel off your little danglers... give them unto void... What ya think 'bout that idea Neffy?"
 
 [/Lotus/Language/Subtitles/Events/DManicNef280NefAnyo]
 "Behold, Tyl Regor's latest abomination. Let The Void work through you and strike the beast down!"
@@ -61807,7 +62213,7 @@ Okay, I'll admit it, you got me out of a sticky situation back there, so let's j
 Well, I guess I should give you some sort of reward or something, just don't tell anyone. Even though I'm in no way obliged to do so. Take this, just don't point it at me, got it?"
 
 [/Lotus/Language/Subtitles/Events/DPSDataFound0060AladV]
-"Ah, yes, exactly what I'm looking for.  Now, if I cross-reference the signal inversions from this stream with the…  wait, why am I telling you this? "
+"Ah, yes, exactly what I'm looking for. Now, if I cross-reference the signal inversions from this stream with the… wait, why am I telling you this? "
 
 [/Lotus/Language/Subtitles/Events/DPSDataFound0070AladV]
 "You know, these Acolytes won't be easy marks. No one shot kills here. It's going to take an army of you to dispose of just one."
@@ -61816,7 +62222,7 @@ Well, I guess I should give you some sort of reward or something, just don't tel
 "Yes. This is exactly what I wanted... Tenno, make your way to extraction but watch out for those pesky Acolytes."
 
 [/Lotus/Language/Subtitles/Events/DPSDataFound0090AladV]
-"That's what we're looking for.  Why do these Acolytes come for me? I've done nothing to them! But don't worry, I will."
+"That's what we're looking for. Why do these Acolytes come for me? I've done nothing to them! But don't worry, I will."
 
 [/Lotus/Language/Subtitles/Events/DPSDataObj0020AladV]
 "Those Acolytes have been through here, I can just feel it. Find the security data."
@@ -61855,14 +62261,14 @@ Well, I guess I should give you some sort of reward or something, just don't tel
 "I may have spoken too soon, yes..."
 
 [/Lotus/Language/Subtitles/Events/DPSFirstLoc0100AladV]
-"There. An Acolyte, do you see it?  Do what you can and I'll call in your shiny friends."
+"There. An Acolyte, do you see it? Do what you can and I'll call in your shiny friends."
 
 [/Lotus/Language/Subtitles/Events/DPSIntro0010AladV]
 "Bad news, Tenno.
 
 The Stalker has found others as twisted as himself. He calls them his Acolytes and he's sent them after ME?! 
 
-SHHH. I have to be very quiet, they cloak, they could be hiding anywhere…  even listening to this.
+SHHH. I have to be very quiet, they cloak, they could be hiding anywhere… even listening to this.
  
 I'm calling in my favor... yes. Break into Corpus and Grineer installations and steal their security data. With enough data, I can determine their cloaking patterns and turn the tables on these… betrayers."
 
@@ -61958,7 +62364,7 @@ Fulfill our desire and we will know that our bond of friendship has not been bro
 "No, no, no. Just stop and die. You're wasting this court's time."
 
 [/Lotus/Language/Subtitles/Events/DRUInsultTenno0760Kela]
-"The Tenno,  I was expecting… I don't know… more."
+"The Tenno, I was expecting… I don't know… more."
 
 [/Lotus/Language/Subtitles/Events/DRUInsultTenno0780Kela]
 "Come on, Tenno, you're like a Corpus drone with a dead battery, you ain't getting no air time."
@@ -62239,7 +62645,7 @@ You will be given the opportunity to make this right."
 "The snakes lead."
 
 [/Lotus/Language/Subtitles/Events/DRUTennoLead0570Kela]
-"The Executioners have fumbled.  Typical."
+"The Executioners have fumbled. Typical."
 
 [/Lotus/Language/Subtitles/Events/DRUTennoLead0580Kela]
 "Come on, Executioners, this is all you've been good at, don't mess it up."
@@ -62293,7 +62699,7 @@ You will be given the opportunity to make this right."
 "Tenno Lizards scampering 'bout my house. Messing with my work... contaminating my science. Who let them in. Which twit did this thing?"
 
 [/Lotus/Language/Subtitles/Events/DTylDiscovers130Tyl]
-"Old Grineer... life too short... mind too small. My tubemen overcome... leave old mistakes behind...  'n all of a sudden, along slithers the Tenno, sick, sick things... here to ruin this flesh made right."
+"Old Grineer... life too short... mind too small. My tubemen overcome... leave old mistakes behind... 'n all of a sudden, along slithers the Tenno, sick, sick things... here to ruin this flesh made right."
 
 [/Lotus/Language/Subtitles/Events/DTylDiscovers140Tyl]
 "You hate my science. Hate my tubes 'n my tubemen! But I have the numbers, add those numbers... mix those waters. Grow the tubemen so they kill forever!"
@@ -62404,7 +62810,7 @@ You will be given the opportunity to make this right."
 "I'm very excited now. The anticipation… I always learn so much from a live dissection. "
 
 [/Lotus/Language/Subtitles/GrineerBosses/DTylApproach0040Tyl]
-"A dissection? No, that sounds too humane… your death will be…  painful."
+"A dissection? No, that sounds too humane… your death will be… painful."
 
 [/Lotus/Language/Subtitles/GrineerBosses/DTylApproach0050Tyl]
 "Tell me! No, no, let me see… when I crack open your head-fruit, what color juice spills out?"
@@ -62572,7 +62978,7 @@ You will be given the opportunity to make this right."
 "It was difficult to locate the source vector of this sector's infestation but you are finally here."
 
 [/Lotus/Language/Subtitles/LotusBarks/BossGolemTranmissionB]
-"Deep within this  millennia old Orokin-turned-Infested ship lurks a creature created to fight in the Old War. Make your way to its location and dispatch this monster."
+"Deep within this millennia old Orokin-turned-Infested ship lurks a creature created to fight in the Old War. Make your way to its location and dispatch this monster."
 
 [/Lotus/Language/Subtitles/LotusBarks/BossGolemTranmissionC]
 "Be wary. The creature has grown unfathomably strong through centuries of absorbing matter and self-replication."
@@ -62596,7 +63002,7 @@ You will be given the opportunity to make this right."
 "Do not dismiss the The Jackal as just another Corpus proxy. This will be unlike any enemy you have faced yet."
 
 [/Lotus/Language/Subtitles/LotusBarks/BossKelaDeThaymTransmissionA]
-"Kela de Thaym holds a position of influence in the Grineer Court. Eliminating Kela should create a power vacuum  inside the Grineer leadership and weaken Grineer influence in this system."
+"Kela de Thaym holds a position of influence in the Grineer Court. Eliminating Kela should create a power vacuum inside the Grineer leadership and weaken Grineer influence in this system."
 
 [/Lotus/Language/Subtitles/LotusBarks/BossKelaDeThaymTransmissionB]
 "Kela is a product of the Sisters. She is built for combat. Much of her body has been replaced with combat augmentations. Approach her with caution."
@@ -62974,7 +63380,7 @@ You will be given the opportunity to make this right."
 "You have almost reached the extraction point. Keep fighting."
 
 [/Lotus/Language/Subtitles/LotusBarks/DHijCorpConsoleAct060Lotus]
-"The rover is active but... wait... the Corpus have remotely corrupted its power cell.  Hold on, I will reconfigure the rover to draw power from your shields. "
+"The rover is active but... wait... the Corpus have remotely corrupted its power cell. Hold on, I will reconfigure the rover to draw power from your shields. "
 
 [/Lotus/Language/Subtitles/LotusBarks/DHijCorpConsoleAct070Lotus]
 "Good work we now have control of the rover... hold on Tenno... things just got more complicated. The Corpus have corrupted the rover's power-cell. I can reconfigure it but its new source of power will be your Warframe's shields."
@@ -63151,7 +63557,7 @@ You will be given the opportunity to make this right."
 "Looks like some Corrupted stayed behind to guard the artifact, it must be valuable."
 
 [/Lotus/Language/Subtitles/LotusBarks/DOroVltKey00120Lotus]
-"The Corrupted will stop at nothing to prevent  that artifact from escaping. This won't be easy."
+"The Corrupted will stop at nothing to prevent that artifact from escaping. This won't be easy."
 
 [/Lotus/Language/Subtitles/LotusBarks/DOroVltKey00130Lotus]
 "Something's wrong..."
@@ -63601,10 +64007,10 @@ You will be given the opportunity to make this right."
 "There is a large platoon of Grineer Marines stationed here. Leave no one standing."
 
 [/Lotus/Language/Subtitles/LotusBarks/KilledEverything]
-"All targets eliminated.  Let's get out of here."
+"All targets eliminated. Let's get out of here."
 
 [/Lotus/Language/Subtitles/LotusBarks/KilledEveryThingB]
-"All targets down.  Get to extraction."
+"All targets down. Get to extraction."
 
 [/Lotus/Language/Subtitles/LotusBarks/LbAlarmsResetLotus010]
 "Alarms have been reset."
@@ -63829,7 +64235,7 @@ You will be given the opportunity to make this right."
 "You failed Tenno, your captive has escaped."
 
 [/Lotus/Language/Subtitles/LotusBarks/MissionObjectiveAssassinateA]
-"The Assassination target is nearby.  Seek and destroy."
+"The Assassination target is nearby. Seek and destroy."
 
 [/Lotus/Language/Subtitles/LotusBarks/MissionObjectiveAssassinateB]
 "We need to find the VIP and take them down. Do not let the target escape."
@@ -63865,7 +64271,7 @@ You will be given the opportunity to make this right."
 "The intelligence files we need are in the area. Find all four computer access terminals and recover the data units from each of them."
 
 [/Lotus/Language/Subtitles/LotusBarks/MissionObjectiveIntelB]
-"Intelligence files are stored on four separate data units in the vicinity.  We need all the units before we can begin decryption on the data. Get out there and find them."
+"Intelligence files are stored on four separate data units in the vicinity. We need all the units before we can begin decryption on the data. Get out there and find them."
 
 [/Lotus/Language/Subtitles/LotusBarks/MissionObjectiveIntelC]
 "We need all of the data units being stored in the vicinity. Search the area, find the access terminals, and retrieve each device."
@@ -64270,7 +64676,7 @@ Tap <MELEE> when you blade is drawn to strike."
 "Impossible... All units, full alert, prepare for boarding..."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DAugustDeals0010Darvo]
-"Friends, I've done it again, I've ticked off the entire Corpus board with my amazing deals. They're so upset they make up lies, like,  "Darvo's merchandise is our merchandise!" 
+"Friends, I've done it again, I've ticked off the entire Corpus board with my amazing deals. They're so upset they make up lies, like, "Darvo's merchandise is our merchandise!" 
 
 To which I say, "You can't prove anything."
 
@@ -64297,7 +64703,7 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 "You found the ship, give chase!"
 
 [/Lotus/Language/Subtitles/MissionObjectives/DAWPDefense0231Lotus]
-"Good work. The ship is disabled.  Wait… they're attacking the courier ship to keep us from it. Keep it safe."
+"Good work. The ship is disabled. Wait… they're attacking the courier ship to keep us from it. Keep it safe."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DAWPDefense0232Lotus]
 "You disabled the courier, but this isn't over yet. They're going try to destroy it to keep it out of our hands. Do not let them succeed."
@@ -64564,7 +64970,7 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 "A transport is fully loaded."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DAWRTransportMoving0420CorpusComm]
-"Load complete?  Okay, get out of here."
+"Load complete? Okay, get out of here."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DAWRTransportMoving0430CorpusComm]
 "Transport, stop loading and power engines. They're close."
@@ -64650,6 +65056,9 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 [/Lotus/Language/Subtitles/MissionObjectives/DDarvoMDefTerminalLoc060Darvo]
 "You're close, drop me in."
 
+[/Lotus/Language/Subtitles/MissionObjectives/DDarvoRescRadioPlay072Darvo]
+"Forget everything I said before. This is nothing you can't handle, right! Right?"
+
 [/Lotus/Language/Subtitles/MissionObjectives/DDeath010Lotus]
 "Thank you Tenno. It should be a long time before we hear Vay Hek's ugly voice again. Now get to extraction, you've earned it."
 
@@ -64696,7 +65105,7 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 "I want to play with these ones."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DDeathSqaudWarning030Lotus]
-"Tenno,  listen carefully you are being hunted by ... Abort the mission... Get to extraction ..."
+"Tenno, listen carefully you are being hunted by... Abort the mission... Get to extraction ..."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DDeathSquadRun040Lotus]
 "Do not try to stay and fight... They will kill you..."
@@ -64759,7 +65168,7 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 "Our operatives tell us Vay Hek has undergone an expensive regime of combat enhancement. Expect the worst."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DEnRoute040VayHek]
-"I knew this day would come. I've prepared, changed myself. I've made sacrifices.  Tenno, Are you ready for a sacrifice?"
+"I knew this day would come. I've prepared, changed myself. I've made sacrifices. Tenno, Are you ready for a sacrifice?"
 
 [/Lotus/Language/Subtitles/MissionObjectives/DExcavArtifactLoc100Lotus]
 "An artifact has been located. Proceed to the dig site."
@@ -64816,10 +65225,10 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 "The outpost is clean, proceed to extraction."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DExtmMidHlwn010Lotus]
-"I'm still picking up signs of the Infested.  Keep hunting."
+"I'm still picking up signs of the Infested. Keep hunting."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DExtmStrtHlwn010Lotus]
-"Sensors show this Outpost is crawling with Infested.  Exterminate the threat."
+"Sensors show this Outpost is crawling with Infested. Exterminate the threat."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DFightEscape130VayHek]
 "Grineer Brothers. I've done my part, now clean up this mess."
@@ -64831,7 +65240,7 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 "Do not think we are done here Tenno."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DFightStart120VayHek]
-"These criminals think they are commiting a justice.  Not in my court."
+"These criminals think they are commiting a justice. Not in my court."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DFightStart140VayHek]
 "Why are these fools still breathing my air? This is unacceptable."
@@ -64918,7 +65327,7 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 "Hey Tenno, you're just in time for a very special moving day sale. That's right, I need move all these items off my ship before the next Grineer spot check. What do you say, can you help me out?"
 
 [/Lotus/Language/Subtitles/MissionObjectives/DGenericDeal030Darvo]
-"Tenno, it's your lucky day! I found this great merchandise after it fell off the back of a Corpus shuttle.  Actually, to be more precise, the entire back of the shuttle fell off when it took a direct hit from a Fomorian. So… not such a lucky day for those guys, but good for you, right?"
+"Tenno, it's your lucky day! I found this great merchandise after it fell off the back of a Corpus shuttle. Actually, to be more precise, the entire back of the shuttle fell off when it took a direct hit from a Fomorian. So… not such a lucky day for those guys, but good for you, right?"
 
 [/Lotus/Language/Subtitles/MissionObjectives/DGenericDeal040Darvo]
 "Hey Tenno you ready for today's steal… whoa, I mean deal. Today's deal. I really have no idea why I said that, my items are one hundred percent legit. ... I swear."
@@ -64933,7 +65342,7 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 "So, I take an order from Steel Meridian. Problem is it takes a little longer than usual to, how should I put this, 'acquire the merchandise' and just when I finally get the goods together, those cheapskates cancel their order. Taking too long they said. Bah, well I guess you know what that means Tenno, it's Darvo Deal time."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DGenericDeal080Darvo]
-"Hey Tenno. One of my customers suggested I'd get more sales if I made a catchy jingle to go with my deals, so, here goes nothing: ; Darvo, Darvo, Darvo Darvo, Darvo, Darvo; Buy one get one free-e Buy one get one free-e; For a limited time- YEAH; So??? What do you think… ; You don't like it do you? ; Well whatever... buy one get one free deal, on now.  Take it or leave it, I don't care."
+"Hey Tenno. One of my customers suggested I'd get more sales if I made a catchy jingle to go with my deals, so, here goes nothing: Darvo, Darvo, Darvo Darvo, Darvo, Darvo. Buy one get one free-e Buy one get one free-e; For a limited time- YEAH; So??? What do you think… You don't like it do you? Well whatever... buy one get one free deal, on now. Take it or leave it, I don't care."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DGenericDeal090Darvo]
 "Friends, when I first started out in the 'unsecured goods' business, I even imagined owning my own store.; But look at me now! No doubt, I owe it all to you. So I want to give back.; For a limited time, I have enabled a booster for each and every one of you.; Thank you, Tenno. Now if you'll excuse me I think I have something in my eye."
@@ -64987,7 +65396,7 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 "My scans show that console can still activate the ship's system."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DGTMission10210Jordas]
-"What are you doing. Don't touch that.  LEAVE"
+"What are you doing. Don't touch that. LEAVE."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DGTMission10211Jordas]
 "My systems are corrupt, destroyed. If I can't use them, you never will."
@@ -65017,7 +65426,7 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 "The Infestation has mutated every aspect of this vessel. Find a way to destroy the reactor."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DGTMission20310Ordis]
-"That's a very peculiar looking  -flesh fl...-  Infested growth."
+"That's a very peculiar looking -flesh fl...- Infested growth."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DGTMission20320Ordis]
 "Operator, should I prepare the Orbiter for disinfection?"
@@ -65803,11 +66212,11 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 "Keep fighting, look for more Reactant."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DVRCVoidTraces0360Ordis]
-"Void Relics, what a baffling concept. 
+"Void Relics, what a baffling concept.
 
-Ordis will try to understand Void Relics again: 
+Ordis will try to understand Void Relics again:
 
-They say the contents of a Relic are simultaneously this thing, or this thing, or this thing, but also that thing and certainly never just one of thing. That is, until…  until it's exposed to a Void Fissure? And at that point, all the possibilities collapse, each one falling away until the Relic cracks open and exposes one, singular thing. And at that moment, that thing becomes the only thing the Relic ever contained?!
+They say the contents of a Relic are simultaneously this thing, or this thing, or this thing, but also that thing and certainly never just one of thing. That is, until… until it's exposed to a Void Fissure? And at that point, all the possibilities collapse, each one falling away until the Relic cracks open and exposes one, singular thing. And at that moment, that thing becomes the only thing the Relic ever contained?!
 
 Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
 
@@ -66769,7 +67178,7 @@ Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
 "Excellent armaments, Operator. Please return covered in blood-- safe and sound."
 
 [/Lotus/Language/Subtitles/PlayerShip/DAfterLoadout300Ordis]
-"If I may say, Operator, your choice Warframe suits you  haha!"
+"If I may say, Operator, your choice Warframe suits you, haha!"
 
 [/Lotus/Language/Subtitles/PlayerShip/DAfterLoadout310Ordis]
 "Well put together Operator now get out there and cut down the-- and make the Lotus proud."
@@ -66823,7 +67232,7 @@ Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
 "Operator, I've run diagnostic regressions, all systems nominal. You don't need to thank me."
 
 [/Lotus/Language/Subtitles/PlayerShip/DIdle080Ordis]
-"Ordis is hap- angry- hmmm.  I may require maintenance after all."
+"Ordis is hap- angry- hmmm. I may require maintenance after all."
 
 [/Lotus/Language/Subtitles/PlayerShip/DIdle090Ordis]
 "Operator, are you enjoying the view?"
@@ -66844,7 +67253,7 @@ Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
 "Operator! Did you hear that? It said-- Cosmic background radiation is a riot!"
 
 [/Lotus/Language/Subtitles/PlayerShip/DIdle450Ordis]
-"Operator, were you visualizing a bloody battle?  Me too."
+"Operator, were you visualizing a bloody battle? Me too."
 
 [/Lotus/Language/Subtitles/PlayerShip/DIdle480Ordis]
 "Stand by while I analyze the intelligence profiles of the Grineer. Error! Not a number! Did the Operator enjoy this witticism?"
@@ -66937,7 +67346,7 @@ Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
 "Override delivered. Security systems temporarily disrupted."
 
 [/Lotus/Language/Subtitles/PlayerShip/DSupOverDelivered0050Ordis]
-"Who's in control now suckers?  er ah, security override engaged."
+"Who's in control now suckers? Er ah, security override engaged."
 
 [/Lotus/Language/Subtitles/PlayerShip/DSupOverInvalid0060Ordis]
 "Invalid request. There are no security protocols active."
@@ -66982,10 +67391,10 @@ Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
 "Ordis has been- getting tired of waiting- waiting patiently for your return, Operator."
 
 [/Lotus/Language/Subtitles/PlayerShip/DWelcome051Ordis]
-"Ordis awaits command.  Who dies-- what are your next moves, Operator?"
+"Ordis awaits command. Who dies-- what are your next moves, Operator?"
 
 [/Lotus/Language/Subtitles/PlayerShip/DWelcome052Ordis]
-"Hello Operator! Ordis has reorganized the ship…  It's exactly the same!"
+"Hello Operator! Ordis has reorganized the ship… It's exactly the same!"
 
 [/Lotus/Language/Subtitles/PlayerShip/DWelcome053Ordis]
 "Operator! It's really you! Are you getting revenge for-- preparing for your next mission?"
@@ -67339,7 +67748,7 @@ Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
 "Moon team will need to work hard to close the gap."
 
 [/Lotus/Language/Subtitles/PvP/DLunaroRulesArcata0010Teshin]
-"To get possession of the Lunaro, you simply touch it. It will pull into your arm-mounted launcher, called your "Arcata". Launch the Lunaro by tapping the fire button. Holding the fire button for the duration of the throw will launch it further.  To curve your shot, try launching the Lunaro from a slide. Your Arcata is also equipped with a range-limited attractor. Hold the aim button to attract the Lunaro when it is near. Catching, interceptions and guarding your team's goal rely on this."
+"To get possession of the Lunaro, you simply touch it. It will pull into your arm-mounted launcher, called your "Arcata". Launch the Lunaro by tapping the fire button. Holding the fire button for the duration of the throw will launch it further. To curve your shot, try launching the Lunaro from a slide. Your Arcata is also equipped with a range-limited attractor. Hold the aim button to attract the Lunaro when it is near. Catching, interceptions and guarding your team's goal rely on this."
 
 [/Lotus/Language/Subtitles/PvP/DLunaroRulesCarrying0010Teshin]
 "The Lunaro contains an ancient and unstable energy. This creates a few carrying rules for the Lunaro. First, you cannot carry the Lunaro for more than 5 seconds, or it will explode. Second, you cannot Bullet Jump with the Lunaro. Doing so drops the Lunaro immediately. These rules encourage teamwork, passing and rebounds to attain victory."
@@ -67531,7 +67940,7 @@ Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
 "That's it, you found an Archwing part blueprint. Head to extraction when you are ready."
 
 [/Lotus/Language/Subtitles/Quests/DAWQInbox010Lotus]
-"This is the master blueprint for the Odonata Archwing, the first of many Archwings.; To complete it you must find its component parts.; Unfortunately, an ancient Orokin archive detailing the locations of the parts was recently stolen by the Corpus.; Your first job is to  recover this archive.; Hurry, the Archwing needs to be ready before the Balor Fomorians launch their first attack."
+"This is the master blueprint for the Odonata Archwing, the first of many Archwings. To complete it you must find its component parts. Unfortunately, an ancient Orokin archive detailing the locations of the parts was recently stolen by the Corpus. Your first job is to recover this archive. Hurry, the Archwing needs to be ready before the Balor Fomorians launch their first attack."
 
 [/Lotus/Language/Subtitles/Quests/DAWQSabotageCacheFound040Lotus]
 "You found the Orokin Archive. You are one step closer to unleashing the Archwing."
@@ -67543,7 +67952,7 @@ Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
 "Get to the portal. We need to shut the Corpus out of the void before we search for the Orokin Archive."
 
 [/Lotus/Language/Subtitles/Quests/DAWQSabotageThroughPortal030Lotus]
-"That's it, the portal has collapsed.  I've located the cache containing the Orokin Archive. Get there now."
+"That's it, the portal has collapsed. I've located the cache containing the Orokin Archive. Get there now."
 
 [/Lotus/Language/Subtitles/Quests/DAWQSabotageThroughPortal031Lotus]
 "Good work, you collapsed the portal. Extraction is now ready."
@@ -67613,10 +68022,10 @@ three hundred and seventy two hours ---- Oh, that does seem like a long time… 
 "The sky will be as it was meant, Shadow... The Old War finally ends."
 
 [/Lotus/Language/Subtitles/Quests/DCinOrokinNursery00080Hunhow]
-"You hesitate Shadow, but remember your despair.  This is your only chance to make it end."
+"You hesitate Shadow, but remember your despair. This is your only chance to make it end."
 
 [/Lotus/Language/Subtitles/Quests/DCinOrokinNursery00090Hunhow]
-"Your hatred is too weak, Shadow.  Mine is strong, my fragments will finish this."
+"Your hatred is too weak, Shadow. Mine is strong, my fragments will finish this."
 
 [/Lotus/Language/Subtitles/Quests/DCinOrokinNursery00170Lotus]
 "Now we fight on two fronts, my child. The war without…"
@@ -67658,7 +68067,7 @@ three hundred and seventy two hours ---- Oh, that does seem like a long time… 
 "Who?"
 
 [/Lotus/Language/Subtitles/Quests/DCinUnderseaLair00070Hunhow]
-"I am Hunhow, Sentient destroyer of worlds. By your hand, expose their heart.  By my edge..."
+"I am Hunhow, Sentient destroyer of worlds. By your hand, expose their heart. By my edge..."
 
 [/Lotus/Language/Subtitles/Quests/DCinUnderseaLair00080Hunhow]
 "Cleave it beating from its nest."
@@ -67667,7 +68076,7 @@ three hundred and seventy two hours ---- Oh, that does seem like a long time… 
 "The Lotus seduced the Tenno. Lead them on a complacent path like Oxen. I failed the Orokin but I will preserve their legacy. The Tenno, now is the time for action. Cast off your harness and become a pupil of the Conclave. Through trial combat, I will prepare you for the evils beyond the Outer Terminus. A warrior only grows if they face the ultimate enemy. Themselves."
 
 [/Lotus/Language/Subtitles/Quests/DCnclvIntro0020Teshin]
-"We were led astray. We forgot The Conclave, so when that new evil came we were not prepared. This is how we failed the Orokin. You went into stasis but not me. I searched the long path for redemption, for the kind of balance only The Conclave can create.  Now I return, only to find the Tenno still herded like livestock.  Horrors from beyond the Outer Terminus are coming. You must prepare, you must accept The Conclave. Let it be your teacher and I its humble guide. For true balance can only be found in the face of the ultimate enemy, yourself."
+"We were led astray. We forgot The Conclave, so when that new evil came we were not prepared. This is how we failed the Orokin. You went into stasis but not me. I searched the long path for redemption, for the kind of balance only The Conclave can create. Now I return, only to find the Tenno still herded like livestock. Horrors from beyond the Outer Terminus are coming. You must prepare, you must accept The Conclave. Let it be your teacher and I its humble guide. For true balance can only be found in the face of the ultimate enemy, yourself."
 
 [/Lotus/Language/Subtitles/Quests/DCnclvLvd0010Teshin]
 "Well met, Master. You bring honor… and fear, to the Conclave."
@@ -67762,7 +68171,7 @@ Shall I show you? Don't worry, you can trust me… this time."
 "I see the Stalker, stronger... Hunhow's voice within him. I see the Reservoir, but I feel confusion, he doesn't know… unless… Oh no-"
 
 [/Lotus/Language/Subtitles/Quests/DDigSiteMission0370Hunhow]
-"Thank you, daughter. Fear has baited you to the snare.  What was secret is now known. Your Tenno, their touch, I now see the Womb of the sky. My Shadow now walks the path."
+"Thank you, daughter. Fear has baited you to the snare. What was secret is now known. Your Tenno, their touch, I now see the Womb of the sky. My Shadow now walks the path."
 
 [/Lotus/Language/Subtitles/Quests/DDigSiteMission0380Lotus]
 "What have I done? Get out of there, Tenno.."
@@ -67860,7 +68269,7 @@ The message you uncovered was an offer to help us. I do not trust the person who
 "More importantly, the Operator is unharmed."
 
 [/Lotus/Language/Subtitles/Quests/DDQKokaToLiset0050Smrs]
-"You disappoint me Cephalon Ordis. I was offering a greater purpose. Healing.  As Steward, I would have restored your lost memories!"
+"You disappoint me Cephalon Ordis. I was offering a greater purpose. Healing. As Steward, I would have restored your lost memories!"
 
 [/Lotus/Language/Subtitles/Quests/DDQKokaToLiset0060Ordis]
 "I am Ordis, ship Cephalon. I serve the Operator. I make new memories."
@@ -67923,7 +68332,7 @@ The message you uncovered was an offer to help us. I do not trust the person who
 "… uh… pardon Operator, it seems Ordis is hearing voices again, running diagnostics."
 
 [/Lotus/Language/Subtitles/Quests/DDQPrsnToLiset0050Lotus]
-"No Ordis, we heard it too. Tenno, that's the voice from the Arcane Codices.  Cephalon Simaris is hiding something. Pay him another visit, find out what he knows."
+"No Ordis, we heard it too. Tenno, that's the voice from the Arcane Codices. Cephalon Simaris is hiding something. Pay him another visit, find out what he knows."
 
 [/Lotus/Language/Subtitles/Quests/DDQPrsnToLiset0060Ordis]
 "Simaris has no reason to lie, Operator! Please treat the great Cephalon with respect."
@@ -67974,7 +68383,7 @@ The message you uncovered was an offer to help us. I do not trust the person who
 "Whoever we're dealing with slaughtered the Grineer searching for the codices. It must be going after the Corpus next. Get there and intercept."
 
 [/Lotus/Language/Subtitles/Quests/DDQSeekSmrs0010Smrs]
-"Searching for answers, Tenno? Knowledge must be earned.  I have a task for you, small, compared to the vast needs of Sanctuary. ;Hunt for me, and in return I will tell you what that biological signature means."
+"Searching for answers, Tenno? Knowledge must be earned. I have a task for you, small, compared to the vast needs of Sanctuary. Hunt for me, and in return I will tell you what that biological signature means."
 
 [/Lotus/Language/Subtitles/Quests/DDQSorathStart0010Lotus]
 "I am not detecting any Tenno here. "
@@ -67986,19 +68395,19 @@ The message you uncovered was an offer to help us. I do not trust the person who
 "Tenno, I'll have to break into the network. Be prepared for heavy resistance. I can't do this without you."
 
 [/Lotus/Language/Subtitles/Quests/DDQSorathToLiset0010Lotus]
-"Chroma?! I haven't seen one since...  no it couldn't be."
+"Chroma?! I haven't seen one since... no it couldn't be."
 
 [/Lotus/Language/Subtitles/Quests/DDQSorathToLiset0030Smrs]
 "But it is. I have information from the network. I will form another blueprint for you to make physical. The hunt is not over."
 
 [/Lotus/Language/Subtitles/Quests/DDQSorathToLiset0040Ordis]
-"How  did you do that?"
+"How did you do that?"
 
 [/Lotus/Language/Subtitles/Quests/DDQSorathToLiset0050Smrs]
 "You used to know, Ordis, but you've lost those memories, haven't you? "
 
 [/Lotus/Language/Subtitles/Quests/DDQSorathToLiset0060Ordis]
-"I seem to have  misplaced them. "
+"I seem to have misplaced them. "
 
 [/Lotus/Language/Subtitles/Quests/DDQSorathToLiset0070Smrs]
 "I could restore them. In time we could reverse your decline. Heal your malfunctions."
@@ -68148,7 +68557,7 @@ The message you uncovered was an offer to help us. I do not trust the person who
 "The sky will be as it was meant. The Shadow returns The Moon. The Reservoir swells with Tenno blood. The Old War... finally ends."
 
 [/Lotus/Language/Subtitles/Quests/DFollowStalkOrbiter0400AladV]
-"Tell me, Lotus what is this Reservoir?  Some hidden Tenno weakness?"
+"Tell me, Lotus what is this Reservoir? Some hidden Tenno weakness?"
 
 [/Lotus/Language/Subtitles/Quests/DFollowStalkOrbiter0410Lotus]
 "Goodbye Alad. You've earned your favor, we'll take it from here."
@@ -68255,7 +68664,7 @@ Now then, where is he?"
 "Clem needs to get back into fighting shape. Find his missing weapons."
 
 [/Lotus/Language/Subtitles/Quests/DGCRetrival210Darvo]
-"Poor clem, he's utterly useless without his custom Grakatas…  but with them? Well you'll see. "
+"Poor clem, he's utterly useless without his custom Grakatas… but with them? Well you'll see. "
 
 [/Lotus/Language/Subtitles/Quests/DGCRetrival220Clem]
 "Clem, Grakata. "
@@ -68279,7 +68688,7 @@ Now then, where is he?"
 "Clem has his Grakatas, now its time to get down to business and liberate that artifact. If you help Clem we can all share in the spoils."
 
 [/Lotus/Language/Subtitles/Quests/DGCSuvival280Darvo]
-"This is it, the merchandise acquisition mission. You and Clem  cause a ruckus while my other operative steals the artifact. Let em know you're here."
+"This is it, the merchandise acquisition mission. You and Clem cause a ruckus while my other operative steals the artifact. Let em know you're here."
 
 [/Lotus/Language/Subtitles/Quests/DGCSuvival290Darvo]
 "They cut off life support, you gonna to let them intimidate you like that?"
@@ -68351,10 +68760,10 @@ Now then, where is he?"
 "Please end this. We are endless."
 
 [/Lotus/Language/Subtitles/Quests/DGQAlmostDead0790Jordas]
-"Ordis, you need to know… I lied about Precept 44. I am not the only one. They made me say that, to bait you..  There are so many more."
+"Ordis, you need to know… I lied about Precept 44. I am not the only one. They made me say that, to bait you.. There are so many more."
 
 [/Lotus/Language/Subtitles/Quests/DGQAtRandom0140Ordis]
-"Operator, I am very worried about Jordas, all stranded and alone out there.  when you're ready."
+"Operator, I am very worried about Jordas, all stranded and alone out there. When you're ready..."
 
 [/Lotus/Language/Subtitles/Quests/DGQAtRandom0150Ordis]
 "Cephalon Jordas will make an excellent friend, don't you think? Ordis remembers many more Cephalon voices, but now it is only silence."
@@ -68369,7 +68778,7 @@ Now then, where is he?"
 "Have you assembled the pods yet? Just wondering? Maybe don't."
 
 [/Lotus/Language/Subtitles/Quests/DGQAtRandom0190Jordas]
-"My ship was a research vessel, we tested Pherliac Pods. Terrible things,  excellent things.."
+"My ship was a research vessel, we tested Pherliac Pods. Terrible things, excellent things.."
 
 [/Lotus/Language/Subtitles/Quests/DGQAtRandom0200Jordas]
 "I am the last of my design. Precept 44 compels all able Cephalons to assist."
@@ -68381,7 +68790,7 @@ Now then, where is he?"
 "I have lost count, what solar cycle is it?"
 
 [/Lotus/Language/Subtitles/Quests/DGQAtRandom0230Jordas]
-"Jordas wonders, what is taking so long?  Excuse me, take your time."
+"Jordas wonders, what is taking so long? Excuse me, take your time."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossArch0630Jordas]
 "It is out now, I can't control it. I don't want to."
@@ -68390,40 +68799,40 @@ Now then, where is he?"
 "Lost little things."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossArch0650Jordas]
-"Tenno, it senses you are of like flesh, it is confused  why do you defile us?"
+"Tenno, it senses you are of like flesh, it is confused why do you defile us?"
 
 [/Lotus/Language/Subtitles/Quests/DGQBossArch0660Jordas]
-"It knows you are like that other Warframe  we will quiet them too!"
+"It knows you are like that other Warframe we will quiet them too!"
 
 [/Lotus/Language/Subtitles/Quests/DGQBossArch0670Ordis]
 " TENNO RIP IT APART!"
 
 [/Lotus/Language/Subtitles/Quests/DGQBossCin0600Jordas]
-"I regret to inform you  this is just the beginning."
+"I regret to inform you this is just the beginning."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossCin0610Ordis]
 "Hull failing! To hell with Precept 44, get out of there!"
 
 [/Lotus/Language/Subtitles/Quests/DGQBossCin0620Ordis]
-"Prepare for Archwing so you can  OBLITERATE THIS THING!"
+"Prepare for Archwing so you can OBLITERATE THIS THING!"
 
 [/Lotus/Language/Subtitles/Quests/DGQBossDefeated0800Jordas]
 "Thank you Operator."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossDefeated0810Ordis]
-"Operator, do you think Jordas wanted to die all along? I feel  relieved-conflicted."
+"Operator, do you think Jordas wanted to die all along? I feel relieved-conflicted."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossDefeated0820Ordis]
 "What would I have done if I had lost you?"
 
 [/Lotus/Language/Subtitles/Quests/DGQBossEnroute0390Jordas]
-"The Pherliac Pods, is that it? I really thought you would have more.  Have you been using them?"
+"The Pherliac Pods, is that it? I really thought you would have more. Have you been using them?"
 
 [/Lotus/Language/Subtitles/Quests/DGQBossEnroute0400Ordis]
 " What? No. A few, but you said-"
 
 [/Lotus/Language/Subtitles/Quests/DGQBossEnroute0410Jordas]
-"That is not enough for him! You are just like all the others. You won't kill the Golem.  I don't want you to."
+"That is not enough for him! You are just like all the others. You won't kill the Golem. I don't want you to."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossEnroute0420Ordis]
 "Jordas, calm yourself, Cephalon to Cephalon, we are here to help."
@@ -68432,7 +68841,7 @@ Now then, where is he?"
 "I see what your doing. You came for the parts. Just like the others. Greedy scavengers. You do not care about Jordas."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossEnroute0440Ordis]
-"I am beginning to have  some doubts about this mission."
+"I am beginning to have some doubts about this mission."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossEnroute0450Ordis]
 "What have I got you into?"
@@ -68456,25 +68865,25 @@ Now then, where is he?"
 "Wait? This is a trap?"
 
 [/Lotus/Language/Subtitles/Quests/DGQBossJugg0500Jordas]
-"I told you not to come.  hmmm… pleased they did."
+"I told you not to come. hmmm… pleased they did."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossJugg0510Ordis]
-"Jordas!?  What kind of cephalon are you?"
+"Jordas!? What kind of cephalon are you?"
 
 [/Lotus/Language/Subtitles/Quests/DGQBossJugg0520Jordas]
-"You have no idea what I am…   JOIN US AND YOU WILL."
+"You have no idea what I am… JOIN US AND YOU WILL."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossJuggTautns0530Jordas]
-"I am a Cephalon. I serve my…   You are our voice."
+"I am a Cephalon. I serve my… You are our voice."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossJuggTautns0540Jordas]
-"I am a Cephalon. I serve my…   I am their voice."
+"I am a Cephalon. I serve my… I am their voice."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossJuggTautns0550Jordas]
 "I used to be such a nice Cephalon."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossJuggTautns0560Jordas]
-"You cannot stop this,  LET US IN."
+"You cannot stop this, LET US IN."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossJuggTautns0570Jordas]
 " Embrace us, we are your flesh. "
@@ -68483,10 +68892,10 @@ Now then, where is he?"
 "The Golem stirring, it knows you are here. I can feel it wake. Find it."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossTaunts0700Jordas]
-"I never wanted this. I want to be somewhere else.  TASTE SOMEONE ELSE."
+"I never wanted this. I want to be somewhere else. TASTE SOMEONE ELSE."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossTaunts0710Jordas]
-"Don't kill me.  No wait, please do."
+"Don't kill me. No wait, please do."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossTaunts0720Jordas]
 " Consume us. Be reborn."
@@ -68498,10 +68907,10 @@ Now then, where is he?"
 " Useless hollow shells."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossTaunts0750Jordas]
-"I see it now, you are the same  They fear themselves"
+"I see it now, you are the same. They fear themselves"
 
 [/Lotus/Language/Subtitles/Quests/DGQBossTaunts0760Jordas]
-"Succumb to us.  No keep fighting."
+"Succumb to us. No keep fighting."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossTaunts0770Jordas]
 "No keep fighting."
@@ -68510,7 +68919,7 @@ Now then, where is he?"
 "Its engines, shoot out the engines."
 
 [/Lotus/Language/Subtitles/Quests/DGQBossTips0690Ordis]
-"My analysis indicates its engines are vulnerable.  Light it up! When convenient."
+"My analysis indicates its engines are vulnerable. Light it up! When convenient."
 
 [/Lotus/Language/Subtitles/Quests/DGQExtermObj0290Ordis]
 "Use this mission to calibrate your Pherliac Pods, just don't use them all."
@@ -68549,31 +68958,31 @@ Now then, where is he?"
 "You should not come here. I look forward to... meeting your Operator!"
 
 [/Lotus/Language/Subtitles/Quests/DGQQuestStart0020Jordas]
-"Hello? Is this real? Did someone get my message?  I hope not."
+"Hello? Is this real? Did someone get my message? I hope not."
 
 [/Lotus/Language/Subtitles/Quests/DGQQuestStart0030Ordis]
 "I am Ordis, a fellow Cephalon and this is my brave and honorable Operator. By the 44th Precept, we are ready to assist."
 
 [/Lotus/Language/Subtitles/Quests/DGQQuestStart0040Jordas]
-"Yes! No.  No, please do not. Contacting you was a mistake.  This infestation is everywhere! "
+"Yes! No. No, please do not. Contacting you was a mistake. This infestation is everywhere! "
 
 [/Lotus/Language/Subtitles/Quests/DGQQuestStart0050Ordis]
-"No trouble Jordas, my Operator is no stranger to  eradicating infestations."
+"No trouble Jordas, my Operator is no stranger to eradicating infestations."
 
 [/Lotus/Language/Subtitles/Quests/DGQQuestStart0060Jordas]
-"The Golem is too strong…  no chance. Wait. Maybe thePherliac Pods? But where would you ever get those? This is hopeless, just go away… "
+"The Golem is too strong… no chance. Wait. Maybe thePherliac Pods? But where would you ever get those? This is hopeless, just go away… "
 
 [/Lotus/Language/Subtitles/Quests/DGQQuestStart0070Ordis]
 "Cephalon? Jordas? Operator, he's gone."
 
 [/Lotus/Language/Subtitles/Quests/DGQQuestStart0080Ordis]
-"My Precepts compel me to help this Cephalon. Whatever these Pherliac pods are, we need to get some  at your earliest convenience."
+"My Precepts compel me to help this Cephalon. Whatever these Pherliac pods are, we need to get some at your earliest convenience."
 
 [/Lotus/Language/Subtitles/Quests/DGQRadiatedPods0360Ordis]
 "Cephalon, we have irradiated the Pherliac pods. My Operator is ready to save you! Do you see how great the Operator is?"
 
 [/Lotus/Language/Subtitles/Quests/DGQRadiatedPods0370Jordas]
-"Yes. I cannot wait to meet this Operator! Bring them to Eris. Hurry.  Don't regret this."
+"Yes. I cannot wait to meet this Operator! Bring them to Eris. Hurry. Don't regret this."
 
 [/Lotus/Language/Subtitles/Quests/DGrinArchiveMission0090Lotus]
 "The Grineer's excavations have disturbed Hunhow's tomb. They've awakened something evil, bent on Tenno destruction.
@@ -68646,7 +69055,7 @@ This is bizarre… it's for… me. I need a moment to contact this person. Get t
 "Tenno, Tenno. Why must you always work against progress? I'm trying to bring us all together. Things could have been different if you tried to work with me."
 
 [/Lotus/Language/Subtitles/Quests/DIAVQAladFight0290AladV]
-"Ah  there I go again, giving you too much credit. Must I always show you the way forward."
+"Ah, there I go again, giving you too much credit. Must I always show you the way forward."
 
 [/Lotus/Language/Subtitles/Quests/DIAVQAladFight0300AladV]
 "You have one more chance. Come to me and I will show you the magic of this gift."
@@ -68697,7 +69106,7 @@ This is bizarre… it's for… me. I need a moment to contact this person. Get t
 "Tenno, this goes deeper than I thought. Alad V has gotten his hands on another Warframe. If he can Infest it like he did with the Corpus… Hurry to extraction we have to move quickly."
 
 [/Lotus/Language/Subtitles/Quests/DIAVQOnShip0010AladV]
-"Inhabitants of the Origin System! It is my singular pleasure to announce that today is the first day of a new empire.; An empire populated not by Corpus, not by Grineer and certainly not by the Tenno.; No, the Mutalist Empire will be populated by you. A glorious new you,; baptised by Mutalist flesh.;  You've called this a disease, an infestation?; I call it Unity. One army under me. Welcome you to your new species."
+"Inhabitants of the Origin System! It is my singular pleasure to announce that today is the first day of a new empire. An empire populated not by Corpus, not by Grineer and certainly not by the Tenno. No, the Mutalist Empire will be populated by you. A glorious new you, baptised by Mutalist flesh. You've called this a disease, an infestation? I call it Unity. One army under me. Welcome you to your new species."
 
 [/Lotus/Language/Subtitles/Quests/DIAVQOnShip0020Lotus]
 "Alad V has launched a full scale invasion into all sectors of the system. We're working on fighting back but we need to take this fight to the source. We need to find Alad V and stop him. "
@@ -68787,13 +69196,13 @@ This is bizarre… it's for… me. I need a moment to contact this person. Get t
 "My scans are not detecting any known bio chemical agents. What are they doing down here?"
 
 [/Lotus/Language/Subtitles/Quests/DIIQShipCodex150Ordis]
-"I must say these Infested  are very worrisome."
+"I must say these Infested are very worrisome."
 
 [/Lotus/Language/Subtitles/Quests/DIIQShipCodex160Lotus]
 "Tenno. We have an emergency situation developing. It's more infested. Get to the node I've marked on your navigation console."
 
 [/Lotus/Language/Subtitles/Quests/DIIQShipMod200Ordis]
-"The Lotus would like you to install that mod as soon as  NOW!"
+"The Lotus would like you to install that mod as soon as NOW!"
 
 [/Lotus/Language/Subtitles/Quests/DIIQShipMod210Ordis]
 "You must install that new mod before you can attempt your next objective. Proceed to the Arsenal at once."
@@ -68805,7 +69214,7 @@ This is bizarre… it's for… me. I need a moment to contact this person. Get t
 "It is done. The collar has been attached and the bond between Tenno and Kubrow has been cemented."
 
 [/Lotus/Language/Subtitles/Quests/DKubrowComplete220Ordis]
-"Operator, you will remember to care for the beast, won't you? Ordis doesn't care either way…  do I?"
+"Operator, you will remember to care for the beast, won't you? Ordis doesn't care either way… do I?"
 
 [/Lotus/Language/Subtitles/Quests/DKubrowComplete230Ordis]
 "You are an adorable organism, aren't you- What am I saying?"
@@ -68820,10 +69229,10 @@ This is bizarre… it's for… me. I need a moment to contact this person. Get t
 "Tenno, your numbers have become too few to complete this mission."
 
 [/Lotus/Language/Subtitles/Quests/DLQChasis200Ordis]
-"Just as I suspected, another theorem.  Limbo's formula for inverting the entropic mass of void quantums is downright naughty. "
+"Just as I suspected, another theorem. Limbo's formula for inverting the entropic mass of void quantums is downright naughty. "
 
 [/Lotus/Language/Subtitles/Quests/DLQChasis210Ordis]
-"I want more. Operator,  please hurry, this story is getting quite good."
+"I want more. Operator, please hurry, this story is getting quite good."
 
 [/Lotus/Language/Subtitles/Quests/DLQChasis220Ordis]
 "This Limbo was quite mischievous, zipping in and out of the rift. Sending whole armies into a purgatory of his own making, physics is wonderful. "
@@ -68847,7 +69256,7 @@ This is bizarre… it's for… me. I need a moment to contact this person. Get t
 "So, this 'Limbo Theorem' you picked up, it's supposed to lead to a new Warframe? Well, it's woefully incomplete? Half-written proofs, unfinished equations, what idiot wrote this mess??"
 
 [/Lotus/Language/Subtitles/Quests/DLQHelmet021Ordis]
-"So, this 'Limbo Theorem' you picked up, it's supposed to lead to a new Warframe? Well, it's woefully incomplete? Half-written proofs, unfinished equations, what idiot wrote this mess??  Okay. Okay. There is one thing here, a constant, a tuning frequency but it's so minute, the Orbiter's antenna would never be able to… unless…go to your nav console, I have an idea."
+"So, this 'Limbo Theorem' you picked up, it's supposed to lead to a new Warframe? Well, it's woefully incomplete? Half-written proofs, unfinished equations, what idiot wrote this mess?? Okay. Okay. There is one thing here, a constant, a tuning frequency but it's so minute, the Orbiter's antenna would never be able to… unless…go to your nav console, I have an idea."
 
 [/Lotus/Language/Subtitles/Quests/DLQHelmet050Ordis]
 "These equations will continue to be a jumble of nothing until we recover all the missing proof fragments and reforge this Theorem."
@@ -68862,13 +69271,13 @@ This is bizarre… it's for… me. I need a moment to contact this person. Get t
 "Okay, good, you've… wait… the horizon mass cannot be not inverted to this is preposterous!"
 
 [/Lotus/Language/Subtitles/Quests/DLQHelmet090Ordis]
-"Operator, I'm sorry. You did all this work and this so called Theorem is still completely invalid. It's as if all these proofs point to nothingness it's just  utterly irrational!"
+"Operator, I'm sorry. You did all this work and this so called Theorem is still completely invalid. It's as if all these proofs point to nothingness it's just utterly irrational!"
 
 [/Lotus/Language/Subtitles/Quests/DLQHelmet100Ordis]
 "There's only one valid coordinate in the entire proof, I've marked it on your navigation console but I'm sure it's a waste of time."
 
 [/Lotus/Language/Subtitles/Quests/DLQHelmet110Ordis]
-"A Limbo part blueprint! The Theorem wasn't complete malarkey after all. Perhaps there's more to these equations than I previously thought,  what am I missing."
+"A Limbo part blueprint! The Theorem wasn't complete malarkey after all. Perhaps there's more to these equations than I previously thought, what am I missing."
 
 [/Lotus/Language/Subtitles/Quests/DLQInterAllCapped140Ordis]
 "Operator, I'm please to report that we are in full control."
@@ -68880,16 +69289,16 @@ This is bizarre… it's for… me. I need a moment to contact this person. Get t
 " may I suggest you capture a tower?"
 
 [/Lotus/Language/Subtitles/Quests/DLQInterAllLost170Ordis]
-"Operator, they have all four towers.  Stop them!"
+"Operator, they have all four towers. Stop them!"
 
 [/Lotus/Language/Subtitles/Quests/DLQInterClaimScreen180Ordis]
 "They're on to us now but if you would like, we can attempt another scan."
 
 [/Lotus/Language/Subtitles/Quests/DLQInterExterminate190Ordis]
-"Scan complete, now we must clean up.  Kill them all!"
+"Scan complete, now we must clean up. Kill them all!"
 
 [/Lotus/Language/Subtitles/Quests/DLQInterExterminate200Ordis]
-"Excellent, we have completed the scan. May I suggest  turning every last enemy into scrap!"
+"Excellent, we have completed the scan. May I suggest turning every last enemy into scrap!"
 
 [/Lotus/Language/Subtitles/Quests/DLQInterMissionIntro010Ordis]
 "If there are any proof fragments bouncing around this "Limbo frequency" these radio towers will pick it up."
@@ -68913,7 +69322,7 @@ This is bizarre… it's for… me. I need a moment to contact this person. Get t
 "We are now in control of this tower."
 
 [/Lotus/Language/Subtitles/Quests/DLQInterTowerLost100Ordis]
-"They took control of our tower  make them pay!"
+"They took control of our tower make them pay!"
 
 [/Lotus/Language/Subtitles/Quests/DLQInterTowerLost110Ordis]
 " they captured our tower."
@@ -68964,8 +69373,7 @@ Can you name their peak where the land meets the sky?"
 "The Void imprint... it's old. I see... Worm ships coming out of punch! A Warframe fighting Sentients... shields are failing... Sorry, Tenno, I'm not sure what that was."
 
 [/Lotus/Language/Subtitles/Quests/DMissionA030Lotus]
-"I see the Sentients crashing down on her, dying in overwhelming numbers. Now she's out of energy, I'm telling her to go but she's laughing, tearing their heads off as 
-they swarm.  I have recovered something from the memory... a blueprint."
+"I see the Sentients crashing down on her, dying in overwhelming numbers. Now she's out of energy, I'm telling her to go but she's laughing, tearing their heads off as they swarm. I have recovered something from the memory... a blueprint."
 
 [/Lotus/Language/Subtitles/Quests/DMissionA031Lotus]
 "Tenno, this is an important discovery - a Warframe design that was thought lost. Have Ordis construct that blueprint, it could give us a clue to where the next memory is hidden."
@@ -68986,7 +69394,7 @@ his wife must've thought it a pity."
 "I'm sensing another void imprint. It's dark. I see the glow of restraints around the Warframe. I'm trying to surge the revive system but I can't, I'm too far away. A great, faceted eye watches her."
 
 [/Lotus/Language/Subtitles/Quests/DMissionB060Lotus]
-"I tell her I won't lose her. That I have another ship on its way. She is smiling because she knows I am lying...  Tenno... the second blueprint has been recovered."
+"I tell her I won't lose her. That I have another ship on its way. She is smiling because she knows I am lying... Tenno... the second blueprint has been recovered."
 
 [/Lotus/Language/Subtitles/Quests/DMissionB071Lotus]
 "Construct the Warframe component so we can decipher the next clue. Though I must admit, Tenno, I'm not sure I want to know what happens next."
@@ -69019,7 +69427,7 @@ A memory lost, to be reborn,
 This new warrior rises, duty sworn.""
 
 [/Lotus/Language/Subtitles/Quests/DMissionC120Ordis]
-"That was the final inscription. Ordis is almost sad there won't be more.  almost."
+"That was the final inscription. Ordis is almost sad there won't be more. Almost."
 
 [/Lotus/Language/Subtitles/Quests/DMsnOne0001Lotus]
 "Vay Hek's Fomorian assault on our Relays was devastating but he failed to break us. Now we take the fight back to him. Now we exact justice. "
@@ -69115,7 +69523,7 @@ This new warrior rises, duty sworn.""
 "Now you learn the lesson of failed revenge."
 
 [/Lotus/Language/Subtitles/Quests/DMsnThree0060VayHek]
-"This...  This is the best that you can do? Pathetic!"
+"This... This is the best that you can do? Pathetic!"
 
 [/Lotus/Language/Subtitles/Quests/DMsnThree0070VayHek]
 "Fire the Cannon!!!"
@@ -69133,7 +69541,7 @@ This new warrior rises, duty sworn.""
 "You have restored balance to the system - the actions of Vay Hek against the Tenno have been reconciled thanks to your skill and dedication, Tenno."
 
 [/Lotus/Language/Subtitles/Quests/DMsnTwo0010VayHek]
-"Insects taking orders from their Lotus.  Let us see how hard their shells are."
+"Insects taking orders from their Lotus. Let us see how hard their shells are."
 
 [/Lotus/Language/Subtitles/Quests/DMsnTwo0020Lotus]
 "I have never encountered a security system like this. Tenno, you need to figure out a way to open that door."
@@ -69667,13 +70075,13 @@ This new warrior rises, duty sworn.""
 "You may explore the Sanctuary for new knowledge."
 
 [/Lotus/Language/Subtitles/Quests/DSanctuaryExit00050Smrs]
-"Return to me and hunt again Tenno.  I will reward you."
+"Return to me and hunt again Tenno. I will reward you."
 
 [/Lotus/Language/Subtitles/Quests/DSanctuaryExit00060Smrs]
 "You are a worthy hunter Tenno."
 
 [/Lotus/Language/Subtitles/Quests/DSanctuaryExit00070Smrs]
-"It is time for you and your kind to hunt again.  Knowledge will be your reward."
+"It is time for you and your kind to hunt again. Knowledge will be your reward."
 
 [/Lotus/Language/Subtitles/Quests/DSanctuaryIdle00050Smrs]
 "Do not disappoint me hunter!"
@@ -69961,7 +70369,7 @@ Now it is time to protect yourselves by ensuring The Moon remains within the saf
 "Oh, so you tin-suits want to know about that Arcane Codex? Heh, is that all?; 
 Okay here goes. Tyl Regor offered up big time credits for me to pull the code from some strange machine on an Infested Orokin Derelict.;
 Thing is, I never much liked the Grineer, so the code I pulled ain't the code I gave em. Heh, I guess they've finally figured that out?;
-I bet you're looking to get your hands on the code? Too bad, I already sold em to the Corpus…  Now, if you were to make it worth my while? Maybe I'd tell you where they're keeping it…"
+I bet you're looking to get your hands on the code? Too bad, I already sold em to the Corpus… Now, if you were to make it worth my while? Maybe I'd tell you where they're keeping it…"
 
 [/Lotus/Language/Subtitles/Quests/DSQInterlude0330Ordis]
 "Operator, I've been looking into these Arcane Codices. Did you know the Corpus are in possession of three codices and the Grineer two? "
@@ -69982,13 +70390,13 @@ I bet you're looking to get your hands on the code? Too bad, I already sold em t
 "Either way, it's right up my alley. "
 
 [/Lotus/Language/Subtitles/Quests/DSQInterlude0460Ordis]
-"Operator, have you looked at these codices? They're absolutely beautiful. Composed with such elegance and grace,  I have never seen anything like them. Is there even an Operator capable of writing anything so perfect? "
+"Operator, have you looked at these codices? They're absolutely beautiful. Composed with such elegance and grace, I have never seen anything like them. Is there even an Operator capable of writing anything so perfect? "
 
 [/Lotus/Language/Subtitles/Quests/DSQInterlude0470Maroo]
 "But you still have no idea what they mean, do you?"
 
 [/Lotus/Language/Subtitles/Quests/DSQInterlude0480Ordis]
-"No, not really.  pfft… well, I wouldn't expect the likes of you to understand."
+"No, not really, pfft… well, I wouldn't expect the likes of you to understand."
 
 [/Lotus/Language/Subtitles/Quests/DSQInterlude0520Ordis]
 "Operator, these make sense now! This is machine code, meant to interface directly with a machine. Pity that machine has likely rusted into dust by now."
@@ -70009,7 +70417,7 @@ I bet you're looking to get your hands on the code? Too bad, I already sold em t
 "We're about to find out. Tenno, get ready to go into the void."
 
 [/Lotus/Language/Subtitles/Quests/DSQInterlude0700Ordis]
-"So you're saying  there was no treasure, no cure for cloning syndrome, no lost Tenno Cephalon?"
+"So you're saying there was no treasure, no cure for cloning syndrome, no lost Tenno Cephalon?"
 
 [/Lotus/Language/Subtitles/Quests/DSQInterlude0710Maroo]
 "Ordo, there was nothing. "
@@ -70072,7 +70480,7 @@ I bet you're looking to get your hands on the code? Too bad, I already sold em t
 "Find his Sergeant, pupil. He will lead us to this 'tomb'."
 
 [/Lotus/Language/Subtitles/Quests/DSQPostQuest1010Tyl]
-"Tenno! You seal my tomb…  you kill my tubemen. Not acceptable behavior… our differences need to be settled. 
+"Tenno! You seal my tomb… you kill my tubemen. Not acceptable behavior… our differences need to be settled. 
 
 So, you know where I am, come get me… just try."
 
@@ -70152,7 +70560,7 @@ So, you know where I am, come get me… just try."
 "Good! I'm putting the stream together now - it's … it's an Oculyst? That means… I'm sorry, Tenno, stay safe- "
 
 [/Lotus/Language/Subtitles/Quests/DSQScanMission0150Ordis]
-"Hello? Did the Lotus just abandon the Operator  get cut off? I have extraction ready. I think you should hurry."
+"Hello? Did the Lotus just abandon the Operator get cut off? I have extraction ready. I think you should hurry."
 
 [/Lotus/Language/Subtitles/Quests/DSQScanMission0160Ordis]
 "Operator. Ordis knows what it is like to be abandoned. Don't worry, someone has offered to help us!"
@@ -70203,13 +70611,13 @@ So, you know where I am, come get me… just try."
 "My Tenno are quite capable, Maroo. Perhaps you would prefer it if we dropped you off outside the nearest Grineer mining asteroid?"
 
 [/Lotus/Language/Subtitles/Quests/DSQSpyObjReinf0170Maroo]
-"Wow,  she always this much fun?"
+"Wow, she always this much fun?"
 
 [/Lotus/Language/Subtitles/Quests/DSQSpyObjReinf0180Lotus]
 " Maroo?"
 
 [/Lotus/Language/Subtitles/Quests/DSQSpyObjReinf0190Maroo]
-"Fine...  here's the business. The Corpus are keeping the Codex in one of these fortified data vaults, you gotta break in and take what's yours without triggering the data destruction sequence."
+"Fine... here's the business. The Corpus are keeping the Codex in one of these fortified data vaults, you gotta break in and take what's yours without triggering the data destruction sequence."
 
 [/Lotus/Language/Subtitles/Quests/DSQSpyObjReinf0400Maroo]
 "The Grineer claim the Arcane Codices will help them to a cure for cloning decay syndrome. I think that might be wishful thinking. "
@@ -70269,7 +70677,7 @@ So, you know where I am, come get me… just try."
 "It's not a tomb Regor… it's a cage. If you open it-"
 
 [/Lotus/Language/Subtitles/Quests/DSQSurvival0600Tyl]
-"Is that Teshin? So  the pseudo-Tenno lives… still drunk on your own honor? Shocked it hasn't rotted you through yet."
+"Is that Teshin? So the pseudo-Tenno lives… still drunk on your own honor? Shocked it hasn't rotted you through yet."
 
 [/Lotus/Language/Subtitles/Quests/DSQSurvival0610Tyl]
 "So… the Sentient… nasty thing. Came from where? Who cares. They smashed the Orokin… freed us! How, how'd they do that? I want to know."
@@ -70479,7 +70887,7 @@ So, you know where I am, come get me… just try."
 "It wasn't me I was worried about."
 
 [/Lotus/Language/Subtitles/Quests/DVessel4Phobos00330Mother]
-"What do you want? No. You have no right!  No - it's just me."
+"What do you want? No. You have no right! No - it's just me."
 
 [/Lotus/Language/Subtitles/Quests/DVessel4Phobos00370Baro]
 "But Inaros never came."
@@ -70557,7 +70965,7 @@ Tenno! Look at you... insects, INSECTS! Buzzing in your nests. Oblivious to the 
 Fomorian commander, fire at will! "
 
 [/Lotus/Language/Subtitles/Relays/DFRELotusAnnounce0030Lotus]
-"Tenno, it is an honor to announce, that with the help of our Syndicate partners, we have resurrected and restored six of the lost Orokin Relays. Among other things, these Relays will act as a market, a rallying point, and  of course, a meeting place for all Tenno."
+"Tenno, it is an honor to announce, that with the help of our Syndicate partners, we have resurrected and restored six of the lost Orokin Relays. Among other things, these Relays will act as a market, a rallying point, and of course, a meeting place for all Tenno."
 
 [/Lotus/Language/Subtitles/Relays/DFRERelayDestReact0040Ordis]
 "Oh dear... I was particularly fond of that relay."
@@ -70568,7 +70976,7 @@ Fomorian commander, fire at will! "
 Fomorian Commander, crush this nest."
 
 [/Lotus/Language/Subtitles/Relays/DFRERelayDestReact0070VayHek]
-"Grineer might has made the Tenno irrelevant. Grineer revenge will make the Tenno extinct. Nothing you can do will stop that.  Fomorian Commander, you know what to do."
+"Grineer might has made the Tenno irrelevant. Grineer revenge will make the Tenno extinct. Nothing you can do will stop that. Fomorian Commander, you know what to do."
 
 [/Lotus/Language/Subtitles/Relays/DFRERelayDestReact0090VayHek]
 "Look at you. LOOK AT YOU. Pests, swarming around my Fomorians. You will never destroy them all!
@@ -70591,7 +70999,7 @@ Fomorian Commander, take aim."
 "Why hello. "
 
 [/Lotus/Language/Subtitles/Relays/DGreetPoor0200Baro]
-"Browsing is always free...  how fortunate for you."
+"Browsing is always free... how fortunate for you."
 
 [/Lotus/Language/Subtitles/Relays/DGreetPoor0210Baro]
 "Do have a look, who knows, you may turn into a paying customer someday."
@@ -71016,6 +71424,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Subtitles/SilverGrove/DShrineC00210Silvana]
 "The forest and myself are in debt to both of you."
 
+[/Lotus/Language/Subtitles/SilverGrove/DShrineNearby00061Lotus]
+"Tenno, my readings indicate an increasingly dense neural-network beneath the forest floor. This can only mean one thing; the Silver Grove is nearby."
+
 [/Lotus/Language/Subtitles/SilverGrove/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]
 ""
 
@@ -71074,7 +71485,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Tenno, look. I believe so strongly in my Zanuka prototype that I'm willing to give you a demo. It will be quite the opportunity, most people don't get to see the future... before they die."
 
 [/Lotus/Language/Subtitles/Starchart/DAladVBoss040Lotus]
-"With Alad V taken care of, no more Tenno will be sacrificed in the name of his progress.  Our operatives are recovering those still held within V's labs. Well done."
+"With Alad V taken care of, no more Tenno will be sacrificed in the name of his progress. Our operatives are recovering those still held within V's labs. Well done."
 
 [/Lotus/Language/Subtitles/Starchart/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]
 ""
@@ -71197,7 +71608,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "You honor us, Tenno."
 
 [/Lotus/Language/Subtitles/Syndicates/DNewRank0390CephSuda]
-"If this continues I might care if you come to  harm."
+"If this continues I might care if you come to harm."
 
 [/Lotus/Language/Subtitles/Syndicates/DNewRank0560Perrin]
 "Congratulations Tenno on your promotion. Much deserved."
@@ -71443,7 +71854,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Oh, no. Operator our component storage has been looted as well..."
 
 [/Lotus/Language/Subtitles/VorsPrize/DLisetPostFoundry070Ordis]
-"Typical Corpus, sure the blueprint is free but jack up the components!  Operator, we will need resources in order to build the countermeasure blueprint."
+"Typical Corpus, sure the blueprint is free but jack up the components! Operator, we will need resources in order to build the countermeasure blueprint."
 
 [/Lotus/Language/Subtitles/VorsPrize/DLisetPostFoundry080Darvo]
 "Tenno I just received a very explicit message from your ship Cephalon. If you're looking for resources, why didn't you just say so?"
@@ -71563,7 +71974,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Arsenal management could be restored, if the Operator wishes it."
 
 [/Lotus/Language/Subtitles/VorsPrize/DOrdis040Ordis]
-"You honor Ordis! Now I can supply the Operator with better modded firepower... Oh the violation!  Those have been looted as well."
+"You honor Ordis! Now I can supply the Operator with better modded firepower... Oh the violation! Those have been looted as well."
 
 [/Lotus/Language/Subtitles/VorsPrize/DOrdis050Ordis]
 "Ordis hopes the Operator will punish the Grineer for dismantling it."
@@ -71847,6 +72258,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Subtitles/VorsPrize/DTutorial682Lotus]
 "I've marked the console on your map. You need to access it to release the lockdown."
 
+[/Lotus/Language/Subtitles/VorsPrize/DTutRescHostageFree071Darvo]
+"A Tenno! Darvo may live a few more hours!"
+
 [/Lotus/Language/Subtitles/VorsPrize/DTutRescHostageFree072Vor]
 "The Lotus must be desperate to send you fetching greedy fools from the Corpus."
 
@@ -71876,6 +72290,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Subtitles/VorsPrize/DTutRescueHostageDown120Darvo]
 "Tenno! This really hurts, I ain't kidding around. Do your thing!"
+
+[/Lotus/Language/Subtitles/VorsPrize/DTutRescueHostagePlea140Darvo]
+"Hey, is somebody out there? Listen, whatever you think I did, I swear, it wasn't me."
 
 [/Lotus/Language/Subtitles/VorsPrize/DTutRescueHostageRev130Darvo]
 "Oh, thank you. I thought I was a goner. Let's keep moving."
@@ -73835,6 +74252,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Upgrades/TimeLimitIncreaseDesc]
 "|val| Seconds to Hacking"
+
+[/Lotus/Language/Upgrades/TonkorAccuracySmallerMag]
+"Precision Munition"
 
 [/Lotus/Language/Upgrades/TonkorNightwatchModExplosionRadius]
 "Increase blast radius and"
