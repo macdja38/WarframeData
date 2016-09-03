@@ -48004,7 +48004,7 @@ Scales with Mastery Rank"
 "START FUSING INTO SELECTED MOD"
 
 [/Lotus/Language/Menu/FUSION_Description]
-"Enhance a Mod by fusing Endo."
+"Enhance a Mod by fusing Endo"
 
 [/Lotus/Language/Menu/FUSION_FuseFusionCoreError]
 "CANNOT FUSE A FUSION CORE"
@@ -48067,7 +48067,7 @@ Scales with Mastery Rank"
 "DISSOLVE"
 
 [/Lotus/Language/Menu/FusionPointsMode_Description]
-"Dissolve Mods into <FUSION_POINTS>."
+"Dissolve Mods into <FUSION_POINTS>"
 
 [/Lotus/Language/Menu/FusionPointsMode_NoCardsSelectedError]
 "SELECT MODS TO PREVIEW <FUSION_POINTS> VALUE"
@@ -53548,7 +53548,7 @@ Thank you for your partnership."
 "SELL ALL IN STACK"
 
 [/Lotus/Language/Menu/SELL_Description]
-"Sell your Mods for credits."
+"Sell your Mods for credits"
 
 [/Lotus/Language/Menu/SELL_DescriptionFusex]
 "Sell your Mods for credits or fusion points."
@@ -55182,7 +55182,7 @@ Ordis, Ship's Cephalon"
 "TRANSMUTE SELECTED MODS FOR <CREDITS> |PRICE|"
 
 [/Lotus/Language/Menu/TRANSMUTE_Description]
-"Combine 4 unranked Mods for a chance at a Rare Mod."
+"Combine 4 unranked Mods for a chance at a Rare Mod"
 
 [/Lotus/Language/Menu/Transmute_Mods]
 "TRANSMUTE MODS"
@@ -55197,7 +55197,7 @@ Ordis, Ship's Cephalon"
 "CANNOT TRANSMUTE LAST OF ABILITY MOD |MOD|"
 
 [/Lotus/Language/Menu/TRANSMUTE_SelectedCookedModError]
-"CANNOT TRANSMUTE RANKED MOD: |MOD|"
+"CANNOT TRANSMUTE RANKED MOD |MOD|"
 
 [/Lotus/Language/Menu/TRANSMUTE_TooManySelectionsError]
 "CAN ONLY HAVE 4 MODS SELECTED TO BEGIN TRANSMUTATION"
@@ -59091,6 +59091,147 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Scans/ZenPitcherPlantName]
 "LUNAR PITCHER"
 
+[/Lotus/Language/Seasonal/DotD2016SigilName]
+"DAY OF THE DEAD SIGIL"
+
+[/Lotus/Language/Seasonal/DotDSigilDesc]
+"A morbidly festive sigil."
+
+[/Lotus/Language/Seasonal/Halloween2016GlyphAName]
+"CALAVERA GLYPH I"
+
+[/Lotus/Language/Seasonal/Halloween2016GlyphBName]
+"CALAVERA GLYPH II"
+
+[/Lotus/Language/Seasonal/Halloween2016GlyphCName]
+"CALAVERA GLYPH III"
+
+[/Lotus/Language/Seasonal/Halloween2016GlyphDName]
+"CALAVERA GLYPH IV"
+
+[/Lotus/Language/Seasonal/HalloweenAbrasysScarfDesc]
+"A morbidly festive syandana."
+
+[/Lotus/Language/Seasonal/HalloweenAbrasysScarfName]
+"DAY OF THE DEAD ABRASYS SYANDANA"
+
+[/Lotus/Language/Seasonal/HalloweenCrpCircArmArmourDesc]
+"Morbidly festive shoulder plates for your Warframe."
+
+[/Lotus/Language/Seasonal/HalloweenCrpCircArmArmourName]
+"DAY OF THE DEAD PORTA SHOULDER PLATE"
+
+[/Lotus/Language/Seasonal/HalloweenCrpCircArmourBundleDesc]
+"A morbidly festive collection of armour."
+
+[/Lotus/Language/Seasonal/HalloweenCrpCircArmourBundleName]
+"DAY OF THE DEAD PORTA ARMOR PACK"
+
+[/Lotus/Language/Seasonal/HalloweenCrpCircChestArmourDesc]
+"A morbidly festive breastplate for your Warframe."
+
+[/Lotus/Language/Seasonal/HalloweenCrpCircChestArmourName]
+"DAY OF THE DEAD PORTA CHEST PLATE"
+
+[/Lotus/Language/Seasonal/HalloweenCrpCircLegArmourDesc]
+"Morbidly festive leg plates for your Warframe."
+
+[/Lotus/Language/Seasonal/HalloweenCrpCircLegArmourName]
+"DAY OF THE DEAD PORTA LEG PLATES"
+
+[/Lotus/Language/Seasonal/HalloweenDaikyuDesc]
+"A morbidly festive skin for the Daikyu."
+
+[/Lotus/Language/Seasonal/HalloweenDaikyuName]
+"DAIKYU DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenDarkDaggerDesc]
+"A morbidly festive skin for the Dark Dagger."
+
+[/Lotus/Language/Seasonal/HalloweenDarkDaggerName]
+"DARK DAGGER DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenDarkSplitSwordDesc]
+"A morbidly festive skin for the Dark Split-Sword."
+
+[/Lotus/Language/Seasonal/HalloweenDarkSplitSwordName]
+"DARK SPLIT-SWORD DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenDarkSwordDesc]
+"A morbidly festive skin for the Dark Sword."
+
+[/Lotus/Language/Seasonal/HalloweenDarkSwordName]
+"DARK SWORD DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenGlyphBundleDesc]
+"A collection of morbidly festive glyphs."
+
+[/Lotus/Language/Seasonal/HalloweenGlyphBundleName]
+"CALAVERA GLYPH PACK"
+
+[/Lotus/Language/Seasonal/HalloweenGlyphDesc]
+"A morbidly festive glyph."
+
+[/Lotus/Language/Seasonal/HalloweenGrakataDesc]
+"A morbidly festive skin for the Grakata."
+
+[/Lotus/Language/Seasonal/HalloweenGrakataName]
+"GRAKATA DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenKyropteraScarfDesc]
+"A morbidly festive syandana."
+
+[/Lotus/Language/Seasonal/HalloweenKyropteraScarfName]
+"DAY OF THE DEAD KYROPTERA SYANDANA"
+
+[/Lotus/Language/Seasonal/HalloweenSarpaDesc]
+"A morbidly festive skin for the Sarpa."
+
+[/Lotus/Language/Seasonal/HalloweenSarpaName]
+"SARPA DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenScarfBundleBDesc]
+"Morbidly festive syandanas to decorate your Tenno."
+
+[/Lotus/Language/Seasonal/HalloweenScarfBundleBName]
+"DAY OF THE DEAD THREADS II"
+
+[/Lotus/Language/Seasonal/HalloweenSilvaAndAegisDesc]
+"A morbidly festive skin for the Silva & Aegis."
+
+[/Lotus/Language/Seasonal/HalloweenSilvaAndAegisName]
+"SILVA & AEGIS DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenSimulorDesc]
+"A morbidly festive skin for the Simulor."
+
+[/Lotus/Language/Seasonal/HalloweenSimulorName]
+"SIMULOR DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenSonicorDesc]
+"A morbidly festive skin for the Sonicor."
+
+[/Lotus/Language/Seasonal/HalloweenSonicorName]
+"SONICOR DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenSpiraDesc]
+"A morbidly festive skin for the Spira."
+
+[/Lotus/Language/Seasonal/HalloweenSpiraName]
+"SPIRA DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenTonkorDesc]
+"A morbidly festive skin for the Tonkor."
+
+[/Lotus/Language/Seasonal/HalloweenTonkorName]
+"TONKOR DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenTwinGrakataDesc]
+"A morbidly festive skin for the Twin Grakatas."
+
+[/Lotus/Language/Seasonal/HalloweenTwinGrakataName]
+"TWIN GRAKATAS DAY OF THE DEAD SKIN"
+
 [/Lotus/Language/SectorWars/ArmTarget]
 "Arm Target"
 
@@ -61514,7 +61655,9 @@ Using Archwing’s jets for thrust, this massive hammer crushes anything in its 
 "EXCALIBUR GRAXX HELMET"
 
 [/Lotus/Language/SteamWorkshop/SWRFourExcaliburGraxxSkinDesc]
-"A unique skin for the Excalibur Warframe, designed by Faven_PS
+"A unique skin for the Excalibur Warframe, designed by Faven_PS. 
+
+Comes with bonus helmet.
 
 <UGC> TennoGen"
 
@@ -61535,7 +61678,7 @@ Using Archwing’s jets for thrust, this massive hammer crushes anything in its 
 <UGC> TennoGen"
 
 [/Lotus/Language/SteamWorkshop/SWRFourGraxxAltHelmetName]
-"GRAXX HELMET"
+"EXCALIBUR GRAXX-V2 HELMET"
 
 [/Lotus/Language/SteamWorkshop/SWRFourLokiErsatzHelmetDesc]
 "A helmet for the Loki Warframe, designed by Rekkou
