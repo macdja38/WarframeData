@@ -3449,6 +3449,9 @@ You will receive an email from your 2K contact when the console has been approve
 [/Lotus/Language/Alerts/AlertRewardCategoryMod]
 "Mod"
 
+[/Lotus/Language/Alerts/AlertRewardCategoryRelic]
+"Relic"
+
 [/Lotus/Language/Alerts/AlertRewardCategoryResource]
 "Resource"
 
@@ -12000,6 +12003,9 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 
 [/Lotus/Language/Dojo/TradeTypeSchematic]
 "Blueprint"
+
+[/Lotus/Language/Dojo/TradeTypeTreasures]
+"Ayatan Treasures"
 
 [/Lotus/Language/Dojo/TradeTypeWeapons]
 "Special Weapons"
@@ -23062,6 +23068,12 @@ Deploy this Extractor on a planet to collect large amounts of resources. It must
 [/Lotus/Language/Items/AHAkboltoName]
 "TELOS AKBOLTO"
 
+[/Lotus/Language/Items/AHBoltaceDesc]
+"Push the limits of Tenno lethality, with these spiked tonfas."
+
+[/Lotus/Language/Items/AHBoltaceName]
+"TELOS BOLTACE"
+
 [/Lotus/Language/Items/AHBoltorDesc]
 "Bring down judgement, with this boltor crafted by the Arbiters of Hexis."
 
@@ -27715,6 +27727,12 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/CryoticDesc]
 "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts."
 
+[/Lotus/Language/Items/CSHeliocorDesc]
+"For some, knowledge is a weapon. For Cephalon Suda, the weapon acquires knowledge."
+
+[/Lotus/Language/Items/CSHeliocorName]
+"SYNOID HELIOCOR"
+
 [/Lotus/Language/Items/CSimulorName]
 "SYNOID SIMULOR"
 
@@ -29474,16 +29492,16 @@ Pack Includes:
 "[PH] FUSEX TREASURE A"
 
 [/Lotus/Language/Items/FusionTreasureBDescription]
-"[PH] Ship of the imagination rich in heavy atoms trillion preserve and cherish that pale blue dot shores of the cosmic ocean great turbulent clouds cosmic ocean citizens of distant epochs! White dwarf. Dispassionate extraterrestrial observer rich in mystery the sky calls to us ship of the imagination. Worldlets. Two ghostly white figures in coveralls and helmets are soflty dancing, Jean-François Champollion extraordinary claims require extraordinary evidence Vangelis are creatures of the cosmos with pretty stories for which there’s little good evidence."
+"This kinetic Orokin sculpture springs to life when filled with Ayatan Stars. It may also be a source of Endo."
 
 [/Lotus/Language/Items/FusionTreasureBName]
-"[PH] FUSEX TREASURE B"
+"AYATAN AYR SCULPTURE"
 
 [/Lotus/Language/Items/FusionTreasureCDescription]
-"[PH] Ship of the imagination rich in heavy atoms trillion preserve and cherish that pale blue dot shores of the cosmic ocean great turbulent clouds cosmic ocean citizens of distant epochs! White dwarf. Dispassionate extraterrestrial observer rich in mystery the sky calls to us ship of the imagination. Worldlets. Two ghostly white figures in coveralls and helmets are soflty dancing, Jean-François Champollion extraordinary claims require extraordinary evidence Vangelis are creatures of the cosmos with pretty stories for which there’s little good evidence."
+"This kinetic Orokin sculpture springs to life when filled with Ayatan Stars. It may also be a source of Endo."
 
 [/Lotus/Language/Items/FusionTreasureCName]
-"[PH] FUSEX TREASURE C"
+"AYATAN ORTA SCULPTURE"
 
 [/Lotus/Language/Items/FusionTreasureDDescription]
 "[PH] Ship of the imagination rich in heavy atoms trillion preserve and cherish that pale blue dot shores of the cosmic ocean great turbulent clouds cosmic ocean citizens of distant epochs! White dwarf. Dispassionate extraterrestrial observer rich in mystery the sky calls to us ship of the imagination. Worldlets. Two ghostly white figures in coveralls and helmets are soflty dancing, Jean-François Champollion extraordinary claims require extraordinary evidence Vangelis are creatures of the cosmos with pretty stories for which there’s little good evidence."
@@ -29492,22 +29510,22 @@ Pack Includes:
 "[PH] FUSEX TREASURE D"
 
 [/Lotus/Language/Items/FusionTreasureEDescription]
-"[PH] Ship of the imagination rich in heavy atoms trillion preserve and cherish that pale blue dot shores of the cosmic ocean great turbulent clouds cosmic ocean citizens of distant epochs! White dwarf. Dispassionate extraterrestrial observer rich in mystery the sky calls to us ship of the imagination. Worldlets. Two ghostly white figures in coveralls and helmets are soflty dancing, Jean-François Champollion extraordinary claims require extraordinary evidence Vangelis are creatures of the cosmos with pretty stories for which there’s little good evidence."
+"This kinetic Orokin sculpture springs to life when filled with Ayatan Stars. It may also be a source of Endo."
 
 [/Lotus/Language/Items/FusionTreasureEName]
-"[PH] FUSEX TREASURE E"
+"AYATAN PIV SCULPTURE"
 
 [/Lotus/Language/Items/FusionTreasureOrmanetADescription]
-"[PH] Fits into some fusex treasures"
+"Place these stars into Ayatan Sculptures to power their movement. May also be a source of Endo."
 
 [/Lotus/Language/Items/FusionTreasureOrmanetAName]
-"[PH] FUSEX ORNAMENT A"
+"AYATAN CYAN STAR"
 
 [/Lotus/Language/Items/FusionTreasureOrmanetBDescription]
-"[PH] Fits into some fusex treasures"
+"Place these stars into Ayatan Sculptures to power their movement. May also be a source of Endo."
 
 [/Lotus/Language/Items/FusionTreasureOrmanetBName]
-"[PH] FUSEX ORNAMENT B"
+"AYATAN AMBER STAR"
 
 [/Lotus/Language/Items/Gallium]
 "GALLIUM"
@@ -29716,10 +29734,10 @@ This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve pro
 "GORGON WRAITH"
 
 [/Lotus/Language/Items/GotBoosterItem]
-"|AMOUNT| Booster Minutes!"
+"|AMOUNT| MINUTES |TYPE|"
 
 [/Lotus/Language/Items/GotBoosterUses]
-"|AMOUNT| Booster Uses!"
+"|AMOUNT| USES |TYPE|"
 
 [/Lotus/Language/Items/GotUpgrade]
 "MOD Found:"
@@ -30612,8 +30630,14 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 [/Lotus/Language/Items/HalloweenSkinBundleCName]
 "DAY OF THE DEAD WEAPON SKIN PACK III"
 
+[/Lotus/Language/Items/HalloweenSkinBundleDDesc]
+"A decorative skin pack for your arsenal. Contains 12 weapon skins laden with skulls."
+
 [/Lotus/Language/Items/HalloweenSkinBundleDesc]
 "A decorative skin pack for your arsenal. Contains 11 weapon skins laden with skulls."
+
+[/Lotus/Language/Items/HalloweenSkinBundleDName]
+"DAY OF THE DEAD WEAPON SKIN PACK IV"
 
 [/Lotus/Language/Items/HalloweenSkinBundleFeatureText]
 "A morbidly festive set of weapon skins"
@@ -33786,6 +33810,12 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 [/Lotus/Language/Items/NLCastanasName]
 "SANCTI CASTANAS"
 
+[/Lotus/Language/Items/NLMagistarDesc]
+"Defend the purest humanity with this massive mace."
+
+[/Lotus/Language/Items/NLMagistarName]
+"SANCTI MAGISTAR"
+
 [/Lotus/Language/Items/NLScarfDesc]
 "The Sancti Syandana pulses every time the Tenno uses an ability and continues to strengthen with each ability used."
 
@@ -33959,6 +33989,30 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 [/Lotus/Language/Items/ObsidianAtticaName]
 "ATTICA OBSIDIAN SKIN"
 
+[/Lotus/Language/Items/ObsidianAzureScarfDesc]
+"A next-generation syandana"
+
+[/Lotus/Language/Items/ObsidianAzureScarfName]
+"OBSIDIAN AZURE SYANDANA"
+
+[/Lotus/Language/Items/ObsidianExcaliburHelmetBDesc]
+"A next-generation helmet for the Excalibur Warframe"
+
+[/Lotus/Language/Items/ObsidianExcaliburHelmetBName]
+"EXCALIBUR OBSIDIAN AZURE HELMET"
+
+[/Lotus/Language/Items/ObsidianExcaliburSkinBDesc]
+"A next-generation skin for the Excalibur Warframe"
+
+[/Lotus/Language/Items/ObsidianExcaliburSkinBName]
+"EXCALIBUR OBSIDIAN AZURE SKIN"
+
+[/Lotus/Language/Items/ObsidianGalatineDesc]
+"A next-generation skin for the Galatine."
+
+[/Lotus/Language/Items/ObsidianGalatineName]
+"GALATINE OBSIDIAN SKIN"
+
 [/Lotus/Language/Items/ObsidianGorgonDesc]
 "A next-generation skin for the Gorgon."
 
@@ -34045,6 +34099,18 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 
 [/Lotus/Language/Items/OperatorEarpieceB]
 "VENETH EARPIECES"
+
+[/Lotus/Language/Items/OperatorEarpieceBaroA]
+"KI'TEER EARPIECE"
+
+[/Lotus/Language/Items/OperatorEarpieceBaroADesc]
+"A stunning pair of the finest Ki'teer jewelry."
+
+[/Lotus/Language/Items/OperatorEarpieceBaroB]
+"KI'TEER SOLO EARPIECE"
+
+[/Lotus/Language/Items/OperatorEarpieceBaroBDesc]
+"An enchanting design accentuated by a single earpiece."
 
 [/Lotus/Language/Items/OperatorEyepieceA]
 "DUAL OCULUS"
@@ -34201,6 +34267,9 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 
 [/Lotus/Language/Items/OperatorVoiceD]
 "FALCON"
+
+[/Lotus/Language/Items/OperatorVoidBeam]
+"[PH] VOID BEAM"
 
 [/Lotus/Language/Items/OperatorWaitbandDesc]
 "A waistband component for an operator outfit."
@@ -35251,7 +35320,17 @@ This pack may only be purchased once per account and is available for a limited 
 "EXCLUSIVE PRESTIGE PACK IV"
 
 [/Lotus/Language/Items/PrestigePackSevenDesc]
-"[PH]"
+"Show your Xbox One allegiance with the all-new Prestige Pack VII!
+
+Gear-up and stand out in the Origin System with the Exclusive Jade Daedalus Armor Collection! Plus, give your Arsenal a boost with bonus Platinum!
+
+Prestige Pack VII includes:
+- Jade Daedalus Chest Plate
+- Jade Daedalus Shoulder Plates 
+- Jade Daedalus Knee Plates
+- 170 Platinum
+
+This Pack may only be purchased once per account and is available for a limited time."
 
 [/Lotus/Language/Items/PrestigePackSevenName]
 "EXCLUSIVE PRESTIGE PACK VII"
@@ -35719,6 +35798,12 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/PSIVColorPickerName]
 "PSIV"
+
+[/Lotus/Language/Items/PSLectaDesc]
+"Fight market corruption with this Perrin Sequence modified whip."
+
+[/Lotus/Language/Items/PSLectaName]
+"SECURA LECTA"
 
 [/Lotus/Language/Items/PSPentaDesc]
 "Ruthless and efficient, just like the free-market."
@@ -36747,6 +36832,12 @@ This bundle of 450 Rubedo can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/RVCernosName]
 "RAKTA CERNOS"
 
+[/Lotus/Language/Items/RVDarkDaggerDesc]
+"Strike with an assassin's precision."
+
+[/Lotus/Language/Items/RVDarkDaggerName]
+"RAKTA DARK DAGGER"
+
 [/Lotus/Language/Items/RVScarfDesc]
 "This Asita Rakta Syandana ignites a jet of flames that burns brighter with each stealth takedown."
 
@@ -37676,6 +37767,12 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 [/Lotus/Language/Items/SMScarfName]
 "VAYKOR SYANDANA"
 
+[/Lotus/Language/Items/SMSydonDesc]
+"Steel Meridian asks you to turn this tool of oppression back on the Grineer."
+
+[/Lotus/Language/Items/SMSydonName]
+"VAYKOR SYDON"
+
 [/Lotus/Language/Items/SniperCategoryName]
 "SNIPER"
 
@@ -38142,7 +38239,7 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "SUMMUS PRIME SENTINEL WINGS"
 
 [/Lotus/Language/Items/SundialMeleeWeaponDesc]
-"[PH] Description"
+"Scorch enemies with blistering blows, or set them ablaze with the flying fire disc."
 
 [/Lotus/Language/Items/SundialMeleeWeaponName]
 "ZENISTAR"
@@ -47438,7 +47535,8 @@ Pack Includes:
 "HONOR OF THE LOTUS"
 
 [/Lotus/Language/Menu/DailyTributeCouponPlatDesc]
-"ON YOUR NEXT PURCHASE OF PLATINUM"
+"ON YOUR NEXT PLATINUM PURCHASE
+(VALID FOR 48 HOURS)"
 
 [/Lotus/Language/Menu/DailyTributeCouponResourceDesc]
 "RESOURCE PURCHASE"
@@ -48100,7 +48198,7 @@ Scales with Mastery Rank"
 "[PH] You do not own any Treasures."
 
 [/Lotus/Language/Menu/FusionTreasuresMgr_SocketHint]
-"[PH] Click to socket item."
+"[PH] CLICK TO PLACE ORNAMENT"
 
 [/Lotus/Language/Menu/FusionTreasuresMgr_Title]
 "[PH] FUSION TREASURES"
@@ -59191,7 +59289,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "SARPA DAY OF THE DEAD SKIN"
 
 [/Lotus/Language/Seasonal/HalloweenScarfBundleBDesc]
-"Morbidly festive syandanas to decorate your Tenno."
+"Morbidly festive syandanas to decorate your Warframe."
 
 [/Lotus/Language/Seasonal/HalloweenScarfBundleBName]
 "DAY OF THE DEAD THREADS II"
@@ -59219,6 +59317,12 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Seasonal/HalloweenSpiraName]
 "SPIRA DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/HalloweenStradavarDesc]
+"A morbidly festive skin for the Stradavar."
+
+[/Lotus/Language/Seasonal/HalloweenStradavarName]
+"STRADAVAR DAY OF THE DEAD SKIN"
 
 [/Lotus/Language/Seasonal/HalloweenTonkorDesc]
 "A morbidly festive skin for the Tonkor."
@@ -71099,8 +71203,7 @@ So, you know where I am, come get me… just try."
 "Tenno, may I extend an invitation to you, my latest collection of choice items from the void is now available for viewing."
 
 [/Lotus/Language/Subtitles/Relays/DFREHekTaunt010VayHek]
-" 
-Tenno! Look at you... insects, INSECTS! Buzzing in your nests. Oblivious to the giants awakening around you."
+"Tenno! Look at you... insects, INSECTS! Buzzing in your nests. Oblivious to the giants awakening around you."
 
 [/Lotus/Language/Subtitles/Relays/DFREHekTaunt020VayHek]
 "Hello... insects. For too long you have been a parasite upon the great Grineer machine. No longer. The Tenno must learn how truly insignificant they are.
