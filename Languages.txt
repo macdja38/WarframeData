@@ -2318,6 +2318,9 @@ You will receive an email from your 2K contact when the console has been approve
 [/Game/AVATAR_NPC_HIT_CHANCE]
 "HIT CHANCE"
 
+[/Game/AVATAR_NPC_VIS_RANGE]
+"VISIBILITY RANGE"
+
 [/Game/AVATAR_NUM_JUMPS]
 "JUMPS"
 
@@ -2587,6 +2590,9 @@ You will receive an email from your 2K contact when the console has been approve
 
 [/Game/GAMEPLAY_MELEE_KILL_XP_AMOUNT]
 "MELEE KILL XP AMOUNT"
+
+[/Game/GAMEPLAY_MONEY_DROP_AMOUNT]
+"BONUS CREDITS DROPPED"
 
 [/Game/GAMEPLAY_PICKUP_RATE]
 "PICKUP RATE"
@@ -11820,7 +11826,7 @@ To research additional colors, visit the Tenno Lab."
 "The trade failed: You no longer have all the prints that you offered in the trade."
 
 [/Lotus/Language/Dojo/TRADE_ERR_MISSING_SLOT_BUDDY]
-"The trade failed: your trade partner does not have enough Weapon slots to accept the Syndicate Weapons offered."
+"The trade failed: Your trade partner does not have enough Weapon slots to accept the Syndicate Weapons offered."
 
 [/Lotus/Language/Dojo/TRADE_ERR_MISSING_SLOT_ME]
 "The trade failed: You do not have enough Weapon slots to accept the Syndicate Weapons offered. Free up some slots or trade other items."
@@ -15284,7 +15290,7 @@ Together you have ended Kela's savage executions, and no matter which fate you d
 "Justice Served"
 
 [/Lotus/Language/G1Quests/KelaEventTitle]
-"RATHUUM"
+"Rathuum"
 
 [/Lotus/Language/G1Quests/KelaEventTitleB]
 "KELA DE THAYM'S COURT"
@@ -19182,7 +19188,7 @@ Your Battle Cards are ready now... Go!"
 "Excavation Time: "
 
 [/Lotus/Language/Game/ExcavatorObject]
-"Excavator"
+"EXCAVATOR"
 
 [/Lotus/Language/Game/ExcavatorObjectDesc]
 "Protect the Excavation Machine"
@@ -20222,7 +20228,7 @@ A call echoes across the stars - as a menace approaches..."
 "KNOCKBACK STRENGTH"
 
 [/Lotus/Language/Game/KubrowDen]
-"Kubrow Den"
+"KUBROW DEN"
 
 [/Lotus/Language/Game/KubrowDenLongDesc]
 "Fiercely guarded by their owners, the Kubrow den is capable of housing an entire pack of the feral creatures. Once disturbed, these animals will whip themselves into a frenzy attacking anything they deem a threat."
@@ -22917,7 +22923,7 @@ New players can seek out a Guide of the Lotus for help!"
 [/Lotus/Language/IRC/PS4_T_MOTD]
 "Trading is done within the Dojo at a Trading Post
 You can invite non-members of your clan to your Dojo to trade
-Trading is currently limited to: MODS, KEYS, PLATINUM, and PRIME BLUEPRINTS/PARTS.  
+Trading is currently limited to: MODS, RELICS, PLATINUM, and PRIME BLUEPRINTS/PARTS.  
 You must have a Mastery Rank of 2 or higher in order to trade.  
 Please refrain from trading PSN item redemption codes.
 
@@ -22929,7 +22935,7 @@ We do not enforce trades for promises, clan membership, and other favors. Trade 
 [/Lotus/Language/IRC/T_MOTD]
 "Trading is done within the Dojo at a Trading Post
 You can invite non-members of your clan to your Dojo to trade
-Trading is currently limited to: MODS, KEYS, PLATINUM, and PRIME BLUEPRINTS/PARTS.  
+Trading is currently limited to: MODS, RELICS, PLATINUM, and PRIME BLUEPRINTS/PARTS.  
 You must have a Mastery Rank of 2 or higher in order to trade.  
 
 We do not enforce trades for promises, clan membership, and other favors. Trade for items only."
@@ -23069,7 +23075,7 @@ Deploy this Extractor on a planet to collect large amounts of resources. It must
 "TELOS AKBOLTO"
 
 [/Lotus/Language/Items/AHBoltaceDesc]
-"Push the limits of Tenno lethality, with these spiked tonfas."
+"Push the limits of Tenno lethality with violent spinning attacks that damage all enemies in range."
 
 [/Lotus/Language/Items/AHBoltaceName]
 "TELOS BOLTACE"
@@ -25590,7 +25596,7 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Ballistic Bullseye"
 
 [/Lotus/Language/Items/BallisticBatteryAbilityDesc]
-"When activated, this power stores damage caused by guns. When triggered again, that damage is channeled through the next gunshot."
+"When activated, this power stores damage caused by guns. When triggered again, that damage is channelled through the next gunshot."
 
 [/Lotus/Language/Items/BanishAbility]
 "Banish"
@@ -27728,7 +27734,7 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts."
 
 [/Lotus/Language/Items/CSHeliocorDesc]
-"For some, knowledge is a weapon. For Cephalon Suda, the weapon acquires knowledge."
+"This intelligent hammer takes an enemy killed by a channelled attack and recomposes them as an ally. Any fatal strike with this weapon also performs a codex scan."
 
 [/Lotus/Language/Items/CSHeliocorName]
 "SYNOID HELIOCOR"
@@ -29716,7 +29722,7 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 [/Lotus/Language/Items/GolemTrialsDesc]
 "Jordas lied to us, he wasn't the last of his kind and now a new much larger Golem looms. Destroy this menace before it reproduces any further.
 
-This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve problems and defeat the enemy. This mission can be initiated from Pluto."
+This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve problems and defeat the enemy. This mission can be initiated from Eris."
 
 [/Lotus/Language/Items/GolemTrialsName]
 "<RAID> THE JORDAS VERDICT"
@@ -33811,7 +33817,7 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 "SANCTI CASTANAS"
 
 [/Lotus/Language/Items/NLMagistarDesc]
-"Defend the purest humanity with this massive mace."
+"Each charged attack turns the enemy’s pain into a healing pulse that washes over allies. Also, creates resistance to status effects when held."
 
 [/Lotus/Language/Items/NLMagistarName]
 "SANCTI MAGISTAR"
@@ -33993,19 +33999,19 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 "A next-generation syandana"
 
 [/Lotus/Language/Items/ObsidianAzureScarfName]
-"OBSIDIAN AZURE SYANDANA"
+"OBSIDIAN AZURA SYANDANA"
 
 [/Lotus/Language/Items/ObsidianExcaliburHelmetBDesc]
 "A next-generation helmet for the Excalibur Warframe"
 
 [/Lotus/Language/Items/ObsidianExcaliburHelmetBName]
-"EXCALIBUR OBSIDIAN AZURE HELMET"
+"EXCALIBUR OBSIDIAN AZURA HELMET"
 
 [/Lotus/Language/Items/ObsidianExcaliburSkinBDesc]
 "A next-generation skin for the Excalibur Warframe"
 
 [/Lotus/Language/Items/ObsidianExcaliburSkinBName]
-"EXCALIBUR OBSIDIAN AZURE SKIN"
+"EXCALIBUR OBSIDIAN AZURA SKIN"
 
 [/Lotus/Language/Items/ObsidianGalatineDesc]
 "A next-generation skin for the Galatine."
@@ -35800,7 +35806,7 @@ Note: This item requires two open slots."
 "PSIV"
 
 [/Lotus/Language/Items/PSLectaDesc]
-"Fight market corruption with this Perrin Sequence modified whip."
+"Whip the enemy out of their ill-gotten gains; double credit drops on kills."
 
 [/Lotus/Language/Items/PSLectaName]
 "SECURA LECTA"
@@ -35990,6 +35996,9 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/PvPWhipStanceOne]
 "Lashing Coil"
+
+[/Lotus/Language/Items/PvPXPOnKill]
+"Affinity Bonus"
 
 [/Lotus/Language/Items/PyraSugatraDesc]
 "During the height of the Old War, Tenno raiders used these flaming sugatras to intimidate and distract enemies."
@@ -36833,7 +36842,7 @@ This bundle of 450 Rubedo can be used for crafting items in your Foundry."
 "RAKTA CERNOS"
 
 [/Lotus/Language/Items/RVDarkDaggerDesc]
-"Strike with an assassin's precision."
+"Infiltrate undetected; reduced visibility when held. Then strike with confidence; hits to irradiated targets restores shields and creates overshields."
 
 [/Lotus/Language/Items/RVDarkDaggerName]
 "RAKTA DARK DAGGER"
@@ -37768,7 +37777,7 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 "VAYKOR SYANDANA"
 
 [/Lotus/Language/Items/SMSydonDesc]
-"Steel Meridian asks you to turn this tool of oppression back on the Grineer."
+"Justice blinds. Each blocked hit charges a Radial Blind that is unleashed when the block is dropped."
 
 [/Lotus/Language/Items/SMSydonName]
 "VAYKOR SYDON"
@@ -38732,6 +38741,9 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 
 [/Lotus/Language/Items/SyndicateRandomProjectionDesc]
 "3 Random Relics, one guaranteed Rare. What secrets exist within them?"
+
+[/Lotus/Language/Items/SynoidHeliocorEffect]
+"Suda Specter"
 
 [/Lotus/Language/Items/SyringeComponent]
 "ANTISERUM INJECTOR FRAGMENT"
@@ -39982,6 +39994,9 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 
 [/Lotus/Language/Items/VaultRaiderPackName]
 "Vault Raider Package"
+
+[/Lotus/Language/Items/VaykorSydonEffect]
+"Blind Charges"
 
 [/Lotus/Language/Items/VestanMossExtract]
 "VESTAN MOSS EXTRACT"
@@ -50158,8 +50173,14 @@ PvP compatible gear can be differentiated by the <CONCLAVE> or <UNIVERSAL> symbo
 [/Lotus/Language/Menu/Loadout_TriggerAuto]
 "AUTO"
 
+[/Lotus/Language/Menu/Loadout_TriggerBarrage]
+"BARRAGE"
+
 [/Lotus/Language/Menu/Loadout_TriggerBurst]
 "BURST"
+
+[/Lotus/Language/Menu/Loadout_TriggerCannon]
+"CANNON"
 
 [/Lotus/Language/Menu/Loadout_TriggerCharge]
 "CHARGE"
@@ -51820,11 +51841,17 @@ REWARD"
 [/Lotus/Language/Menu/Options_Display_AdaptiveExposure]
 "Adaptive Exposure"
 
+[/Lotus/Language/Menu/Options_Display_AdaptiveExposure_Tip]
+"Balances the lighting exposure throughout the level."
+
 [/Lotus/Language/Menu/Options_Display_AdjustHudMargins]
 "Adjust HUD Margins"
 
 [/Lotus/Language/Menu/Options_Display_AnisotropicFiltering]
 "Anisotropic Filtering"
+
+[/Lotus/Language/Menu/Options_Display_AnisotropicFiltering_Tip]
+"Changes the clarity of textured objects when viewed at various angles. Decrease to improve performance."
 
 [/Lotus/Language/Menu/Options_Display_Antialiasing]
 "Anti-Aliasing"
@@ -51834,6 +51861,9 @@ REWARD"
 
 [/Lotus/Language/Menu/Options_Display_Antialiasing_FXAA]
 "FXAA (Low)"
+
+[/Lotus/Language/Menu/Options_Display_Antialiasing_FXAA_Tip]
+"Used to smoothen jagged edges on curved lines and diagonals. Decrease to improve performance."
 
 [/Lotus/Language/Menu/Options_Display_Antialiasing_SMAA]
 "SMAA (Medium)"
@@ -51865,6 +51895,9 @@ REWARD"
 [/Lotus/Language/Menu/Options_Display_Apex_Outdated_Hardware]
 "PhysX Effects are only supported on NVIDIA 400-series graphics cards or higher."
 
+[/Lotus/Language/Menu/Options_Display_Apex_Tip]
+"Enables the use of Nvidia PhysX Effects for Warframe powers, enemies, etc. Disable to improve performance."
+
 [/Lotus/Language/Menu/Options_Display_Apex_Unsupported_Operating_System]
 "PhysX Effects requires Windows 7 (Service Pack 1) or higher."
 
@@ -51879,8 +51912,14 @@ Please update your drivers."
 [/Lotus/Language/Menu/Options_Display_Bloom_Intensity]
 "Bloom Intensity"
 
+[/Lotus/Language/Menu/Options_Display_Bloom_Tip]
+"Increases the intensity of a light's brightness when appropriate."
+
 [/Lotus/Language/Menu/Options_Display_BlurLocalReflections]
 "Blur Reflections"
+
+[/Lotus/Language/Menu/Options_Display_BlurLocalReflections_Tip]
+"Applies a blur effect to the various local reflections found throughout the game. Disable to improve performance."
 
 [/Lotus/Language/Menu/Options_Display_Brightness]
 "Brightness"
@@ -51888,11 +51927,20 @@ Please update your drivers."
 [/Lotus/Language/Menu/Options_Display_CharacterShadows]
 "Character Shadows"
 
+[/Lotus/Language/Menu/Options_Display_CharacterShadows_Tip]
+"Enables the use of shadows on characters."
+
 [/Lotus/Language/Menu/Options_Display_ColorCorrection]
 "Color Correction"
 
+[/Lotus/Language/Menu/Options_Display_ColorCorrection_Tip]
+"Improves the accuracy of the scene (exposure, white balance, etc.)"
+
 [/Lotus/Language/Menu/Options_Display_ConstantWeaponTrail]
 "Constant Weapon Trail"
+
+[/Lotus/Language/Menu/Options_Display_ConstantWeaponTrail_Tip]
+"Anytime your melee weapon is equipped you will see a constant energy trail."
 
 [/Lotus/Language/Menu/Options_Display_Contrast]
 "Contrast"
@@ -51900,20 +51948,38 @@ Please update your drivers."
 [/Lotus/Language/Menu/Options_Display_DOF]
 "Depth of Field"
 
+[/Lotus/Language/Menu/Options_Display_DOF_Tip]
+"Causes objects that are in focus to appear sharp, while distant objects appear blurry. Disable to improve performance."
+
 [/Lotus/Language/Menu/Options_Display_DynamicLighting]
 "Dynamic Lighting"
+
+[/Lotus/Language/Menu/Options_Display_DynamicLighting_Tip]
+"Allows certain areas to become illuminated when they come in contact with certain lights. Disable to improve performance."
 
 [/Lotus/Language/Menu/Options_Display_ElementalFX]
 "Weapon Elemental FX"
 
+[/Lotus/Language/Menu/Options_Display_ElementalFX_Tip]
+"Enables elemental effects to appear on your weapon(s)."
+
 [/Lotus/Language/Menu/Options_Display_Glare]
 "Glare"
+
+[/Lotus/Language/Menu/Options_Display_Glare_Tip]
+"Enables the use of glare in areas that have excessive brightness."
 
 [/Lotus/Language/Menu/Options_Display_HDR]
 "High Dynamic Range"
 
+[/Lotus/Language/Menu/Options_Display_HDR_Tip]
+"Allows lighting to be used in greater detail, including in both darker and brighter scenes."
+
 [/Lotus/Language/Menu/Options_Display_HighShaderQuality]
 "High Shader Quality"
+
+[/Lotus/Language/Menu/Options_Display_HighShaderQuality_Tip]
+"Greatly improves shader quality. Disable to improve performance."
 
 [/Lotus/Language/Menu/Options_Display_HUD]
 "Show HUD"
@@ -51924,11 +51990,20 @@ Please update your drivers."
 [/Lotus/Language/Menu/Options_Display_LocalReflections]
 "Local Reflections"
 
+[/Lotus/Language/Menu/Options_Display_LocalReflections_Tip]
+"Enables reflecting surfaces on floors, walls, other various objects. Disable to improve performance."
+
 [/Lotus/Language/Menu/Options_Display_MotionBlur]
 "Motion Blur"
 
+[/Lotus/Language/Menu/Options_Display_MotionBlur_Tip]
+"Blurs the area around the player during rapid movement."
+
 [/Lotus/Language/Menu/Options_Display_SSAO]
 "Ambient Occlusion"
+
+[/Lotus/Language/Menu/Options_Display_SSAO_Tip]
+"Allows for more accurate lighting exposure across many surfaces."
 
 [/Lotus/Language/Menu/Options_Display_Subtitles]
 "Show Subtitles"
@@ -51940,8 +52015,14 @@ Please update your drivers."
 "Runtime Tessellation requires DirectX 11;
 If your system supports DirectX 11 you can enable it in the launcher."
 
+[/Lotus/Language/Menu/Options_Display_Tessellation_Tip]
+"Allows higher detail models to be loaded based on their distance to the player. Disable to improve performance."
+
 [/Lotus/Language/Menu/Options_Display_TrilinearFiltering]
 "Trilinear Filtering"
+
+[/Lotus/Language/Menu/Options_Display_TrilinearFiltering_Tip]
+"Allows for smoother transitions between textures."
 
 [/Lotus/Language/Menu/Options_DisplayCustomize_AspectRatio]
 "Aspect Ratio"
@@ -51963,6 +52044,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 
 [/Lotus/Language/Menu/Options_DisplayCustomize_GeometryDetail]
 "Geometry Detail"
+
+[/Lotus/Language/Menu/Options_DisplayCustomize_GeometryDetail_Tip]
+"Changes the amount of detail used for geometry in levels. Decrease to improve performance."
 
 [/Lotus/Language/Menu/Options_DisplayCustomize_High]
 "High"
@@ -51991,6 +52075,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/Options_DisplayCustomize_ParticleSysQuality]
 "Particle System Quality"
 
+[/Lotus/Language/Menu/Options_DisplayCustomize_ParticleSysQuality_Tip]
+"The amount of particles that can be seen when casting abilities, in certain levels, etc. Decrease to improve performance."
+
 [/Lotus/Language/Menu/Options_DisplayCustomize_RefreshRate]
 "Refresh Rate"
 
@@ -52000,8 +52087,14 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/Options_DisplayCustomize_ShadowQuality]
 "Shadow Quality"
 
+[/Lotus/Language/Menu/Options_DisplayCustomize_ShadowQuality_Tip]
+"Changes the quality of shadows (resolution, etc). Decrease to improve performance."
+
 [/Lotus/Language/Menu/Options_DisplayCustomize_TextureQuality]
 "Texture Memory"
+
+[/Lotus/Language/Menu/Options_DisplayCustomize_TextureQuality_Tip]
+"Controls how much of your video memory can be dedicated to textures."
 
 [/Lotus/Language/Menu/Options_DisplayCustomize_VerticalSync]
 "Vertical Sync"
@@ -52499,13 +52592,13 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "Gradivus (Grineer)"
 
 [/Lotus/Language/Menu/Profile_InvasionGenericCorpus]
-"CORPUS Battles Completed"
+"Corpus Battles Completed"
 
 [/Lotus/Language/Menu/Profile_InvasionGenericGrineer]
-"GRINEER Battles Completed"
+"Grineer Battles Completed"
 
 [/Lotus/Language/Menu/Profile_InvasionGenericInfestation]
-"INFESTATION Battles Completed"
+"Infestation Battles Completed"
 
 [/Lotus/Language/Menu/Profile_KillAssists]
 "Kill Assists"
@@ -52667,7 +52760,7 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "Retrieving stats..."
 
 [/Lotus/Language/Menu/Profile_Revives]
-"REVIVES"
+"Revives"
 
 [/Lotus/Language/Menu/Profile_Rounds]
 "Rounds"
