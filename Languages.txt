@@ -3296,6 +3296,9 @@ You will receive an email from your 2K contact when the console has been approve
 [/Lotus/Language/Actions/PickupShield]
 "<USE> PICK UP SHIELD"
 
+[/Lotus/Language/Actions/PickupTreasureSculpture]
+"PICK UP AYATAN SCULPTURE"
+
 [/Lotus/Language/Actions/PickupUpgrade]
 "<USE> TAKE UPGRADE"
 
@@ -17347,6 +17350,9 @@ Darvo"
 [/Lotus/Language/G1Quests/TiesThatBindTitle]
 "TIES THAT BIND"
 
+[/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective]
+"Hunt for Ayatan Treasure"
+
 [/Lotus/Language/G1Quests/TurnInDailySimarisTask]
 "<SIMARIS> I have completed the synthesis."
 
@@ -18264,7 +18270,10 @@ Arming: Turrets"
 "Fast with claw and missile attacks"
 
 [/Lotus/Language/Game/AlloyPlateContainer]
-"ALLOY PLATE CACHE"
+"ALLOY DRUM"
+
+[/Lotus/Language/Game/AlloyPlateContainerDesc]
+"Contains Alloy Plate"
 
 [/Lotus/Language/Game/AmmoHud]
 "Your HUD shows clip and total ammo."
@@ -18300,7 +18309,10 @@ Arming: Turrets"
 "Zealous and patient"
 
 [/Lotus/Language/Game/ArgonCrystalContainer]
-"ARGON CRYSTAL CACHE"
+"ARGON PEGMATITE"
+
+[/Lotus/Language/Game/ArgonCrystalContainerDesc]
+"Contains Argon Crystals"
 
 [/Lotus/Language/Game/AridDeployableCover]
 "ARID BLUNT"
@@ -18438,7 +18450,10 @@ Arming: Turrets"
 "CHAIN LINKS"
 
 [/Lotus/Language/Game/CircuitsContainer]
-"CIRCUITS CACHE"
+"CIRCUITRY LOCKBOX"
+
+[/Lotus/Language/Game/CircuitsContainerDesc]
+"Contains Circuits"
 
 [/Lotus/Language/Game/ClaimNewPet]
 "CLAIM YOUR PET"
@@ -18494,7 +18509,10 @@ SEGMENT REQUIRED"
 "Arrogant and calculating"
 
 [/Lotus/Language/Game/ControlModuleContainer]
-"CONTROL MODULE CACHE"
+"ROBOTICS LOCKBOX"
+
+[/Lotus/Language/Game/ControlModuleContainerDesc]
+"Contains Control Modules"
 
 [/Lotus/Language/Game/ControlRiotMoaDesc]
 "Corrals its prey for rapid destruction"
@@ -19260,7 +19278,10 @@ Your Battle Cards are ready now... Go!"
 "KAVAT"
 
 [/Lotus/Language/Game/FerriteContainer]
-"FERRITE CACHE"
+"FERRITE DEPOSIT"
+
+[/Lotus/Language/Game/FerriteContainerDesc]
+"Contains Ferrite"
 
 [/Lotus/Language/Game/FinisherAction_PS4]
 "STEALTH ATTACK"
@@ -19344,7 +19365,10 @@ Your Battle Cards are ready now... Go!"
 "+|AMOUNT| POWER"
 
 [/Lotus/Language/Game/GalliumContainer]
-"GALLIUM CACHE"
+"GALLIUM DEPOSIT"
+
+[/Lotus/Language/Game/GalliumContainerDesc]
+"Contains Gallium"
 
 [/Lotus/Language/Game/GenericObjectiveCompleteXp]
 "Objective"
@@ -20344,6 +20368,9 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/Marker_FusionBundle]
 "Endo"
 
+[/Lotus/Language/Game/Marker_FusionOrnament]
+"Ayatan Star"
+
 [/Lotus/Language/Game/Marker_Kubrow]
 "Kubrow"
 
@@ -20624,7 +20651,10 @@ A call echoes across the stars - as a menace approaches..."
 "<USE> CHARGE MIND ARBORIFORM"
 
 [/Lotus/Language/Game/MorphicsContainer]
-"MORPHICS CACHE"
+"MORPHICS STABILIZER"
+
+[/Lotus/Language/Game/MorphicsContainerDesc]
+"Contains Morphics"
 
 [/Lotus/Language/Game/MOTES]
 "MOTES"
@@ -20636,7 +20666,10 @@ A call echoes across the stars - as a menace approaches..."
 "Name your pet Kubrow"
 
 [/Lotus/Language/Game/NanoSporesContainer]
-"NANO SPORES CACHE"
+"SPORE CULTURE"
+
+[/Lotus/Language/Game/NanoSporesContainerDesc]
+"Contains Nano Spores"
 
 [/Lotus/Language/Game/Neptune]
 "Neptune"
@@ -20644,8 +20677,17 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/NeptuneDesc]
 "Home of the Corpus and site of their indoctrination temples. Warframe and Robotics R&D hidden here."
 
+[/Lotus/Language/Game/NeuralSensorContainer]
+"NEURAL ARRAY"
+
+[/Lotus/Language/Game/NeuralSensorContainerDesc]
+"Contains Neural Sensors"
+
 [/Lotus/Language/Game/NeurodesContainer]
-"NEURODES CACHE"
+"NEUROPTIC MASS"
+
+[/Lotus/Language/Game/NeurodesContainerDesc]
+"Contains Neurodes"
 
 [/Lotus/Language/Game/NightCommonPlant]
 "MOONLIGHT THRESHCONE"
@@ -20709,6 +20751,9 @@ A call echoes across the stars - as a menace approaches..."
 
 [/Lotus/Language/Game/NightwatchLancerRifle]
 "NIGHTWATCH LANCER"
+
+[/Lotus/Language/Game/NightwatchManicGrineerName]
+"NIGHTWATCH MANIC"
 
 [/Lotus/Language/Game/NightwatchPowerClawDesc]
 "[PH] Description"
@@ -20850,7 +20895,10 @@ A call echoes across the stars - as a menace approaches..."
 "CORRUPTED BOMBARD"
 
 [/Lotus/Language/Game/OrokinCellContainer]
-"OROKIN CELL CACHE"
+"CELL ARRAY"
+
+[/Lotus/Language/Game/OrokinCellContainerDesc]
+"Contains Orokin Cells"
 
 [/Lotus/Language/Game/OrokinDrone]
 "OROKIN DRONE"
@@ -20952,13 +21000,22 @@ A call echoes across the stars - as a menace approaches..."
 "Your first weapon: Pistol."
 
 [/Lotus/Language/Game/PlastidsContainer]
-"PLASTIDS CACHE"
+"PLASTID CARAPACE"
+
+[/Lotus/Language/Game/PlastidsContainerDesc]
+"Contains Plastids"
 
 [/Lotus/Language/Game/PlayerAcceptedDuel]
 "|PLAYER_A| has accepted a challenge to duel from |PLAYER_B|"
 
 [/Lotus/Language/Game/PlayerDialog_AboutSanctuary]
 "What is this place?"
+
+[/Lotus/Language/Game/PlayerDialog_ConfirmMission]
+"I'm ready."
+
+[/Lotus/Language/Game/PlayerDialog_RejectMission]
+"Not now."
 
 [/Lotus/Language/Game/PlayerDialog_SanctuaryInitiation]
 "I will join the hunt."
@@ -20974,6 +21031,9 @@ A call echoes across the stars - as a menace approaches..."
 
 [/Lotus/Language/Game/PlayerDialog_SynthesisTutorialLaunch]
 "I would like to run the Synthesis simulation."
+
+[/Lotus/Language/Game/PlayerDialog_VendorGuyTradeTreasureMission]
+"<AYATAN_SCULPTURE> I’m looking for Ayatan Treasures."
 
 [/Lotus/Language/Game/PlayerDialog_VendorGuyTradeTreasures]
 "Extract Endo from my Ayatan Items"
@@ -21004,6 +21064,12 @@ A call echoes across the stars - as a menace approaches..."
 
 [/Lotus/Language/Game/PlutoDesc]
 "The shattered Outer Terminus of the Solar Rail Network is located here. The Corpus work to rebuild it."
+
+[/Lotus/Language/Game/PolymerBundleContainer]
+"POLYMER CASE"
+
+[/Lotus/Language/Game/PolymerBundleContainerDesc]
+"Contains Polymer Bundles"
 
 [/Lotus/Language/Game/POWER_DURATION]
 "POWER DURATION"
@@ -21519,7 +21585,10 @@ A call echoes across the stars - as a menace approaches..."
 "[PH] ROYAL JESTER"
 
 [/Lotus/Language/Game/RubedoContainer]
-"RUBEDO CACHE"
+"RUBEDO FORMATION"
+
+[/Lotus/Language/Game/RubedoContainerDesc]
+"Contains Rubedo"
 
 [/Lotus/Language/Game/SabotageCacheFound]
 "Cache Found"
@@ -21534,7 +21603,10 @@ A call echoes across the stars - as a menace approaches..."
 "OVERLOAD REACTOR"
 
 [/Lotus/Language/Game/SalvageContainer]
-"SALVAGE CACHE"
+"COMPACTED SALVAGE"
+
+[/Lotus/Language/Game/SalvageContainerDesc]
+"Contains Salvage"
 
 [/Lotus/Language/Game/SandmanTennoClone]
 "SAND SHADOW"
@@ -29492,10 +29564,10 @@ Pack Includes:
 "Consumed in the fusion process to power up existing Mods."
 
 [/Lotus/Language/Items/FusionTreasureADescription]
-"[PH] Ship of the imagination rich in heavy atoms trillion preserve and cherish that pale blue dot shores of the cosmic ocean great turbulent clouds cosmic ocean citizens of distant epochs! White dwarf. Dispassionate extraterrestrial observer rich in mystery the sky calls to us ship of the imagination. Worldlets. Two ghostly white figures in coveralls and helmets are soflty dancing, Jean-François Champollion extraordinary claims require extraordinary evidence Vangelis are creatures of the cosmos with pretty stories for which there’s little good evidence."
+"This kinetic Orokin sculpture springs to life when filled with Ayatan Stars. It may also be a source of Endo."
 
 [/Lotus/Language/Items/FusionTreasureAName]
-"[PH] FUSEX TREASURE A"
+"AYATAN SAH SCULPTURE"
 
 [/Lotus/Language/Items/FusionTreasureBDescription]
 "This kinetic Orokin sculpture springs to life when filled with Ayatan Stars. It may also be a source of Endo."
@@ -29510,10 +29582,10 @@ Pack Includes:
 "AYATAN ORTA SCULPTURE"
 
 [/Lotus/Language/Items/FusionTreasureDDescription]
-"[PH] Ship of the imagination rich in heavy atoms trillion preserve and cherish that pale blue dot shores of the cosmic ocean great turbulent clouds cosmic ocean citizens of distant epochs! White dwarf. Dispassionate extraterrestrial observer rich in mystery the sky calls to us ship of the imagination. Worldlets. Two ghostly white figures in coveralls and helmets are soflty dancing, Jean-François Champollion extraordinary claims require extraordinary evidence Vangelis are creatures of the cosmos with pretty stories for which there’s little good evidence."
+"This kinetic Orokin sculpture springs to life when filled with Ayatan Stars. It may also be a source of Endo."
 
 [/Lotus/Language/Items/FusionTreasureDName]
-"[PH] FUSEX TREASURE D"
+"AYATAN VAYA SCULPTURE"
 
 [/Lotus/Language/Items/FusionTreasureEDescription]
 "This kinetic Orokin sculpture springs to life when filled with Ayatan Stars. It may also be a source of Endo."
@@ -34091,6 +34163,9 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 [/Lotus/Language/Items/OperatorBodySuitC]
 "VARIDA SUIT"
 
+[/Lotus/Language/Items/OperatorBodySuitD]
+"MANDUKA SUIT"
+
 [/Lotus/Language/Items/OperatorCircletA]
 "SOFREN DIADEM"
 
@@ -34175,6 +34250,9 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 [/Lotus/Language/Items/OperatorHoodC]
 "VARIDA HOOD"
 
+[/Lotus/Language/Items/OperatorHoodD]
+"MANDUKA HOOD"
+
 [/Lotus/Language/Items/OperatorHoodDesc]
 "A hood belonging to an operator outfit."
 
@@ -34186,6 +34264,9 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 
 [/Lotus/Language/Items/OperatorLeggingsC]
 "VARIDA LEGGINGS"
+
+[/Lotus/Language/Items/OperatorLeggingsD]
+"MANDUKA LEGGINGS"
 
 [/Lotus/Language/Items/OperatorLeggingsDesc]
 "Leggings for an operator outfit."
@@ -34223,6 +34304,9 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 [/Lotus/Language/Items/OperatorSleevesC]
 "VARIDA SLEEVES"
 
+[/Lotus/Language/Items/OperatorSleevesD]
+"MANDUKA SLEEVES"
+
 [/Lotus/Language/Items/OperatorSleevesDesc]
 "Sleeves for an operator outfit."
 
@@ -34237,6 +34321,12 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 
 [/Lotus/Language/Items/OperatorSuitCBundleName]
 "VARIDA OPERATOR SUIT BUNDLE"
+
+[/Lotus/Language/Items/OperatorSuitDBundleDesc]
+"Contain the complete uniform matching the Manduka Suit."
+
+[/Lotus/Language/Items/OperatorSuitDBundleName]
+"MANDUKA PACK"
 
 [/Lotus/Language/Items/OperatorSuitDesc]
 "A suit of an operator outfit."
@@ -48197,29 +48287,50 @@ Scales with Mastery Rank"
 [/Lotus/Language/Menu/FusionTooManySelected]
 "You currently have %i Mods selected. You can only select 1 Mod to Fuse."
 
+[/Lotus/Language/Menu/FusionTreasureMgr_InstallText]
+"INSTALL |ITEM|"
+
+[/Lotus/Language/Menu/FusionTreasureMgr_OrnamentCategory]
+"STARS"
+
+[/Lotus/Language/Menu/FusionTreasureMgr_PlaceTreasure]
+"PLACE AYATAN SCULPTURE"
+
+[/Lotus/Language/Menu/FusionTreasureMgr_RequiresText]
+"REQUIRES |ITEM|"
+
+[/Lotus/Language/Menu/FusionTreasureMgr_RotateHint]
+"<WARNING> CLICK AND HOLD <MOUSE_B0> AND DRAG MOUSE TO ROTATE <WARNING>"
+
+[/Lotus/Language/Menu/FusionTreasureMgr_RotateHintController]
+"<WARNING> USE <MENU_RTHUMB> TO ROTATE AND <MENU_LTHUMB> TO MOVE RETICLE <WARNING>"
+
 [/Lotus/Language/Menu/FusionTreasureMgr_SocketItemConfirm]
-"[PH] Are you sure you want to slot |ITEM| into the selected socket? It will be consumed in the process."
+"Are you sure you want to install |ITEM| into the selected socket? It will be consumed in the process."
 
 [/Lotus/Language/Menu/FusionTreasureMgr_SocketItemFailed]
-"[PH] Could not socket item, your account has not been modified. Please try again."
+"Could not install the Ayatan Star, your account has not been modified. Please try again."
 
 [/Lotus/Language/Menu/FusionTreasureMgr_SocketItemSuccess]
-"[PH] |ITEM| was successfully slotted into the socket."
+"|ITEM| was successfully installed into the socket."
+
+[/Lotus/Language/Menu/FusionTreasureMgr_TreasureCategory]
+"SCULPTURES"
 
 [/Lotus/Language/Menu/FusionTreasuresMgr_EmptySocketInfo]
 "[PH] This socket fits:"
 
 [/Lotus/Language/Menu/FusionTreasuresMgr_NoTreasuresHint]
-"[PH] You do not own any Treasures."
+"You do not own any Ayatan Sculptures or Stars."
 
 [/Lotus/Language/Menu/FusionTreasuresMgr_SocketHint]
 "[PH] CLICK TO PLACE ORNAMENT"
 
 [/Lotus/Language/Menu/FusionTreasuresMgr_Title]
-"[PH] FUSION TREASURES"
+"AYATAN SCULPTURES"
 
 [/Lotus/Language/Menu/FusionTreauresMgr_NoItemsForSocket]
-"[PH] You do not have any |ITEM| that can be slotted into this socket."
+"You do not have any |ITEM| that can be installed into this socket."
 
 [/Lotus/Language/Menu/GameInviteAcceptHint]
 "Click to join"
@@ -49448,8 +49559,11 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 [/Lotus/Language/Menu/ItemInventory_SellingPrimeTitle]
 "DUCAT KIOSK"
 
+[/Lotus/Language/Menu/ItemInventory_SellingTreasureCost]
+"EXTRACT COST"
+
 [/Lotus/Language/Menu/ItemInventory_SellingTreasureTitle]
-"[PH] TREASURE EXCHANGE"
+"TREASURE EXCHANGE"
 
 [/Lotus/Language/Menu/ItemInventory_SellPile]
 "SELL PILE"
@@ -50650,6 +50764,10 @@ The Lotus"
 [/Lotus/Language/Menu/Manifest_ConfirmSell]
 "You will receive |CURRENCY| |PRICE| for this sale."
 
+[/Lotus/Language/Menu/Manifest_ConfirmSellWithCost]
+"You will receive |CURRENCY| |PRICE| for this sale.
+You will be charged |COSTCURRENCY| |COST|."
+
 [/Lotus/Language/Menu/Manifest_Title]
 "SALE MANIFEST"
 
@@ -51327,6 +51445,9 @@ The Lotus"
 
 [/Lotus/Language/Menu/NavBar_SwitchProfileToolTip]
 "SWITCH PROFILE"
+
+[/Lotus/Language/Menu/NavBar_WaitForPlayers]
+"Wait For Players"
 
 [/Lotus/Language/Menu/NavBar_WaitingForPlayers]
 "Waiting For Players..."
@@ -53117,6 +53238,9 @@ Do you wish to enable Recruit Conditioning?"
 
 [/Lotus/Language/Menu/PvpLostRound]
 "You lost this round..."
+
+[/Lotus/Language/Menu/PvpMapVoteHint]
+"[PH] VOTE NEXT MAP"
 
 [/Lotus/Language/Menu/PvpMatchDefeat]
 "DEFEAT"
@@ -71274,6 +71398,21 @@ So, you know where I am, come get me… just try."
 [/Lotus/Language/Subtitles/RadioIntercepts/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]
 ""
 
+[/Lotus/Language/Subtitles/Relays/DAboutAyatan090Maroo]
+"Hey, shiny, ya know about Endo, right? Those particles you use to boost your Mods? Well, the Orokin must have shared your fascination with it. Keep a look out for their Ayatan Sculptures... those things run on Endo! If you don't want the ornaments for your ship, I can extract the Endo from them. The more complete the sculpture, the more Endo I can extract. Just keep in mind, I keep the leftovers, ok?"
+
+[/Lotus/Language/Subtitles/Relays/DAboutAyatan100Maroo]
+"Running short on Endo? No problem, just bring me your old Ayatan Sculptures. They're full of Endo and I'll squeeze out every last ounce of that sweet mod-juice. You'll get even more if the sculpture's socketed with Stars. Just don't expect that pretty ornament back when I'm done."
+
+[/Lotus/Language/Subtitles/Relays/DAnythingElsePrompt360Maroo]
+"OK, got anything else you want to convert?"
+
+[/Lotus/Language/Subtitles/Relays/DAnythingElsePrompt370Maroo]
+"Will that be all?"
+
+[/Lotus/Language/Subtitles/Relays/DAnythingElsePrompt380Maroo]
+"And done.  Need anything else?"
+
 [/Lotus/Language/Subtitles/Relays/DApproach0010Darvo]
 "Ey, Tenno, good to see you."
 
@@ -71285,6 +71424,51 @@ So, you know where I am, come get me… just try."
 
 [/Lotus/Language/Subtitles/Relays/DApproach0040Darvo]
 "Tenno!"
+
+[/Lotus/Language/Subtitles/Relays/DApproachAyatan570Maroo]
+"Don't look now Tin-Stuff, there's a Ayatan nearby."
+
+[/Lotus/Language/Subtitles/Relays/DApproachAyatan580Maroo]
+"My oh my, I think you've found it."
+
+[/Lotus/Language/Subtitles/Relays/DAyatanFound590Maroo]
+"Ha! You've got it, now bring it home."
+
+[/Lotus/Language/Subtitles/Relays/DAyatanFound600Maroo]
+"That's what we came here for. Your job's done."
+
+[/Lotus/Language/Subtitles/Relays/DAyatanObj490Maroo]
+"OK, you know the drill; get in, get the Ayatan treasure, don't get killed. Simple, right?"
+
+[/Lotus/Language/Subtitles/Relays/DAyatanObj500Maroo]
+"OK, the Ayatan Treasure's marked on your map. Time to go to work."
+
+[/Lotus/Language/Subtitles/Relays/DAyatanObj510Maroo]
+"Here we go, let's find some antiquities."
+
+[/Lotus/Language/Subtitles/Relays/DAyatanParkour550Maroo]
+"Well, this should be fun. Maybe you should stretch first, you know, limber up."
+
+[/Lotus/Language/Subtitles/Relays/DAyatanParkour560Maroo]
+"Oh wow. This looks dangerous. Uh, for me I mean…  You'll be fine. Promise."
+
+[/Lotus/Language/Subtitles/Relays/DAyatanReinforce520Maroo]
+"I stumbled across an Orokin codex that said this tower was known for its beautiful Ayatan Treasures. Unfortunately for you, it was also known for its deadly security apparatus."
+
+[/Lotus/Language/Subtitles/Relays/DAyatanReinforce530Maroo]
+"There's no doubt in my mind that an Ayatan Treasure lies somewhere in this Derelict. And yet, I wouldn't set foot in this place for all the Ayatan in the system. You on the other hand…   "
+
+[/Lotus/Language/Subtitles/Relays/DAyatanReinforce540Maroo]
+"Just think of how long the Moon's been hiding here, right under our noses. Perfectly preserving all those Ayatan Treasures. Keeping them safe from looters and raiders. That is, until today. Come on, Slick, let's see what we can find."
+
+[/Lotus/Language/Subtitles/Relays/DCompleteTreasure170Maroo]
+"Wow! Who'd you rob to get - wait a minute… It's just better if I don't know."
+
+[/Lotus/Language/Subtitles/Relays/DCompleteTreasure180Maroo]
+"Oh this is a fine piece! I'd have a hard time giving this up… I'm not judging you understand. You must really need that Endo."
+
+[/Lotus/Language/Subtitles/Relays/DCompleteTreasure190Maroo]
+"I can't remember the last time I saw one this nice. Thinking about all that Endo… it makes me tingle."
 
 [/Lotus/Language/Subtitles/Relays/DEnteredRelay0020Baro]
 "The wait is over Tenno. Baro Ki' Teer has arrived. "
@@ -71321,6 +71505,15 @@ Fomorian Commander, crush this nest."
 "Look at you. LOOK AT YOU. Pests, swarming around my Fomorians. You will never destroy them all!
 
 Fomorian Commander, take aim."
+
+[/Lotus/Language/Subtitles/Relays/DGenericGreet070Maroo]
+"Hey, did you hear, Tenno? I'm turning everyone's Ayatan Treasures into Endo. Interested?"
+
+[/Lotus/Language/Subtitles/Relays/DGenericGreet080Maroo]
+"Hey? Came to trade? Or did you find some Ayatan Treasures you want Endo from?"
+
+[/Lotus/Language/Subtitles/Relays/DGenericGreet090Maroo]
+"Welcome to Maroo's Bazaar, you trading or are you looking to pull some Endo from Ayatan Treasures?"
 
 [/Lotus/Language/Subtitles/Relays/DGoodbye0280Darvo]
 "See you soon Tenno."
@@ -71413,6 +71606,24 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Subtitles/Relays/DLeftRelay0110Baro]
 "And now I am off, I hope you don't miss me too much while I'm gone."
 
+[/Lotus/Language/Subtitles/Relays/DMissionAvailible390Maroo]
+"So, looking for Ayatans? Yeah, you and me both. I got a lead on something, too dicey for this gal, but it might be right up your alley. Interested?"
+
+[/Lotus/Language/Subtitles/Relays/DMissionAvailible400Maroo]
+"Do I have any leads on hidden Ayatans? Of course. Though, retrieving them won't be easy… or safe, really. But then again, you probably knew that. Shall we?"
+
+[/Lotus/Language/Subtitles/Relays/DMissionAvailible410Maroo]
+"Lucky for you, I've got a hot tip on the location of some Ayatans.  So, are you up for a little investigation, Shiny?"
+
+[/Lotus/Language/Subtitles/Relays/DMissionUnavailible420Maroo]
+"Well, I'm out of leads on Ayatans right now.. But… check back later, something always manages to come up."
+
+[/Lotus/Language/Subtitles/Relays/DMissionUnavailible430Maroo]
+"Sorry, Pal. No new leads today. But listen, I've got my ear to the ground on Ayatans, don't worry. "
+
+[/Lotus/Language/Subtitles/Relays/DMissionUnavailible440Maroo]
+"You asked the right person on the wrong day. I've got nothing for you right now."
+
 [/Lotus/Language/Subtitles/Relays/DNoPurchPoor0250Baro]
 "A little out of your reach? Perhaps a Darvo deal would be more your speed."
 
@@ -71436,6 +71647,18 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Subtitles/Relays/DNoPurchRich0320Baro]
 "Come back soon."
+
+[/Lotus/Language/Subtitles/Relays/DNotNow470Maroo]
+"Some other time then."
+
+[/Lotus/Language/Subtitles/Relays/DNotNow480Maroo]
+"Probably too dangerous anyway."
+
+[/Lotus/Language/Subtitles/Relays/DNoTreasure110Maroo]
+"Ha, nice try. Why don't you come back when you have found some Ayatan Sculptures or Stars."
+
+[/Lotus/Language/Subtitles/Relays/DNoTreasure120Maroo]
+"Sorry, doesn't look like you have any Ayatan Sculptures or Stars.  Next! "
 
 [/Lotus/Language/Subtitles/Relays/DOnePerCustomer0230Darvo]
 "Not so fast Tenno, due to popular demand I'm only selling one of these per customer."
@@ -71466,6 +71689,12 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Subtitles/Relays/DOutOfStock0090Darvo]
 "No deals right now. I'll let you know when something comes in."
+
+[/Lotus/Language/Subtitles/Relays/DPlayNow450Maroo]
+"I knew it. Okay, let's do this."
+
+[/Lotus/Language/Subtitles/Relays/DPlayNow460Maroo]
+"Hahaha, that's the spirit. Let's go!"
 
 [/Lotus/Language/Subtitles/Relays/DPurchaseBundle0140Darvo]
 "Do you need a bag for all these? hehe, just kidding I'll have them sent to your armoury."
@@ -71512,6 +71741,57 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Subtitles/Relays/DPurchRich0350Baro]
 "If you like that, come back next time I'm in the relay, I'll have something extra special for you."
 
+[/Lotus/Language/Subtitles/Relays/DSculptureOnly150Maroo]
+"Interesting Sculpture. Hmm... you know next time, bring me one full of Ayatan Stars and it'll be worth much more Endo."
+
+[/Lotus/Language/Subtitles/Relays/DSculptureOnly160Maroo]
+"Pretty good but just imagine how much Endo I could pull if this sucker had a full set of Ayatan Stars?"
+
+[/Lotus/Language/Subtitles/Relays/DSellGeneric200Maroo]
+"A nice find. Here's the Endo you're after."
+
+[/Lotus/Language/Subtitles/Relays/DSellGeneric210Maroo]
+"A beautiful piece. I guess you'll appreciate the Endo more."
+
+[/Lotus/Language/Subtitles/Relays/DSellGeneric220Maroo]
+"Ah the light shimmers off this one."
+
+[/Lotus/Language/Subtitles/Relays/DSellGeneric230Maroo]
+"A lovely piece. Very chrome."
+
+[/Lotus/Language/Subtitles/Relays/DSellGeneric240Maroo]
+"Thank you, Tin-suit, a fine trade, transaction complete. Ha ha!"
+
+[/Lotus/Language/Subtitles/Relays/DSellGroupAllFull280Maroo]
+"What a haul! It must have taken you forever to fill these with Stars. "
+
+[/Lotus/Language/Subtitles/Relays/DSellGroupAllFull290Maroo]
+"Wow, Tenno, I'm impressed. It's been a long time since I've seen such a complete collection of Ayatan Treasures."
+
+[/Lotus/Language/Subtitles/Relays/DSellGroupAllFull300Maroo]
+"Oh me, oh my, would you look at these? You can almost smell the Endo. Nice work."
+
+[/Lotus/Language/Subtitles/Relays/DSellGroupEmpty340Maroo]
+"You know Tenno, you'll get more Endo if you use your Mod Bench to insert Ayatan Stars into the Sculptures. "
+
+[/Lotus/Language/Subtitles/Relays/DSellGroupEmpty350Maroo]
+"Anyone ever tell you that the Ayatan Stars and Sculptures can be put together using your Mod Bench? You just wait and see what happens when you fill one completely."
+
+[/Lotus/Language/Subtitles/Relays/DSellGroupPartialFull310Maroo]
+"Lotta good stuff here, Tenno. But you could score even more Endo with complete sculptures."
+
+[/Lotus/Language/Subtitles/Relays/DSellGroupPartialFull320Maroo]
+"Interesting collection. Looks like you brought me a little bit of everything. Of course, I don't have to tell you how valuable these sculptures would be if they were all complete."
+
+[/Lotus/Language/Subtitles/Relays/DSellGroupPartialFull330Maroo]
+"Maybe next time you'll bring me complete sculptures? I always get way more Endo out of complete sculptures."
+
+[/Lotus/Language/Subtitles/Relays/DStarsOnly130Maroo]
+"That's a fine Ayatan Star, but it'd be worth more Endo if you used your Mod Bench to put it in a sculpture."
+
+[/Lotus/Language/Subtitles/Relays/DStarsOnly140Maroo]
+"Thanks for the Ayatan Star, but you know, when you put them in a sculpture, they generate even more Endo."
+
 [/Lotus/Language/Subtitles/Relays/DTradeTutBuyer070Maroo]
 "Sellin' are we? Okay then, find a shady spot near the tree and let everyone know you're here. If someone sees something they like, it's time to start negotiating."
 
@@ -71524,17 +71804,14 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Subtitles/Relays/DTradeTutInteract060Maroo]
 "If you're looking for Maroo's bazaar you've come to the right place. "
 
-[/Lotus/Language/Subtitles/Relays/DTradeTutIntro010Maroo]
-"Heya, Tinsuit, this your first time?"
+[/Lotus/Language/Subtitles/Relays/DTransactionComplete250Maroo]
+"Come back anytime, Tenno."
 
-[/Lotus/Language/Subtitles/Relays/DTradeTutIntro020Maroo]
-"Help you with anything?"
+[/Lotus/Language/Subtitles/Relays/DTransactionComplete260Maroo]
+"Been a pleasure. Remember, I'm always looking for more Ayatan Treasures."
 
-[/Lotus/Language/Subtitles/Relays/DTradeTutIntro030Maroo]
-"Lookin' a little lost. Maybe I can point you in the right direction."
-
-[/Lotus/Language/Subtitles/Relays/DTradeTutIntro040Maroo]
-"Ah, you look like a Tenno who knows the business."
+[/Lotus/Language/Subtitles/Relays/DTransactionComplete270Maroo]
+"See you around, Tinsuit."
 
 [/Lotus/Language/Subtitles/Relays/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]
 ""
