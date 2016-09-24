@@ -1,16 +1,19 @@
 [ArchwingCacheCoordsReward]
+Stripped=True
 
 
 [ArchwingExterminateRewards]
  - Mercury, Caduceus, MT_EXTERMINATION, FC_GRINEER, NT_EVENT
  - Venus, Montes, MT_EXTERMINATION, FC_CORPUS, NT_MISSION
  - Mars, Syrtis, MT_EXTERMINATION, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [ArchwingMobileDRewards]
  - Earth, Erpo, MT_MOBILE_DEFENSE, FC_GRINEER, NT_MISSION
  - Neptune, Salacia, MT_MOBILE_DEFENSE, FC_CORPUS, NT_MISSION
  - Europa, Gamygyn, MT_MOBILE_DEFENSE, FC_GRINEER, NT_EVENT
+Stripped=True
 
 
 [ArchwingPursuitRewards]
@@ -48,71 +51,89 @@ Rotation C:
 
 [ArchwingSabotageRewards]
  - Jupiter, Galilea, MT_SABOTAGE, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/AtlasRewards]
+Stripped=True
 
 
 [BossMissionRewards/BerserkerRewards]
  - Jupiter, Themisto, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/CowgirlRewards]
+Stripped=True
 
 
 [BossMissionRewards/EmberRewards]
  - Saturn, Tethys, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/ExcaliburRewards]
  - Pluto, Hades, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/FrostRewards]
  - Mars, War, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/HydroidRewards]
  - Earth, Oro, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/LokiRewards]
  - Neptune, Psamathe, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/MagRewards]
  - Phobos, Iliad, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/MiterGremlinsRewards]
  - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/NovaRewards]
  - Europa, Naamah, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/NyxRewards]
+Stripped=True
 
 
 [BossMissionRewards/RhinoRewards]
  - Venus, Fossa, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/SarynRewards]
  - Sedna, Merrow, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/SeerPistolRewards]
  - Mercury, Tolstoj, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/TrinityRewards]
  - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [BossMissionRewards/YinYangRewards]
  - Uranus, Titania, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [CacheRewardsEasy]
@@ -120,6 +141,7 @@ Rotation C:
  - Mercury, Neruda, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Venus, Ishtar, MT_SABOTAGE, FC_CORPUS, NT_MISSION
  - Mars, Gradivus, MT_SABOTAGE, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [CacheRewardsHard]
@@ -129,6 +151,7 @@ Rotation C:
  - Pluto, Charon, MT_SABOTAGE, FC_CORPUS, NT_EVENT
  - Pluto, Cypress, MT_SABOTAGE, FC_CORPUS, NT_MISSION
  - Sedna, Kelpie, MT_SABOTAGE, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [CacheRewardsMedium]
@@ -136,11 +159,13 @@ Rotation C:
  - Saturn, Pallene, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Saturn, Calypso, MT_SABOTAGE, FC_GRINEER, NT_MISSION
  - Ceres, Thon, MT_SABOTAGE, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [CacheRewardsVoid]
  - Void, Stribog, MT_SABOTAGE, FC_OROKIN, NT_MISSION
  - Void, Marduk, MT_SABOTAGE, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [CaptureMissionRewardsA]
@@ -211,6 +236,7 @@ Rotation C:
  - Eris, Psoro, MT_HIVE, FC_INFESTATION, NT_EVENT
  - Eris, Viver, MT_HIVE, FC_INFESTATION, NT_EVENT
  - Eris, Naeglar, MT_HIVE, FC_INFESTATION, NT_MISSION
+Stripped=True
 
 
 [DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy]
@@ -732,18 +758,23 @@ Rotation C:
 
 [ForestSabotageRewards]
  - Earth, Cervantes, MT_SABOTAGE, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [FusionCoreRewards]
+Stripped=True
 
 
 [GolemMissionRewards]
+Stripped=True
 
 
 [HalloweenExtermEventRewards]
+Stripped=True
 
 
 [InfestedIncursionsSurvivalRewards]
+Stripped=True
 
 
 [InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard]
@@ -980,15 +1011,18 @@ Rotation C:
 
 [KelaEventRewardsEasy]
  - Sedna, Undine, MT_ARENA, FC_GRINEER, NT_EVENT
+Stripped=True
 
 
 [KelaEventRewardsHard]
  - Sedna, Vodyanoi, MT_ARENA, FC_GRINEER, NT_MISSION
  - Sedna, Yam, MT_ARENA, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [KelaEventRewardsMedium]
  - Sedna, Nakki, MT_ARENA, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [MacheteMayhemBonusRewards]
@@ -1009,6 +1043,7 @@ Rotation A:
 
 
 [MirageRewards]
+Stripped=True
 
 
 [MissionRewardsCorpus]
@@ -1196,27 +1231,33 @@ Rotation C:
 
 
 [NightmareModeRewards]
+Stripped=True
 
 
 [OceanSabotageRewards]
  - Uranus, Ariel, MT_SABOTAGE, FC_GRINEER, NT_MISSION
  - Uranus, Prospero, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Uranus, Setebos, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+Stripped=True
 
 
 [OrokinDerelictSabotageRewards]
+Stripped=True
 
 
 [OrokinSabotageEventRewards]
  - Ceres, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Phobos, Shifting Sands, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Phobos, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+Stripped=True
 
 
 [ProjectFriendlyFireRewardsBasic]
+Stripped=True
 
 
 [ProjectFriendlyFireRewardsBonus]
+Stripped=True
 
 
 [ProjectPanaceaBonusRewards]
@@ -1244,6 +1285,7 @@ Rotation A:
 
 
 [ProjectSinisterRewardsBasic]
+Stripped=True
 
 
 [ProjectSinisterRewardsBonus]
@@ -1307,15 +1349,18 @@ Rotation A:
 
 
 [ProjectUndermineBonusRewards]
+Stripped=True
 
 
 [ProjectUndermineRewards]
+Stripped=True
 
 
 [PVPMissionRewards/CTFRewards]
  - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
  - Neptune, Cephalon Capture, MT_PVP, FC_CORPUS, NT_PVP
+Stripped=True
 
 
 [PVPMissionRewards/DMRewards]
@@ -1323,23 +1368,29 @@ Rotation A:
  - Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER, NT_PVP
+Stripped=True
 
 
 [PVPMissionRewards/TDMRewards]
  - Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+Stripped=True
 
 
 [RaidRewards/GolemRaid]
+Stripped=True
 
 
 [RaidRewards/HekRaid]
+Stripped=True
 
 
 [RaidRewards/NightmareHekRaid]
+Stripped=True
 
 
 [RaidRewards/NightmareResourceHekRaid]
+Stripped=True
 
 
 [RescueMissionRewards/RescueMissionRewardsEasy]
@@ -1351,6 +1402,7 @@ Rotation A:
  - Ceres, Nuovo, MT_RESCUE, FC_GRINEER, NT_MISSION
  - Sedna, Jengu, MT_RESCUE, FC_GRINEER, NT_EVENT
  - Phobos, Monolith, MT_RESCUE, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [RescueMissionRewards/RescueMissionRewardsHard]
@@ -1363,6 +1415,7 @@ Rotation A:
  - Eris, Sparga, MT_RESCUE, FC_INFESTATION, NT_EVENT
  - Sedna, Naga, MT_RESCUE, FC_GRINEER, NT_MISSION
  - LUA, Zeipel, MT_RESCUE, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [RescueMissionRewards/RescueMissionRewardsMedium]
@@ -1374,9 +1427,11 @@ Rotation A:
  - Europa, Eligor, MT_RESCUE, FC_CORPUS, NT_EVENT
  - Europa, Shax, MT_RESCUE, FC_CORPUS, NT_EVENT
  - Europa, Orias, MT_RESCUE, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [RescueMissionRewards/RescueMissionRewardsNightmare]
+Stripped=True
 
 
 [SortieRewards]
@@ -1592,6 +1647,7 @@ Rotation A:
  - Eris, Gnathos, MT_INTEL, FC_CORPUS, NT_EVENT
  - Sedna, Kappa, MT_INTEL, FC_GRINEER, NT_MISSION
  - Sedna, Tikoloshe, MT_INTEL, FC_GRINEER, NT_MISSION
+Stripped=True
 
 
 [SpyMissionRewards/SpyLowMissionRewards]
@@ -1604,6 +1660,7 @@ Rotation A:
  - Ceres, Hapke, MT_INTEL, FC_GRINEER, NT_EVENT
  - Phobos, Grildrig, MT_INTEL, FC_GRINEER, NT_EVENT
  - Phobos, Shklovsky, MT_INTEL, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [SpyMissionRewards/SpyMediumMissionRewards]
@@ -1611,10 +1668,12 @@ Rotation A:
  - Saturn, Dione, MT_INTEL, FC_GRINEER, NT_MISSION
  - Saturn, Aegaeon, MT_INTEL, FC_GRINEER, NT_EVENT
  - Europa, Valac, MT_INTEL, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [SpyMissionRewards/SpyMoonMissionRewards]
  - LUA, Pavlov, MT_INTEL, FC_CORPUS, NT_MISSION
+Stripped=True
 
 
 [SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards]
@@ -1945,6 +2004,7 @@ Rotation C:
 
 
 [VaultRewards]
+Stripped=True
 
 
 [VoidKeyMissionRewards/MagPrimeVaultA]

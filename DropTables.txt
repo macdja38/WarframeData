@@ -23,8 +23,6 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Narrow Barrel, RARE, 0.4%
 	Focused Defense, COMMON, 15.18%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [AcolyteControlAgentDropTable]
  - TORMENT (ControlAcolyteAvatar)
@@ -34,8 +32,6 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Argon Scope, RARE, 2.01%
 	Laser Sight, UNCOMMON, 11.06%
 	Blood Rush, UNCOMMON, 11.06%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [AcolyteDuellistAgentDropTable]
@@ -47,8 +43,6 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Shrapnel Shot, COMMON, 75.88%, Bias 0.5
 	Maiming Strike, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [AcolyteHeavyAgentDropTable]
  - MALICE (HeavyAcolyteAvatar)
@@ -58,8 +52,6 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Targeting Subsystem, UNCOMMON, 11.06%
 	Guided Ordnance, UNCOMMON, 11.06%
 	Narrow Barrel, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [AcolyteRogueAgentDropTable]
@@ -71,8 +63,6 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Nano-Applicator, RARE, 2.01%
 	Weeping Wounds, UNCOMMON, 11.06%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [AcolyteStrikerAgentDropTable]
  - ANGST (StrikerAcolyteAvatar)
@@ -82,8 +72,6 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Spring-Loaded Chamber, UNCOMMON, 11.06%
 	Repeater Clip, UNCOMMON, 11.06%
 	Body Count, COMMON, 75.88%, Bias 0.5
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [ArbitersSpectreBPDropTable]
@@ -105,8 +93,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [AridBladeSawmanDropTable]
@@ -139,8 +125,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [BossBipedAgentDropTable]
  - AMBULAS (BossBipedAvatar)
@@ -166,8 +150,6 @@ DROP_MOD (Drop Chance: 100%)
 DROP_SIGIL (Drop Chance: 100%)
 	AMBULAS SIGIL, UNCOMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [BossSpaceManAgentDropTable]
  - The Sergeant (SniperBossAvatar)
@@ -188,8 +170,6 @@ DROP_MOD (Drop Chance: 100%)
 	Reflex Coil, UNCOMMON, 7.52%
 	Reflex Coil, UNCOMMON, 7.52%
 	Shocking Touch, UNCOMMON, 7.52%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CarrierSpacemanAgentDropTable]
@@ -219,8 +199,6 @@ DROP_MOD (Drop Chance: 3%)
 DROP_POWERUP (Drop Chance: 100%)
 	DATAMASS, COMMON, 100%, Bias 1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CephalonSpectreBPDropTable]
 
@@ -242,8 +220,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [ContainerDropTables/AmmoOnlyLootCrateDropTable]
 
@@ -252,8 +228,6 @@ DROP_AMMO (Drop Chance: 70%)
 	20 PISTOL AMMO, COMMON, 25%
 	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
 	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [ContainerDropTables/CommonLootCrateArchwingDropTable]
@@ -265,7 +239,8 @@ DROP_MISC_ITEM (Drop Chance: 25%)
 DROP_POWERUP (Drop Chance: 75%)
 	10-50 CREDITS, COMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN CYAN STAR, RARE, 100%
 
 
 [ContainerDropTables/CommonLootCrateDropTable]
@@ -284,7 +259,8 @@ DROP_MISC_ITEM (Drop Chance: 25%)
 DROP_POWERUP (Drop Chance: 75%)
 	10-50 CREDITS, COMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN CYAN STAR, RARE, 100%
 
 
 [ContainerDropTables/CommonLootCrateGrineerDropTable]
@@ -302,7 +278,8 @@ DROP_MISC_ITEM (Drop Chance: 25%)
 DROP_POWERUP (Drop Chance: 75%)
 	10-50 CREDITS, COMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN CYAN STAR, RARE, 100%
 
 
 [ContainerDropTables/CommonSurvivalLootCrateDropTable]
@@ -325,7 +302,8 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 20%, Bias 0.5
 	LIFE SUPPORT CAPSULE, COMMON, 20%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN CYAN STAR, RARE, 100%
 
 
 [ContainerDropTables/CommonSurvivalLootCrateGrineerDropTable]
@@ -347,7 +325,8 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 20%, Bias 0.5
 	LIFE SUPPORT CAPSULE, COMMON, 20%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN CYAN STAR, RARE, 100%
 
 
 [ContainerDropTables/KubrowDenDropTable]
@@ -371,8 +350,6 @@ DROP_POWERUP (Drop Chance: 50%)
 	25 ENERGY, COMMON, 25%
 	25 HEALTH, COMMON, 25%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [ContainerDropTables/KubrowQuestDenDropTable]
 
@@ -395,8 +372,6 @@ DROP_POWERUP (Drop Chance: 50%)
 	25 ENERGY, COMMON, 25%
 	25 HEALTH, COMMON, 25%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [ContainerDropTables/OrokinDerelictLootCrateDropTable]
 
@@ -413,7 +388,8 @@ DROP_MISC_ITEM (Drop Chance: 25%)
 DROP_POWERUP (Drop Chance: 75%)
 	10-50 CREDITS, COMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN CYAN STAR, RARE, 100%
 
 
 [ContainerDropTables/OrokinDerelictSurvivalLootCrateDropTable]
@@ -434,7 +410,8 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 ENERGY, COMMON, 25%
 	25 HEALTH, COMMON, 25%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN CYAN STAR, RARE, 100%
 
 
 [ContainerDropTables/PumpkinLootCrateDropTable]
@@ -449,12 +426,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	25 HEALTH, COMMON, 33.33%
 	100 AFFINITY, COMMON, 33.33%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [ContainerDropTables/PuzzleLootCrateDropTable]
-
-DROP_BLUEPRINT (Drop Chance: 100%)
 
 DROP_MISC_ITEM (Drop Chance: 25%)
 	Uncommon Resource, COMMON, 50%
@@ -467,8 +440,6 @@ DROP_MOD (Drop Chance: 3%)
 
 DROP_POWERUP (Drop Chance: 100%)
 	500-1500 CREDITS, RARE, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [ContainerDropTables/RareCorpusLootCrateDropTable]
@@ -489,7 +460,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	AFFINITY BOOSTER (30 min), COMMON, 50%
 	CREDIT BOOSTER (30 min), COMMON, 50%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN AMBER STAR, RARE, 100%
 
 
 [ContainerDropTables/RareGrineerLootCrateDropTable]
@@ -510,7 +482,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	AFFINITY BOOSTER (30 min), COMMON, 50%
 	CREDIT BOOSTER (30 min), COMMON, 50%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN AMBER STAR, RARE, 100%
 
 
 [ContainerDropTables/RareLootCrateDropTable]
@@ -532,7 +505,8 @@ DROP_MOD (Drop Chance: 25%)
 DROP_POWERUP (Drop Chance: 75%)
 	10-50 CREDITS, COMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN AMBER STAR, RARE, 100%
 
 
 [ContainerDropTables/RareOrokinLootCrateDropTable]
@@ -553,7 +527,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	AFFINITY BOOSTER (30 min), COMMON, 50%
 	CREDIT BOOSTER (30 min), COMMON, 50%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN AMBER STAR, RARE, 100%
 
 
 [ContainerDropTables/UltraRareCorpusLootCrateDropTable]
@@ -571,7 +546,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	AFFINITY BOOSTER (60 min), COMMON, 50%
 	CREDIT BOOSTER (60 min), COMMON, 50%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN AMBER STAR, RARE, 100%
 
 
 [ContainerDropTables/UltraRareGrineerLootCrateDropTable]
@@ -589,7 +565,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	AFFINITY BOOSTER (60 min), COMMON, 50%
 	CREDIT BOOSTER (60 min), COMMON, 50%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN AMBER STAR, RARE, 100%
 
 
 [ContainerDropTables/UltraRareOrokinLootCrateDropTable]
@@ -607,12 +584,11 @@ DROP_POWERUP (Drop Chance: 100%)
 	CREDIT BOOSTER (60 min), COMMON, 50%
 	AFFINITY BOOSTER (60 min), COMMON, 50%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN AMBER STAR, RARE, 100%
 
 
 [ContainerDropTables/UncommonLootCrateArchwingDropTable]
-
-DROP_AMMO (Drop Chance: 70%)
 
 DROP_MISC_ITEM (Drop Chance: 25%)
 	Uncommon Resource, COMMON, 77.44%
@@ -624,7 +600,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	50 ENERGY, COMMON, 25.81%, Bias 0.6
 	25 HEALTH, COMMON, 25.81%, Bias 0.6
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN AMBER STAR, RARE, 100%
 
 
 [ContainerDropTables/UncommonLootCrateDropTable]
@@ -646,7 +623,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	50 ENERGY, COMMON, 25.81%, Bias 0.6
 	25 HEALTH, COMMON, 25.81%, Bias 0.6
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN AMBER STAR, RARE, 100%
 
 
 [CorpusAladVBossAgentDropTable]
@@ -671,8 +649,6 @@ DROP_MOD (Drop Chance: 100%)
 
 DROP_SIGIL (Drop Chance: 100%)
 	ALAD V SIGIL, UNCOMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CorpusDeployableSpacemanAgentDropTable]
@@ -702,8 +678,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CorpusDroneAttackAgentDropTable]
@@ -737,8 +711,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CorpusEliteRifleSpacemanAgentDropTable]
  - ELITE CREWMAN (EliteSpacemanAvatar)
@@ -768,13 +740,11 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CorpusLaserCannonBipedAgentDropTable]
+ - MOA (LaserCannonBipedAvatar)
  - MOA (RiotBipedBaseAvatar)
  - SHOCKWAVE MOA (ShockwaveBipedHackedAvatar)
- - MOA (LaserCannonBipedAvatar)
  - Hyena Th (MicroHyenaAvatar)
  - MOA (OrokinGoldenMawAvatar)
 
@@ -801,8 +771,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CorpusLeechDroneAgentDropTable]
@@ -834,8 +802,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CorpusMeleeSpacemanAgentDropTable]
  - PROD CREWMAN (MeleeSpacemanAvatar)
@@ -864,8 +830,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CorpusMineDroneAgentDropTable]
@@ -896,8 +860,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CorpusModularAgentDropTable]
@@ -932,8 +894,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CorpusQuadRobotAgentDropTable]
  - JACKAL (QuadRobotAvatar)
@@ -960,8 +920,6 @@ DROP_MOD (Drop Chance: 100%)
 DROP_SIGIL (Drop Chance: 100%)
 	JACKAL SIGIL, UNCOMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CorpusRailgunBipedAgentDropTable]
  - RAILGUN MOA (RailgunBipedAvatar)
@@ -986,8 +944,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CorpusRifleSpacemanAgentDropTable]
@@ -1017,8 +973,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CorpusRiotControlAgentDropTable]
  - DROVER BURSA (RiotBipedControlAvatar)
@@ -1046,8 +1000,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CorpusRiotControlHackedDropTable]
  - DROVER BURSA (RiotBipedControlAvatar)
@@ -1071,8 +1023,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CorpusRiotDispersionAgentDropTable]
@@ -1101,8 +1051,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CorpusRiotDispersionHackedDropTable]
  - ISOLATOR BURSA (RiotBipedDispersionAvatar)
@@ -1126,8 +1074,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CorpusRiotPreventionAgentDropTable]
@@ -1156,8 +1102,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CorpusRiotPreventionHackedDropTable]
  - DENIAL BURSA (RiotBipedPreventionAvatar)
@@ -1181,8 +1125,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CorpusShieldDroneAgentDropTable]
@@ -1210,8 +1152,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CorpusShockwaveBipedAgentDropTable]
@@ -1241,8 +1181,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CorpusShotgunSpacemanAgentDropTable]
  - DETRON CREWMAN (ShotgunSpacemanAvatar)
@@ -1271,12 +1209,10 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [CorpusSniperSpacemanAgentDropTable]
- - SNIPER CREWMAN (SniperSpacemanAvatar)
  - NULLIFIER CREWMAN (NullifySpacemanAvatar)
+ - SNIPER CREWMAN (SniperSpacemanAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -1301,8 +1237,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [CorpusSuperMoaBipedAgentDropTable]
@@ -1335,8 +1269,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [DeathSquadADropTable]
  - Vem Tabook (DeathSquadAvatarA)
@@ -1364,8 +1296,6 @@ DROP_MOD (Drop Chance: 50%, Exclusive)
 DROP_SIGIL (Drop Chance: 100%)
 	GRUSTRAG SIGIL, RARE, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [DeathSquadBDropTable]
  - Leekter (DeathSquadAvatarB)
@@ -1387,8 +1317,6 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Barrel Diffusion, RARE, 20%
 	80 ENDO, RARE, 20%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [DeathSquadCDropTable]
  - Shik Tal (DeathSquadAvatarC)
@@ -1409,8 +1337,6 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Split Chamber, RARE, 20%
 	Barrel Diffusion, RARE, 20%
 	80 ENDO, RARE, 20%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [DiseasedAncientDropTable]
@@ -1439,12 +1365,8 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [EmptyDropTable]
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [EventDropTables/ProjectNightwatch/NightwatchGrineerChargerDropTable]
@@ -1459,15 +1381,11 @@ DROP_AMMO (Drop Chance: 70%)
 DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 3%)
-
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 37.94%
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [EventDropTables/ProjectNightwatch/NightwatchGrineerMarinePistolDropTable]
@@ -1482,15 +1400,11 @@ DROP_AMMO (Drop Chance: 70%)
 DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 3%)
-
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 37.94%
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [EventDropTables/ProjectNightwatch/NightwatchHeavyGunnerDropTable]
@@ -1505,15 +1419,11 @@ DROP_AMMO (Drop Chance: 70%)
 DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 3%)
-
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 37.94%
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [EventDropTables/ProjectNightwatch/NightwatchRifleLancerDropTable]
@@ -1528,15 +1438,11 @@ DROP_AMMO (Drop Chance: 70%)
 DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 3%)
-
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 37.94%
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [FairyQuestFeyarchOberonDropTable]
@@ -1548,8 +1454,6 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Final Harbinger, UNCOMMON, 45.83%, Bias 0.1
 	High Noon, RARE, 4.17%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [FairyQuestKnaveLokiDropTable]
  - KNAVE SPECTER (FairyQuestLokiAvatar)
@@ -1559,8 +1463,6 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Growing Power, RARE, 4.17%
 	Blind Justice, UNCOMMON, 45.83%, Bias 0.1
 	Crimson Dervish, RARE, 4.17%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [FairyQuestOrphidSarynDropTable]
@@ -1572,7 +1474,15 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Atlantis Vulcan, UNCOMMON, 30.56%, Bias 0.1
 	Crossing Snakes, RARE, 8.33%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+
+[FusionTreasuresDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	AYATAN SAH SCULPTURE, COMMON, 20%
+	AYATAN AYR SCULPTURE, COMMON, 20%
+	AYATAN ORTA SCULPTURE, COMMON, 20%
+	AYATAN VAYA SCULPTURE, COMMON, 20%
+	AYATAN PIV SCULPTURE, COMMON, 20%
 
 
 [GrineerBladeSawmanDropTable]
@@ -1613,8 +1523,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerBlowtorchSawmanDropTable]
  - FLAMEBLADE (BlowtorchSawmanAvatar)
@@ -1644,8 +1552,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerBossLechKrilAgentDropTable]
 
@@ -1668,8 +1574,6 @@ DROP_MOD (Drop Chance: 100%)
 
 DROP_SIGIL (Drop Chance: 100%)
 	LECH KRIL SIGIL, UNCOMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerCaptainVorBossAgentDropTable]
@@ -1699,8 +1603,6 @@ DROP_MOD (Drop Chance: 100%)
 
 DROP_SIGIL (Drop Chance: 100%)
 	VOR SIGIL, UNCOMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerCatMasterDropTable]
@@ -1732,8 +1634,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerChampionDropTable]
  - ELITE LANCER (GrineerChampionBaseAvatar)
@@ -1753,8 +1653,6 @@ DROP_MOD (Drop Chance: 20%)
 	50 ENDO, UNCOMMON, 22.11%
 	80 ENDO, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerChampionHeavyDropTable]
  - EXECUTIONER DHURNAM (GrineerChampionHeavyAvatar)
@@ -1764,16 +1662,12 @@ DROP_MOD (Drop Chance: 20%)
 	80 ENDO, RARE, 8.33%
 	Silent Battery, UNCOMMON, 45.83%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerChampionNightmareDropTable]
 
 DROP_MOD (Drop Chance: 20%)
 	50 ENDO, UNCOMMON, 91.67%, Bias 0.16
 	80 ENDO, RARE, 8.33%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerDoubleBossCaptainVorDropTable]
@@ -1796,8 +1690,6 @@ DROP_MOD (Drop Chance: 100%)
 	Quickdraw, COMMON, 25.29%
 	Vitality, COMMON, 25.29%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerDoubleBossLechKrilDropTable]
 
@@ -1817,8 +1709,6 @@ DROP_MOD (Drop Chance: 100%)
 	Molten Impact, UNCOMMON, 22.92%
 	Killing Blow, UNCOMMON, 22.92%
 	Energy Channel, RARE, 8.33%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerEliteRifleLancerDropTable]
@@ -1855,8 +1745,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerFemaleDropTable]
  - BALLISTA (FemaleGrineerAvatar)
@@ -1882,8 +1770,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerFemaleJetpackDropTable]
@@ -1913,12 +1799,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerFemaleJetpackEventDropTable]
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerFlameLancerDropTable]
@@ -1946,8 +1828,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerHeavyFemaleMarineLeaderDropTable]
@@ -1981,8 +1861,6 @@ DROP_MOD (Drop Chance: 100%)
 DROP_SIGIL (Drop Chance: 100%)
 	KELA DE THAYM SIGIL, UNCOMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerHeavyMarineLeaderDropTable]
  - COMMANDER (HeavyMarineLeaderAvatar)
@@ -2007,8 +1885,6 @@ DROP_MOD (Drop Chance: 100%)
 
 DROP_SIGIL (Drop Chance: 100%)
 	SARGAS RUK SIGIL, UNCOMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerIncendiaryBombardDropTable]
@@ -2039,8 +1915,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerMacheteWomanDropTable]
  - SCORPION (MacheteWomanAvatar)
@@ -2068,8 +1942,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerManicBombardDropTable]
@@ -2100,8 +1972,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerManicDropTable]
@@ -2139,8 +2009,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerManicSeaLabDropTable]
  - DREKAR MANIC (SeaLabManicGrineerAvatar)
@@ -2172,8 +2040,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerMarineLeaderDropTable]
  - ARTIFICER (GrineerArtificerAvatar)
@@ -2199,12 +2065,10 @@ DROP_MOD (Drop Chance: 100%)
 	50 ENDO, UNCOMMON, 4.42%
 	80 ENDO, RARE, 1.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerMarinePistolDropTable]
- - GRINEER MANIC (ManicGrineerAvatarScaled)
  - SEEKER (GrineerMarinePistolAvatar)
+ - GRINEER MANIC (ManicGrineerAvatarScaled)
  - ARID SEEKER (GrineerMarinePistolAvatar)
  - FRONTIER SEEKER (GrineerMarinePistolAvatar)
 
@@ -2231,8 +2095,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerMeleeStaffDropTable]
@@ -2264,8 +2126,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerMinigunBombardDropTable]
@@ -2303,8 +2163,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerNinjaLeaderDropTable]
  - TYL REGOR (NinjaLeaderAvatar)
@@ -2326,8 +2184,6 @@ DROP_MOD (Drop Chance: 100%)
 	Shocking Touch, UNCOMMON, 7.52%
 	Vitality, COMMON, 25.81%
 	Lethal Momentum, UNCOMMON, 7.52%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerPistonSawmanDropTable]
@@ -2358,8 +2214,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerRegularLeaderDropTable]
  - COMMANDER (GrineerMarineLeaderAvatar)
@@ -2385,19 +2239,17 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerRifleLancerDropTable]
- - HELLION (JetpackMarineAvatar)
  - LANCER (RifleLancerAvatar)
+ - HELLION (JetpackMarineAvatar)
  - FRONTIER HEAVY GUNNER (HeavyFemaleGrineerAvatarDesert)
+ - ARID LANCER (RifleLancerAvatar)
  - HEAVY GUNNER (HeavyFemaleGrineerAvatar)
  - ARID HELLION (JetpackMarineAvatar)
- - ARID LANCER (RifleLancerAvatar)
+ - FRONTIER LANCER (RifleLancerAvatar)
  - FRONTIER HEAVY GUNNER (HeavyFemaleGrineerAvatar)
  - FRONTIER HELLION (JetpackMarineAvatar)
- - FRONTIER LANCER (RifleLancerAvatar)
  - DREKAR SCORPION (FemaleGrineerMacheteAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
@@ -2424,8 +2276,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerRocketBombardDropTable]
@@ -2456,8 +2306,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerRollingDroneDropTable]
@@ -2492,8 +2340,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerSeaLabBladeSawmanDropTable]
  - DREKAR BUTCHER (BladeSawmanAvatar)
@@ -2524,8 +2370,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerSeaLabEvisceratorLancerDropTable]
  - DREKAR EVISCERATOR (EvisceratorLancerAvatar)
@@ -2554,8 +2398,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerSeaLabFemaleSniperDropTable]
  - DREKAR BALLISTA (FemaleGrineerSniperAvatar)
@@ -2581,8 +2423,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerSeaLabHeavyMarineLeaderDropTable]
  - DREKAR HEAVY GUNNER (FemaleGrineerHeavyAvatar)
@@ -2601,8 +2441,6 @@ DROP_MOD (Drop Chance: 3%)
 	Shotgun Savvy, UNCOMMON, 11.28%
 	Melee Prowess, COMMON, 38.72%
 	Piercing Step, UNCOMMON, 11.28%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerSeaLabJetpackDropTable]
@@ -2629,8 +2467,6 @@ DROP_POWERUP (Drop Chance: 100%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerSeaLabMarinePistolDropTable]
@@ -2660,12 +2496,10 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerSeaLabRifleLancerDropTable]
- - DREKAR ELITE LANCER (EliteRifleLancerAvatar)
  - DREKAR LANCER (RifleLancerAvatar)
+ - DREKAR ELITE LANCER (EliteRifleLancerAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -2691,8 +2525,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerSeaLabShotgunLancerDropTable]
@@ -2725,8 +2557,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerShieldLancerDropTable]
  - SHIELD LANCER (ShieldLancerAvatar)
@@ -2754,8 +2584,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [GrineerShotgunLancerDropTable]
@@ -2790,8 +2618,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [GrineerVorTwoAgentDropTable]
  - CORRUPTED VOR (VorTwoBossAvatar)
@@ -2815,8 +2641,6 @@ DROP_MOD (Drop Chance: 100%)
 DROP_SIGIL (Drop Chance: 100%)
 	VOR SIGIL, UNCOMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [HarvesterDropTable]
  - ZANUKA HUNTER (ZanukaHunterAvatar)
@@ -2837,8 +2661,6 @@ DROP_MISC_ITEM (Drop Chance: 100%)
 
 DROP_SIGIL (Drop Chance: 100%)
 	ZANUKA SIGIL, RARE, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [HyenaAgentDropTable]
@@ -2867,8 +2689,6 @@ DROP_MOD (Drop Chance: 60%)
 DROP_SIGIL (Drop Chance: 100%)
 	HYENA SIGIL, UNCOMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [InfestationGolemDerelictAgentDropTable]
  - LEPHANTIS (GolemFullAvatar)
@@ -2891,8 +2711,6 @@ DROP_MOD (Drop Chance: 100%)
 
 DROP_SIGIL (Drop Chance: 100%)
 	LEPHANTIS SIGIL, UNCOMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [InfestationGolemWormHeadsAgentDropTable]
@@ -2918,8 +2736,6 @@ DROP_MOD (Drop Chance: 100%)
 
 DROP_SIGIL (Drop Chance: 100%)
 	LEPHANTIS SIGIL, UNCOMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [InfestationGraspingCrawlerDropTable]
@@ -2949,8 +2765,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [InfestationHealingAncientDropTable]
  - ANCIENT HEALER (HealingAncientAvatar)
@@ -2978,8 +2792,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [InfestationJuggernautDropTable]
@@ -3018,8 +2830,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [InfestationLeapingRunnerDropTable]
  - LEAPER (LeapingRunnerAvatar)
@@ -3033,7 +2843,7 @@ DROP_AMMO (Drop Chance: 70%)
 DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 30%)
+DROP_MOD (Drop Chance: 3%)
 	Swift Deth, COMMON, 37.94%
 	Cleanse Infested, UNCOMMON, 7.37%
 	15 ENDO, COMMON, 37.94%
@@ -3046,8 +2856,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [InfestationLightningCrawlerDropTable]
@@ -3075,8 +2883,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [InfestationMeleeAncientDropTable]
@@ -3107,8 +2913,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [InfestationMeleeCrawlerDropTable]
  - CRAWLER (CrawlerAvatar)
@@ -3136,8 +2940,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [InfestationNoxiousCrawlerDropTable]
@@ -3167,8 +2969,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [InfestationQuadrupedDropTable]
@@ -3200,8 +3000,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [InfestationQuadrupedVIPDropTable]
  - PHORID (QuadrupedVIPAvatar)
@@ -3225,8 +3023,6 @@ DROP_MOD (Drop Chance: 100%)
 
 DROP_SIGIL (Drop Chance: 100%)
 	PHORID SIGIL, UNCOMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [InfestationSuicideRunnerDropTable]
@@ -3256,8 +3052,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [InfestationToxicAncientDropTable]
@@ -3291,8 +3085,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [InfestationZombieLeaderAgentDropTable]
  - J3 JORDAS GOLEM (ZombieLeaderAvatar)
@@ -3313,8 +3105,6 @@ DROP_MOD (Drop Chance: 100%)
 	Magazine Warp, COMMON, 37.94%
 	Pressure Point, COMMON, 37.94%
 	Incendiary Coat, UNCOMMON, 11.06%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [JackalMiniBossDroneDropTable]
@@ -3346,8 +3136,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [JackalMiniBossDropTable]
  - LYNX (QuadRobotMiniBossAvatar)
@@ -3376,8 +3164,6 @@ DROP_POWERUP (Drop Chance: 100%)
 DROP_SIGIL (Drop Chance: 100%)
 	LYNX SIGIL, UNCOMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [JackalMiniBossEventDropTable]
 
@@ -3395,8 +3181,6 @@ DROP_POWERUP (Drop Chance: 0%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [KavatFeralDropTable]
@@ -3425,8 +3209,6 @@ DROP_POWERUP (Drop Chance: 50%)
 	25 ENERGY, COMMON, 25%
 	25 HEALTH, COMMON, 25%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [KavatGrineerDropTable]
  - HYEKKA (CombatCatbrowAvatar)
@@ -3453,8 +3235,6 @@ DROP_POWERUP (Drop Chance: 50%)
 	25 ENERGY, COMMON, 25%
 	25 HEALTH, COMMON, 25%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [KelaRollingDroneDropTable]
  - ARMORED ROLLER (KelaRollingDroneAvatar)
@@ -3473,8 +3253,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [KubrowDigLootDropTable]
@@ -3495,8 +3273,6 @@ DROP_MOD (Drop Chance: 0.1%, Exclusive)
 
 DROP_POWERUP (Drop Chance: 80%, Exclusive)
 	10-50 CREDITS, COMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [KubrowFeralDropTable]
@@ -3539,8 +3315,6 @@ DROP_POWERUP (Drop Chance: 50%)
 	25 ENERGY, COMMON, 25%
 	25 HEALTH, COMMON, 25%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [LaserDiscMoaDropTable]
  - ANTI MOA (LaserDiscBipedAvatar)
@@ -3568,19 +3342,24 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [LeaderDropTable]
- - OROKIN DRONE EXIMUS (OrokinShieldDroneLeaderAvatar)
- - CORRUPTED LANCER EXIMUS (RifleLancerLeaderAvatar)
- - CORRUPTED CREWMAN EXIMUS (RifleSpacemanLeaderAvatar)
  - CORRUPTED BUTCHER EXIMUS (OrokinBladeSawmanAvatarLeader)
  - CORRUPTED ANCIENT EXIMUS (OrokinHealingAncientLeaderAvatar)
  - CORRUPTED HEAVY GUNNER EXIMUS (OrokinHeavyFemaleLeaderAvatar)
  - CORRUPTED MOA EXIMUS (OrokinMoaBipedLeaderAvatar)
  - CORRUPTED NULLIFIER EXIMUS (OrokinNullifySpacemanAvatarLeader)
  - CORRUPTED BOMBARD EXIMUS (OrokinRocketBombardAvatarLeader)
+ - OROKIN DRONE EXIMUS (OrokinShieldDroneLeaderAvatar)
+ - CORRUPTED LANCER EXIMUS (RifleLancerLeaderAvatar)
+ - CORRUPTED CREWMAN EXIMUS (RifleSpacemanLeaderAvatar)
+ - SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
+ - ANCIENT DISRUPTOR EXIMUS (AncientAvatarLeader)
+ - BROOD MOTHER EXIMUS (DiseasedAncientAvatarLeader)
+ - ANCIENT HEALER EXIMUS (HealingAncientAvatarLeader)
+ - BOILER EXIMUS (SpawningAncientAvatarLeader)
+ - ARCANE BOILER EXIMUS (SpawningAncientAvatarMiniboss)
+ - TOXIC ANCIENT EXIMUS (ToxicAncientAvatarLeader)
  - BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  - EVISCERATOR EXIMUS (EviseratorLancerAvatarLeader)
@@ -3597,13 +3376,6 @@ DROP_VOID_PROJECTIONS (Drop Chance: 0%)
  - ROLLER (RollingDroneAvatarLeader)
  - SHIELD LANCER EXIMUS (ShieldLancerAvatarLeader)
  - TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
- - ANCIENT DISRUPTOR EXIMUS (AncientAvatarLeader)
- - BROOD MOTHER EXIMUS (DiseasedAncientAvatarLeader)
- - ANCIENT HEALER EXIMUS (HealingAncientAvatarLeader)
- - BOILER EXIMUS (SpawningAncientAvatarLeader)
- - ARCANE BOILER EXIMUS (SpawningAncientAvatarMiniboss)
- - TOXIC ANCIENT EXIMUS (ToxicAncientAvatarLeader)
  - MOA EXIMUS (LaserCannonBipedAvatarLeader)
  - ANTI MOA EXIMUS (LaserDiscBipedAvatarLeader)
  - RAILGUN MOA EXIMUS (RailgunBipedAvatarLeader)
@@ -3633,29 +3405,29 @@ DROP_VOID_PROJECTIONS (Drop Chance: 0%)
  - GRINEER WARDEN EXIMUS (WardenGrineerHeavyAvatarLeader)
  - CORRUPTED WARDEN EXIMUS (CorruptedWardenAvatarLeader)
  - ARID EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - ARID SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - ARID BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE ARID LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  -  EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - ARID LANCER EXIMUS (RifleLancerAvatarLeader)
  - ARID TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - ARID SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - FRONTIER EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - FRONTIER SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - FRONTIER BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE FRONTIER LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  - FRONTIER BAILIFF EXIMUS (GrineerChargerAvatarLeader)
  - FRONTIER HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - FRONTIER LANCER EXIMUS (RifleLancerAvatarLeader)
  - FRONTIER TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - FRONTIER SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - DREKAR EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
  - DREKAR HEAVY GUNNER EXIMUS (FemaleGrineerHeavyAvatarLeader)
  - DREKAR SCORPION EXIMUS (FemaleGrineerMacheteAvatarLeader)
  - DREKAR BALLISTA EXIMUS (FemaleGrineerSniperAvatarLeader)
+ - DREKAR SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - DREKAR BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - DREKAR ELITE LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  - DREKAR LANCER EXIMUS (RifleLancerAvatarLeader)
  - DREKAR TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - DREKAR SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - SWARM-MUTALIST MOA EXIMUS (NaniteCloudBipedAvatarLeader)
  - TAR-MUTALIST MOA EXIMUS (SlowBombBipedAvatarLeader)
  - CHARGER EXIMUS (QuadrupedAvatarLeader)
@@ -3676,8 +3448,6 @@ DROP_MISC_ITEM (Drop Chance: 4%)
 
 DROP_POWERUP (Drop Chance: 25%)
 	CreditsLow, COMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [MissionDropTables/TutorialMissionsDropTable]
@@ -3720,8 +3490,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [MissionDropTables/TutorialMissionsMeleeDropTable]
 
@@ -3750,8 +3518,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [MissionDropTables/TutorialMissionsPrimaryDropTable]
@@ -3785,8 +3551,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [MissionDropTables/TutorialMissionsSecondaryDropTable]
 
@@ -3817,8 +3581,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [MissionDropTables/TutorialMissionsWarframeDropTable]
 
@@ -3846,8 +3608,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [NewLokaSpectreBPDropTable]
 
@@ -3868,8 +3628,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [OrokinBladeSawmanDropTable]
@@ -3899,15 +3657,11 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [OrokinMoonPrincipleDropTables/OroPrincipleAgilityDropTable]
 
 DROP_MOD (Drop Chance: 100%)
 	Agility Drift, RARE, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [OrokinMoonPrincipleDropTables/OroPrincipleCollaborationDropTable]
@@ -3915,15 +3669,11 @@ DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 DROP_MOD (Drop Chance: 100%)
 	Coaction Drift, RARE, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [OrokinMoonPrincipleDropTables/OroPrincipleCunningDropTable]
 
 DROP_MOD (Drop Chance: 100%)
 	Cunning Drift, RARE, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [OrokinMoonPrincipleDropTables/OroPrincipleEnduranceDropTable]
@@ -3931,15 +3681,11 @@ DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 DROP_MOD (Drop Chance: 100%)
 	Endurance Drift, RARE, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [OrokinMoonPrincipleDropTables/OroPrinciplePowerDropTable]
 
 DROP_MOD (Drop Chance: 100%)
 	Power Drift, RARE, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [OrokinMoonPrincipleDropTables/OroPrincipleSpeedDropTable]
@@ -3947,15 +3693,11 @@ DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 DROP_MOD (Drop Chance: 100%)
 	Speed Drift, RARE, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [OrokinMoonPrincipleDropTables/OroPrincipleStealthDropTable]
 
 DROP_MOD (Drop Chance: 100%)
 	Stealth Drift, RARE, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [OrokinNullifierDropTable]
@@ -3983,8 +3725,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [OrokinOrokinHealingAncientDropTable]
@@ -4014,8 +3754,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [OrokinOrokinMinigunBombardDropTable]
  - CORRUPTED HEAVY GUNNER (OrokinHeavyFemaleAvatar)
@@ -4043,8 +3781,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [OrokinOrokinMoaBipedAgentDropTable]
  - CORRUPTED MOA (OrokinMoaBipedAvatar)
@@ -4071,8 +3807,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [OrokinRifleLancerDropTable]
@@ -4102,8 +3836,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [OrokinRifleSpacemanAgentDropTable]
  - CORRUPTED CREWMAN (RifleSpacemanAvatar)
@@ -4131,8 +3863,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [OrokinRocketBombardDropTable]
  - CORRUPTED BOMBARD (OrokinRocketBombardAvatar)
@@ -4159,8 +3889,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [OrokinShieldDroneAgentDropTable]
@@ -4190,8 +3918,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [PerrinSpectreBPDropTable]
 
@@ -4212,8 +3938,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [ProsecutorDeltaDropTable]
@@ -4244,8 +3968,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [ProsecutorDropTable]
  - GUARDSMAN PROSECUTOR (GrineerMeleeStaffAvatarLeader)
@@ -4275,8 +3997,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [RaptorAgentDropTable]
  - RAPTOR (DroneAttackAvatar)
@@ -4300,8 +4020,6 @@ DROP_MOD (Drop Chance: 100%)
 
 DROP_SIGIL (Drop Chance: 100%)
 	RAPTOR SIGIL, UNCOMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [RaptorTwoDropTable]
@@ -4330,8 +4048,6 @@ DROP_MOD (Drop Chance: 5%)
 DROP_SIGIL (Drop Chance: 100%)
 	RAPTOR SIGIL, UNCOMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [RareLeaderDropTable]
 
@@ -4351,8 +4067,6 @@ DROP_MISC_ITEM (Drop Chance: 4%)
 
 DROP_POWERUP (Drop Chance: 25%)
 	CreditsHigh, COMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [RedVeilSpectreBPDropTable]
@@ -4375,7 +4089,110 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
+
+[ResourceContainerDropTables/AlloyPlateContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	/Lotus/Types/PickUps/ResourceContainers/AlloyPlateContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	ALLOY PLATE, COMMON, 50%
+
+
+[ResourceContainerDropTables/ArgonCrystalContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	ARGON CRYSTAL, RARE, 2.58%
+	/Lotus/Types/PickUps/ResourceContainers/ArgonContainerSpawner [Spawner], COMMON, 97.42%, Bias 0.75
+
+
+[ResourceContainerDropTables/CircuitsContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	/Lotus/Types/PickUps/ResourceContainers/CircuitsContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	CIRCUITS, COMMON, 50%
+
+
+[ResourceContainerDropTables/ControlModuleContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	CONTROL MODULE, COMMON, 50%
+	/Lotus/Types/PickUps/ResourceContainers/ControlModuleContainerSpawner [Spawner], COMMON, 50%, Bias 0.57
+
+
+[ResourceContainerDropTables/FerriteContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	/Lotus/Types/PickUps/ResourceContainers/FerriteContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	FERRITE, COMMON, 50%
+
+
+[ResourceContainerDropTables/GalliumContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	GALLIUM, COMMON, 50%
+	/Lotus/Types/PickUps/ResourceContainers/GalliumContainerSpawner [Spawner], COMMON, 50%, Bias 0.57
+
+
+[ResourceContainerDropTables/MorphicsContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	MORPHICS, COMMON, 50%
+	/Lotus/Types/PickUps/ResourceContainers/MorphicsContainerSpawner [Spawner], COMMON, 50%, Bias 0.57
+
+
+[ResourceContainerDropTables/NanoSporesContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	/Lotus/Types/PickUps/ResourceContainers/NanosporesContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	NANO SPORES, COMMON, 50%
+
+
+[ResourceContainerDropTables/NeuralSensorContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	NEURAL SENSORS, COMMON, 50%
+	/Lotus/Types/PickUps/ResourceContainers/NeuralSensorContainerSpawner [Spawner], COMMON, 50%, Bias 0.57
+
+
+[ResourceContainerDropTables/NeurodesContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	NEURODES, COMMON, 50%
+	/Lotus/Types/PickUps/ResourceContainers/NeurodesContainerSpawner [Spawner], COMMON, 50%, Bias 0.57
+
+
+[ResourceContainerDropTables/OrokinCellContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	OROKIN CELL, RARE, 2.58%
+	/Lotus/Types/PickUps/ResourceContainers/OrokinCellContainerSpawner [Spawner], COMMON, 97.42%, Bias 0.75
+
+
+[ResourceContainerDropTables/PlastidsContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	/Lotus/Types/PickUps/ResourceContainers/PlastidsContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	PLASTIDS, COMMON, 50%
+
+
+[ResourceContainerDropTables/PolymerBundleContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	/Lotus/Types/PickUps/ResourceContainers/PolymerBundleContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	POLYMER BUNDLE, COMMON, 50%
+
+
+[ResourceContainerDropTables/RubedoContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	/Lotus/Types/PickUps/ResourceContainers/RubedoContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	RUBEDO, COMMON, 50%
+
+
+[ResourceContainerDropTables/SalvageContainerDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	/Lotus/Types/PickUps/ResourceContainers/SalvageContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	SALVAGE, COMMON, 50%
 
 
 [SectorWarsBasicDropTable]
@@ -4388,8 +4205,6 @@ DROP_MOD (Drop Chance: 20%)
 
 DROP_POWERUP (Drop Chance: 20%)
 	25 ENERGY, COMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [SentientMeleeDropTable]
@@ -4418,8 +4233,6 @@ DROP_MOD (Drop Chance: 10%)
 	Agile Aim, UNCOMMON, 15.28%
 	Snap Shot, UNCOMMON, 15.28%
 	Double-Barrel Drift, RARE, 4.17%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [SentientStalkerAgentDropTable]
@@ -4455,8 +4268,6 @@ DROP_MOD (Drop Chance: 100%)
 DROP_SIGIL (Drop Chance: 100%)
 	STALKER SIGIL, RARE, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SentientTrooperDropTable]
  - BATTALYST (SentientTrooperAvatar)
@@ -4480,8 +4291,6 @@ DROP_MOD (Drop Chance: 25%)
 	Lock and Load, RARE, 1.67%
 	Strafing Slide, RARE, 1.67%
 	Gun Glide, RARE, 1.67%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [SpaceDropTables/CorpusFlakShipDropTable]
@@ -4509,8 +4318,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	100 AFFINITY, COMMON, 25%, Bias 0.5
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [SpaceDropTables/CorpusLaserShipDropTable]
@@ -4542,8 +4349,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SpaceDropTables/CorpusSpaceDroneAttackDropTable]
  - ATTACK DRONE (CrpSpaceDroneAttackAvatar)
@@ -4569,8 +4374,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	100 AFFINITY, COMMON, 25%, Bias 0.5
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [SpaceDropTables/CorpusSpaceTurretDropTable]
@@ -4601,8 +4404,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SpaceDropTables/CorpusSwarmDroneDropTable]
  - RAZORFLIES (FlightAvatar)
@@ -4632,8 +4433,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SpaceDropTables/CorpusSwarmShipDropTable]
  - CARRIER (SwarmShipAvatar)
@@ -4660,8 +4459,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	100 AFFINITY, COMMON, 25%, Bias 0.5
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [SpaceDropTables/GrineerCombatPodDropTable]
@@ -4691,8 +4488,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SpaceDropTables/GrineerLaserDroneDropTable]
  - LANCER DREG (LaserDroneAvatar)
@@ -4721,8 +4516,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SpaceDropTables/GrineerMissilePlatDropTable]
  - ZEPLEN (GrineerMissilePlatAvatar)
@@ -4749,8 +4542,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	100 AFFINITY, COMMON, 25%, Bias 0.5
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [SpaceDropTables/GrineerMissileShieldSkiffDropTable]
@@ -4779,8 +4570,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SpaceDropTables/GrineerMissileSkiffDropTable]
  - HELLION DARGYN (MissileSkiffAvatar)
@@ -4808,8 +4597,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SpaceDropTables/GrineerShieldSkiffDropTable]
  - SHIELD DARGYN (ShieldSkiffAvatar)
@@ -4836,8 +4623,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	100 AFFINITY, COMMON, 25%, Bias 0.5
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [SpaceDropTables/GrineerSpaceDroneDropTable]
@@ -4871,8 +4656,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SpaceDropTables/GrineerSpaceMarineDropTable]
  - DARGYN (GrineerSpaceMarineAvatar)
@@ -4901,8 +4684,6 @@ DROP_POWERUP (Drop Chance: 50%)
 	100 AFFINITY, COMMON, 25%, Bias 0.5
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SpaceDropTables/GrineerSpaceShipDropTable]
  - Courier (GrineerPursuitSpaceShipAvatar)
@@ -4928,8 +4709,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	100 AFFINITY, COMMON, 25%, Bias 0.5
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [SpaceDropTables/GrineerSpaceTurretDropTable]
@@ -4958,8 +4737,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SpaceDropTables/GrineerStasisDroneDropTable]
  - TEMPORAL DREG (StasisDroneAvatar)
@@ -4984,8 +4761,6 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	50 ENERGY, COMMON, 25%, Bias 0.1
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SpaceLeaderDropTable]
  - ATTACK DRONE EXIMUS (CrpSpaceDroneAttackAvatarLeader)
@@ -5008,7 +4783,7 @@ DROP_AMMO (Drop Chance: 70%)
 	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
 
 DROP_MISC_ITEM (Drop Chance: 4%)
-	<<Warframe bug>>, COMMON, 100%
+	"", COMMON, 100%
 
 DROP_MOD (Drop Chance: 10%)
 	Energy Field, RARE, 33.33%
@@ -5017,8 +4792,6 @@ DROP_MOD (Drop Chance: 10%)
 
 DROP_POWERUP (Drop Chance: 25%)
 	CreditsLow, COMMON, 100%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [StalkerAgentDropTable]
@@ -5051,8 +4824,6 @@ DROP_MOD (Drop Chance: 100%)
 DROP_SIGIL (Drop Chance: 100%)
 	STALKER SIGIL, RARE, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [SteelSpectreBPDropTable]
 
@@ -5073,8 +4844,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [SuicideDroneDropTable]
@@ -5106,8 +4875,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [TennoSpecterDropTable]
@@ -5165,8 +4932,6 @@ DROP_MOD (Drop Chance: 3%)
 DROP_POWERUP (Drop Chance: 25%)
 	CreditsLow, COMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [TombGuardianAgentDropTable]
  - TOMB GUARDIAN (SummonAvatarHostile)
@@ -5180,8 +4945,6 @@ DROP_AMMO (Drop Chance: 100%)
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 50%
 	25 HEALTH, COMMON, 50%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [TombProtectorAgentDropTable]
@@ -5197,8 +4960,6 @@ DROP_POWERUP (Drop Chance: 100%)
 	25 ENERGY, COMMON, 50%
 	25 HEALTH, COMMON, 50%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [TombProtectorEffigyAgentDropTable]
  - TOMB PROTECTOR EFFIGY (InarosGolemAvatar)
@@ -5213,14 +4974,12 @@ DROP_POWERUP (Drop Chance: 100%)
 	25 ENERGY, COMMON, 50%
 	25 HEALTH, COMMON, 50%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [TutorialEnemyDropTable]
- - BUTCHER (BladeSawmanAvatarTutorial)
- - BALLISTA (FemaleGrineerTutorialAvatar)
  - LANCER (TutoralMarinerAvatar)
  - LANCER (TutoralMarinerIntroAvatar)
+ - BUTCHER (BladeSawmanAvatarTutorial)
+ - BALLISTA (FemaleGrineerTutorialAvatar)
  - FRONTIER HELLION (JetpackMarineAvatarTutorial)
  - FRONTIER LANCER (RifleLancerTutorialAvatar)
 
@@ -5259,8 +5018,6 @@ DROP_MOD (Drop Chance: 100%)
 DROP_SIGIL (Drop Chance: 100%)
 	TYL REGOR SIGIL, UNCOMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [VaccumDroneDropTable]
  - SCAVENGER DRONE (VacDroneAvatar)
@@ -5285,8 +5042,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
 
 
 [VayHekDropTable]
@@ -5316,8 +5071,6 @@ DROP_MOD (Drop Chance: 100%)
 DROP_SIGIL (Drop Chance: 100%)
 	VAY HEK SIGIL, UNCOMMON, 100%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [VayHekPropDroneDropTable]
  - DISRUPTOR DRONE (PropCCDroneAvatar)
@@ -5338,8 +5091,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
 
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
 
 [VoidTearSealerDropTable]
 
@@ -5354,187 +5105,5 @@ DROP_MISC_ITEM (Drop Chance: 7%)
 
 DROP_POWERUP (Drop Chance: 100%)
 	CORRUPTION, COMMON, 100%, Bias 1
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-
-
-[VoidTearT1MiniBossDropTable]
-
-DROP_AMMO (Drop Chance: 70%)
-	20 RIFLE AMMO, COMMON, 25%
-	20 PISTOL AMMO, COMMON, 25%
-	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
-	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
-
-DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/Items/MiscItems/VoidTearDropPickup, RARE, 100%
-
-DROP_POWERUP (Drop Chance: 25%)
-	25 ENERGY, COMMON, 37.94%
-	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
-	75-150 CREDITS, UNCOMMON, 22.11%
-	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-	LITH S1 RELIC, COMMON, 6.45%
-	LITH S2 RELIC, COMMON, 6.45%
-	LITH F1 RELIC, COMMON, 6.45%
-	LITH V1 RELIC, COMMON, 6.45%
-	LITH F2 RELIC, COMMON, 6.45%
-	LITH A1 RELIC, COMMON, 6.45%
-	MESO D1 RELIC, COMMON, 6.45%
-	MESO N1 RELIC, COMMON, 6.45%
-	MESO C1 RELIC, COMMON, 6.45%
-	MESO V2 RELIC, COMMON, 6.45%
-	MESO N2 RELIC, COMMON, 6.45%
-	MESO V1 RELIC, COMMON, 6.45%
-	NEO S1 RELIC, UNCOMMON, 1.74%
-	NEO S2 RELIC, UNCOMMON, 1.74%
-	NEO N1 RELIC, UNCOMMON, 1.74%
-	NEO N2 RELIC, UNCOMMON, 1.74%
-	NEO V1 RELIC, UNCOMMON, 1.74%
-	NEO S3 RELIC, UNCOMMON, 1.74%
-	AXI S1 RELIC, UNCOMMON, 1.74%
-	AXI V1 RELIC, UNCOMMON, 1.74%
-	AXI K1 RELIC, UNCOMMON, 1.74%
-	AXI N1 RELIC, UNCOMMON, 1.74%
-	AXI A1 RELIC, UNCOMMON, 1.74%
-	AXI N2 RELIC, UNCOMMON, 1.74%
-	AXI V3 RELIC, UNCOMMON, 1.74%
-
-
-[VoidTearT2MiniBossDropTable]
-
-DROP_AMMO (Drop Chance: 70%)
-	20 RIFLE AMMO, COMMON, 25%
-	20 PISTOL AMMO, COMMON, 25%
-	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
-	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
-
-DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/Items/MiscItems/VoidTearDropPickup, RARE, 100%
-
-DROP_POWERUP (Drop Chance: 25%)
-	25 ENERGY, COMMON, 37.94%
-	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
-	75-150 CREDITS, UNCOMMON, 22.11%
-	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-	LITH S1 RELIC, COMMON, 6.45%
-	LITH S2 RELIC, COMMON, 6.45%
-	LITH F1 RELIC, COMMON, 6.45%
-	LITH V1 RELIC, COMMON, 6.45%
-	LITH F2 RELIC, COMMON, 6.45%
-	LITH A1 RELIC, COMMON, 6.45%
-	MESO D1 RELIC, COMMON, 6.45%
-	MESO N1 RELIC, COMMON, 6.45%
-	MESO C1 RELIC, COMMON, 6.45%
-	MESO V2 RELIC, COMMON, 6.45%
-	MESO N2 RELIC, COMMON, 6.45%
-	MESO V1 RELIC, COMMON, 6.45%
-	NEO S1 RELIC, UNCOMMON, 1.74%
-	NEO S2 RELIC, UNCOMMON, 1.74%
-	NEO N1 RELIC, UNCOMMON, 1.74%
-	NEO N2 RELIC, UNCOMMON, 1.74%
-	NEO V1 RELIC, UNCOMMON, 1.74%
-	NEO S3 RELIC, UNCOMMON, 1.74%
-	AXI S1 RELIC, UNCOMMON, 1.74%
-	AXI V1 RELIC, UNCOMMON, 1.74%
-	AXI K1 RELIC, UNCOMMON, 1.74%
-	AXI N1 RELIC, UNCOMMON, 1.74%
-	AXI A1 RELIC, UNCOMMON, 1.74%
-	AXI N2 RELIC, UNCOMMON, 1.74%
-	AXI V3 RELIC, UNCOMMON, 1.74%
-
-
-[VoidTearT3MiniBossDropTable]
-
-DROP_AMMO (Drop Chance: 70%)
-	20 RIFLE AMMO, COMMON, 25%
-	20 PISTOL AMMO, COMMON, 25%
-	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
-	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
-
-DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/Items/MiscItems/VoidTearDropPickup, RARE, 100%
-
-DROP_POWERUP (Drop Chance: 25%)
-	25 ENERGY, COMMON, 37.94%
-	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
-	75-150 CREDITS, UNCOMMON, 22.11%
-	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-	LITH S1 RELIC, COMMON, 6.45%
-	LITH S2 RELIC, COMMON, 6.45%
-	LITH F1 RELIC, COMMON, 6.45%
-	LITH V1 RELIC, COMMON, 6.45%
-	LITH F2 RELIC, COMMON, 6.45%
-	LITH A1 RELIC, COMMON, 6.45%
-	MESO D1 RELIC, COMMON, 6.45%
-	MESO N1 RELIC, COMMON, 6.45%
-	MESO C1 RELIC, COMMON, 6.45%
-	MESO V2 RELIC, COMMON, 6.45%
-	MESO N2 RELIC, COMMON, 6.45%
-	MESO V1 RELIC, COMMON, 6.45%
-	NEO S1 RELIC, UNCOMMON, 1.74%
-	NEO S2 RELIC, UNCOMMON, 1.74%
-	NEO N1 RELIC, UNCOMMON, 1.74%
-	NEO N2 RELIC, UNCOMMON, 1.74%
-	NEO V1 RELIC, UNCOMMON, 1.74%
-	NEO S3 RELIC, UNCOMMON, 1.74%
-	AXI S1 RELIC, UNCOMMON, 1.74%
-	AXI V1 RELIC, UNCOMMON, 1.74%
-	AXI K1 RELIC, UNCOMMON, 1.74%
-	AXI N1 RELIC, UNCOMMON, 1.74%
-	AXI A1 RELIC, UNCOMMON, 1.74%
-	AXI N2 RELIC, UNCOMMON, 1.74%
-	AXI V3 RELIC, UNCOMMON, 1.74%
-
-
-[VoidTearT4MiniBossDropTable]
-
-DROP_AMMO (Drop Chance: 70%)
-	20 RIFLE AMMO, COMMON, 25%
-	20 PISTOL AMMO, COMMON, 25%
-	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
-	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
-
-DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/Items/MiscItems/VoidTearDropPickup, RARE, 100%
-
-DROP_POWERUP (Drop Chance: 25%)
-	25 ENERGY, COMMON, 37.94%
-	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
-	75-150 CREDITS, UNCOMMON, 22.11%
-	150-300 CREDITS, RARE, 2.01%
-
-DROP_VOID_PROJECTIONS (Drop Chance: 0%)
-	LITH S1 RELIC, COMMON, 6.45%
-	LITH S2 RELIC, COMMON, 6.45%
-	LITH F1 RELIC, COMMON, 6.45%
-	LITH V1 RELIC, COMMON, 6.45%
-	LITH F2 RELIC, COMMON, 6.45%
-	LITH A1 RELIC, COMMON, 6.45%
-	MESO D1 RELIC, COMMON, 6.45%
-	MESO N1 RELIC, COMMON, 6.45%
-	MESO C1 RELIC, COMMON, 6.45%
-	MESO V2 RELIC, COMMON, 6.45%
-	MESO N2 RELIC, COMMON, 6.45%
-	MESO V1 RELIC, COMMON, 6.45%
-	NEO S1 RELIC, UNCOMMON, 1.74%
-	NEO S2 RELIC, UNCOMMON, 1.74%
-	NEO N1 RELIC, UNCOMMON, 1.74%
-	NEO N2 RELIC, UNCOMMON, 1.74%
-	NEO V1 RELIC, UNCOMMON, 1.74%
-	NEO S3 RELIC, UNCOMMON, 1.74%
-	AXI S1 RELIC, UNCOMMON, 1.74%
-	AXI V1 RELIC, UNCOMMON, 1.74%
-	AXI K1 RELIC, UNCOMMON, 1.74%
-	AXI N1 RELIC, UNCOMMON, 1.74%
-	AXI A1 RELIC, UNCOMMON, 1.74%
-	AXI N2 RELIC, UNCOMMON, 1.74%
-	AXI V3 RELIC, UNCOMMON, 1.74%
 
 
