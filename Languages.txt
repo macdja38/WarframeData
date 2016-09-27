@@ -74935,6 +74935,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/WeaponClipMaxModDesc]
 "|val|% Magazine Capacity"
 
+[/Lotus/Language/Upgrades/WeaponClipMaxNoPercentModDesc]
+"|val| Magazine Capacity"
+
 [/Lotus/Language/Upgrades/WeaponCorrosiveDamage]
 "|val|% <DT_CORROSIVE>Corrosive"
 
