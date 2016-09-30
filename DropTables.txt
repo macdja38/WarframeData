@@ -452,6 +452,10 @@ DROP_MOD (Drop Chance: 3%)
 DROP_POWERUP (Drop Chance: 100%)
 	500-1500 CREDITS, RARE, 100%
 
+DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
+	AYATAN CYAN STAR, COMMON, 77.44%
+	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+
 
 [ContainerDropTables/RareCorpusLootCrateDropTable]
 
@@ -1389,6 +1393,44 @@ DROP_POWERUP (Drop Chance: 25%)
 [EmptyDropTable]
 
 
+[EventDropTables/ProjectNightwatch/NightwatchCatMasterDropTable]
+ - NIGHTWATCH HYEKKA MASTER (NightwatchCatMasterAvatar)
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_MISC_ITEM (Drop Chance: 7%)
+	Uncommon Resource, COMMON, 100%
+
+DROP_POWERUP (Drop Chance: 25%)
+	25 ENERGY, COMMON, 37.94%
+	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
+	75-150 CREDITS, UNCOMMON, 22.11%
+	150-300 CREDITS, RARE, 2.01%
+
+
+[EventDropTables/ProjectNightwatch/NightwatchFlamebladeDropTable]
+ - NIGHTWATCH FLAMEBLADE (NightwatchFlamebladeAvatar)
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_MISC_ITEM (Drop Chance: 7%)
+	Uncommon Resource, COMMON, 100%
+
+DROP_POWERUP (Drop Chance: 25%)
+	25 ENERGY, COMMON, 37.94%
+	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
+	75-150 CREDITS, UNCOMMON, 22.11%
+	150-300 CREDITS, RARE, 2.01%
+
+
 [EventDropTables/ProjectNightwatch/NightwatchGrineerChargerDropTable]
  - NIGHTWATCH BAILIFF (NightwatchGrineerChargerAvatar)
 
@@ -1446,8 +1488,48 @@ DROP_POWERUP (Drop Chance: 25%)
 	150-300 CREDITS, RARE, 2.01%
 
 
+[EventDropTables/ProjectNightwatch/NightwatchPowerfistDropTable]
+ - NIGHTWATCH POWERCLAW (NightwatchPowerfistAvatar)
+ - NIGHTWATCH POWERCLAW (NightwatchPowerfistAvatarLeader)
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_MISC_ITEM (Drop Chance: 7%)
+	Uncommon Resource, COMMON, 100%
+
+DROP_POWERUP (Drop Chance: 25%)
+	25 ENERGY, COMMON, 37.94%
+	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
+	75-150 CREDITS, UNCOMMON, 22.11%
+	150-300 CREDITS, RARE, 2.01%
+
+
 [EventDropTables/ProjectNightwatch/NightwatchRifleLancerDropTable]
  - NIGHTWATCH LANCER (NightwatchRifleLancerAvatar)
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_MISC_ITEM (Drop Chance: 7%)
+	Uncommon Resource, COMMON, 100%
+
+DROP_POWERUP (Drop Chance: 25%)
+	25 ENERGY, COMMON, 37.94%
+	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
+	75-150 CREDITS, UNCOMMON, 22.11%
+	150-300 CREDITS, RARE, 2.01%
+
+
+[EventDropTables/ProjectNightwatch/NightwatchShieldLancerDropTable]
+ - NIGHTWATCH BRUNT LANCER (NightWatchShieldLancerAvatar)
+ - NIGHTWATCH BRUNT LANCER (NightWatchShieldLancerAvatarLeader)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -1512,6 +1594,7 @@ DROP_MISC_ITEM (Drop Chance: 100%)
  - BAILIFF (GrineerChargerAvatar)
  - BAILIFF (GrineerChargerAvatarRare)
  - BAILIFF DEFECTOR (GrineerDefectorAvatar)
+ - NIGHTWATCH MANIC (NightwatchManicAvatar)
  - FRONTIER BAILIFF (GrineerChargerAvatar)
  - FRONTIER BAILIFF (GrineerChargerAvatarRare)
  - [PH] ROYAL JESTER (RoyalJesterAvatar)
@@ -2262,7 +2345,9 @@ DROP_POWERUP (Drop Chance: 25%)
 
 [GrineerRifleLancerDropTable]
  - LANCER (RifleLancerAvatar)
+ - NIGHTWATCH REAVER (JetpackHeavyMarineAvatar)
  - HELLION (JetpackMarineAvatar)
+ - NIGHTWATCH REAVER (JetpackHeavyMarineAvatarRare)
  - FRONTIER HEAVY GUNNER (HeavyFemaleGrineerAvatarDesert)
  - ARID LANCER (RifleLancerAvatar)
  - HEAVY GUNNER (HeavyFemaleGrineerAvatar)
@@ -2609,10 +2694,10 @@ DROP_POWERUP (Drop Chance: 25%)
 [GrineerShotgunLancerDropTable]
  - EVISCERATOR (EviseratorLancerAvatar)
  - TROOPER (ShotgunLancerAvatar)
- - ARID EVISCERATOR (EvisceratorLancerAvatar)
  - ARID TROOPER (ShotgunLancerAvatar)
- - FRONTIER EVISCERATOR (EvisceratorLancerAvatar)
+ - ARID EVISCERATOR (EvisceratorLancerAvatar)
  - FRONTIER TROOPER (ShotgunLancerAvatar)
+ - FRONTIER EVISCERATOR (EvisceratorLancerAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -3388,6 +3473,7 @@ DROP_POWERUP (Drop Chance: 25%)
  - BAILIFF EXIMUS (GrineerChargerAvatarLeader)
  - HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - NAPALM EXIMUS (IncendiaryBombardAvatarLeader)
+ - NIGHTWATCH REAVER EXIMUS (JetpackHeavyMarineAvatarLeader)
  - SCORPION EXIMUS (MacheteWomanAvatarLeader)
  - MANIC BOMBARD EXIMUS (ManicRocketBombardAvatarLeader)
  - POWERFIST EXIMUS (PistonSawmanAvatarLeader)
@@ -3424,14 +3510,13 @@ DROP_POWERUP (Drop Chance: 25%)
  - FRONTIER HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarDesertLeader)
  - GRINEER WARDEN EXIMUS (WardenGrineerHeavyAvatarLeader)
  - CORRUPTED WARDEN EXIMUS (CorruptedWardenAvatarLeader)
- - ARID EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
  - ARID SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - ARID BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE ARID LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  -  EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - ARID LANCER EXIMUS (RifleLancerAvatarLeader)
  - ARID TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - FRONTIER EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - ARID EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
  - FRONTIER SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - FRONTIER BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE FRONTIER LANCER EXIMUS (EliteRifleLancerAvatarLeader)
@@ -3439,15 +3524,16 @@ DROP_POWERUP (Drop Chance: 25%)
  - FRONTIER HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - FRONTIER LANCER EXIMUS (RifleLancerAvatarLeader)
  - FRONTIER TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - DREKAR EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
- - DREKAR HEAVY GUNNER EXIMUS (FemaleGrineerHeavyAvatarLeader)
- - DREKAR SCORPION EXIMUS (FemaleGrineerMacheteAvatarLeader)
- - DREKAR BALLISTA EXIMUS (FemaleGrineerSniperAvatarLeader)
+ - FRONTIER EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
  - DREKAR SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - DREKAR BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - DREKAR ELITE LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  - DREKAR LANCER EXIMUS (RifleLancerAvatarLeader)
  - DREKAR TROOPER EXIMUS (ShotgunLancerAvatarLeader)
+ - DREKAR EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - DREKAR HEAVY GUNNER EXIMUS (FemaleGrineerHeavyAvatarLeader)
+ - DREKAR SCORPION EXIMUS (FemaleGrineerMacheteAvatarLeader)
+ - DREKAR BALLISTA EXIMUS (FemaleGrineerSniperAvatarLeader)
  - SWARM-MUTALIST MOA EXIMUS (NaniteCloudBipedAvatarLeader)
  - TAR-MUTALIST MOA EXIMUS (SlowBombBipedAvatarLeader)
  - CHARGER EXIMUS (QuadrupedAvatarLeader)
@@ -4341,9 +4427,9 @@ DROP_POWERUP (Drop Chance: 75%)
 
 
 [SpaceDropTables/CorpusLaserShipDropTable]
+ - RANGER (JetpackMarineAvatar)
  - QUANTA RANGER (JetpackMarineThreeAvatar)
  - PENTA RANGER (JetpackMarineTwoAvatar)
- - RANGER (JetpackMarineAvatar)
  - FRIGATE (LaserShipAvatar)
 
 DROP_AMMO (Drop Chance: 0%)
@@ -4576,7 +4662,7 @@ DROP_AMMO (Drop Chance: 0%)
 DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 3%)
+DROP_MOD (Drop Chance: 10%)
 	15 ENDO, COMMON, 37.94%
 	50 ENDO, UNCOMMON, 7.37%
 	Energy Amplifier, UNCOMMON, 7.37%

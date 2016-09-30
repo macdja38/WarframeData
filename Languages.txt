@@ -8673,6 +8673,54 @@ Baro Ki’Teer"
 [/Lotus/Language/CompanionApp/Time]
 "TIME"
 
+[/Lotus/Language/Cosmetics/NightwatchBrakkSkinDesc]
+"Emblazon the Brakk in the colors of the Grineer's most notorious unit."
+
+[/Lotus/Language/Cosmetics/NightwatchBrakkSkinName]
+"BRAKK NIGHTWATCH SKIN"
+
+[/Lotus/Language/Cosmetics/NightwatchDirigaSkinDesc]
+"Emblazon the Diriga in the colors of the Grineer's most notorious unit."
+
+[/Lotus/Language/Cosmetics/NightwatchDirigaSkinName]
+"DIRIGA NIGHTWATCH SKIN"
+
+[/Lotus/Language/Cosmetics/NightwatchDualCleaversSkinDesc]
+"Emblazon the Dual Cleavers in the colors of the Grineer's most notorious unit."
+
+[/Lotus/Language/Cosmetics/NightwatchDualCleaversSkinName]
+"DUAL CLEAVERS NIGHTWATCH SKIN"
+
+[/Lotus/Language/Cosmetics/NightwatchGrinlokSkinDesc]
+"Emblazon the Grinlok in the colors of the Grineer's most notorious unit."
+
+[/Lotus/Language/Cosmetics/NightwatchGrinlokSkinName]
+"GRINLOK NIGHTWATCH SKIN"
+
+[/Lotus/Language/Cosmetics/NightwatchJatKittagSkinDesc]
+"Emblazon the Jat Kittag in the colors of the Grineer's most notorious unit."
+
+[/Lotus/Language/Cosmetics/NightwatchJatKittagSkinName]
+"JAT KITTAG NIGHTWATCH SKIN"
+
+[/Lotus/Language/Cosmetics/NightwatchMacheteSkinDesc]
+"Emblazon the Machete in the colors of the Grineer's most notorious unit."
+
+[/Lotus/Language/Cosmetics/NightwatchMacheteSkinName]
+"MACHETE NIGHTWATCH SKIN"
+
+[/Lotus/Language/Cosmetics/NightwatchMarelokSkinDesc]
+"Emblazon the Marelok in the colors of the Grineer's most notorious unit."
+
+[/Lotus/Language/Cosmetics/NightwatchMarelokSkinName]
+"MARELOK NIGHTWATCH SKIN"
+
+[/Lotus/Language/Cosmetics/NightwatchTonkorDesc]
+"Emblazon the Tonkor in the colors of the Grineer's most notorious unit."
+
+[/Lotus/Language/Cosmetics/NightwatchTonkorName]
+"TONKOR NIGHTWATCH SKIN"
+
 [/Lotus/Language/CrashHandler/STRING_BUILDING_SEND_REQUEST]
 "Compiling report send request..."
 
@@ -9131,7 +9179,7 @@ Warframe Support Team"
 "Want to test out Warframes or weapons against specific enemies? Get a Simulacrum Key from Cephalon Simaris in the Relays!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip167]
-"Only Moderators, Seniors Guides and Admins have purple text in global chats. Keep an eye out for them if you need assistance!"
+"Only Moderators, Seniors Guides, and Admins have purple text in global chats. Keep an eye out for them if you need assistance!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip168]
 "The Ducat Kiosks located in the Relays all have a timer on them to show you when Baro Ki'Teer will arrive. Plan accordingly!"
@@ -15934,6 +15982,81 @@ Frohd Bek"
 [/Lotus/Language/G1Quests/ProjectMutalistTacAlertTitle]
 "Black Seed Scourge"
 
+[/Lotus/Language/G1Quests/ProjectNightwatchRewardMsgA]
+"Tenno,
+
+We have recovered vital information from the messages you intercepted. Take this with my thanks. 
+
+<CREDITS> |CREDIT_REWARD|
+
+- The Lotus"
+
+[/Lotus/Language/G1Quests/ProjectNightwatchRewardMsgB]
+"Tenno,
+
+You have quelled this new threat from the Grineer. Take this with my gratitude.
+
+- The Lotus"
+
+[/Lotus/Language/G1Quests/ProjectNightwatchRewardMsgC]
+"Well done Tenno,
+
+Your efforts have surely setback the machinations of the Grineer. Take this as a token of my thanks.
+
+- The Lotus"
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertCommunityMsgDesc]
+"Tenno,
+
+The Nightwatch Corps. are back. A lone survivor from a massacre near Ceres has revealed that they have set up base there. We need to know what they’re up to. 
+
+Travel to Ceres and intercept their communications. 
+
+-The Lotus"
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertCommunityMsgTitle]
+"Tactical Alert: Long Shadow"
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertMissionFourBody]
+"Our last raid on the Nightwatch’s galleon revealed a vast storehouse of supplies. 
+
+Proceed to the coordinates and weaken the Nightwatch by stealing as many of their supplies as possible."
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertMissionFourTitle]
+"Tactical Alert: Long Shadow - Mission 4 Success"
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertMissionOneBody]
+"The Nightwatch Corps. are back. A lone survivor from a massacre near Ceres has revealed that they have set up base there. We need to know what they’re up to. 
+
+Travel to Ceres and intercept their communications."
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertMissionOneTitle]
+"Tactical Alert: Long Shadow - Mission 1 Success"
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertMissionRewardBody]
+"Well done, Tenno. You sent the Nightwatch Corps. a message they won't soon forget.
+
+The Lotus"
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertMissionThreeBody]
+"A Nightwatch controlled Galleon has been spotted orbiting Mars. 
+
+Provide cover while a lone Tenno operative raids the ship for intel and supplies."
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertMissionThreeTitle]
+"Tactical Alert: Long Shadow - Mission 3 Success"
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertMissionTwoBody]
+"The information you intercepted from Nightwatch communications shows they have acquired a Warframe cryopod. 
+
+Head to the target location and defend the cryopod until it can be safely extracted."
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertMissionTwoTitle]
+"Tactical Alert: Long Shadow - Mission 2 Success"
+
+[/Lotus/Language/G1Quests/ProjectNightwatchTacAlertTitle]
+"Long Shadow"
+
 [/Lotus/Language/G1Quests/ProjectPanaceaTacAlertBadgeRewardMsgBody]
 "Tenno,
 
@@ -22450,6 +22573,9 @@ This mission can be repeated until one faction has completely taken control. If 
 
 Information for progress of the conflict can be found on the Solar Chart. Once a faction wins enough battles, the conflict will end."
 
+[/Lotus/Language/GameModes/Lunaro]
+"LUNARO"
+
 [/Lotus/Language/GameModes/LunaroDesc]
 "Lunaro is an ancient ball-sport, once played both as training and recreation by Tenno of old.
 
@@ -22993,24 +23119,24 @@ Only Recruit in “Recruiting” Channel."
 New players can seek out a Guide of the Lotus for help!"
 
 [/Lotus/Language/IRC/PS4_T_MOTD]
-"Trading is done within the Dojo at a Trading Post
-You can invite non-members of your clan to your Dojo to trade
-Trading is currently limited to: MODS, RELICS, PLATINUM, and PRIME BLUEPRINTS/PARTS.  
-You must have a Mastery Rank of 2 or higher in order to trade.  
-Please refrain from trading PSN item redemption codes.
+"- Trading is done within the Dojo at a Trading Post or in Maroo's Bazaar.
+- You can invite non-members of your clan to your Dojo to trade.
+- Not all items can be Traded.  Set up shop in Maroo's  Bazaar to see what you can offer and buy!
+- You must have a Mastery Rank of 2 or higher in order to trade.
+- Please refrain from trading PSN item redemption codes.
 
-We do not enforce trades for promises, clan membership, and other favors. Trade for items only."
+Note: We do not enforce trades for promises, clan membership, and other favors. Trade for items only."
 
 [/Lotus/Language/IRC/R_MOTD]
 "Recruit for a Squad or Clan here!"
 
 [/Lotus/Language/IRC/T_MOTD]
-"Trading is done within the Dojo at a Trading Post
-You can invite non-members of your clan to your Dojo to trade
-Trading is currently limited to: MODS, RELICS, PLATINUM, and PRIME BLUEPRINTS/PARTS.  
-You must have a Mastery Rank of 2 or higher in order to trade.  
+"- Trading is done within the Dojo at a Trading Post or in Maroo's Bazaar.
+- You can invite non-members of your clan to your Dojo to trade.
+- Not all items can be Traded.  Set up shop in Maroo's  Bazaar to see what you can offer and buy!
+- You must have a Mastery Rank of 2 or higher in order to trade.  
 
-We do not enforce trades for promises, clan membership, and other favors. Trade for items only."
+Note: We do not enforce trades for promises, clan membership, and other favors. Trade for items only."
 
 [/Lotus/Language/IRC/TR_MOTD]
 "Welcome to Maroo's Bazaar! 
@@ -23874,7 +24000,7 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "[PH] AVALANCHE AUGMENT"
 
 [/Lotus/Language/Items/AvalancheAbilityAugment1Desc]
-"[PH] Avalanche Augment - Grants allies within the radius a coat of ice that absorbs |ABSORB| damage."
+"[PH] Avalanche Augment - Grants allies within the radius a coat of ice that absorbs |ABSORB| damage per enemy hit."
 
 [/Lotus/Language/Items/AvalancheAbilityBoost]
 "Increase the range of your Avalanche."
@@ -25695,7 +25821,7 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "BANSHEE REVERB HELMET"
 
 [/Lotus/Language/Items/BansheeDefaultHelmetDesc]
-"The standard issue helmet for the Banshee warframe."
+"The standard issue helmet for the Banshee Warframe."
 
 [/Lotus/Language/Items/BansheeDefaultHelmetName]
 "BANSHEE HELMET"
@@ -26170,7 +26296,7 @@ Blueprint is reusable and will not be consumed."
 "Petrify"
 
 [/Lotus/Language/Items/BrawlerHelmetDesc]
-"The standard issue helmet for the Atlas warframe."
+"The standard issue helmet for the Atlas Warframe."
 
 [/Lotus/Language/Items/BrawlerHelmetName]
 "ATLAS HELMET"
@@ -28102,7 +28228,7 @@ Blueprint is reusable and will not be consumed."
 "[PH] DECOY AUGMENT"
 
 [/Lotus/Language/Items/DecoyAbilityAugment1Desc]
-"[PH] Decoy Augment - When Loki takes fatal damage, Decoy swaps locations and absorbs the damage instead. Loki becomes invulnerable for |DURATION|s."
+"[PH] Decoy Augment - Decoy gains |SPEED|% increased casting speed. If Loki takes fatal damage, Decoy absorbs the damage and swaps locations, leaving Loki invulnerable for |DURATION|s."
 
 [/Lotus/Language/Items/DecoyAbilityAugmentPvPDesc]
 "Decoy Augment - |LINK_PCT|% of damage Loki takes is transferred to Decoy, and vice versa."
@@ -28551,7 +28677,7 @@ Note: This item requires two open slots."
 "EMBER HELMET"
 
 [/Lotus/Language/Items/EmberDefaultHelmetDesc]
-"The standard issue helmet for the Ember warframe."
+"The standard issue helmet for the Ember Warframe."
 
 [/Lotus/Language/Items/EmberDesc]
 "Ember is a nightmare for light-armored targets. Ember can super-heat the air which opens up surprising crowd-control possibilities."
@@ -28819,7 +28945,7 @@ This bundle of 1 Fieldron Sample can be used for crafting items in your Foundry.
 "EXCALIBUR HELMET"
 
 [/Lotus/Language/Items/ExcaliburDefaultHelmetDesc]
-"The standard issue helmet for the Excalibur warframe."
+"The standard issue helmet for the Excalibur Warframe."
 
 [/Lotus/Language/Items/ExcaliburDesc]
 "A perfect balance of mobility and offense, Excalibur is the ideal Warframe for new players."
@@ -29476,7 +29602,7 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 "FROST HELMET"
 
 [/Lotus/Language/Items/FrostDefaultHelmetDesc]
-"The standard issue helmet for the Frost warframe."
+"The standard issue helmet for the Frost Warframe."
 
 [/Lotus/Language/Items/FrostDesc]
 "By channeling moisture and vapor in the surrounding environment, Frost creates formidable defenses and lethal attacks from sub zero conditions."
@@ -30883,19 +31009,19 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 "DELTA BEACON"
 
 [/Lotus/Language/Items/HekNavCodeBDesc]
-"Locator beacon brodcasting on the gamma frequency"
+"Locator beacon broadcasting on the gamma frequency"
 
 [/Lotus/Language/Items/HekNavCodeBName]
 "GAMMA BEACON"
 
 [/Lotus/Language/Items/HekNavCodeCDesc]
-"Locator beacon brodcasting on the kappa frequency"
+"Locator beacon broadcasting on the kappa frequency"
 
 [/Lotus/Language/Items/HekNavCodeCName]
 "KAPPA BEACON"
 
 [/Lotus/Language/Items/HekNavCodeDDesc]
-"Locator beacon brodcasting on the Omega frequency"
+"Locator beacon broadcasting on the Omega frequency"
 
 [/Lotus/Language/Items/HekNavCodeDesc]
 "Coordinate used to locate Councilor Vay Hek [obsolete??]"
@@ -31020,7 +31146,7 @@ Blueprint is reusable and will not be consumed."
 "HYDROID HELMET"
 
 [/Lotus/Language/Items/HydroidDefaultHelmetDesc]
-"The standard issue helmet for the Hydroid warframe."
+"The standard issue helmet for the Hydroid Warframe."
 
 [/Lotus/Language/Items/HydroidFlagGlyphName]
 "HYDROID SUBMERGED GLYPH"
@@ -31500,7 +31626,7 @@ Blueprint is reusable and will not be consumed."
 "NYX HELMET"
 
 [/Lotus/Language/Items/JadeDefaultHelmetDesc]
-"The standard issue helmet for the Nyx warframe."
+"The standard issue helmet for the Nyx Warframe."
 
 [/Lotus/Language/Items/JadeDesc]
 "Mind control and psychic attacks make Nyx a very dangerous foe. Her ability to reach into enemy consciousness and manipulate their behavior can turn the tide of battle."
@@ -32766,7 +32892,7 @@ This skin requires a Nikana or a Dragon Nikana to use."
 "LOKI HELMET"
 
 [/Lotus/Language/Items/LokiDefaultHelmetDesc]
-"The standard issue helmet for the Loki warframe."
+"The standard issue helmet for the Loki Warframe."
 
 [/Lotus/Language/Items/LokiDeluxeArmArmourDesc]
 "Loki Knave’s looted armor."
@@ -33012,7 +33138,7 @@ This skin requires a Nikana or a Dragon Nikana to use."
 "MAG HELMET"
 
 [/Lotus/Language/Items/MagDefaultHelmetDesc]
-"The standard issue helmet for the Mag warframe."
+"The standard issue helmet for the Mag Warframe."
 
 [/Lotus/Language/Items/MagDesc]
 "With full command of surrounding magnetic energy, Mag is an expert at enemy manipulation."
@@ -33591,7 +33717,7 @@ This bundle of 3000 Nano Spores can be used for crafting items in your Foundry."
 "NEKROS HELMET"
 
 [/Lotus/Language/Items/NecroDefaultHelmetDesc]
-"The standard issue helmet for the Nekros warframe."
+"The standard issue helmet for the Nekros Warframe."
 
 [/Lotus/Language/Items/NecroDesc]
 "Nekros uses his dark powers to manipulate his enemies, both living and dead."
@@ -33837,6 +33963,12 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 [/Lotus/Language/Items/NightUnCommonSampleDesc]
 "A sample taken from a dragonlily at night."
 
+[/Lotus/Language/Items/NightwatchWeaponSkinsDesc]
+"A collection of skins ripped from the weapons of the brutal Nightwatch Corps."
+
+[/Lotus/Language/Items/NightwatchWeaponSkinsName]
+"NIGHTWATCH SKINS BUNDLE"
+
 [/Lotus/Language/Items/NinjaAgileAnims]
 "ASH AGILE ANIMATION SET"
 
@@ -33853,7 +33985,7 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 "ASH HELMET"
 
 [/Lotus/Language/Items/NinjaDefaultHelmetDesc]
-"The standard issue helmet for the Ash warframe."
+"The standard issue helmet for the Ash Warframe."
 
 [/Lotus/Language/Items/NinjaDesc]
 "Ash is great for players looking for a stealthier approach to combat. Lethal abilities are complemented by powers of distraction."
@@ -34323,7 +34455,7 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 "VARIDA OPERATOR SUIT BUNDLE"
 
 [/Lotus/Language/Items/OperatorSuitDBundleDesc]
-"Contain the complete uniform matching the Manduka Suit."
+"Contains the complete uniform matching the Manduka Suit."
 
 [/Lotus/Language/Items/OperatorSuitDBundleName]
 "MANDUKA PACK"
@@ -34647,6 +34779,12 @@ This bundle of 1 Orokin Cell can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/OrokinReactor]
 "OROKIN REACTOR"
 
+[/Lotus/Language/Items/OrokinReactorAndCatalystDesc]
+"[PH] A combo pack including an Orokin Reactor Blueprint and an Orokin Catalyst Blueprint"
+
+[/Lotus/Language/Items/OrokinReactorAndCatalystName]
+"OROKIN UPGRADE PACK"
+
 [/Lotus/Language/Items/OrokinReactorDesc]
 "Reactor used to super-charge Warframes. Doubles the available Mod Capacity on a Warframe, Archwing, and Companions."
 
@@ -34808,7 +34946,7 @@ This bundle of 300 Oxium can be used for crafting items in your Foundry."
 "Equally adept at healing friends or striking down the enemy. Oberon embodies the balance Tenno are sworn to uphold."
 
 [/Lotus/Language/Items/PaladinHelmetDesc]
-"The standard issue helmet for the Oberon warframe."
+"The standard issue helmet for the Oberon Warframe."
 
 [/Lotus/Language/Items/PaladinHelmetName]
 "OBERON HELMET"
@@ -36244,7 +36382,7 @@ Note: This item requires two open slots."
 "With her quiver of tactical arrows, this huntress prowls unseen and strikes without warning."
 
 [/Lotus/Language/Items/RangerHelmetDesc]
-"The standard issue helmet for the Ivara warframe."
+"The standard issue helmet for the Ivara Warframe."
 
 [/Lotus/Language/Items/RangerHelmetName]
 "IVARA HELMET"
@@ -36580,7 +36718,7 @@ Note: This item requires two open slots."
 "RHINO HELMET"
 
 [/Lotus/Language/Items/RhinoDefaultHelmetDesc]
-"The standard issue helmet for the Rhino warframe."
+"The standard issue helmet for the Rhino Warframe."
 
 [/Lotus/Language/Items/RhinoDeluxeBundleDesc]
 "[PH] Description"
@@ -36667,7 +36805,7 @@ Note: This item requires two open slots."
 "Rhino Stomp"
 
 [/Lotus/Language/Items/RhinoStompAbilityAugmentDesc]
-"[PH] Rhino Stomp - Iron Skin is replenished by |AMOUNT| for each enemy affected."
+"[PH] Rhino Stomp - Iron Skin is replenished by |PERCENT|% for each enemy affected."
 
 [/Lotus/Language/Items/RhinoStompAbilityAugmentName]
 "[PH] RHINO STOMP AUGMENT"
@@ -37002,7 +37140,7 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "INAROS HELMET"
 
 [/Lotus/Language/Items/SandmanDefaultHelmetDesc]
-"The standard issue helmet for the Inaros warframe."
+"The standard issue helmet for the Inaros Warframe."
 
 [/Lotus/Language/Items/SandmanDesc]
 "Risen from the sands, Inaros commands the desert's fearsome power."
@@ -37062,7 +37200,7 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "SARYN HEMLOCK HELMET"
 
 [/Lotus/Language/Items/SarynDefaultHelmetDesc]
-"The standard issue helmet for the Saryn warframe."
+"The standard issue helmet for the Saryn Warframe."
 
 [/Lotus/Language/Items/SarynDefaultHelmetName]
 "SARYN HELMET"
@@ -39494,7 +39632,7 @@ Blueprint is reusable and will not be consumed."
 "VAUBAN HELMET"
 
 [/Lotus/Language/Items/TrapperDefaultHelmetDesc]
-"The standard issue helmet for the Vauban warframe."
+"The standard issue helmet for the Vauban Warframe."
 
 [/Lotus/Language/Items/TrapperMultinade1Name]
 "Bounce"
@@ -39557,7 +39695,7 @@ Blueprint is reusable and will not be consumed."
 "TRINITY HELMET"
 
 [/Lotus/Language/Items/TrinityDefaultHelmetDesc]
-"The standard issue helmet for the Trinity warframe."
+"The standard issue helmet for the Trinity Warframe."
 
 [/Lotus/Language/Items/TrinityDeluxeBoDesc]
 "Enchant any staff with this skin"
@@ -40053,7 +40191,7 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "VALKYR BASTET HELMET"
 
 [/Lotus/Language/Items/ValkyrHelmetDesc]
-"The standard issue helmet for the Valkyr warframe."
+"The standard issue helmet for the Valkyr Warframe."
 
 [/Lotus/Language/Items/ValkyrHelmetName]
 "VALKYR HELMET"
@@ -40215,7 +40353,7 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "VOLT HELMET"
 
 [/Lotus/Language/Items/VoltDefaultHelmetDesc]
-"The standard issue helmet for the Volt warframe."
+"The standard issue helmet for the Volt Warframe."
 
 [/Lotus/Language/Items/VoltDesc]
 "Volt can create and harness electrical elements. This is a high-damage Warframe perfect for players who want a potent alternative to gun-play."
@@ -40233,7 +40371,7 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "VOLT PRIME HELMET"
 
 [/Lotus/Language/Items/VoltPrimeDefaultHelmetDesc]
-"The standard issue helmet for the Volt Prime warframe."
+"The standard issue helmet for the Volt Prime Warframe."
 
 [/Lotus/Language/Items/VoltPrimeDesc]
 "A glorious warrior from the past, Volt Prime features the same abilities as Volt but with unique mod polarities for greater customization."
@@ -51454,6 +51592,9 @@ You will be charged |COSTCURRENCY| |COST|."
 
 [/Lotus/Language/Menu/NeedToSelectMore]
 "You need to select |HOW_MANY| more."
+
+[/Lotus/Language/Menu/NeedToUnlockEventPrereqs]
+"You must first complete Mission |PREREQ| in order to play this mission."
 
 [/Lotus/Language/Menu/NeedToUnlockNode]
 "You need to unlock |NODE| (|REGION|) to play this mission."
@@ -71411,7 +71552,7 @@ So, you know where I am, come get me… just try."
 "Will that be all?"
 
 [/Lotus/Language/Subtitles/Relays/DAnythingElsePrompt380Maroo]
-"And done.  Need anything else?"
+"And done. Need anything else?"
 
 [/Lotus/Language/Subtitles/Relays/DApproach0010Darvo]
 "Ey, Tenno, good to see you."

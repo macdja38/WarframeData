@@ -1260,6 +1260,10 @@ Stripped=True
 Stripped=True
 
 
+[ProjectNightwatchBonusRewards]
+Stripped=True
+
+
 [ProjectPanaceaBonusRewards]
 
 Rotation A:
