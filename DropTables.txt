@@ -175,6 +175,7 @@ DROP_MOD (Drop Chance: 100%)
 [CarrierSpacemanAgentDropTable]
  - GRINEER POWER CARRIER (CarrierRifleLancerAvatar)
  - HELLION POWER CARRIER (JetpackMarineCarrierAvatar)
+ - GRINEER POWER CARRIER (NightwatchCarrierRifleLancerAvatar)
  - CORPUS POWER CARRIER (CarrierSpacemanAvatar)
  - MUTALIST OSPREY CARRIER (CellCarrierDroneAvatar)
 
@@ -4427,9 +4428,9 @@ DROP_POWERUP (Drop Chance: 75%)
 
 
 [SpaceDropTables/CorpusLaserShipDropTable]
- - RANGER (JetpackMarineAvatar)
  - QUANTA RANGER (JetpackMarineThreeAvatar)
  - PENTA RANGER (JetpackMarineTwoAvatar)
+ - RANGER (JetpackMarineAvatar)
  - FRIGATE (LaserShipAvatar)
 
 DROP_AMMO (Drop Chance: 0%)
