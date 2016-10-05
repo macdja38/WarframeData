@@ -8673,6 +8673,42 @@ Baro Ki’Teer"
 [/Lotus/Language/CompanionApp/Time]
 "TIME"
 
+[/Lotus/Language/Cosmetics/CatbrowArmorVoidTraderADesc]
+"The armor your Kavat deserves."
+
+[/Lotus/Language/Cosmetics/CatbrowArmorVoidTraderAName]
+"KI'TEER KAVAT ARMOR"
+
+[/Lotus/Language/Cosmetics/CorpusMeleeDangleDesc]
+"[PH] Description"
+
+[/Lotus/Language/Cosmetics/CorpusMeleeDangleName]
+"[PH] CORPUS MELEE DANGLE"
+
+[/Lotus/Language/Cosmetics/DjinnDeluxeArmArmourDesc]
+"Etched with lyrical designs, this decorative armor has been crafted with meticulous care. "
+
+[/Lotus/Language/Cosmetics/DjinnDeluxeArmArmourName]
+"GAZAL SHOULDER GUARD"
+
+[/Lotus/Language/Cosmetics/DjinnDeluxeArmourBundleDesc]
+"An entire set of Gazal armor. "
+
+[/Lotus/Language/Cosmetics/DjinnDeluxeArmourBundleName]
+"GAZAL ARMOR BUNDLE"
+
+[/Lotus/Language/Cosmetics/DjinnDeluxeChestArmourDesc]
+"Etched with lyrical designs, this decorative armor has been crafted with meticulous care. "
+
+[/Lotus/Language/Cosmetics/DjinnDeluxeChestArmourName]
+"GAZAL CHEST PLATE"
+
+[/Lotus/Language/Cosmetics/DjinnDeluxeLegArmourDesc]
+"Etched with lyrical designs, this decorative armor has been crafted with meticulous care. "
+
+[/Lotus/Language/Cosmetics/DjinnDeluxeLegArmourName]
+"GAZAL LEG PLATES"
+
 [/Lotus/Language/Cosmetics/NightwatchBrakkSkinDesc]
 "Emblazon the Brakk in the colors of the Grineer's most notorious unit."
 
@@ -8720,6 +8756,12 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/NightwatchTonkorName]
 "TONKOR NIGHTWATCH SKIN"
+
+[/Lotus/Language/Cosmetics/RobedDjinnDesc]
+"Wrapped in silk and etched with glowing designs, the Gazal offers a glimpse of the Djinn uncorrupted by Infestation."
+
+[/Lotus/Language/Cosmetics/RobedDjinnName]
+"DJINN GAZAL SKIN"
 
 [/Lotus/Language/CrashHandler/STRING_BUILDING_SEND_REQUEST]
 "Compiling report send request..."
@@ -26451,7 +26493,7 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 "Striker"
 
 [/Lotus/Language/Items/CarrierSentinelDesc]
-"With 'Striker' and 'Vacuum' as default Precepts, Carrier is a seeker Sentinel. Carrier also comes with a shotgun weapon.
+"With 'Striker' and 'Ammo Case' as default Precepts, Carrier is a seeker Sentinel. Carrier also comes with a shotgun weapon.
 
 Note: This item requires two open slots."
 
@@ -28356,6 +28398,15 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/DisarmAbility]
 "Disarm"
+
+[/Lotus/Language/Items/DjinnDeluxeCompleteBundleDesc]
+"Become wrapped in mystery with complete set of Gazal skins and armor. Includes bonus Djinn Sentinel."
+
+[/Lotus/Language/Items/DjinnDeluxeCompleteBundleFeaturedText]
+"Become wrapped in mystery."
+
+[/Lotus/Language/Items/DjinnDeluxeCompleteBundleName]
+"GAZAL COMPLETE COLLECTION"
 
 [/Lotus/Language/Items/DjinnPrimaryPreceptDesc]
 "Djinn will attack first visible enemy in range."
@@ -31578,10 +31629,10 @@ Blueprint is reusable and will not be consumed."
 "[PH] Throw Glaive desc"
 
 [/Lotus/Language/Items/ItemVacuumStoreItemDesc]
-"Detects and collects items throughout the room for its master, including mods."
+"Increases ammunition capacity and converts ammo pickups into ammo for equipped weapons after a short delay."
 
 [/Lotus/Language/Items/ItemVacuumStoreItemName]
-"Vacuum"
+"Ammo Case"
 
 [/Lotus/Language/Items/JadeAgileAnims]
 "NYX AGILE ANIMATION SET"
@@ -38005,7 +38056,7 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 "VAYKOR SYANDANA"
 
 [/Lotus/Language/Items/SMSydonDesc]
-"Justice blinds. Each blocked hit charges a Radial Blind that is unleashed when the block is dropped."
+"Justice blinds. Each blocked hit charges a Radial Blind, when fully charged drop block to unleash it."
 
 [/Lotus/Language/Items/SMSydonName]
 "VAYKOR SYDON"
@@ -60204,6 +60255,186 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/ShipDecorations/BobbleheadZephyrName]
 "NOGGLE STATUE - ZEPHYR"
 
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerAlloyPlate]
+"ALLOY DRUM DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerAlloyPlateDesc]
+"An Alloy Drum resource container to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerArgonCrystal]
+"ARGON PEGMATITE DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerArgonCrystalDesc]
+"An Argon Pegmatite resource node to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerCircuits]
+"CIRCUITRY LOCKBOX DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerCircuitsDesc]
+"A Circuitry Lockbox resource container to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerControlModule]
+"ROBOTICS LOCKBOX DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerControlModuleDesc]
+"A Robotics Lockbox resource container to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerFerrite]
+"FERRITE DEPOSIT DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerFerriteDesc]
+"A Ferrite resource node to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerGallium]
+"GALLIUM DEPOSIT DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerGalliumDesc]
+"A Gallium resource node to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerMorphics]
+"MORPHICS STABILIZER DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerMorphicsDesc]
+"A Morphics Stabilizer resource container to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerNanoSpores]
+"NANOSPORE CULTURE DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerNanoSporesDesc]
+"A Nanospore Culture resource container to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerNeuralSensor]
+"NEURAL SENSOR ARRAY DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerNeuralSensorDesc]
+"A Neural Sensor Array resource container to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerNeurode]
+"NEUROPTIC MASS DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerNeurodeDesc]
+"A Neurpotic Mass resource node to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerOrokinCell]
+"OROKIN CELL ARRAY DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerOrokinCellDesc]
+"An Orokin Cell Array resource container to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerPlastids]
+"PLASTID CARAPACE DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerPlastidsDesc]
+"A Plastid Carapace resource node to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerPolymer]
+"POLYMER CASE DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerPolymerDesc]
+"A Polymer Case resource container to place in your Orbiter"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerRubedo]
+"RUBEDO FORMATION DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerRubedoDesc]
+"A Rubedo Formation resource node to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerSalvage]
+"COMPACTED SALVAGE DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourceContainerSalvageDesc]
+"A Compacted Salvage resource decoration to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupAlloyPlate]
+"ALLOY PLATE DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupAlloyPlateDesc]
+"An Alloy Plate resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupArgonCrystal]
+"ARGON CRYSTAL DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupArgonCrystalDesc]
+"An Argon Crystal resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupCircuits]
+"CIRCUITS DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupCircuitsDesc]
+"A Circuits resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupControlModule]
+"CONTROL MODULE DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupControlModuleDesc]
+"A Control Module resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupFerrite]
+"FERRITE DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupFerriteDesc]
+"A Ferrite resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupGallium]
+"GALLIUM DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupGalliumDesc]
+"A Gallium resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupMorphics]
+"MORPHICS DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupMorphicsDesc]
+"A Morphics resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupNanoSpores]
+"NANO SPORES DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupNanoSporesDesc]
+"A Nano Spore resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupNeuralSensor]
+"NEURAL SENSOR DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupNeuralSensorDesc]
+"A Neural Sensor resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupNeurode]
+"NEURODE DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupNeurodeDesc]
+"A Neurode resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupOrokinCell]
+"OROKIN CELL DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupOrokinCellDesc]
+"An Orokin Cell resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupPlastids]
+"PLASTIDS DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupPlastidsDesc]
+"A Plastid resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupPolymer]
+"POLYMER BUNDLE DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupPolymerDesc]
+"A Polymer Bundle resource pickup to place in your Orbiter"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupRubedo]
+"RUBEDO DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupRubedoDesc]
+"A Rubedo resource pickup to place in your Orbiter."
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupSalvage]
+"SALVAGE DECORATION"
+
+[/Lotus/Language/ShipDecorations/DisplayResourcePickupSalvageDesc]
+"A Salvage resource pickup to place in your Orbiter."
+
 [/Lotus/Language/ShipDecorations/HulaGirlDesc]
 "An ancient relic found in the ruins of Earth."
 
@@ -75285,6 +75516,30 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Upgrades/WhileChanneling]
 "but |val|% Channeling Efficiency while channeling"
+
+[/Lotus/Language/Weapons/CorpusSpearGunDesc]
+"[PH] Description"
+
+[/Lotus/Language/Weapons/CorpusSpearGunName]
+"[PH] CORPUS SPEAR GUN"
+
+[/Lotus/Language/Weapons/CorpusTonfaDesc]
+"[PH] Description"
+
+[/Lotus/Language/Weapons/CorpusTonfaName]
+"[PH] CORPUS TONFAS"
+
+[/Lotus/Language/Weapons/DjinnMacheteDesc]
+"Each kill with this swooping blade adds bonus damage to the Djinn Sentinel’s next Fatal Attraction ability. In turn, Fatal Attraction bestows the weapon with a period of corrosive damage."
+
+[/Lotus/Language/Weapons/DjinnMacheteName]
+"GAZAL MACHETE"
+
+[/Lotus/Language/Weapons/InfestedDualAxeDesc]
+"The fast and brutal Dual Ichor axes will quickly tear through enemies with a high probability of inflicting critical damage."
+
+[/Lotus/Language/Weapons/InfestedDualAxeName]
+"DUAL ICHOR"
 
 [/Lotus/Language/Webpage/WP_AccountManagement]
 "ACCOUNT MANAGEMENT"

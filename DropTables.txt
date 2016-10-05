@@ -2695,10 +2695,10 @@ DROP_POWERUP (Drop Chance: 25%)
 [GrineerShotgunLancerDropTable]
  - EVISCERATOR (EviseratorLancerAvatar)
  - TROOPER (ShotgunLancerAvatar)
- - ARID TROOPER (ShotgunLancerAvatar)
  - ARID EVISCERATOR (EvisceratorLancerAvatar)
- - FRONTIER TROOPER (ShotgunLancerAvatar)
+ - ARID TROOPER (ShotgunLancerAvatar)
  - FRONTIER EVISCERATOR (EvisceratorLancerAvatar)
+ - FRONTIER TROOPER (ShotgunLancerAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -3511,13 +3511,14 @@ DROP_POWERUP (Drop Chance: 25%)
  - FRONTIER HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarDesertLeader)
  - GRINEER WARDEN EXIMUS (WardenGrineerHeavyAvatarLeader)
  - CORRUPTED WARDEN EXIMUS (CorruptedWardenAvatarLeader)
+ - ARID EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
  - ARID SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - ARID BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE ARID LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  -  EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - ARID LANCER EXIMUS (RifleLancerAvatarLeader)
  - ARID TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - ARID EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - FRONTIER EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
  - FRONTIER SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - FRONTIER BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE FRONTIER LANCER EXIMUS (EliteRifleLancerAvatarLeader)
@@ -3525,16 +3526,15 @@ DROP_POWERUP (Drop Chance: 25%)
  - FRONTIER HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - FRONTIER LANCER EXIMUS (RifleLancerAvatarLeader)
  - FRONTIER TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - FRONTIER EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - DREKAR EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - DREKAR HEAVY GUNNER EXIMUS (FemaleGrineerHeavyAvatarLeader)
+ - DREKAR SCORPION EXIMUS (FemaleGrineerMacheteAvatarLeader)
+ - DREKAR BALLISTA EXIMUS (FemaleGrineerSniperAvatarLeader)
  - DREKAR SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - DREKAR BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - DREKAR ELITE LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  - DREKAR LANCER EXIMUS (RifleLancerAvatarLeader)
  - DREKAR TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - DREKAR EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
- - DREKAR HEAVY GUNNER EXIMUS (FemaleGrineerHeavyAvatarLeader)
- - DREKAR SCORPION EXIMUS (FemaleGrineerMacheteAvatarLeader)
- - DREKAR BALLISTA EXIMUS (FemaleGrineerSniperAvatarLeader)
  - SWARM-MUTALIST MOA EXIMUS (NaniteCloudBipedAvatarLeader)
  - TAR-MUTALIST MOA EXIMUS (SlowBombBipedAvatarLeader)
  - CHARGER EXIMUS (QuadrupedAvatarLeader)
@@ -3751,7 +3751,7 @@ DROP_MISC_ITEM (Drop Chance: 7%)
 
 DROP_MOD (Drop Chance: 3%)
 	Thumper, COMMON, 37.94%
-	Vacuum, COMMON, 37.94%
+	Ammo Case, COMMON, 37.94%
 	Power Throw, RARE, 2.01%
 	Finishing Touch, UNCOMMON, 5.53%
 	Burning Wasp, UNCOMMON, 5.53%
@@ -3930,7 +3930,7 @@ DROP_MISC_ITEM (Drop Chance: 7%)
 
 DROP_MOD (Drop Chance: 3%)
 	Thumper, COMMON, 37.94%
-	Vacuum, COMMON, 37.94%
+	Ammo Case, COMMON, 37.94%
 	Power Throw, RARE, 2.01%
 	Finishing Touch, UNCOMMON, 5.53%
 	Burning Wasp, UNCOMMON, 5.53%
