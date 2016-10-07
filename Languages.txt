@@ -23181,7 +23181,7 @@ Note: We do not enforce trades for promises, clan membership, and other favors. 
 Note: We do not enforce trades for promises, clan membership, and other favors. Trade for items only."
 
 [/Lotus/Language/IRC/TR_MOTD]
-"Welcome to Maroo's Bazaar! 
+"Welcome to Maroo's Bazaar!
 Players can set themselves available for a trade openly by selecting the ‘Trade’ option above the Emote wheel when in the Relay’s Concourse.
 You must have a Mastery Rank of 2 or higher in order to trade.  
 
@@ -37229,6 +37229,12 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/SandmanSwarmAbilityArmourBuff]
 "Scarab Armor"
 
+[/Lotus/Language/Items/SandmanSwarmAbilityAugmentDesc]
+"[PH] Scarab Swarm Augment - Scarab armor protects Inaros from status effects, consuming |PERCENT|% charge for each effect resisted."
+
+[/Lotus/Language/Items/SandmanSwarmAbilityAugmentName]
+"[PH] SCARAB SWARM AUGMENT"
+
 [/Lotus/Language/Items/SandmanSwarmAbilityDesc]
 "Charge to transform health into hardened scarab armor. Discharge to blast enemies with a scarab swarm; survivors have their health drained and bestowed on allies."
 
@@ -39867,6 +39873,12 @@ Blueprint is reusable and will not be consumed."
 
 [/Lotus/Language/Items/UniqueWeaponModExplosionRadiusDesc]
 "Improves the blast radius of specialized launcher weapons."
+
+[/Lotus/Language/Items/UniversalVacuumDesc]
+"Detects and collects items throughout the room for its master, including mods."
+
+[/Lotus/Language/Items/UniversalVacuumName]
+"Vacuum"
 
 [/Lotus/Language/Items/UnlockAntiMatterAgile]
 "NOVA's Agile Animations"
@@ -53432,7 +53444,7 @@ Do you wish to enable Recruit Conditioning?"
 "You lost this round..."
 
 [/Lotus/Language/Menu/PvpMapVoteHint]
-"[PH] VOTE NEXT MAP"
+"VOTE FOR NEXT MAP"
 
 [/Lotus/Language/Menu/PvpMatchDefeat]
 "DEFEAT"
