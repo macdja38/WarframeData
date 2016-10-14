@@ -3131,9 +3131,6 @@ You will receive an email from your 2K contact when the console has been approve
 [/Lotus/Language/Actions/AbilityXP]
 "POWER"
 
-[/Lotus/Language/Actions/AbsorbIncrease]
-"ABSORB"
-
 [/Lotus/Language/Actions/ActivateFurnace]
 "<USE> ACTIVATE FURNACE"
 
@@ -6043,7 +6040,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Mercenary "
 
 [/Lotus/Language/Challenges/Challenge_MPCephFragments_Name]
-"Scan 5 CEPHALON FRAGMENTS on MARS"
+"Scan 3 CEPHALON FRAGMENTS on MARS"
 
 [/Lotus/Language/Challenges/Challenge_MPGetKills_Name]
 "Defeat 150 enemies in a single mission on MARS"
@@ -24039,10 +24036,10 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 "Avalanche"
 
 [/Lotus/Language/Items/AvalancheAbilityAugment1]
-"[PH] AVALANCHE AUGMENT"
+"Icy Avalanche"
 
 [/Lotus/Language/Items/AvalancheAbilityAugment1Desc]
-"[PH] Avalanche Augment - Grants allies within the radius a coat of ice that absorbs |ABSORB| damage per enemy hit."
+"Avalanche Augment - Grants allies within the radius a coat of ice that absorbs |ABSORB| damage per enemy hit."
 
 [/Lotus/Language/Items/AvalancheAbilityBoost]
 "Increase the range of your Avalanche."
@@ -26472,10 +26469,10 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 "Tempest Barrage"
 
 [/Lotus/Language/Items/CannonBarrageAbilityAugmentDesc]
-"[PH] Tempest Barrage Augment - Each projectile has a |CHANCE|% chance of inflicting a corrosive proc."
+"Tempest Barrage Augment - Each projectile has a |CHANCE|% chance of inflicting a Corrosive status effect."
 
 [/Lotus/Language/Items/CannonBarrageAbilityAugmentName]
-"[PH] TEMPEST BARRAGE AUGMENT"
+"Corroding Barrage"
 
 [/Lotus/Language/Items/CapsuleTail]
 "CAPSULE SENTINEL TAIL"
@@ -28267,10 +28264,10 @@ Blueprint is reusable and will not be consumed."
 "Decoy"
 
 [/Lotus/Language/Items/DecoyAbilityAugment1]
-"[PH] DECOY AUGMENT"
+"Savior Decoy"
 
 [/Lotus/Language/Items/DecoyAbilityAugment1Desc]
-"[PH] Decoy Augment - Decoy gains |SPEED|% increased casting speed. If Loki takes fatal damage, Decoy absorbs the damage and swaps locations, leaving Loki invulnerable for |DURATION|s."
+"Decoy Augment - If Loki takes fatal damage, Decoy absorbs the damage and swaps locations. Also increases casting speed of Decoy by |SPEED|%"
 
 [/Lotus/Language/Items/DecoyAbilityAugmentPvPDesc]
 "Decoy Augment - |LINK_PCT|% of damage Loki takes is transferred to Decoy, and vice versa."
@@ -36856,10 +36853,10 @@ Note: This item requires two open slots."
 "Rhino Stomp"
 
 [/Lotus/Language/Items/RhinoStompAbilityAugmentDesc]
-"[PH] Rhino Stomp - Iron Skin is replenished by |PERCENT|% for each enemy affected."
+"Rhino Stomp Augment - Iron Skin is replenished by |PERCENT|% for each enemy affected."
 
 [/Lotus/Language/Items/RhinoStompAbilityAugmentName]
-"[PH] RHINO STOMP AUGMENT"
+"Reinforcing Stomp"
 
 [/Lotus/Language/Items/RhinoStompAbilityBoost]
 "Boosting this ability increases its area of effect and the damage dealt."
@@ -53223,7 +53220,7 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "|CURRENT|/|TOTAL|"
 
 [/Lotus/Language/Menu/ProjectionDropOdds]
-"ODDS"
+"%"
 
 [/Lotus/Language/Menu/ProjectionManager_ActivateProjectionHint]
 "You must both seal the Void Fissure found in the mission, as well as complete extraction to claim your reward. 
