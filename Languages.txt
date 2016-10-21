@@ -45162,7 +45162,7 @@ Collect |NUM| Index Points"
 "(<CREDITS>|RETURN| RETURN)"
 
 [/Lotus/Language/Menu/ArenaGamblingSubtitle]
-"CHOOSE YOUR PERSONAL INVESTEMENT"
+"CHOOSE YOUR PERSONAL INVESTMENT"
 
 [/Lotus/Language/Menu/ArenaGamblingTitle]
 "THE INDEX"

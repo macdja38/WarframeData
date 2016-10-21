@@ -241,8 +241,8 @@ DROP_POWERUP (Drop Chance: 75%)
 	10-50 CREDITS, COMMON, 100%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/CommonLootCrateDropTable]
@@ -262,8 +262,8 @@ DROP_POWERUP (Drop Chance: 75%)
 	10-50 CREDITS, COMMON, 100%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/CommonLootCrateGrineerDropTable]
@@ -282,8 +282,8 @@ DROP_POWERUP (Drop Chance: 75%)
 	10-50 CREDITS, COMMON, 100%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/CommonSurvivalLootCrateDropTable]
@@ -307,8 +307,8 @@ DROP_POWERUP (Drop Chance: 75%)
 	LIFE SUPPORT CAPSULE, COMMON, 20%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/CommonSurvivalLootCrateGrineerDropTable]
@@ -331,8 +331,8 @@ DROP_POWERUP (Drop Chance: 75%)
 	LIFE SUPPORT CAPSULE, COMMON, 20%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/KubrowDenDropTable]
@@ -395,8 +395,8 @@ DROP_POWERUP (Drop Chance: 75%)
 	10-50 CREDITS, COMMON, 100%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/OrokinDerelictSurvivalLootCrateDropTable]
@@ -418,8 +418,8 @@ DROP_POWERUP (Drop Chance: 75%)
 	25 HEALTH, COMMON, 25%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/PumpkinLootCrateDropTable]
@@ -435,8 +435,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	100 AFFINITY, COMMON, 33.33%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/PuzzleLootCrateDropTable]
@@ -454,8 +454,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	500-1500 CREDITS, RARE, 100%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/RareCorpusLootCrateDropTable]
@@ -477,8 +477,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	CREDIT BOOSTER (30 min), COMMON, 50%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/RareGrineerLootCrateDropTable]
@@ -500,8 +500,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	CREDIT BOOSTER (30 min), COMMON, 50%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/RareLootCrateDropTable]
@@ -524,8 +524,8 @@ DROP_POWERUP (Drop Chance: 75%)
 	10-50 CREDITS, COMMON, 100%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/RareOrokinLootCrateDropTable]
@@ -547,8 +547,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	CREDIT BOOSTER (30 min), COMMON, 50%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/UltraRareCorpusLootCrateDropTable]
@@ -567,8 +567,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	CREDIT BOOSTER (60 min), COMMON, 50%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/UltraRareGrineerLootCrateDropTable]
@@ -587,8 +587,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	CREDIT BOOSTER (60 min), COMMON, 50%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/UltraRareOrokinLootCrateDropTable]
@@ -607,8 +607,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	AFFINITY BOOSTER (60 min), COMMON, 50%
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/UncommonLootCrateArchwingDropTable]
@@ -624,8 +624,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	25 HEALTH, COMMON, 25.81%, Bias 0.6
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [ContainerDropTables/UncommonLootCrateDropTable]
@@ -648,8 +648,8 @@ DROP_POWERUP (Drop Chance: 100%)
 	25 HEALTH, COMMON, 25.81%, Bias 0.6
 
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
-	AYATAN CYAN STAR, COMMON, 77.44%
-	AYATAN AMBER STAR, UNCOMMON, 22.56%, Bias 0.03125
+	AYATAN CYAN STAR, COMMON, 50%
+	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
 [CorpusAladVBossAgentDropTable]
@@ -1618,11 +1618,11 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 [FusionTreasuresDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
-	AYATAN SAH SCULPTURE, COMMON, 20%
-	AYATAN AYR SCULPTURE, COMMON, 20%
-	AYATAN ORTA SCULPTURE, COMMON, 20%
-	AYATAN VAYA SCULPTURE, COMMON, 20%
-	AYATAN PIV SCULPTURE, COMMON, 20%
+	AYATAN SAH SCULPTURE, UNCOMMON, 20%
+	AYATAN AYR SCULPTURE, UNCOMMON, 20%
+	AYATAN ORTA SCULPTURE, UNCOMMON, 20%
+	AYATAN VAYA SCULPTURE, UNCOMMON, 20%
+	AYATAN PIV SCULPTURE, UNCOMMON, 20%
 
 
 [GrineerBladeSawmanDropTable]
@@ -2882,8 +2882,8 @@ DROP_SIGIL (Drop Chance: 100%)
 
 
 [InfestationGraspingCrawlerDropTable]
- - NAUSEOUS VOID SHADE (GraspingCrawlerMinionAvatar)
  - VOID SHADE (CrawlerMinionAvatar)
+ - NAUSEOUS VOID SHADE (GraspingCrawlerMinionAvatar)
  - NAUSEOUS CRAWLER (GraspingCrawlerAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
@@ -3532,12 +3532,12 @@ DROP_POWERUP (Drop Chance: 25%)
  - DETRON CREWMAN EXIMUS (ShotgunSpacemanAvatarLeader)
  - SNIPER CREWMAN EXIMUS (SniperSpacemanAvatarLeader)
  - ELITE CREWMAN EXIMUS (EliteSpacemanAvatarLeader)
+ - LEAPER EXIMUS (LeapingRunnerAvatarLeader)
  - CRAWLER EXIMUS (CrawlerAvatarLeader)
  - NAUSEOUS CRAWLER EXIMUS (GraspingCrawlerAvatarLeader)
  - LOBBER CRAWLER EXIMUS (GrenadeAvatarLeader)
  - ELECTRIC CRAWLER EXIMUS (LightningAvatarLeader)
  - TOXIC CRAWLER EXIMUS (NoxiousCrawlerAvatarLeader)
- - LEAPER EXIMUS (LeapingRunnerAvatarLeader)
  - SAPPING OSPREY EXIMUS (DiscDroneAvatarLeader)
  - LEECH OSPREY EXIMUS (LeechDroneAvatarLeader)
  - MINE OSPREY EXIMUS (MineDroneAvatarLeader)
@@ -4770,10 +4770,10 @@ DROP_POWERUP (Drop Chance: 75%)
 
 
 [SpaceDropTables/GrineerSpaceDroneDropTable]
+ - Mutalist Lightning Carrier (CarrierLightningSpaceDroneAvatar)
  - Mutalist Toxic Carrier (CarrierSpaceDroneAvatar)
  - Attack Mutalist (InfestedAttackDroneAvatar)
  - [PH] Suicide Mutalist (SuicideSpaceDroneAvatar)
- - Mutalist Lightning Carrier (CarrierLightningSpaceDroneAvatar)
  - DREG (GrineerSpaceDroneAvatar)
 
 DROP_AMMO (Drop Chance: 0%)
