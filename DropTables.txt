@@ -676,6 +676,43 @@ DROP_SIGIL (Drop Chance: 100%)
 	ALAD V SIGIL, UNCOMMON, 100%
 
 
+[CorpusChampionTeamADropTable]
+ - VED XOL (CCTeamAHeavyAvatar)
+ - NAKO XOL (CCTeamARifleAvatar)
+ - PELNA CADE (CCTeamASkateAvatar)
+ - VED XOL (CCTeamASkateBAvatar)
+ - LOCKJAW & SOL (CCTeamAZanukaAvatar)
+
+DROP_MOD (Drop Chance: 2%)
+	Pain Threshold, UNCOMMON, 45.83%
+	Kinetic Ricochet, UNCOMMON, 45.83%
+	Thermagnetic Shells, RARE, 8.33%
+
+
+[CorpusChampionTeamBDropTable]
+ - JAD TERAN (CCTeamBDisruptorAvatar)
+ - AZOTH (CCTeamBHyenaAvatar)
+ - RAPTOR RX (CCTeamBOspreyAvatar)
+ - AUDITOR (CCTeamBRiotMoaAvatar)
+
+DROP_MOD (Drop Chance: 2%)
+	Medi-Pet Kit, UNCOMMON, 45.83%
+	Pain Threshold, UNCOMMON, 45.83%
+	Shield Charger, RARE, 8.33%
+
+
+[CorpusChampionTeamCDropTable]
+ - JEN DRO (CCTeamCDeceptionAvatar)
+ - M-WAM (CCTeamCMoaAvatar)
+ - DERIM ZAHN (CCTeamCSimplifiedHackerAvatar)
+ - TIA MAYN (CCTeamCStealthAvatar)
+
+DROP_MOD (Drop Chance: 2%)
+	Kinetic Ricochet, UNCOMMON, 45.83%
+	Medi-Pet Kit, UNCOMMON, 45.83%
+	Static Discharge, RARE, 8.33%
+
+
 [CorpusDeployableSpacemanAgentDropTable]
  - CORPUS TECH (DeployableSpacemanAvatar)
  - CORPUS WARDEN (DeployableSpacemanWardenAvatar)
@@ -1740,8 +1777,8 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [GrineerChampionDropTable]
- - ELITE LANCER (GrineerChampionBaseAvatar)
  - EXECUTIONER ZURA (GrineerChampionBeastmasterAvatar)
+ - ELITE LANCER (GrineerChampionBaseAvatar)
  - EXECUTIONER GARESH (GrineerChampionChargerAvatar)
  - EXECUTIONER RETH (GrineerChampionEngineerAvatar)
  - EXECUTIONER NOK (GrineerChampionGruntAvatar)
@@ -2695,10 +2732,10 @@ DROP_POWERUP (Drop Chance: 25%)
 [GrineerShotgunLancerDropTable]
  - EVISCERATOR (EviseratorLancerAvatar)
  - TROOPER (ShotgunLancerAvatar)
- - ARID TROOPER (ShotgunLancerAvatar)
  - ARID EVISCERATOR (EvisceratorLancerAvatar)
- - FRONTIER TROOPER (ShotgunLancerAvatar)
+ - ARID TROOPER (ShotgunLancerAvatar)
  - FRONTIER EVISCERATOR (EvisceratorLancerAvatar)
+ - FRONTIER TROOPER (ShotgunLancerAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -2845,8 +2882,8 @@ DROP_SIGIL (Drop Chance: 100%)
 
 
 [InfestationGraspingCrawlerDropTable]
- - VOID SHADE (CrawlerMinionAvatar)
  - NAUSEOUS VOID SHADE (GraspingCrawlerMinionAvatar)
+ - VOID SHADE (CrawlerMinionAvatar)
  - NAUSEOUS CRAWLER (GraspingCrawlerAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
@@ -3495,12 +3532,12 @@ DROP_POWERUP (Drop Chance: 25%)
  - DETRON CREWMAN EXIMUS (ShotgunSpacemanAvatarLeader)
  - SNIPER CREWMAN EXIMUS (SniperSpacemanAvatarLeader)
  - ELITE CREWMAN EXIMUS (EliteSpacemanAvatarLeader)
- - LEAPER EXIMUS (LeapingRunnerAvatarLeader)
  - CRAWLER EXIMUS (CrawlerAvatarLeader)
  - NAUSEOUS CRAWLER EXIMUS (GraspingCrawlerAvatarLeader)
  - LOBBER CRAWLER EXIMUS (GrenadeAvatarLeader)
  - ELECTRIC CRAWLER EXIMUS (LightningAvatarLeader)
  - TOXIC CRAWLER EXIMUS (NoxiousCrawlerAvatarLeader)
+ - LEAPER EXIMUS (LeapingRunnerAvatarLeader)
  - SAPPING OSPREY EXIMUS (DiscDroneAvatarLeader)
  - LEECH OSPREY EXIMUS (LeechDroneAvatarLeader)
  - MINE OSPREY EXIMUS (MineDroneAvatarLeader)
@@ -3511,13 +3548,14 @@ DROP_POWERUP (Drop Chance: 25%)
  - FRONTIER HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarDesertLeader)
  - GRINEER WARDEN EXIMUS (WardenGrineerHeavyAvatarLeader)
  - CORRUPTED WARDEN EXIMUS (CorruptedWardenAvatarLeader)
+ - ARID EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
  - ARID SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - ARID BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE ARID LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  -  EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - ARID LANCER EXIMUS (RifleLancerAvatarLeader)
  - ARID TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - ARID EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - FRONTIER EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
  - FRONTIER SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - FRONTIER BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE FRONTIER LANCER EXIMUS (EliteRifleLancerAvatarLeader)
@@ -3525,16 +3563,15 @@ DROP_POWERUP (Drop Chance: 25%)
  - FRONTIER HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarLeader)
  - FRONTIER LANCER EXIMUS (RifleLancerAvatarLeader)
  - FRONTIER TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - FRONTIER EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - DREKAR EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - DREKAR HEAVY GUNNER EXIMUS (FemaleGrineerHeavyAvatarLeader)
+ - DREKAR SCORPION EXIMUS (FemaleGrineerMacheteAvatarLeader)
+ - DREKAR BALLISTA EXIMUS (FemaleGrineerSniperAvatarLeader)
  - DREKAR SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - DREKAR BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - DREKAR ELITE LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  - DREKAR LANCER EXIMUS (RifleLancerAvatarLeader)
  - DREKAR TROOPER EXIMUS (ShotgunLancerAvatarLeader)
- - DREKAR EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
- - DREKAR HEAVY GUNNER EXIMUS (FemaleGrineerHeavyAvatarLeader)
- - DREKAR SCORPION EXIMUS (FemaleGrineerMacheteAvatarLeader)
- - DREKAR BALLISTA EXIMUS (FemaleGrineerSniperAvatarLeader)
  - SWARM-MUTALIST MOA EXIMUS (NaniteCloudBipedAvatarLeader)
  - TAR-MUTALIST MOA EXIMUS (SlowBombBipedAvatarLeader)
  - CHARGER EXIMUS (QuadrupedAvatarLeader)
@@ -4428,9 +4465,9 @@ DROP_POWERUP (Drop Chance: 75%)
 
 
 [SpaceDropTables/CorpusLaserShipDropTable]
- - RANGER (JetpackMarineAvatar)
  - QUANTA RANGER (JetpackMarineThreeAvatar)
  - PENTA RANGER (JetpackMarineTwoAvatar)
+ - RANGER (JetpackMarineAvatar)
  - FRIGATE (LaserShipAvatar)
 
 DROP_AMMO (Drop Chance: 0%)
@@ -4733,10 +4770,10 @@ DROP_POWERUP (Drop Chance: 75%)
 
 
 [SpaceDropTables/GrineerSpaceDroneDropTable]
- - Mutalist Lightning Carrier (CarrierLightningSpaceDroneAvatar)
  - Mutalist Toxic Carrier (CarrierSpaceDroneAvatar)
  - Attack Mutalist (InfestedAttackDroneAvatar)
  - [PH] Suicide Mutalist (SuicideSpaceDroneAvatar)
+ - Mutalist Lightning Carrier (CarrierLightningSpaceDroneAvatar)
  - DREG (GrineerSpaceDroneAvatar)
 
 DROP_AMMO (Drop Chance: 0%)
@@ -4956,6 +4993,7 @@ DROP_POWERUP (Drop Chance: 25%)
 [SuicideDroneDropTable]
  - OXIUM OSPREY (SuicideDroneAvatar)
  - NEMES (ArtificerSuicideDroneAvatar)
+ - NEMES (HeavySuicideDroneAvatar)
  - CARABUS (ArtificerSuicideDroneAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
@@ -4992,6 +5030,9 @@ DROP_POWERUP (Drop Chance: 25%)
  - CHROMA (TennoReplicantChromaAvatar)
  - CHROMA (TennoReplicantChromaAvatarDerelict)
  - INFESTED MESA (TennoReplicantGunslingerAvatar)
+ - VOLT SPECTER (CorpusArenaAllyBaseAvatarA)
+ - MAG SPECTER (CorpusArenaAllyBaseAvatarB)
+ - FROST SPECTER (CorpusArenaAllyBaseAvatarC)
  - LOKI SPECTER (TennoReplicantLokiAvatar)
  - OBERON SPECTER (TennoReplicantPaladinAvatar)
  - SARYN SPECTER (TennoReplicantSarynAvatar)
@@ -5006,12 +5047,12 @@ DROP_POWERUP (Drop Chance: 25%)
  - TRINITY SPECTER (TennoReplicantTrinityAvatar)
  - VOLT SPECTER (TennoReplicantVoltAvatar)
  - EQUINOX SPECTER (TennoReplicantYinYangAvatar)
+ - New Loka Operative (NewLokaAllyAvatarA)
  - TENNO SPECTER (BaseSyndicateAllyAvatar)
  - Cephalon Suda Operative (CephalonSudaAllyAvatarA)
  - Cephalon Suda Operative (CephalonSudaAllyAvatarB)
  - Arbiters of Hexis Operative (HexisAllyAvatarA)
  - Arbiters of Hexis Operative (HexisAllyAvatarB)
- - New Loka Operative (NewLokaAllyAvatarA)
  - New Loka Operative (NewLokaAllyAvatarB)
  - Perrin Sequence Operative (PerrinAllyAvatarA)
  - Perrin Sequence Operative (PerrinAllyAvatarB)

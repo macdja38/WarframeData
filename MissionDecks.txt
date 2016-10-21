@@ -230,6 +230,45 @@ Rotation C:
   1 CLEM CLONE BLUEPRINT, COMMON, 100%
 
 
+[CorpusArenaWagerRewardsEasy]
+ - Neptune, , MT_ARENA, FC_CORPUS, NT_EVENT
+
+Rotation A:
+  1 1500 CREDITS, COMMON, 100%
+
+Rotation B:
+  1 3000 CREDITS, COMMON, 100%
+
+Rotation C:
+  1 6000 CREDITS, COMMON, 100%
+
+
+[CorpusArenaWagerRewardsHard]
+ - Neptune, , MT_ARENA, FC_CORPUS, NT_EVENT
+
+Rotation A:
+  1 45000 CREDITS, COMMON, 100%
+
+Rotation B:
+  1 60000 CREDITS, COMMON, 100%
+
+Rotation C:
+  1 75000 CREDITS, COMMON, 100%
+
+
+[CorpusArenaWagerRewardsMedium]
+ - Neptune, , MT_ARENA, FC_CORPUS, NT_EVENT
+
+Rotation A:
+  1 15000 CREDITS, COMMON, 100%
+
+Rotation B:
+  1 25000 CREDITS, COMMON, 100%
+
+Rotation C:
+  1 35000 CREDITS, COMMON, 100%
+
+
 [CorpusInfestedSabotageRewards]
  - Eris, Candiru, MT_HIVE, FC_INFESTATION, NT_EVENT
  - Eris, Lepis, MT_HIVE, FC_INFESTATION, NT_EVENT
@@ -1363,6 +1402,10 @@ Stripped=True
 [PVPMissionRewards/CTFRewards]
  - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, (VARIANT) Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, (VARIANT) Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, (VARIANT) Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, (VARIANT) Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
  - Neptune, Cephalon Capture, MT_PVP, FC_CORPUS, NT_PVP
 Stripped=True
 
@@ -1372,12 +1415,16 @@ Stripped=True
  - Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, (VARIANT) Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, (VARIANT) Annihilation, MT_PVP, FC_GRINEER, NT_PVP
 Stripped=True
 
 
 [PVPMissionRewards/TDMRewards]
  - Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, (VARIANT) Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+ - Saturn, (VARIANT) Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
 Stripped=True
 
 

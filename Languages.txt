@@ -5139,6 +5139,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bosses/Teshin]
 "Teshin"
 
+[/Lotus/Language/Challenges/Challenge_1HKHeadshot_Description]
+"Headshot kill"
+
+[/Lotus/Language/Challenges/Challenge_1HKHeadshot_Name]
+"OVERKILL"
+
 [/Lotus/Language/Challenges/Challenge_Acquire10Artifacts_Description]
 "Acquire 10 Artifacts."
 
@@ -6037,7 +6043,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Earn 100,000 credits in Battle Pay. "
 
 [/Lotus/Language/Challenges/Challenge_Mercenary_Name]
-"Mercenary "
+"Mercenary"
 
 [/Lotus/Language/Challenges/Challenge_MPCephFragments_Name]
 "Scan 3 CEPHALON FRAGMENTS on MARS"
@@ -8670,6 +8676,12 @@ Baro Ki’Teer"
 [/Lotus/Language/CompanionApp/Time]
 "TIME"
 
+[/Lotus/Language/Cosmetics/CatbrowArmorHalloweenAName]
+"DAY OF THE DEAD WYSAR KAVAT ARMOR"
+
+[/Lotus/Language/Cosmetics/CatbrowArmorHalloweenDesc]
+"Morbidly festive armor fitted for a Kavat."
+
 [/Lotus/Language/Cosmetics/CatbrowArmorVoidTraderADesc]
 "The armor your Kavat deserves."
 
@@ -8705,6 +8717,36 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeLegArmourName]
 "GAZAL LEG PLATES"
+
+[/Lotus/Language/Cosmetics/EmbolistMeleeDangleDesc]
+"A disgusting little nib of flesh to infest the hilt of any melee weapon."
+
+[/Lotus/Language/Cosmetics/EmbolistMeleeDangleName]
+"TENTACYST"
+
+[/Lotus/Language/Cosmetics/IndexEventBadgeDesc]
+"A memento of The Index."
+
+[/Lotus/Language/Cosmetics/IndexEventBadgeName]
+"THE INDEX BADGE"
+
+[/Lotus/Language/Cosmetics/InfEmbolistArmorADesc]
+"Calcified flesh creates forms of grotesque beauty."
+
+[/Lotus/Language/Cosmetics/InfEmbolistArmorAName]
+"EMBOLIST SHOULDER GROWTHS"
+
+[/Lotus/Language/Cosmetics/InfEmbolistArmorCDesc]
+"Calcified flesh creates forms of grotesque beauty."
+
+[/Lotus/Language/Cosmetics/InfEmbolistArmorCName]
+"EMBOLIST CHEST GROWTH"
+
+[/Lotus/Language/Cosmetics/InfEmbolistArmorLDesc]
+"Calcified flesh creates forms of grotesque beauty."
+
+[/Lotus/Language/Cosmetics/InfEmbolistArmorLName]
+"EMBOLIST LEG GROWTHS"
 
 [/Lotus/Language/Cosmetics/NightwatchBrakkSkinDesc]
 "Emblazon the Brakk in the colors of the Grineer's most notorious unit."
@@ -12559,6 +12601,81 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 [/Lotus/Language/Emotes/SitEmoteName]
 "SIT"
 
+[/Lotus/Language/Enemies/CCTeamAHeavyDesc]
+"Ved Xol was nominated to become the head of the Loan Reclamation Division at Anyo Corp. after demonstrating ruthless aptitude within The Index. He has obtained favorable results with his team on many occasions, and is a firm favourite amongst corporate backers."
+
+[/Lotus/Language/Enemies/CCTeamAHeavyName]
+"VED XOL"
+
+[/Lotus/Language/Enemies/CCTeamARifleDesc]
+"The younger brother of Ved Xol displayed no aptitude for business. Instead, his enthusiasm for violence and conflict have helped him quickly climb corporate ranks."
+
+[/Lotus/Language/Enemies/CCTeamARifleName]
+"NAKO XOL"
+
+[/Lotus/Language/Enemies/CCTeamASentinelName]
+"SOL"
+
+[/Lotus/Language/Enemies/CCTeamASkateDesc]
+"Pelna Cade is a skilled technician who graduated with the Xol brothers. Remaining close friends with the family following their military service together, he now works for them to keep the robotics in their service in peak condition."
+
+[/Lotus/Language/Enemies/CCTeamASkateName]
+"PELNA CADE"
+
+[/Lotus/Language/Enemies/CCTeamAZanukaDesc]
+"The Loan Reclamation Division worked closely with Alad V on several ventures during his tenure on the Corpus Board of Directors. Despite his involuntary retirement, it is speculated that the Xol Brothers still undertake assignments on his behalf. These robots, based on Alad V's own patented designs were delivered as payment for services rendered and only serve to strengthen such suspicions."
+
+[/Lotus/Language/Enemies/CCTeamAZanukaName]
+"LOCKJAW & SOL"
+
+[/Lotus/Language/Enemies/CCTeamBDisruptorDesc]
+"A young and ambitious Anyo Corp. employee, Jad has demonstrated remarkable aptitude for micromanaging machinery. He was promoted to the Robotic Technology Division where he leads the design of new robotics to be utilized by other divisions of Anyo Corp."
+
+[/Lotus/Language/Enemies/CCTeamBDisruptorName]
+"JAD TERAN"
+
+[/Lotus/Language/Enemies/CCTeamBHyenaDesc]
+"Affectionately known as “Azoth” the Hyena Hg is the latest version of Hyena to be produced at Anyo Corp. This model has been optimized to process Index Points with lethal efficiency."
+
+[/Lotus/Language/Enemies/CCTeamBHyenaName]
+"AZOTH"
+
+[/Lotus/Language/Enemies/CCTeamBOspreyDesc]
+"The Index marks the debut of the X-series of the Raptor. This version of armoured Osprey doubles as both a mobile accounting system and security detail for the brokers employed by Anyo Corp."
+
+[/Lotus/Language/Enemies/CCTeamBOspreyName]
+"RAPTOR RX"
+
+[/Lotus/Language/Enemies/CCTeamBRiotMoaDesc]
+"A heavily modified model of Denial Bursas, designed for the secure transferral of offline funds. This armoured robot protects the financial interests of Anyo Corp."
+
+[/Lotus/Language/Enemies/CCTeamBRiotMoaName]
+"AUDITOR"
+
+[/Lotus/Language/Enemies/CCTeamCDeceptionDesc]
+"Jen specialises in corporate espionage and uses the information she gathers to facilitate sudden downturns for her opponents."
+
+[/Lotus/Language/Enemies/CCTeamCDeceptionName]
+"JEN DRO"
+
+[/Lotus/Language/Enemies/CCTeamCHackerDesc]
+"A digital virtuoso, Derim is a capable hacker who applies his trade laundering funds traded through The Index."
+
+[/Lotus/Language/Enemies/CCTeamCHackerName]
+"DERIM ZAHN"
+
+[/Lotus/Language/Enemies/CCTeamCMoaDesc]
+"The Multi-Weapon Assault Moa is equipped with a number of weapons to assist the brokers employed by Zenith Galactical with their endeavors."
+
+[/Lotus/Language/Enemies/CCTeamCMoaName]
+"M-WAM"
+
+[/Lotus/Language/Enemies/CCTeamCStealthDesc]
+"Tia supports her allies by providing them with effective exit strategies when a deals takes a turn for the worse. These strategies often leave the other party with significant medical fees."
+
+[/Lotus/Language/Enemies/CCTeamCStealthName]
+"TIA MAYN"
+
 [/Lotus/Language/Enemies/FairyQuestLoki]
 "KNAVE SPECTER"
 
@@ -15177,6 +15294,72 @@ You need to go there and investigate.
 [/Lotus/Language/G1Quests/IIQTitle]
 "ONCE AWAKE"
 
+[/Lotus/Language/G1Quests/IndexEventA]
+"[PH] Low Risk, Negligible Rewards"
+
+[/Lotus/Language/G1Quests/IndexEventB]
+"[PH] Moderate Risk, Adequate Rewards"
+
+[/Lotus/Language/G1Quests/IndexEventBonusRewardMessageBody]
+"You don’t stop do you, Tenno. I like that. And just seeing you take all those credits from Nef, it warms my heart. 
+
+Here, I have one last gift for you.
+
+Enjoy,
+Darvo"
+
+[/Lotus/Language/G1Quests/IndexEventBonusRewardMessageTitle]
+"THE INDEX: Bonus"
+
+[/Lotus/Language/G1Quests/IndexEventC]
+"[PH] High Risk, Attractive Rewards"
+
+[/Lotus/Language/G1Quests/IndexEventCommunityMessageDesc]
+"Friends,
+
+Have you seen this crap? Nef Anyo just created another scheme to milk suckers out of their credits. He calls it: The Index, but really, it’s just wagering and bloodsport. Thing is Tenno, I like wagering and bloodsports are sort of your deal. 
+
+You get what I’m getting at? You go to this index and fight against Nef’s brokers. You’ll win credits. I’ll win credits. We’ll all win credits. Except for Nef, he’s going to lose a lot of credits. Just thinking about that makes me happy.
+
+Your friend, 
+Darvo"
+
+[/Lotus/Language/G1Quests/IndexEventCommunityMessageTitle]
+"THE INDEX: Nef’s “Investment Opportunity”"
+
+[/Lotus/Language/G1Quests/IndexEventInterimMessageBody]
+"Oh, Tenno, I tell you, this is getting good. We’re on a roll and I don’t want it to stop. 
+
+Here, take this, consider it good luck charm from your old pal, Darvo."
+
+[/Lotus/Language/G1Quests/IndexEventInterimMessageTitle]
+"THE INDEX: On a roll!"
+
+[/Lotus/Language/G1Quests/IndexEventRewardMessageBody]
+"We did it, Tenno, we hit the big time. I’m going to cash-out now but if you want to keep “investing”, go ahead. You can never have too many credits, that’s what I always say.
+
+I’m giving you a little token of my appreciation. After all the credits you’ve earned me, it’s the least I can do.
+
+-Darvo"
+
+[/Lotus/Language/G1Quests/IndexEventRewardMessageTitle]
+"THE INDEX: Jackpot"
+
+[/Lotus/Language/G1Quests/IndexTutorialA]
+"So Tenno, you think you have what it takes to be a broker on The Index? Allow me educate you."
+
+[/Lotus/Language/G1Quests/IndexTutorialB]
+"When you kill a Broker, they will drop an Index Point. Scramble, it’s your job to pick it up before the other team does."
+
+[/Lotus/Language/G1Quests/IndexTutorialC]
+"You may hold any number of index points, but know that they’re worthless until you’ve deposited them in the Bank. We call this Capitalization."
+
+[/Lotus/Language/G1Quests/IndexTutorialD]
+"But if you die on the way to the bank and you’ll drop all your points, leaving them vulnerable to all."
+
+[/Lotus/Language/G1Quests/IndexTutorialE]
+"You see, The Index is a game of risk and reward. Hold too many points and you risk rewarding the other team. Tenno, you best make peace with the Void, The Index is about to begin."
+
 [/Lotus/Language/G1Quests/InfestedCorpusHiveEventCompleteDesc]
 "I suppose I should thank you Tenno. 
 
@@ -15965,6 +16148,18 @@ I have just located a second prototype, you must destroy it before they can ente
 
 [/Lotus/Language/G1Quests/ProjectFriendlyFireTacAlertTitle]
 "Divine Will"
+
+[/Lotus/Language/G1Quests/ProjectIndexEndlessGoal]
+"Index Points"
+
+[/Lotus/Language/G1Quests/ProjectIndexEndlessTitle]
+"The Index: Endurance"
+
+[/Lotus/Language/G1Quests/ProjectIndexEndlessTooltip]
+"Accumulate Index Points"
+
+[/Lotus/Language/G1Quests/ProjectIndexTitle]
+"The Index"
 
 [/Lotus/Language/G1Quests/ProjectMutalistTacAlertBadgeRewardMsgBody]
 "Formidable work. The Black Seeds are now in hiding and the Juggernaut Behemoth has been destroyed. Still, I fear some of its spores have made it into the wild, my fleet has been put on alert, I suggest you do the same.
@@ -17260,7 +17455,7 @@ We lost contact for a moment… were you sleeping? Nightmares? Perhaps this will
 [/Lotus/Language/G1Quests/TacAlertHalloweenRewardsBonusBody]
 "Tenno,
 
-This emblem shows you faced your fear and conquered your nightmares.
+This sigil shows you faced your fear and conquered your nightmares.
 
 -The Lotus"
 
@@ -18524,6 +18719,9 @@ Arming: Turrets"
 [/Lotus/Language/Game/AutoTurret]
 "TURRET"
 
+[/Lotus/Language/Game/Available]
+"Available"
+
 [/Lotus/Language/Game/BeginObstacleCourse]
 "Begin"
 
@@ -18708,6 +18906,9 @@ SEGMENT REQUIRED"
 
 [/Lotus/Language/Game/CorpusArtificerSentinelDesc]
 "Charges its target and detonates when threatened"
+
+[/Lotus/Language/Game/CorpusChampionTeleporter]
+"TRANSLOCATOR"
 
 [/Lotus/Language/Game/CorpusFireLeaderName]
 "CORPUS FIRE LEADER"
@@ -19008,6 +19209,12 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/DefenseArtifactDesc]
 "Orokin artifact requiring protection"
+
+[/Lotus/Language/Game/DefenseArtifactKuva]
+"KUVA DISPENSER"
+
+[/Lotus/Language/Game/DefenseArtifactKuvaDesc]
+"Sabotaged Kuva Dispenser "
 
 [/Lotus/Language/Game/DefenseChallengeArtifact]
 "SIMULATION CRYOPOD"
@@ -19507,6 +19714,75 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/FormorianHeartNode]
 "FOMORIAN REACTOR SHELL"
+
+[/Lotus/Language/Game/FortressAuraGrineerLancerRifle]
+"KUVA AURA LANCER"
+
+[/Lotus/Language/Game/FortressEliteGrineerLancerRifle]
+"KUVA ELITE LANCER"
+
+[/Lotus/Language/Game/FortressEliteGrineerLancerShotgun]
+"KUVA EVISCERATOR"
+
+[/Lotus/Language/Game/FortressGrineerBeastMasterName]
+"KUVA DRAHK MASTER"
+
+[/Lotus/Language/Game/FortressGrineerBombardIncendiary]
+"KUVA NAPALM"
+
+[/Lotus/Language/Game/FortressGrineerBombardMinigun]
+"KUVA HEAVY GUNNER"
+
+[/Lotus/Language/Game/FortressGrineerBombardRocket]
+"KUVA BOMBARD"
+
+[/Lotus/Language/Game/FortressGrineerCatMasterName]
+"KUVA HYEKKA MASTER"
+
+[/Lotus/Language/Game/FortressGrineerFlamer]
+"KUVA SCORCH"
+
+[/Lotus/Language/Game/FortressGrineerJetpackCarrierName]
+"KUVA HELLION CARRIER"
+
+[/Lotus/Language/Game/FortressGrineerJetpackName]
+"KUVA HELLION"
+
+[/Lotus/Language/Game/FortressGrineerLancerRifle]
+"KUVA LANCER"
+
+[/Lotus/Language/Game/FortressGrineerLancerShield]
+"KUVA SHIELD LANCER"
+
+[/Lotus/Language/Game/FortressGrineerLancerShotgun]
+"KUVA TROOPER"
+
+[/Lotus/Language/Game/FortressGrineerPistol]
+"KUVA SEEKER"
+
+[/Lotus/Language/Game/FortressGrineerRollingDrone]
+"KUVA ROLLER"
+
+[/Lotus/Language/Game/FortressGrineerRollingDroneTurret]
+"LATCHER TURRET"
+
+[/Lotus/Language/Game/FortressGrineerSawmanBlowtorch]
+"KUVA FLAMEBLADE"
+
+[/Lotus/Language/Game/FortressGrineerSawmanMelee]
+"KUVA BUTCHER"
+
+[/Lotus/Language/Game/FortressGrineerSawmanPiston]
+"KUVA POWERCLAW"
+
+[/Lotus/Language/Game/FortressGrineerSniper]
+"KUVA BALLISTA"
+
+[/Lotus/Language/Game/FortressGrnExcavationCarrier]
+"KUVA POWER CARRIER"
+
+[/Lotus/Language/Game/FortressMacheteWoman]
+"KUVA SCORPION"
 
 [/Lotus/Language/Game/FOV]
 "FIELD OF VIEW"
@@ -20051,8 +20327,14 @@ Your Battle Cards are ready now... Go!"
 [/Lotus/Language/Game/IdentifiedItem]
 "IDENTIFIED: |ITEM_NAME|"
 
+[/Lotus/Language/Game/ImpairedInjuryName]
+"STAGGERED"
+
 [/Lotus/Language/Game/IMPALE_DAMAGE]
 "IMPALE DAMAGE"
+
+[/Lotus/Language/Game/IndexPoints]
+"Index Points"
 
 [/Lotus/Language/Game/InfestedAladV]
 "MUTALIST ALAD V"
@@ -20194,6 +20476,9 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/InfestedNoxiousCrawlerDesc]
 "Releases a poison cloud on death"
+
+[/Lotus/Language/Game/InfestedPods_NotEnoughStacks]
+"[PH] Requires 3 Adaptation Stacks"
 
 [/Lotus/Language/Game/InfestedRunner]
 "RUNNER"
@@ -20557,6 +20842,15 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/MarsDesc]
 "Corpus salvage ships pick through the fragments of Orokin derelicts here."
 
+[/Lotus/Language/Game/MawCinematicDualChoice]
+"I held out hope"
+
+[/Lotus/Language/Game/MawCinematicMoonChoice]
+"They had lost their minds"
+
+[/Lotus/Language/Game/MawCinematicSunChoice]
+"They were nothing but animals"
+
 [/Lotus/Language/Game/MAX_TARGETS]
 "MAX TARGETS"
 
@@ -20649,6 +20943,15 @@ A call echoes across the stars - as a menace approaches..."
 
 [/Lotus/Language/Game/MiningMachineObjective]
 "MINING MACHINE"
+
+[/Lotus/Language/Game/MirrorCinematicDualChoice]
+"I hated it"
+
+[/Lotus/Language/Game/MirrorCinematicMoonChoice]
+"I controlled it"
+
+[/Lotus/Language/Game/MirrorCinematicSunChoice]
+"I embraced it"
 
 [/Lotus/Language/Game/MissionMasteryRequired]
 "Your Mastery Rank must be |RANK| or higher to access this location."
@@ -21044,6 +21347,45 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/OpenPortal]
 "Open Portal"
 
+[/Lotus/Language/Game/OperatorAbilityDash]
+"VOID DASH"
+
+[/Lotus/Language/Game/OperatorAbilityMelee]
+"VOID PULSE"
+
+[/Lotus/Language/Game/OperatorAbilityTransference]
+"TRANSFERENCE"
+
+[/Lotus/Language/Game/OperatorAbilityUnlocked]
+"OPERATOR ABILITY UNLOCKED"
+
+[/Lotus/Language/Game/OperatorAbilityWraith]
+"VOID MODE"
+
+[/Lotus/Language/Game/OperatorBurrowTutorial]
+"HOLD <HOLD_CROUCH> TO BURROW"
+
+[/Lotus/Language/Game/OperatorDashTutorial]
+"HOLD <HOLD_CROUCH> AND TAP <JUMP> TO DASH"
+
+[/Lotus/Language/Game/OperatorLisetBeamTutorial]
+"HOLD <PRE_ATTACK> TO USE BEAM, <AIM_WEAPON> TO AIM"
+
+[/Lotus/Language/Game/OperatorLisetTransferenceTutorial]
+"PRESS <ACTIVATE_ABILITY_4> TO USE TRANSFERENCE"
+
+[/Lotus/Language/Game/OperatorMeleeTutorial]
+"PRESS <MELEE> FOR VOID PULSE"
+
+[/Lotus/Language/Game/OperatorStunTutorial]
+"USE VOID PULSE TO STUN THE GOLDEN MAW"
+
+[/Lotus/Language/Game/OperatorTransferenceTutorial]
+"TARGET THE STUNNED MAW WITH <ACTIVATE_ABILITY_4> TO ACTIVATE TRANSFERENCE"
+
+[/Lotus/Language/Game/OperatorWraithTutorial]
+"HOLD <HOLD_CROUCH> FOR WRAITH MODE"
+
 [/Lotus/Language/Game/ORB_DAMAGE]
 "ORB DAMAGE"
 
@@ -21356,6 +21698,9 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/PveDeathMatchReducedAbilityDuration]
 "Modifier: Reduced Ability Duration"
 
+[/Lotus/Language/Game/PveDeathMatchReducedMoveSpeed]
+"Modifier: Reduced Move Speed"
+
 [/Lotus/Language/Game/PVEDEathMatchRespawnTimeLeft]
 "Respawning in |TIME| seconds"
 
@@ -21364,6 +21709,36 @@ A call echoes across the stars - as a menace approaches..."
 
 [/Lotus/Language/Game/PveDeathMatchVampire]
 "Modifier: Health Drain"
+
+[/Lotus/Language/Game/PveGreedCarryingBonus]
+"Banking Bonus: +|val|"
+
+[/Lotus/Language/Game/PveGreedCarryingPoints]
+"Index Points: |val|"
+
+[/Lotus/Language/Game/PveGreedDepositBonusTier1]
+"+2 Index Point Bonus!"
+
+[/Lotus/Language/Game/PveGreedDepositBonusTier2]
+"+5 Index Point Bonus!"
+
+[/Lotus/Language/Game/PveGreedDepositBonusTier3]
+"+7 Index Point Bonus!"
+
+[/Lotus/Language/Game/PveGreedDepositBonusTier4]
+"+10 Index Point Bonus!"
+
+[/Lotus/Language/Game/PveGreedDepositPlural]
+"|val| INDEX POINTS BANKED"
+
+[/Lotus/Language/Game/PveGreedDepositSingular]
+"1 INDEX POINT BANKED"
+
+[/Lotus/Language/Game/PveGreedEnemyTeamName]
+"ANYO CORP"
+
+[/Lotus/Language/Game/PveGreedPlayerTeamName]
+"TENNO"
 
 [/Lotus/Language/Game/PVP_ClaimedOro]
 "ORO Annihilated "
@@ -21944,6 +22319,9 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/ShotgunSpaceManName]
 "CORPUS AGGRESSOR"
 
+[/Lotus/Language/Game/ShrapnelMine]
+"SHRAPNEL MINE"
+
 [/Lotus/Language/Game/SHURIKENS]
 "SHURIKENS"
 
@@ -22160,6 +22538,9 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/Teshin]
 "TESHIN"
 
+[/Lotus/Language/Game/TeshinSpecter]
+"TESHIN SPECTER"
+
 [/Lotus/Language/Game/TeshinStealDisc]
 "[PH] STEAL DISC"
 
@@ -22186,6 +22567,9 @@ A call echoes across the stars - as a menace approaches..."
 
 [/Lotus/Language/Game/ToxicDroneName]
 "MUTALIST-OSPREY"
+
+[/Lotus/Language/Game/TreasureHuntTimeLimit]
+"Reach the end before the door closes!"
 
 [/Lotus/Language/Game/Trial_RoundEndComplete]
 "Complete"
@@ -22412,6 +22796,12 @@ Absorb this energy sphere..."
 
 [/Lotus/Language/Game/VoidDesc]
 "Ancient Orokin places are hidden here."
+
+[/Lotus/Language/Game/VoidNegationTower]
+"[PH] VOID NEGATION TOWER"
+
+[/Lotus/Language/Game/VoidNegationTowerBraid]
+"[PH] VOID NEGATION BRAID"
 
 [/Lotus/Language/Game/VorTwo]
 "CORRUPTED VOR"
@@ -23184,6 +23574,9 @@ You must have a Mastery Rank of 2 or higher in order to trade.
 
 We do not enforce trades for promises, clan membership, and other favors. Trade for items only."
 
+[/Lotus/Language/Items/10000CreditsName]
+"10000 CREDITS CACHE"
+
 [/Lotus/Language/Items/1000CreditsName]
 "1000 CREDITS CACHE"
 
@@ -23207,6 +23600,9 @@ We do not enforce trades for promises, clan membership, and other favors. Trade 
 
 [/Lotus/Language/Items/500CreditsName]
 "500 CREDITS CACHE"
+
+[/Lotus/Language/Items/7500CreditsName]
+"7500 CREDITS CACHE"
 
 [/Lotus/Language/Items/AbilityDurationOnCastName]
 "ARCANE FOCUS"
@@ -27138,6 +27534,9 @@ One Fusion Core has a chance to be Rare."
 [/Lotus/Language/Items/ConclaveAkvastoName]
 "AKVASTO CONCLAVE SKIN"
 
+[/Lotus/Language/Items/ConclaveBfgName]
+"OPTICOR VARIANT"
+
 [/Lotus/Language/Items/ConclaveCapeDesc]
 "Displays Daily and Weekly Conclave Challenge and Mission progress, with a beam of light for each completed challenge or mission."
 
@@ -27565,6 +27964,33 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/CoolantLeakStoreItemName]
 "Coolant Leak"
 
+[/Lotus/Language/Items/CorpusArenaRewardOneEasy]
+"Profit: <CREDITS>1,500"
+
+[/Lotus/Language/Items/CorpusArenaRewardOneHard]
+"Profit: <CREDITS>45,000"
+
+[/Lotus/Language/Items/CorpusArenaRewardOneMedium]
+"Profit: <CREDITS>15,000"
+
+[/Lotus/Language/Items/CorpusArenaRewardThreeEasy]
+"Profit: <CREDITS>6,000"
+
+[/Lotus/Language/Items/CorpusArenaRewardThreeHard]
+"Profit: <CREDITS>75,000"
+
+[/Lotus/Language/Items/CorpusArenaRewardThreeMedium]
+"Profit: <CREDITS>35,000"
+
+[/Lotus/Language/Items/CorpusArenaRewardTwoEasy]
+"Profit: <CREDITS>3,000"
+
+[/Lotus/Language/Items/CorpusArenaRewardTwoHard]
+"Profit: <CREDITS>60,000"
+
+[/Lotus/Language/Items/CorpusArenaRewardTwoMedium]
+"Profit: <CREDITS>25,000"
+
 [/Lotus/Language/Items/CorpusDazzlePackDesc]
 "These bold patterns are designed to confuse the optical processing of both robotic and organic enemies."
 
@@ -27757,6 +28183,9 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/CreatorAGGPGlyphName]
 "AGGP GLYPH"
 
+[/Lotus/Language/Items/CreatorDanieltheDemonGlyphName]
+"DANIELTHEDEMON GLYPH"
+
 [/Lotus/Language/Items/CreatorDKDiamantesGlyphName]
 "DKDIAMANTES GLYPH"
 
@@ -27772,14 +28201,23 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/CreatorIflynnGlyphName]
 "IFLYNN GLYPH"
 
+[/Lotus/Language/Items/CreatorLokenPlaysGlyphName]
+"LOKENPLAYS GLYPH"
+
 [/Lotus/Language/Items/CreatorLunskeeGlyphName]
 "LUNSKEE GLYPH"
 
 [/Lotus/Language/Items/CreatorMogamuGlyphName]
 "MOGAMU GLYPH"
 
+[/Lotus/Language/Items/CreatorN00blShowtekGlyphName]
+"N00BLSHOWTEK GLYPH"
+
 [/Lotus/Language/Items/CreatorOriginalWickedfunGlyphName]
 "ORIGINALWICKEDFUN GLYPH"
+
+[/Lotus/Language/Items/CreatorQuiteShallowGlyphName]
+"QUITESHALLOW GLYPH"
 
 [/Lotus/Language/Items/CreatorSnowlitGlyphName]
 "SNOWLIT GLYPH"
@@ -27787,8 +28225,17 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/CreatorTacticalPotatoGlyphName]
 "TACTICALPOTATO GLYPH"
 
+[/Lotus/Language/Items/CreatorTanchanGlyphName]
+"TANCHAN GLYPH"
+
+[/Lotus/Language/Items/CreatorVVhiteAngelGlyphName]
+"VVHITE ANGEL GLYPH"
+
 [/Lotus/Language/Items/CreatorWgratesGlyphName]
 "WGRATES GLYPH"
+
+[/Lotus/Language/Items/CreatorXenogelionGlyphName]
+"XENOGELION GLYPH"
 
 [/Lotus/Language/Items/CreditBoosterDesc]
 "Doubles the amount of credits you get from pickups and mission rewards."
@@ -29619,6 +30066,9 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/FreezeAbilityDesc]
 "A frigid energy blast that freezes targets in their tracks."
 
+[/Lotus/Language/Items/FreezeDamageConversionRifleMod]
+"[PH] RIME ROUNDS"
+
 [/Lotus/Language/Items/FreezeProcResistName]
 "ARCANE WARMTH"
 
@@ -29936,6 +30386,12 @@ This bundle of 1 Gallium can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/GlyphBundleAName]
 "ADAU GLYPH PACK"
 
+[/Lotus/Language/Items/GlyphBundleBDesc]
+"A collection of glyphs."
+
+[/Lotus/Language/Items/GlyphBundleBName]
+"EMBLEMATIC GLYPH PACK"
+
 [/Lotus/Language/Items/GlyphDesc]
 "Launches a magnetic prism to display your chosen Glyph. Only one may be deployed at a time, and charges are consumed on use."
 
@@ -29944,6 +30400,36 @@ This bundle of 1 Gallium can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/GlyphInfChargesName]
 "BOUNDLESS GLYPH PRISM"
+
+[/Lotus/Language/Items/GlyphMuckneyA]
+"LOTUS BALANCE GLYPH"
+
+[/Lotus/Language/Items/GlyphMuckneyB]
+"SOLUNAR GLYPH"
+
+[/Lotus/Language/Items/GlyphMuckneyC]
+"ORBITAL CATHODE GLYPH"
+
+[/Lotus/Language/Items/GlyphMuckneyD]
+"ISOCHRONON GLYPH"
+
+[/Lotus/Language/Items/GlyphMuckneyE]
+"BLOOD LOTUS GLYPH"
+
+[/Lotus/Language/Items/GlyphMuckneyF]
+"TENNO REFRACTAL GLYPH"
+
+[/Lotus/Language/Items/GlyphMuckneyG]
+"MYTHIC BALANCE GLYPH"
+
+[/Lotus/Language/Items/GlyphMuckneyH]
+"CEPH PINACOID GLYPH"
+
+[/Lotus/Language/Items/GlyphMuckneyI]
+"MOON CREST GLYPH"
+
+[/Lotus/Language/Items/GlyphMuckneyJ]
+"SUN CREST GLYPH"
 
 [/Lotus/Language/Items/GlyphName]
 "GLYPH PRISM"
@@ -31334,11 +31820,44 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/IncendiaryBuilderName]
 "Incendiary Builder"
 
+[/Lotus/Language/Items/IndexTeamANoggleBundleDesc]
+"[PH] Description"
+
+[/Lotus/Language/Items/IndexTeamANoggleBundleName]
+"[PH] TEAM A NOGGLE PACK"
+
+[/Lotus/Language/Items/IndexTeamBNoggleBundleDesc]
+"[PH] Description"
+
+[/Lotus/Language/Items/IndexTeamBNoggleBundleName]
+"[PH] TEAM B NOGGLE PACK"
+
+[/Lotus/Language/Items/IndexTeamCNoggleBundleDesc]
+"[PH] Description"
+
+[/Lotus/Language/Items/IndexTeamCNoggleBundleName]
+"[PH] TEAM C NOGGLE PACK"
+
 [/Lotus/Language/Items/InfCrpShockSwarmRifleDesc]
 "A bizarre union of Corpus technology and Infested biology, this automatic rifle can also deploy an irradiated airborne infested mass. Further field testing is required to fully understand the potential of this weapon."
 
 [/Lotus/Language/Items/InfCrpShockSwarmRifleName]
 "MUTALIST QUANTA"
+
+[/Lotus/Language/Items/InfEmbolistArmourBundleDesc]
+"Calcified flesh creates forms of grotesque beauty."
+
+[/Lotus/Language/Items/InfEmbolistArmourBundleName]
+"EMBOLIST ARMOR BUNDLE"
+
+[/Lotus/Language/Items/InfEmbolistCompleteBundleDesc]
+"This collection of unnatural, malformed, Infested growths contains; the Caustacyst Scythe, the Embolist pistol, Tentacyst accessory for melee weapons and the Embolist armor."
+
+[/Lotus/Language/Items/InfEmbolistCompleteBundleFeatureText]
+"A collection of unnatural, malformed, Infested growths."
+
+[/Lotus/Language/Items/InfEmbolistCompleteBundleName]
+"EMBOLIST COLLECTION"
 
 [/Lotus/Language/Items/InfernoMod]
 "INFERNO"
@@ -33591,6 +34110,12 @@ Pack Includes:
 [/Lotus/Language/Items/ModFuserDesc]
 "Consume 4 mods to generate a new random artifact."
 
+[/Lotus/Language/Items/MolecularPrimeAbilityAugmentDesc]
+"[PH] Molecular Prime Augment - Primed enemies within |RADIUS|m will be attracted to each other, exploding for |DAMAGE| damage over |DAMAGE_RADIUS|m on contact."
+
+[/Lotus/Language/Items/MolecularPrimeAbilityAugmentName]
+"[PH] MOLECULAR PRIME AUGMENT"
+
 [/Lotus/Language/Items/MolecularPrimeAbilityDesc]
 "Primes all enemies in a radius with volatile anti-matter."
 
@@ -33976,6 +34501,12 @@ This bundle of 1 Neurode can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/NezhaTrailAbility]
 "Fire Walker"
 
+[/Lotus/Language/Items/NezhaTrailAbilityAugmentDesc]
+"[PH] Fire Walker Augment - Accumulate |DAMAGE_PCT|% of the damage Fire Walker deals, unleashing it all in a |RADIUS|m explosive kick upon deactivation."
+
+[/Lotus/Language/Items/NezhaTrailAbilityAugmentName]
+"[PH] FIRE WALKER AUGMENT"
+
 [/Lotus/Language/Items/NezhaTrailAbilityDesc]
 "Blaze a trail of flames, scorching enemies and cleansing allies."
 
@@ -34302,13 +34833,13 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 "<ARCHWING> ODONATA PRIME"
 
 [/Lotus/Language/Items/OmegaArchGunMod]
-"[PH] |RANK| <OMEGA>"
+"[PH] |RANK|"
 
 [/Lotus/Language/Items/OmegaArchMeleeMod]
-"[PH] |RANK| <OMEGA>"
+"[PH] |RANK|"
 
 [/Lotus/Language/Items/OmegaArchwingMod]
-"[PH] |RANK| <OMEGA>"
+"[PH] |RANK|"
 
 [/Lotus/Language/Items/OmegaIsotope]
 "OMEGA ISOTOPE"
@@ -34317,19 +34848,19 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 "Produced by a Fomorian’s power core, these particles only appear on or around planets where a Fomorian is present."
 
 [/Lotus/Language/Items/OmegaPistolMod]
-"[PH] |RANK| <OMEGA>"
+"[PH] |RANK|"
 
 [/Lotus/Language/Items/OmegaRifleMod]
-"[PH] |RANK| <OMEGA>"
+"[PH] |RANK|"
 
 [/Lotus/Language/Items/OmegaSentinelMod]
-"[PH] |RANK| <OMEGA>"
+"[PH] |RANK|"
 
 [/Lotus/Language/Items/OmegaShotgunMod]
-"[PH] |RANK| <OMEGA>"
+"[PH] |RANK|"
 
 [/Lotus/Language/Items/OmegaWarframeMod]
-"[PH] |RANK| <OMEGA>"
+"[PH] |RANK|"
 
 [/Lotus/Language/Items/OperatorAttackAbilityName]
 "MADURAI"
@@ -36198,11 +36729,23 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/PushAbilityName]
 "Sonic Boom"
 
+[/Lotus/Language/Items/PvPBulletAttractorAbilityDesc]
+"Creates a magnetic field around a target that attracts any weapon fire that hits it and deals damage over time."
+
+[/Lotus/Language/Items/PvPChaosAbilityDesc]
+"With a powerful psychic blast, Nyx causes all affected to see other players as opponents and can damage/kill their teammates."
+
 [/Lotus/Language/Items/PvPClawStanceOne]
 "Scarlet Hurricane"
 
+[/Lotus/Language/Items/PvPCloneTheDeadAbilityDesc]
+"Reduces respawn timer of Nekros and his teammates to 0."
+
 [/Lotus/Language/Items/PvPDaggerStanceOne]
 "Piercing Fury"
+
+[/Lotus/Language/Items/PvPDecoyAbilityDesc]
+"Loki deploys a holographic copy of himself equipped with his Primary weapon."
 
 [/Lotus/Language/Items/PvPDualDaggersComboB]
 "Leaping Slash"
@@ -36213,11 +36756,26 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/PvPDualSwordStanceOne]
 "Dividing Blades"
 
+[/Lotus/Language/Items/PvPFairyDustAbilityDesc]
+"Opponents are forced to equip their melee weapons, nearby allies become immune to Status Effects."
+
+[/Lotus/Language/Items/PvPFairyLightAbilityDesc]
+"Create a swarm of razorflies that lifts an opponent into the air and eventually exploding. Damaging suspended target will end the suspension prematurely and drop the target without dealing any damage."
+
+[/Lotus/Language/Items/PvPFairySoulAbilityDesc]
+"Staggers opponent and reduces their damage."
+
 [/Lotus/Language/Items/PvPFistStanceOne]
 "Quaking Hand"
 
+[/Lotus/Language/Items/PvPGlaiveAbilityDesc]
+"Launches a homing blade of pain, dealing Puncture damage."
+
 [/Lotus/Language/Items/PvPGlaiveStanceOne]
 "Celestial Nightfall"
+
+[/Lotus/Language/Items/PvPGrappleHookAbilityDesc]
+"Valkyr hurls forth a hook. If it hits an opponent they are knocked down and damaged. If it hits terrain, she pulls herself to the hook's location."
 
 [/Lotus/Language/Items/PvPHammerStanceOne]
 "Crashing Havoc"
@@ -36225,8 +36783,17 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/PvPHeavyBladeStanceOne]
 "Noble Cadence"
 
+[/Lotus/Language/Items/PvPInvisibilityAbilityDesc]
+"Loki camouflages himself, becoming invisible to enemies. Camouflage is broken on receiving or dealing damage."
+
 [/Lotus/Language/Items/PvPKatanaStanceOne]
 "Fateful Truth"
+
+[/Lotus/Language/Items/PvPLevTrapAbilityDesc]
+"Creates an energy-based containment field that slows down any opponents who enter."
+
+[/Lotus/Language/Items/PvPLiquefyAbilityDesc]
+"Become a water trap, opponents that come into contact will be knocked down if they attempt to jump."
 
 [/Lotus/Language/Items/PvPLoadoutSlotItem]
 "Conclave Loadout Slot"
@@ -36237,23 +36804,89 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/PvPMacheteStanceOne]
 "Rending Wind"
 
+[/Lotus/Language/Items/PvPMagHoleAbilityDesc]
+"Creates a whirling mass of energy that knocks down and damages nearby opponents."
+
 [/Lotus/Language/Items/PvPMeleeStanceDesc]
 "Fighting form devised for Conclave."
+
+[/Lotus/Language/Items/PvPMindControlAbilityDesc]
+"Nyx invades the psyche of a target, making opponents appear as teammates and teammates as opponents. Target also cannot damage Nyx."
+
+[/Lotus/Language/Items/PvPNezhaSashAbilityDesc]
+"Create a protective ring of fire that also damages opponents who get too close."
+
+[/Lotus/Language/Items/PvPNezhaTrailAbilityDesc]
+"Blaze a trail of flames, increasing movement speed."
+
+[/Lotus/Language/Items/PvPNullstarAbilityDesc]
+"Creates anti-matter particles that seek nearby opponents and remove their Energy."
 
 [/Lotus/Language/Items/PvPNunchakuStanceOne]
 "Mafic Rain"
 
+[/Lotus/Language/Items/PvPPoisonAbilityDesc]
+"Inflicts opponent with <DT_VIRAL> Viral damage over time. "
+
 [/Lotus/Language/Items/PvPPolearmStanceOne]
 "Argent Scourge"
+
+[/Lotus/Language/Items/PvPPullAbilityDesc]
+"Magnetic force staggers opponents and deals high damage to shields."
 
 [/Lotus/Language/Items/PvPPunchKickStanceOne]
 "Vicious Approach"
 
+[/Lotus/Language/Items/PvPPushAbilityDesc]
+"Banshee emits a sonic shockwave that knocks down targets in range."
+
+[/Lotus/Language/Items/PvPRadialDisarmAbilityDesc]
+"Lets forth a wave of energy, forcing opponents to equip their melee weapons and depleting their Energy."
+
+[/Lotus/Language/Items/PvPRangerQuiverAbilityDesc]
+"Cycle through and shoot one of three tactical arrows: Cloak (Invisibility), Null-Shield (removes Shields) and Encumbered Arrows (disables Jump)."
+
+[/Lotus/Language/Items/PvPRangerStealAbilityDesc]
+"Become invisible and  take out opponents with deadly headshots."
+
 [/Lotus/Language/Items/PvPRapierStanceOne]
 "Cunning Aspect"
 
+[/Lotus/Language/Items/PvPRhinoStompAbilityDesc]
+"Rhino stomps with force sufficient to disrupt time, slowing all opponents around him."
+
+[/Lotus/Language/Items/PvPRussianRouletteAbilityDesc]
+"Removes ammo from opponent's clip and gives it to Mesa."
+
+[/Lotus/Language/Items/PvPSandmanDevourAbilityDesc]
+"Hold power to trap target in quicksand rendering them unable to jump. Killing an opponent trapped in Quicksand creates a sand pile that can be devoured for Health."
+
+[/Lotus/Language/Items/PvPSandmanStormAbilityDesc]
+"Become an invulnerable whirling spiral of sand that knocks opponents down."
+
 [/Lotus/Language/Items/PvPScytheStanceOne]
 "Shadow Harvest"
+
+[/Lotus/Language/Items/PvPSearchTheDeadAbilityDesc]
+"Forces fallen enemies around you to drop a Health Orb and are also visible to Nekros on respawn."
+
+[/Lotus/Language/Items/PvPShedAbilityDesc]
+"Shedding her skin like a snake, Saryn leaves a decoy behind that attracts nearby weapon fire."
+
+[/Lotus/Language/Items/PvPShieldRegenAbilityDesc]
+"Emit an energy pulse that depletes enemy shields and adds it to Mag."
+
+[/Lotus/Language/Items/PvPSilenceAbilityDesc]
+"Using Silence will cancel any active Abilities of opponents in range and won't allow them to cast for the duration."
+
+[/Lotus/Language/Items/PvPSmokeScreenAbilityDesc]
+"Drops a smoke bomb rendering Ash invisible for a short time. Invisibility is broken on firing any weapon or ability, picking up health/energy/ammo and taking damage."
+
+[/Lotus/Language/Items/PvPSoulPunchAbilityDesc]
+"A powerful blow that knocks down opponents."
+
+[/Lotus/Language/Items/PvPSpeedAbilityDesc]
+"Gain a brief boost of movement and Melee attack speed."
 
 [/Lotus/Language/Items/PvPStavesStanceOne]
 "Crashing Timber"
@@ -36267,8 +36900,17 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/PvPSwordWhipStanceOne]
 "Tainted Hydra"
 
+[/Lotus/Language/Items/PvPTeleportToAbilityDesc]
+"Ash teleports towards the target, bringing him into melee range."
+
+[/Lotus/Language/Items/PvPTerrorTotemAbilityDesc]
+"Cast fear into the hearts of nearby enemies, causing them deal less damage."
+
 [/Lotus/Language/Items/PvPTonfaStanceOne]
 "Star Divide"
+
+[/Lotus/Language/Items/PvPWeaponPoisonAbilityDesc]
+"Increases Melee damage."
 
 [/Lotus/Language/Items/PvPWhipStanceOne]
 "Lashing Coil"
@@ -37172,6 +37814,12 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/SandmanBlastAbility]
 "Desiccation"
 
+[/Lotus/Language/Items/SandmanBlastAbilityAugmentDesc]
+"[PH] Desiccation Augment - Killing a blinded enemy with a finisher has a |CHANCE|% chance of summoning a Sand Shadow."
+
+[/Lotus/Language/Items/SandmanBlastAbilityAugmentName]
+"[PH] DESICCATION AUGMENT"
+
 [/Lotus/Language/Items/SandmanBlastAbilityDesc]
 "Blast enemies with a wave of cursed sand that blinds them and steals their health."
 
@@ -37195,6 +37843,12 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/SandmanDevourAbility]
 "Devour"
+
+[/Lotus/Language/Items/SandmanDevourAbilityAugmentDesc]
+"[PH] Devour Augment - |CONVERT_PCT|% of the damage devoured will be stored for Inaros' Sarcophagus, up to a max of |MAX_PCT|% charge."
+
+[/Lotus/Language/Items/SandmanDevourAbilityAugmentName]
+"[PH] DEVOUR AUGMENT"
 
 [/Lotus/Language/Items/SandmanDevourAbilityDesc]
 "Hold power to trap target in quicksand and draw them in for devouring; this steals health and ultimately creates a friendly Sand Shadow."
@@ -38686,6 +39340,14 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 [/Lotus/Language/Items/SwitchTeleportAbilityDesc]
 "Loki instantaneously swaps positions with a target, confusing the enemy."
 
+[/Lotus/Language/Items/SWMagestyOrthosSkinDesc]
+"A skin for the Orthos polearm, designed by prosetisen
+
+<UGC> TennoGen"
+
+[/Lotus/Language/Items/SWMagestyOrthosSkinName]
+"ORTHOS MAGESTY SKIN"
+
 [/Lotus/Language/Items/SWNoxiousHammerJatKittagSkinDesc]
 "A skin for the Jat Kittag mace, designed by Clyptic
 
@@ -39066,6 +39728,18 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 [/Lotus/Language/Items/t1voidprojectionl]
 "LITH N1 RELIC"
 
+[/Lotus/Language/Items/t1voidprojectionm]
+"LITH A2 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectionn]
+"LITH S4 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectiono]
+"LITH D1 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectionp]
+"LITH C2 RELIC"
+
 [/Lotus/Language/Items/t2voidprojectiona]
 "MESO D1 RELIC"
 
@@ -39096,6 +39770,18 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 [/Lotus/Language/Items/t2voidprojectionk]
 "MESO F1 RELIC"
 
+[/Lotus/Language/Items/t2voidprojectionm]
+"MESO V3 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectionn]
+"MESO V4 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectiono]
+"MESO N3 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectionp]
+"MESO N4 RELIC"
+
 [/Lotus/Language/Items/t3voidprojectiona]
 "NEO S1 RELIC"
 
@@ -39125,6 +39811,18 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 
 [/Lotus/Language/Items/t3voidprojectionk]
 "NEO V3 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectionm]
+"NEO V4 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectionn]
+"NEO V5 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectiono]
+"NEO S4 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectionp]
+"NEO S5 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectiona]
 "AXI S1 RELIC"
@@ -39158,6 +39856,18 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 
 [/Lotus/Language/Items/t4voidprojectionk]
 "AXI G1 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectionm]
+"AXI C1 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectionn]
+"AXI S2 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectiono]
+"AXI V4 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectionp]
+"AXI V5 RELIC"
 
 [/Lotus/Language/Items/TacticFocusAbilityDesc]
 "Path of the Sky Rogue"
@@ -39462,6 +40172,12 @@ Blueprint is reusable and will not be consumed."
 
 [/Lotus/Language/Items/TeshinDiscWeaponName]
 "[PH] TESHIN DISC"
+
+[/Lotus/Language/Items/TeshinGlaiveDesc]
+"[PH] Teshin Glaive description"
+
+[/Lotus/Language/Items/TeshinGlaiveName]
+"[PH] Teshin Glaive"
 
 [/Lotus/Language/Items/TeshinKatanaDesc]
 "[PH] Teshin's Katana is super great"
@@ -41355,6 +42071,9 @@ Note: This item requires two open slots."
 [/Lotus/Language/Launcher/AGREE]
 "I AGREE"
 
+[/Lotus/Language/Launcher/ALT_MODE]
+"VARIANT"
+
 [/Lotus/Language/Launcher/AppletCrashed]
 "If possible please step through the crash-handler and note the WAR-number you were given when it completed.
 
@@ -41391,6 +42110,9 @@ Running cheat-software while playing Warframe will result in automatic account s
 
 [/Lotus/Language/Launcher/CHECKING_FOR_UPDATES]
 "CHECKING FOR UPDATES..."
+
+[/Lotus/Language/Launcher/CLAN_ONLY]
+"Clan only"
 
 [/Lotus/Language/Launcher/CONFIRM_AGGRESSIVE_DOWNLOAD]
 "Aggressive download makes the update process use multiple
@@ -41438,6 +42160,12 @@ with DirectX 10 rendering you should leave it disabled."
 [/Lotus/Language/Launcher/CREDENTIALS]
 "Administrator Required"
 
+[/Lotus/Language/Launcher/CTF_Title]
+"CEPHALON CAPTURE"
+
+[/Lotus/Language/Launcher/DEDICATED_SERVER]
+"Dedicated Server"
+
 [/Lotus/Language/Launcher/DEFRAG]
 "Optimize"
 
@@ -41461,6 +42189,9 @@ with DirectX 10 rendering you should leave it disabled."
 
 [/Lotus/Language/Launcher/DirExistsAsFile]
 "A file already exists with the same name."
+
+[/Lotus/Language/Launcher/DM_Title]
+"ANNIHILATION"
 
 [/Lotus/Language/Launcher/DO_NOT_REMOVE_LAUNCHER_SPECIFIC]
 "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-=`~!"
@@ -41660,6 +42391,9 @@ To ensure the safety of your account, we have just sent you an email with a code
 [/Lotus/Language/Launcher/MINUTES]
 "minutes"
 
+[/Lotus/Language/Launcher/MISSION]
+"Mission"
+
 [/Lotus/Language/Launcher/MOTD]
 "MOTD_en.txt"
 
@@ -41738,6 +42472,9 @@ Visit the in-game Market to obtain the latest Prime Access offering different pa
 [/Lotus/Language/Launcher/RETRY_LATER]
 "Please try again later."
 
+[/Lotus/Language/Launcher/SB_Title]
+"LUNARO"
+
 [/Lotus/Language/Launcher/SELECT_INSTALL_FOLDER]
 "Please select installation folder:"
 
@@ -41746,6 +42483,9 @@ Visit the in-game Market to obtain the latest Prime Access offering different pa
 
 [/Lotus/Language/Launcher/SETTINGS]
 "Settings"
+
+[/Lotus/Language/Launcher/START_SERVER]
+"Start Server"
 
 [/Lotus/Language/Launcher/STREAMING_INSTALL]
 "INSTALLING..."
@@ -41787,24 +42527,27 @@ Visit the in-game Market to obtain the latest Prime Access offering different pa
 "Xbox Live features are disabled - an update for the system software is available."
 
 [/Lotus/Language/Launcher/TAB1_DESC]
-"Archwing – the game mode invokes many things in a Tenno. With Specters of the Rail comes an entirely overhauled flight system! In addition to completely reworked Archwing movement, Specters of the Rail adds a new Support Class, game modes and new weapons to unleash against the enemy!"
+"Tenno, at the Ready! New changes arrive to Lunaro! Enjoy a new Steel-Meridian Themed Map, featuring a sideways net and mid-field ramps. New gameplay improvements also include a dedicated ‘pass’ button and the ability to protect the Lunaro."
 
 [/Lotus/Language/Launcher/TAB1_TITLE]
-"ARCHWING OVERHAUL AND NEW ADDITIONS!"
+"LUNARO IMPROVEMENTS"
 
 [/Lotus/Language/Launcher/TAB2_DESC]
-"Every Tenno needs a companion. Kubrows and Sentinels have given Tenno aid in battle for years, and now a new species of Companion enters the Arsenal – Kavats! Domesticate your own Kavat. Choose to keep your ship extra-adorable with the roaming kitten or puppy versions OR simply Mature them for a formative Companion to join you in the fight. Adorn your faithful Companion in the Armor it deserves and enhance it with new Mods!"
+"Trance your enemies with the mystical powers of Lotus’ newest warrior, Titania. Overwhelm your enemies with swarms of butterflies, mesmerize and distract foes with shiny lures and morph into a deadly, flying fairy."
 
 [/Lotus/Language/Launcher/TAB2_TITLE]
-"NEW COMPANIONS: KAVATS"
+"NEW WARFRAME: TITANIA"
 
 [/Lotus/Language/Launcher/TAB3_DESC]
-"A redesign of the original Star Chart will bring back the nostalgic roadmap design, making it easier to travel the Origin System. With the introduction of the Star Chart comes a new way to acquire Prime items. Don’t worry Tenno, your Void Keys still hold value!
+"Leave your mark around the Origin System using Glyphs! Unsettle your enemies by placing your mark or simply show off your favourite Warframe.
 
-The Market has been completely reworked from the ground up. Quickly navigate through the Market to discover all the new additions."
+The Tenno Arsenal continues to grow with new, deadly Weapons such as the Sarpa and Pox. Take customization to a whole new level with futuristic and stylish outfits for your Operator as well as an Infested Syandana."
 
 [/Lotus/Language/Launcher/TAB3_TITLE]
-"STAR CHART AND MARKET FACELIFT"
+"NEW WEAPONS AND CUSTOMIZATIONS"
+
+[/Lotus/Language/Launcher/TDM_Title]
+"TEAM ANNIHILATION"
 
 [/Lotus/Language/Launcher/TEST]
 "Test"
@@ -42040,14 +42783,23 @@ The Market has been completely reworked from the ground up. Quickly navigate thr
 [/Lotus/Language/Locations/ConclaveCTF]
 "Cephalon Capture"
 
+[/Lotus/Language/Locations/ConclaveCTFAlternative]
+"(VARIANT) Cephalon Capture"
+
 [/Lotus/Language/Locations/ConclaveDM]
 "Annihilation"
+
+[/Lotus/Language/Locations/ConclaveDMAlternative]
+"(VARIANT) Annihilation"
 
 [/Lotus/Language/Locations/ConclaveSB]
 "LUNARO ARENA"
 
 [/Lotus/Language/Locations/ConclaveTDM]
 "Team Annihilation"
+
+[/Lotus/Language/Locations/ConclaveTDMAlternative]
+"(VARIANT) Team Annihilation"
 
 [/Lotus/Language/Locations/Corb]
 "Corb"
@@ -42156,6 +42908,33 @@ The Market has been completely reworked from the ground up. Quickly navigate thr
 
 [/Lotus/Language/Locations/Flimnap]
 "Flimnap"
+
+[/Lotus/Language/Locations/Fortress]
+"[PH] Fortress"
+
+[/Lotus/Language/Locations/FortressNodeA]
+"[PH] Fort Assault"
+
+[/Lotus/Language/Locations/FortressNodeB]
+"[PH] Fort Capture"
+
+[/Lotus/Language/Locations/FortressNodeC]
+"[PH] Fort Mobdef"
+
+[/Lotus/Language/Locations/FortressNodeD]
+"[PH] Fort Survival"
+
+[/Lotus/Language/Locations/FortressNodeE]
+"[PH] Fort Defense"
+
+[/Lotus/Language/Locations/FortressNodeF]
+"[PH] Fort Exterminate"
+
+[/Lotus/Language/Locations/FortressNodeG]
+"[PH] Fort Spy"
+
+[/Lotus/Language/Locations/FortressNodeH]
+"[PH] Fort Rescue"
 
 [/Lotus/Language/Locations/Fossa]
 "Fossa"
@@ -44123,6 +44902,9 @@ Darvo"
 [/Lotus/Language/MeleeWeapons/PlaceholderName3]
 "[PH]"
 
+[/Lotus/Language/Menu/Ability_DurationInfinite]
+"INFINITE"
+
 [/Lotus/Language/Menu/Ability_Locked]
 "|SUIT| RANK |X| REQUIRED"
 
@@ -44357,6 +45139,46 @@ Are you sure?"
 [/Lotus/Language/Menu/ArchwingProjectileWarning]
 "<PROBLEM> PROJECTILE INCOMING <PROBLEM>"
 
+[/Lotus/Language/Menu/ArenaGamblingBuyIn]
+"INVEST <CREDITS>|BUYIN|"
+
+[/Lotus/Language/Menu/ArenaGamblingDescHeader]
+"PROFIT CONDITIONS"
+
+[/Lotus/Language/Menu/ArenaGamblingGenericConditions]
+"Win Victory
+Collect |NUM| Index Points"
+
+[/Lotus/Language/Menu/ArenaGamblingHint]
+"<WARNING> MATCH LOSS FORFEITS INVESTMENT AND PROFIT. FAILURE TO COLLECT REQUIRED INDEX POINTS FORFEITS PROFIT ONLY <WARNING>"
+
+[/Lotus/Language/Menu/ArenaGamblingNegModifiers]
+"|NUM| Negative Modifiers"
+
+[/Lotus/Language/Menu/ArenaGamblingPayout]
+"<CREDITS>|PAYOUT| POTENTIAL PROFIT"
+
+[/Lotus/Language/Menu/ArenaGamblingReturn]
+"(<CREDITS>|RETURN| RETURN)"
+
+[/Lotus/Language/Menu/ArenaGamblingSubtitle]
+"CHOOSE YOUR PERSONAL INVESTEMENT"
+
+[/Lotus/Language/Menu/ArenaGamblingTitle]
+"THE INDEX"
+
+[/Lotus/Language/Menu/ArenaInsuffCredits]
+"You do not have enough <CREDITS> to invest in the selected portfolio"
+
+[/Lotus/Language/Menu/ArenaInsuffMinCredits]
+"You do not have enough <CREDITS> to participate in the Index."
+
+[/Lotus/Language/Menu/ArenaInvestConfirm]
+"Are you sure you want to invest <CREDITS>|BUYIN| into the Index?"
+
+[/Lotus/Language/Menu/ArenaSelectWager]
+"PLACE WAGER"
+
 [/Lotus/Language/Menu/Arsenal_ApplyColors]
 "APPLY NEW COLORS"
 
@@ -44418,7 +45240,7 @@ Are you sure?"
 "Omega Only"
 
 [/Lotus/Language/Menu/ArtifactCards_ModActionsFusionTip]
-"<WARNING> SELECT MODS FROM THE COLLECTION TO CONTRIBUTE TOWARDS RANKING UP |MOD|"
+"<WARNING> USE THE +/- BUTTONS TO UPGRADE |MOD|"
 
 [/Lotus/Language/Menu/ArtifactCards_ModActionsGeneralTip]
 "Select Mods from the collection to use modding actions."
@@ -44467,6 +45289,9 @@ Are you sure?"
 
 [/Lotus/Language/Menu/BackgroundError_FailedToConnect]
 "Failed to connect to server. You will be logged out."
+
+[/Lotus/Language/Menu/BackgroundError_UserNameChanged]
+"Online ID change detected.  You will be logged out."
 
 [/Lotus/Language/Menu/Badlands_AddHealCredits]
 "Add Credits to Repair Reserve"
@@ -45664,6 +46489,9 @@ You will no longer own |NAME|.
 
 Are you sure?"
 
+[/Lotus/Language/Menu/ConfirmRenamePet]
+"Are you sure you would like to rename |NAME|? It will cost you |PRICE| platinum."
+
 [/Lotus/Language/Menu/ConfirmSellFormattedPrice]
 "Are you sure you want to sell |ITEMS| for |FORMATTED_PRICE|?"
 
@@ -45763,8 +46591,14 @@ Are you sure?"
 [/Lotus/Language/Menu/Cosmetics_ArmRight]
 "RIGHT ARM"
 
+[/Lotus/Language/Menu/Cosmetics_ArrowSkin]
+"ARROW SKIN"
+
 [/Lotus/Language/Menu/Cosmetics_Attachments]
 "ATTACHMENTS"
+
+[/Lotus/Language/Menu/Cosmetics_AttachPart]
+"ATTACH PART"
 
 [/Lotus/Language/Menu/Cosmetics_BackSigil]
 "BACK SIGIL"
@@ -45795,6 +46629,15 @@ Are you sure?"
 
 [/Lotus/Language/Menu/Cosmetics_CustomBadge]
 "RIGHT EMBLEM"
+
+[/Lotus/Language/Menu/Cosmetics_CustomizeHolster]
+"[PH] CUSTOMIZE"
+
+[/Lotus/Language/Menu/Cosmetics_CustomizeHolsterMainHand]
+"[PH] MAIN HAND"
+
+[/Lotus/Language/Menu/Cosmetics_CustomizeHolsterOffHand]
+"[PH] OFF HAND"
 
 [/Lotus/Language/Menu/Cosmetics_DefaultColors]
 "DEFAULT COLORS"
@@ -45853,6 +46696,9 @@ Are you sure?"
 [/Lotus/Language/Menu/Cosmetics_PlayAnims]
 "PLAY ANIMS"
 
+[/Lotus/Language/Menu/Cosmetics_Position]
+"POSITION"
+
 [/Lotus/Language/Menu/Cosmetics_Properties]
 "PROPERTIES"
 
@@ -45862,8 +46708,14 @@ Are you sure?"
 [/Lotus/Language/Menu/Cosmetics_Regalia]
 "REGALIA"
 
+[/Lotus/Language/Menu/Cosmetics_ResetPosition]
+"RESET POSITION"
+
 [/Lotus/Language/Menu/Cosmetics_ResetProperties]
 "DEFAULT PROPERTIES"
+
+[/Lotus/Language/Menu/Cosmetics_ResetRotation]
+"RESET ROTATION"
 
 [/Lotus/Language/Menu/Cosmetics_Rotation]
 "ROTATION"
@@ -46410,6 +47262,9 @@ Are you sure?"
 
 [/Lotus/Language/Menu/CraftingComponent_CernosPrimeLowerLimb]
 "CERNOS PRIME LOWER LIMB"
+
+[/Lotus/Language/Menu/CraftingComponent_CernosPrimeString]
+"CERNOS PRIME STRING"
 
 [/Lotus/Language/Menu/CraftingComponent_CernosPrimeUpperLimb]
 "CERNOS PRIME UPPER LIMB"
@@ -47280,6 +48135,12 @@ Are you sure?"
 
 [/Lotus/Language/Menu/CraftingComponent_PrimeTigrisStock]
 "TIGRIS PRIME STOCK"
+
+[/Lotus/Language/Menu/CraftingComponent_PrimeVenkaClawsBlade]
+"VENKA PRIME BLADES"
+
+[/Lotus/Language/Menu/CraftingComponent_PrimeVenkaClawsGauntlet]
+"VENKA PRIME GAUNTLET"
 
 [/Lotus/Language/Menu/CraftingComponent_PrimeWyrmCarapace]
 "WYRM PRIME CARAPACE"
@@ -48515,20 +49376,32 @@ Scales with Mastery Rank"
 [/Lotus/Language/Menu/FusionTreasureMgr_TreasureCategory]
 "SCULPTURES"
 
-[/Lotus/Language/Menu/FusionTreasuresMgr_EmptySocketInfo]
-"[PH] This socket fits:"
-
 [/Lotus/Language/Menu/FusionTreasuresMgr_NoTreasuresHint]
 "You do not own any Ayatan Sculptures or Stars."
-
-[/Lotus/Language/Menu/FusionTreasuresMgr_SocketHint]
-"[PH] CLICK TO PLACE ORNAMENT"
 
 [/Lotus/Language/Menu/FusionTreasuresMgr_Title]
 "AYATAN SCULPTURES"
 
 [/Lotus/Language/Menu/FusionTreauresMgr_NoItemsForSocket]
 "You do not have any |ITEM| that can be installed into this socket."
+
+[/Lotus/Language/Menu/Gambling_BuyIn]
+"Initial Investment: <CREDITS>|VAL|"
+
+[/Lotus/Language/Menu/Gambling_WagerDesc]
+"[PH] A chance to win |VAL| Corpus Chips! Gain a personal score of |GOAL| Points and emerge victorious to win the bet."
+
+[/Lotus/Language/Menu/Gambling_WagerModifiersDesc]
+"[PH] Unsponsored participants will be affected by |VAL| modifier(s) for the duration of the match."
+
+[/Lotus/Language/Menu/Gambling_WagerOne]
+"LOW RISK INVESTMENT"
+
+[/Lotus/Language/Menu/Gambling_WagerThree]
+"HIGH RISK INVESTMENT"
+
+[/Lotus/Language/Menu/Gambling_WagerTwo]
+"MEDIUM RISK INVESTMENT"
 
 [/Lotus/Language/Menu/GameInviteAcceptHint]
 "Click to join"
@@ -48667,6 +49540,9 @@ Scales with Mastery Rank"
 
 [/Lotus/Language/Menu/GetGeneticSignaturesHowTo]
 "Kavat Genetic Codes can be collected by scanning wild kavats or by purchasing them from the Market."
+
+[/Lotus/Language/Menu/GhostTowerProgress]
+"[PH] TOWER CAPACITY"
 
 [/Lotus/Language/Menu/GiftChooseRecipientPartOne]
 "Who would you like to send this gift to?"
@@ -49021,6 +49897,24 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 
 [/Lotus/Language/Menu/HoldToClear]
 "HOLD TO CLEAR"
+
+[/Lotus/Language/Menu/HolsterCustomization_HPT_LEFT_FOREARM]
+"[PH] LEFT FOREARM"
+
+[/Lotus/Language/Menu/HolsterCustomization_HPT_LEFT_THIGH]
+"[PH] LEFT THIGH"
+
+[/Lotus/Language/Menu/HolsterCustomization_HPT_LOWER_TORSO]
+"[PH] LOWER TORSO"
+
+[/Lotus/Language/Menu/HolsterCustomization_HPT_RIGHT_FOREARM]
+"[PH] RIGHT FOREARM"
+
+[/Lotus/Language/Menu/HolsterCustomization_HPT_RIGHT_THIGH]
+"[PH] RIGHT THIGH"
+
+[/Lotus/Language/Menu/HolsterCustomization_HPT_UPPER_TORSO]
+"[PH] UPPER TORSO"
 
 [/Lotus/Language/Menu/HonorOfTheLotus]
 "HONOR OF THE LOTUS: 50% off your next purchase of Platinum"
@@ -49682,6 +50576,9 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 [/Lotus/Language/Menu/ItemInventory_ConsumableSingular]
 "|NUMBER| Gear"
 
+[/Lotus/Language/Menu/ItemInventory_InsuffCreditsForSell]
+"You do not have enough <CREDITS> for this sell operations cost."
+
 [/Lotus/Language/Menu/ItemInventory_LongGunPlural]
 "|NUMBER| Rifles"
 
@@ -49764,7 +50661,7 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "TREASURE EXCHANGE"
 
 [/Lotus/Language/Menu/ItemInventory_SellPile]
-"SELL PILE"
+"SELL PILE (TOTAL: |TOTAL|)"
 
 [/Lotus/Language/Menu/ItemInventory_SellPileTotal]
 "PILE SALE VALUE:"
@@ -49966,6 +50863,12 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 
 [/Lotus/Language/Menu/LaunchMission]
 "LAUNCH MISSION"
+
+[/Lotus/Language/Menu/LB_HostScore]
+"Host Score"
+
+[/Lotus/Language/Menu/LB_MaxUptime]
+"Max Uptime"
 
 [/Lotus/Language/Menu/Leaderboards_ClanBest]
 "Clan Best"
@@ -50629,6 +51532,10 @@ PvP compatible gear can be differentiated by the <CONCLAVE> or <UNIVERSAL> symbo
 [/Lotus/Language/Menu/Lobby_FindSquad]
 "Find Squad"
 
+[/Lotus/Language/Menu/Lobby_GreedCreditsRequirementDesc]
+"MINIMUM INVESTMENT <CREDITS>|COUNT|
+(<CREDITS>|OWNED| OWNED)"
+
 [/Lotus/Language/Menu/Lobby_HostLeft]
 "Host left, squad disbanding."
 
@@ -51086,6 +51993,9 @@ You will be charged |COSTCURRENCY| |COST|."
 [/Lotus/Language/Menu/MenuExitArenaDescription]
 "ABANDON THE FIGHT"
 
+[/Lotus/Language/Menu/MenuFastTravel]
+"FAST TRAVEL"
+
 [/Lotus/Language/Menu/MenuFocusDescription]
 "UNLOCK THE POWER OF THE TENNO WAYS"
 
@@ -51097,6 +52007,15 @@ You will be charged |COSTCURRENCY| |COST|."
 
 [/Lotus/Language/Menu/MenuFriendsDescription]
 "VIEW FRIENDS AND RECENTLY MET PLAYERS"
+
+[/Lotus/Language/Menu/MenuGotoDarvoDescription]
+"GO TO DARVO'S SHOP"
+
+[/Lotus/Language/Menu/MenuGotoSimaris]
+"CEPHALON SIMARIS"
+
+[/Lotus/Language/Menu/MenuGotoSimarisDescription]
+"GO TO SIMARIS' SANCTUARY"
 
 [/Lotus/Language/Menu/MenuHelp]
 "HELP"
@@ -52346,6 +53265,12 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/Options_Display_TrilinearFiltering_Tip]
 "Allows for smoother transitions between textures."
 
+[/Lotus/Language/Menu/Options_Display_VolumetricLighting]
+"Volumetric Lighting"
+
+[/Lotus/Language/Menu/Options_Display_VolumetricLighting_Tip]
+"Light rays and lit fog effects. Disable to improve performance."
+
 [/Lotus/Language/Menu/Options_DisplayCustomize_AspectRatio]
 "Aspect Ratio"
 
@@ -52354,6 +53279,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 
 [/Lotus/Language/Menu/Options_DisplayCustomize_Borderless]
 "Borderless Fullscreen"
+
+[/Lotus/Language/Menu/Options_DisplayCustomize_Custom]
+"Custom"
 
 [/Lotus/Language/Menu/Options_DisplayCustomize_DisplayMode]
 "Display Mode"
@@ -52528,6 +53456,15 @@ If your system supports DirectX 11 you can enable it in the launcher."
 
 [/Lotus/Language/Menu/Options_Gore]
 "Gore Enabled"
+
+[/Lotus/Language/Menu/Options_Graphics_Preset]
+"Preset"
+
+[/Lotus/Language/Menu/Options_Graphics_Quality]
+"GRAPHICS QUALITY"
+
+[/Lotus/Language/Menu/Options_Graphics_Quality_Tip]
+"Determines overall graphics quality. Will change all advanced options below."
 
 [/Lotus/Language/Menu/Options_HUDAbilityDots]
 "Show Ability Dots"
@@ -52849,6 +53786,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 
 [/Lotus/Language/Menu/Profile_Deaths]
 "Deaths"
+
+[/Lotus/Language/Menu/Profile_DedicatedServers]
+"Dedicated Servers"
 
 [/Lotus/Language/Menu/Profile_DuelingStats]
 "CONCLAVE STATS"
@@ -53216,6 +54156,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/ProgressPercentage]
 "|CURRENT|%"
 
+[/Lotus/Language/Menu/ProgressSeconds]
+"|CURRENT|s"
+
 [/Lotus/Language/Menu/ProgressXOfY]
 "|CURRENT|/|TOTAL|"
 
@@ -53401,6 +54344,18 @@ Do you wish to enable Recruit Conditioning?"
 [/Lotus/Language/Menu/PvpCombatantStats]
 "COMBATANT STATS"
 
+[/Lotus/Language/Menu/PVPCTFAlternativeModeDesc]
+"Equipped only with a modified Opticor, face your fellow Tenno in a lethal one hit to kill battle! Mobility normalized and Passives/Abilities disabled."
+
+[/Lotus/Language/Menu/PVPCTFAlternativeModeName]
+"VARIANT"
+
+[/Lotus/Language/Menu/PVPDMAlternativeModeDesc]
+"Equipped only with a modified Opticor, face your fellow Tenno in a lethal one hit to kill battle! Mobility normalized and Passives/Abilities disabled."
+
+[/Lotus/Language/Menu/PVPDMAlternativeModeName]
+"VARIANT"
+
 [/Lotus/Language/Menu/PvpDMLoserSubTitle]
 "|POSITION|TH PLACE"
 
@@ -53443,6 +54398,9 @@ Do you wish to enable Recruit Conditioning?"
 [/Lotus/Language/Menu/PvpMapVoteHint]
 "VOTE FOR NEXT MAP"
 
+[/Lotus/Language/Menu/PvpMapVoteLabel]
+"VOTES"
+
 [/Lotus/Language/Menu/PvpMatchDefeat]
 "DEFEAT"
 
@@ -53466,6 +54424,9 @@ Do you wish to enable Recruit Conditioning?"
 
 [/Lotus/Language/Menu/PvpMatchVictory]
 "VICTORY!"
+
+[/Lotus/Language/Menu/PvpRematchLabel]
+"REMATCH"
 
 [/Lotus/Language/Menu/PvpReplay]
 "[PH] REPLAY"
@@ -53520,6 +54481,12 @@ Do you wish to enable Recruit Conditioning?"
 
 [/Lotus/Language/Menu/PvpSpawningIn]
 "Spawning in |SECONDS|"
+
+[/Lotus/Language/Menu/PVPTDMAlternativeModeDesc]
+"Equipped only with a modified Opticor, face your fellow Tenno in a lethal one hit to kill battle! Mobility normalized and Passives/Abilities disabled."
+
+[/Lotus/Language/Menu/PVPTDMAlternativeModeName]
+"VARIANT"
 
 [/Lotus/Language/Menu/PvpTeam1]
 "SUN"
@@ -53743,6 +54710,15 @@ Do you wish to enable Recruit Conditioning?"
 [/Lotus/Language/Menu/RemoveShipDecoConfirm]
 "Are you sure you want to remove this decoration? It will be returned to your inventory."
 
+[/Lotus/Language/Menu/RenameCompanion]
+"RENAME |NAME|"
+
+[/Lotus/Language/Menu/RenameCompanionTitle]
+"RENAME COMPANION"
+
+[/Lotus/Language/Menu/RenamePetCantAffordError]
+"You do not have enough platinum to rename your pet."
+
 [/Lotus/Language/Menu/ReportPlayer_ConfirmText]
 "Complaints are taken very seriously. Filing a false complaint is an offense and action will be taken against your account. Continue?"
 
@@ -53769,6 +54745,24 @@ Do you wish to enable Recruit Conditioning?"
 
 [/Lotus/Language/Menu/Reputation_Team]
 "Team"
+
+[/Lotus/Language/Menu/REROLL_BtnActive]
+"[PH] REROLL OMEGA MOD FOR |PRICE|"
+
+[/Lotus/Language/Menu/REROLL_Confirm]
+"[PH] Are you sure you want to reroll |MOD|? It will cost |PRICE| and the mod will have to be reidentified."
+
+[/Lotus/Language/Menu/REROLL_Description]
+"[PH] Randomize Omega mods stats while preserving its compatible weapon, MR requirement, and fusion level"
+
+[/Lotus/Language/Menu/REROLL_InsuffCurrency]
+"[PH] INSUFFICIENT KUVA (|PRICE| NEEDED)"
+
+[/Lotus/Language/Menu/REROLL_Title]
+"REROLL"
+
+[/Lotus/Language/Menu/REROLL_UnidentifiedMod]
+"[PH] CANNOT REROLL A UNIDENTIFIED MOD"
 
 [/Lotus/Language/Menu/ReservedChamber]
 "RESERVED SLOT"
@@ -54171,11 +55165,28 @@ Thank you for your partnership."
 [/Lotus/Language/Menu/Sharkwing]
 "<ARCHWING> SUBMERSIBLE"
 
+[/Lotus/Language/Menu/ShipDecoCantEdit]
+"[PH] This decoration does not have any settings to edit (did you mean to move/remove it?)."
+
 [/Lotus/Language/Menu/ShipDecoCapacityCost]
 "Capacity cost: |COST|"
 
+[/Lotus/Language/Menu/ShipDecoEditContents]
+"<DOJO_SELECTION_EDIT> Edit decoration contents"
+
 [/Lotus/Language/Menu/ShipDecoEditMode]
 "Aim at a decoration and press <DOJO_SELECTION_PLACE> to remove, <DOJO_SELECTION_EXIT> to quit"
+
+[/Lotus/Language/Menu/ShipDecoFocused]
+"<DOJO_SELECTION_PLACE> Move decoration
+<DOJO_SELECTION_ROTATE> Remove decoration"
+
+[/Lotus/Language/Menu/ShipDecoGeneral]
+"<DOJO_SELECTION_ADD> Place decoration
+<DOJO_SELECTION_EXIT> Exit"
+
+[/Lotus/Language/Menu/ShipDecoMoveFailed]
+"Failed to move decoration."
 
 [/Lotus/Language/Menu/ShipDecoNeedMoreCapacity]
 "You do not have enough remaining capacity to place this decoration."
@@ -54184,7 +55195,11 @@ Thank you for your partnership."
 "Failed to place decoration."
 
 [/Lotus/Language/Menu/ShipDecoPlacementMode]
-"Aim to place, <DOJO_SELECTION_ROTATE> + drag to rotate, hold <DOJO_SELECTION_SNAP> to snap, <DOJO_SELECTION_PLACE> to confirm, <DOJO_SELECTION_EXIT> to quit"
+"Aim to place
+<DOJO_SELECTION_ROTATE> Rotate
+<DOJO_SELECTION_SNAP> Snap
+<DOJO_SELECTION_PLACE> Confirm
+<DOJO_SELECTION_EXIT> Cancel"
 
 [/Lotus/Language/Menu/ShipDecoRemovalFailed]
 "Failed to remove decoration."
@@ -55715,6 +56730,9 @@ Ordis, Ship's Cephalon"
 [/Lotus/Language/Menu/TRANSMUTE_SelectedCookedModError]
 "CANNOT TRANSMUTE RANKED MOD |MOD|"
 
+[/Lotus/Language/Menu/TRANSMUTE_SelectedOmegaModError]
+"CANNOT TRANSMUTE OMEGA MODS"
+
 [/Lotus/Language/Menu/TRANSMUTE_TooManySelectionsError]
 "CAN ONLY HAVE 4 MODS SELECTED TO BEGIN TRANSMUTATION"
 
@@ -55994,6 +57012,9 @@ This one is dedicated to you."
 [/Lotus/Language/Menu/VoteInProgress]
 "Cannot select another mission while a vote is in progress."
 
+[/Lotus/Language/Menu/WagerProgressTitle]
+"Personal Point Target:"
+
 [/Lotus/Language/Menu/WaitingToBeHealed]
 "A teammate needs to be revived!"
 
@@ -56263,6 +57284,9 @@ https://warframe.com/eula"
 [/Lotus/Language/Mods/ComboStatusChanceMod]
 "Weeping Wounds"
 
+[/Lotus/Language/Mods/CompanionMedipetKitMod]
+"Medi-Pet Kit"
+
 [/Lotus/Language/Mods/CovertLethalityMeleeDamage]
 "|val| Extra Damage on melee attacks, or Lethal Damage on finishers"
 
@@ -56385,6 +57409,12 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Mods/DamageResistanceLessSlide_desc]
 "|val|% Damage Resistance while dodging,"
+
+[/Lotus/Language/Mods/DespairEnergyDrainAoE]
+"Draining Gloom"
+
+[/Lotus/Language/Mods/DespairEnergyDrainAoEDesc]
+"|val|% chance of Energy Drain explosion"
 
 [/Lotus/Language/Mods/DrakgoonNightwatchMod]
 "Fomorian Accelerant"
@@ -56624,7 +57654,7 @@ https://warframe.com/eula"
 "Final Act"
 
 [/Lotus/Language/Mods/IncreasedEfficiencyOnLowHealth_desc]
-"At low health, |val|% Ability Efficiency"
+"When Health drops below 50, |val|% Ability Efficiency"
 
 [/Lotus/Language/Mods/IncreasedEfficiencyOnLowHealth_descsecond]
 "and |val|% Ability Range for 4 seconds"
@@ -56642,7 +57672,7 @@ https://warframe.com/eula"
 "Tactical Retreat"
 
 [/Lotus/Language/Mods/IncreasedMobilityOnLowHealth_desc]
-"At low health, |val| Mobility for 4 seconds"
+"When Health drops below 50, |val|% Mobility for 4 seconds"
 
 [/Lotus/Language/Mods/IncreasedMobilityOnLowHealth_descsecond]
 "and |val|% damage resistance while airborne for 4 seconds"
@@ -56812,6 +57842,9 @@ https://warframe.com/eula"
 [/Lotus/Language/Mods/PassiveReloadShotgunMod]
 "Lock and Load"
 
+[/Lotus/Language/Mods/ProvaCorpusArenaMod]
+"Static Discharge"
+
 [/Lotus/Language/Mods/PvPMobility]
 "|val|% Mobility"
 
@@ -56872,11 +57905,17 @@ https://warframe.com/eula"
 [/Lotus/Language/Mods/SeekingFuryMod]
 "Seeking Fury"
 
+[/Lotus/Language/Mods/SentinelShieldAuraMod]
+"[PH] Sentinel Shield Aura"
+
 [/Lotus/Language/Mods/SentinelWeaknessScanPrecept]
 "Detect Vulnerability"
 
 [/Lotus/Language/Mods/SentinelWeaknessScanPreceptDesc]
 "Upon completing research on an enemy, subsequent scans will reveal their weak points."
+
+[/Lotus/Language/Mods/ShieldAuraPreceptName]
+"Shield Charger"
 
 [/Lotus/Language/Mods/ShieldsToCritAuraDesc]
 "Charge attacks get |val| Status Chance and Status Damage, but drain |drain| shields per hit."
@@ -56923,6 +57962,12 @@ https://warframe.com/eula"
 [/Lotus/Language/Mods/StatusProcWhileAimingShotgunMod]
 "Nano-Applicator"
 
+[/Lotus/Language/Mods/SupraCorpusArenaMod]
+"Thermagnetic Shells"
+
+[/Lotus/Language/Mods/TetraCorpusArenaMod]
+"Kinetic Ricochet"
+
 [/Lotus/Language/Mods/TigrisLargerAmmoPoolMod]
 "Bandolier"
 
@@ -56946,6 +57991,9 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Mods/WallClingDesc]
 "Consumes stamina to cling to a wall after performing a vertical wall run"
+
+[/Lotus/Language/Mods/WarframeModStaggerRecovery]
+"Pain Threshold"
 
 [/Lotus/Language/Mods/WeaponMeleeArmorShatterMod]
 "Shattering Impact"
@@ -58924,6 +59972,72 @@ As proof of your deed"
 [/Lotus/Language/Pvp/PressButtonToRespawn]
 "Press |BUTTON| to Respawn"
 
+[/Lotus/Language/Pvp/PVPActivateDefenses]
+"[PH] ACTIVATE DEFENSES"
+
+[/Lotus/Language/Pvp/PVPCephalonMapName]
+"CEPHALON CITADEL"
+
+[/Lotus/Language/Pvp/PVPCephalonSpireMapName]
+"CEPHALON SPIRES"
+
+[/Lotus/Language/Pvp/PVPCorpusCoreMapName]
+"CORE"
+
+[/Lotus/Language/Pvp/PVPCorpusGasMapName]
+"GAS WORKS"
+
+[/Lotus/Language/Pvp/PVPCorpusShipMapName]
+"FREIGHT LINE"
+
+[/Lotus/Language/Pvp/PVPCTCInfestedName]
+"INFESTED FRIGATE"
+
+[/Lotus/Language/Pvp/PVPCTCOrokinMapName]
+"SHRINE"
+
+[/Lotus/Language/Pvp/PVPFortMapName]
+"BUNKERS"
+
+[/Lotus/Language/Pvp/PVPGrineerGalleonMapName]
+"NAVIGATION ARRAY"
+
+[/Lotus/Language/Pvp/PVPGrineerOceanMapName]
+"DOCKING BAY"
+
+[/Lotus/Language/Pvp/PVPGrineerSettlementMapName]
+"CANYON SETTLEMENT"
+
+[/Lotus/Language/Pvp/PVPLunaroArbitersMapName]
+"ARBITERS ARENA"
+
+[/Lotus/Language/Pvp/PVPLunaroMoonMapName]
+"OROKIN ARENA"
+
+[/Lotus/Language/Pvp/PVPLunaroPerrinSequenceMapName]
+"PERRIN SEQUENCE ARENA"
+
+[/Lotus/Language/Pvp/PVPLunaroSettlementMapName]
+"STEEL MERIDIAN ARENA"
+
+[/Lotus/Language/Pvp/PVPLunaroTennoMapName]
+"[PH] Tenno Arena"
+
+[/Lotus/Language/Pvp/PVPOrokinDerelictMapName]
+"DERELICT CHAMBERS"
+
+[/Lotus/Language/Pvp/PVPOrokinMoonHallsMapName]
+"FORGOTTEN HALLS"
+
+[/Lotus/Language/Pvp/PVPOroMoonMapName]
+"LUA RUINS"
+
+[/Lotus/Language/Pvp/PVPOutpostCliffPortMapName]
+"OUTPOST"
+
+[/Lotus/Language/Pvp/PVPShipyardsMapName]
+"SHIPYARDS"
+
 [/Lotus/Language/Pvp/PVPWeeklyChallengeRewardInbox_Body]
 "Pupil,
 
@@ -59994,6 +61108,30 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/ShipDecorations/BobbleheadCaptainVorName]
 "NOGGLE STATUE - VOR"
 
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamAHeavyDesc]
+"A small wobbly statue of Ved Xol."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamAHeavyName]
+"NOGGLE STATUE - VED XOL"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamARifleDesc]
+"A small wobbly statue of Nako Xol."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamARifleName]
+"NOGGLE STATUE - NAKO XOL"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamASkateDesc]
+"A small wobbly statue of Pelna Cade."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamASkateName]
+"NOGGLE STATUE - PELNA CADE"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamAZanukaDesc]
+"A small wobbly statue of Lockjaw & Sol."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamAZanukaName]
+"NOGGLE STATUE - LOCKJAW & SOL"
+
 [/Lotus/Language/ShipDecorations/BobbleheadClemDesc]
 "A small wobbly statue of Clem."
 
@@ -60735,6 +61873,12 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Sigils/FounderSigilMasterName]
 "MASTER SIGIL"
 
+[/Lotus/Language/Sigils/IndexEventSigilDesc]
+"A memento of The Index."
+
+[/Lotus/Language/Sigils/IndexEventSigilName]
+"THE INDEX SIGIL"
+
 [/Lotus/Language/Sigils/KelaEventSigilDesc]
 "A sigil commemorating the liberation of defectors from the Grineer."
 
@@ -60832,10 +61976,16 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "ACOLYTE SIGIL"
 
 [/Lotus/Language/Sigils/PS4OneYearSigilDesc]
-" "
+"Commemorates the Tenno who have honored the Lotus for one cycle."
 
 [/Lotus/Language/Sigils/PS4OneYearSigilName]
-"Cycle One Sigil"
+"CYCLE ONE SIGIL"
+
+[/Lotus/Language/Sigils/PS4ThreeYearSigilDesc]
+"Commemorates the Tenno who have honored the Lotus for three cycles."
+
+[/Lotus/Language/Sigils/PS4ThreeYearSigilName]
+"CYCLE THREE SIGIL"
 
 [/Lotus/Language/Sigils/PS4TwoYearSigilDesc]
 "Commemorates the Tenno who have honored the Lotus for two cycles."
@@ -62300,6 +63450,86 @@ Using Archwing’s jets for thrust, this massive hammer crushes anything in its 
 [/Lotus/Language/SteamWorkshop/SetkaSyandanaName]
 "SETKA SYANDANA"
 
+[/Lotus/Language/SteamWorkshop/SWRFiveAtlasArhatHelmetDesc]
+"A helmet for the Atlas Warframe, designed by Rekkou
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveAtlasArhatHelmetName]
+"ATLAS ARHAT HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveBoltaraScarfDesc]
+"A syandana for your Warframe, designed by Faven_PS and Scharkie
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveBoltaraScarfName]
+"BOLTARA SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveChromaDrevniSkinDesc]
+"A unique skin for the Chroma Warframe, designed by Volkovyi
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveChromaDrevniSkinName]
+"CHROMA DREVNI SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveDeruScarfDesc]
+"A syandana for your Warframe, designed by malayu
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveDeruScarfName]
+"DERU SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveLokiRogueHelmetDesc]
+"A helmet for the Loki Warframe, designed by artarrwen
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveLokiRogueHelmetName]
+"LOKI ROGUE HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveOberonDestrierHelmetDesc]
+"A helmet for the Oberon Warframe, designed by Rekkou
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveOberonDestrierHelmetName]
+"OBERON DESTRIER HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveOfficiumScarfDesc]
+"A syandana for your Warframe, designed by Hitsu San and Operative Shift
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveOfficiumScarfName]
+"OFFICIUM SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveTrinityMessiahHelmetDesc]
+"A helmet for the Trinity Warframe, designed by Cheshire
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveTrinityMessiahHelmetName]
+"TRINITY MESSIAH HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveValkyrCheetahHelmetDesc]
+"A helmet for the Valkyr Warframe, designed by Cheshire
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveValkyrCheetahHelmetName]
+"VALKYR CHEETAH HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveWukongXingzheHelmetDesc]
+"A helmet for the Wukong Warframe, designed by Rekkou
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRFiveWukongXingzheHelmetName]
+"WUKONG XINGZHE HELMET"
+
 [/Lotus/Language/SteamWorkshop/SWRFourAylaScarfDesc]
 "A syandana for your Warframe, designed by Cobalt and malayu
 
@@ -63530,6 +64760,313 @@ You will be given the opportunity to make this right."
 
 [/Lotus/Language/Subtitles/Events/DStkrTaunt00230]
 "I am your reckoning!"
+
+[/Lotus/Language/Subtitles/Events/DTIAfterBell0140Sark]
+"The bell! Start killing, fishies, er, brokers."
+
+[/Lotus/Language/Subtitles/Events/DTIAfterBell0150Sark]
+"And the brokers start trading bullets!"
+
+[/Lotus/Language/Subtitles/Events/DTIAfterBell0160Sark]
+"The Index opens for capitalization!"
+
+[/Lotus/Language/Subtitles/Events/DTIAfterBell0170Sark]
+"And the brokers are off!"
+
+[/Lotus/Language/Subtitles/Events/DTIAfterBell0180Sark]
+"Let the trading begin. Exciting!"
+
+[/Lotus/Language/Subtitles/Events/DTIAfterBell0190Sark]
+"An eruption of chaos on the trading floor."
+
+[/Lotus/Language/Subtitles/Events/DTICapCorpusCatchUp0420Sark]
+"Anyo Corp, is working its way out of debt."
+
+[/Lotus/Language/Subtitles/Events/DTICapCorpusCatchUp0430Sark]
+"Big capitalization for Anyo Corp."
+
+[/Lotus/Language/Subtitles/Events/DTICapCorpusCatchUp0440Sark]
+"Anyo Corp, on the comeback."
+
+[/Lotus/Language/Subtitles/Events/DTICapCorpusWin0360Sark]
+"Capitalization Anyo. A dark day for the Tenno."
+
+[/Lotus/Language/Subtitles/Events/DTICapCorpusWin0370Sark]
+"Can Tenno turn this one around? Let's watch."
+
+[/Lotus/Language/Subtitles/Events/DTICapCorpusWin0380Sark]
+"Tough break for Tenno. Investors upset."
+
+[/Lotus/Language/Subtitles/Events/DTICapCorpusWin0390Sark]
+"Anyo Corp pulls ahead. Delightful!"
+
+[/Lotus/Language/Subtitles/Events/DTICapCorpusWin0400Sark]
+"The Tenno are feeling the pain- financially."
+
+[/Lotus/Language/Subtitles/Events/DTICapCorpusWin0410Sark]
+"Nef's rising on the index with that Capitalization."
+
+[/Lotus/Language/Subtitles/Events/DTICapNeutral0200Sark]
+"What a transaction!"
+
+[/Lotus/Language/Subtitles/Events/DTICapNeutral0210Sark]
+"Restrained enthusiasm for that capitalization."
+
+[/Lotus/Language/Subtitles/Events/DTICapNeutral0220Sark]
+"Shares soar on that brutal Capitalization."
+
+[/Lotus/Language/Subtitles/Events/DTICapNeutral0230Sark]
+"Investors smiling on that Capitalization."
+
+[/Lotus/Language/Subtitles/Events/DTICapNeutral0240Sark]
+"Capitalization."
+
+[/Lotus/Language/Subtitles/Events/DTICapNeutral0250Sark]
+"Capitalizations trending up."
+
+[/Lotus/Language/Subtitles/Events/DTICapNeutral0260Sark]
+"The Index is up."
+
+[/Lotus/Language/Subtitles/Events/DTICapNeutral0270Sark]
+"That broker wants a bonus."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoCatchUp0600Sark]
+"Tenno, one step closer to financial freedom."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoCatchUp0610Sark]
+"Tenno, clawing back gains."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoCatchUp0620Sark]
+"The Tenno desperately trying to become the market leader."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoCatchUp0630Sark]
+"A Cap for Team Tenno. Investors asking, "will it be enough to stop Anyo Corp?""
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoRally0700Sark]
+"I smell a rally!"
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoRally0710Sark]
+"The Tenno are swimming up The Index."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoRally0720Sark]
+"Tenno rally on The Index. Dramatic."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoRally0730Sark]
+"Tenno rally drives Anyo Corp confidence down, down, down."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoRally0740NefAnyo]
+"Come on Brokers, how long are you going to let them do this to you?"
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoRally0750NefAnyo]
+"Brokers, you need turn this around. Your livelihood and life depend on it."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoWin0640Sark]
+"Nef's Brokers- in the red."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoWin0650Sark]
+"Nef, taking big hits on The Index."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoWin0660Sark]
+"Not a good day on The Index for Nef and his brokers."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoWin0670Sark]
+"Bad day for Anyo, and his investors."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoWin0680Sark]
+"It's a hostile market for ANYO Corp."
+
+[/Lotus/Language/Subtitles/Events/DTICapTennoWin0690Sark]
+"The Tenno score. Investors get jittery."
+
+[/Lotus/Language/Subtitles/Events/DTICloseMatch0790Sark]
+"This is either team's match."
+
+[/Lotus/Language/Subtitles/Events/DTICloseMatch0800Sark]
+"It's too close to call."
+
+[/Lotus/Language/Subtitles/Events/DTICloseMatch0810Sark]
+"Either side could take the The Index today."
+
+[/Lotus/Language/Subtitles/Events/DTICloseMatch0820Sark]
+"The Analysts are at a loss to predict this outcome."
+
+[/Lotus/Language/Subtitles/Events/DTIConversion0940Sark]
+"Shocking turn of events- appropriate expression."
+
+[/Lotus/Language/Subtitles/Events/DTIConversion0950Sark]
+"Carnage. Points everywhere. Wonderful!"
+
+[/Lotus/Language/Subtitles/Events/DTIConversion0960Sark]
+"All eyes on that market upset."
+
+[/Lotus/Language/Subtitles/Events/DTIConversion0970Sark]
+"Got'em, right in the finances."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusRally0450Sark]
+"Look at this! Nef's brokers are rallying and the Tenno are desperate."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusRally0460Sark]
+"Nef's investors have to be smiling today."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusRally0470Sark]
+"The Tenno are losing. Biased excitement."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusRally0480NefAnyo]
+"By the Void, keep it up!"
+
+[/Lotus/Language/Subtitles/Events/DTICorpusRally0490NefAnyo]
+"There's a bonus for each one of you at the end of this match."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusRally0500NefAnyo]
+"Do you see Investors, this is why you choose Anyo Corp."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusWin1020Sark]
+"Anyo Corp comes out on top. Go boss."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusWin1030Sark]
+"A win for Anyo Corp. Sark, barely able to restrain joy."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusWin1040Sark]
+"The boss wins. Sark is pleased."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusWin1050NefAnyo]
+"The Void was not good to you today Tenno. But keep investing, perhaps it will smile on you next time."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusWin1060NefAnyo]
+"Thank you for the credits Tenno."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusWin1070NefAnyo]
+"Don't worry Tenno, I'll put these credits to excellent use."
+
+[/Lotus/Language/Subtitles/Events/DTICorpusWin1080NefAnyo]
+"To be quite honest Tenno, I don't think you have what it takes to be a broker."
+
+[/Lotus/Language/Subtitles/Events/DTICrowd1200Sark]
+"Lots of investors on the floor today."
+
+[/Lotus/Language/Subtitles/Events/DTICrowd1210Sark]
+"Nef Anyo would like to welcome Padovan colony to The Index."
+
+[/Lotus/Language/Subtitles/Events/DTICrowd1220NefAnyo]
+"Investors, welcome to The Index. May the Void bless your precious credits."
+
+[/Lotus/Language/Subtitles/Events/DTICrowd1230NefAnyo]
+"Investors, are you down on The Index? There's only one answer: invest more credits. The Void rewards faith."
+
+[/Lotus/Language/Subtitles/Events/DTIDropsPoints0830Sark]
+"Broker down."
+
+[/Lotus/Language/Subtitles/Events/DTIDropsPoints0840Sark]
+"Points in the open."
+
+[/Lotus/Language/Subtitles/Events/DTIDropsPoints0850Sark]
+"Investors are eyeing those dropped points."
+
+[/Lotus/Language/Subtitles/Events/DTIDropsPoints0860Sark]
+"Index points up for grabs."
+
+[/Lotus/Language/Subtitles/Events/DTIIndexModeGeneral0760Sark]
+"Who will swim to the top of the Index first?"
+
+[/Lotus/Language/Subtitles/Events/DTIIndexModeGeneral0770Sark]
+"Capitalize, capitalize, capitalize. This is the Index."
+
+[/Lotus/Language/Subtitles/Events/DTIIndexModeGeneral0780Sark]
+"Can the Tenno fend off Nef's brokers to rise to the Top of the Index?"
+
+[/Lotus/Language/Subtitles/Events/DTIIntro0010NefAnyo]
+"Has the Void been good to you? Has it taken your seed and turned it into a tree of wealth? Well, what if I told you the Void could turn that wealth into a fortune? It can, but only if you have faith. Ask yourself, "Do I trust in the Void? Am I willing to put my investment into its glorious hands? Is my belief strong enough to reap its massive rewards?" Believer, if you're crying out "YES", then The Index is for you. 
+
+The Index, it's where investors of faith seek fortune."
+
+[/Lotus/Language/Subtitles/Events/DTIIntro0011NefAnyo]
+"Has the Void been good to you? Has it taken your seed and turned it into a tree of wealth? Well, what if I told you the Void could turn that wealth into a fortune? It can, but only if you have faith. Ask yourself, "Do I trust in the Void? Am I willing to put my investment into its glorious hands? Is my belief strong enough to reap its massive rewards?" Believer, if you're crying out "YES", then The Index is for you. 
+
+The Index, it's where investors of faith seek fortune."
+
+[/Lotus/Language/Subtitles/Events/DTIManyPoints0870Sark]
+"That broker's carrying a lot of points. This is a risky transaction."
+
+[/Lotus/Language/Subtitles/Events/DTIManyPoints0880Sark]
+"More points in the Vault."
+
+[/Lotus/Language/Subtitles/Events/DTIManyPoints0890Sark]
+"Points in the bank mean credits in the pocket."
+
+[/Lotus/Language/Subtitles/Events/DTIManyPoints0900Sark]
+"Eyes on broker with many points, risky move."
+
+[/Lotus/Language/Subtitles/Events/DTIManyPoints0910Sark]
+"Brokers holding many points look like shiny bait."
+
+[/Lotus/Language/Subtitles/Events/DTIManyPoints0920Sark]
+"Holding lots of points is dangerous- and thrilling!"
+
+[/Lotus/Language/Subtitles/Events/DTIManyPoints0930Sark]
+"Watch this broker with a bucket load of index points. Will they make it to the vault?"
+
+[/Lotus/Language/Subtitles/Events/DTIMatchOver0980Sark]
+"And there's the bell."
+
+[/Lotus/Language/Subtitles/Events/DTIMatchOver0990Sark]
+"Brokers, trading is complete."
+
+[/Lotus/Language/Subtitles/Events/DTIMatchOver1000Sark]
+"Trading over."
+
+[/Lotus/Language/Subtitles/Events/DTIMatchOver1010Sark]
+"And the Index closes."
+
+[/Lotus/Language/Subtitles/Events/DTIPreStart0070Sark]
+"Capitalists, are you ready for The Index?"
+
+[/Lotus/Language/Subtitles/Events/DTIPreStart0080Sark]
+"Investors ready your brokers. The Index is about to open."
+
+[/Lotus/Language/Subtitles/Events/DTIPreStart0090Sark]
+"Investors nervous. Brokers in position. The bell, about to ring. This is The Index!"
+
+[/Lotus/Language/Subtitles/Events/DTIPreStart0100Sark]
+"Who rules The Index? Find out when the bell rings."
+
+[/Lotus/Language/Subtitles/Events/DTIPreStart0110Sark]
+"Excited mood. The Index begins soon."
+
+[/Lotus/Language/Subtitles/Events/DTIPreStart0120Sark]
+"This is The Index. I'm Cephalon Sark, your unbiased host."
+
+[/Lotus/Language/Subtitles/Events/DTISarkGeneral1140Sark]
+"Sark, straining to sound authoritative."
+
+[/Lotus/Language/Subtitles/Events/DTISarkGeneral1150Sark]
+"This is why Sark wakes up in the morning, folks."
+
+[/Lotus/Language/Subtitles/Events/DTISarkGeneral1160Sark]
+"Cephalon Sark is faking it til he makes it!"
+
+[/Lotus/Language/Subtitles/Events/DTISarkGeneral1170Sark]
+"Sark has no idea what happened to previous announcer. Shifty eyes."
+
+[/Lotus/Language/Subtitles/Events/DTISarkGeneral1180Sark]
+"Cephalon Sark's been resequenced as an announcer. Surprised look!"
+
+[/Lotus/Language/Subtitles/Events/DTISarkGeneral1190Sark]
+"Cephalon Sark likes his new boss, Nef Anyo.  Praise the Void."
+
+[/Lotus/Language/Subtitles/Events/DTITennoWin1090Sark]
+"Tenno Win. Disappointed expression."
+
+[/Lotus/Language/Subtitles/Events/DTITennoWin1100Sark]
+"Market upset! Tenno win. Sark hides from boss."
+
+[/Lotus/Language/Subtitles/Events/DTITennoWin1110Sark]
+"Tenno reel in the win."
+
+[/Lotus/Language/Subtitles/Events/DTITennoWin1120NefAnyo]
+"So be it, the Void giveth and the Void taketh away."
+
+[/Lotus/Language/Subtitles/Events/DTITennoWin1130NefAnyo]
+"Congratulations, Tenno. Just remember, on The Index nothing stays up forever."
 
 [/Lotus/Language/Subtitles/Events/DTransferFunds0010Lotus]
 "The transfer is in progress. The Bursa must remain functional until the transfer is finished."
@@ -74776,6 +76313,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/AvatarSprintSpeedModDesc]
 "|val| Sprint Speed"
 
+[/Lotus/Language/Upgrades/AvatarStaggerRecoverySpeedModDesc]
+"|val|% Faster Stagger Recovery"
+
 [/Lotus/Language/Upgrades/AvatarSuccessChanceModDesc]
 "|val|% Success Chance"
 
@@ -74811,6 +76351,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Upgrades/ComboStatusEffectModDesc]
 "|val|% Status Chance stacks with Combo Multiplier"
+
+[/Lotus/Language/Upgrades/CompanionShockCollarDesc]
+"[PH] Augments attacks adding |AMOUNT| Electricity Damage and increasing Status Chance by |AMOUNT|."
 
 [/Lotus/Language/Upgrades/CorrosiveProcResist]
 "|val|% chance to resist a Corrosive damage effect"
@@ -75148,6 +76691,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/PowerToHealthOnDeath]
 "Drains Energy to stop lethal damage with |val|% efficiency."
 
+[/Lotus/Language/Upgrades/ProvaCorpusArenaModDesc]
+"Charge Attacks electrify nearby enemies for |val| <DT_ELECTRICITY>Electricity Damage."
+
 [/Lotus/Language/Upgrades/PunctureBias]
 "Converts |val|% of Damage into <DT_PUNCTURE>Puncture"
 
@@ -75171,6 +76717,12 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Upgrades/RipkasNightwatchModProcChance]
 "Status Chance by |val|% when attacking a prone enemy"
+
+[/Lotus/Language/Upgrades/SentinelShieldAuraModDesc]
+"[PH] Replenishes shields for nearby allies by |val|% /s"
+
+[/Lotus/Language/Upgrades/ShieldAuraPreceptModDesc]
+"Increases Max Shields by |MAX|% and Shield Regen by |REGEN|% for |DURATION|s."
 
 [/Lotus/Language/Upgrades/ShieldRegeneration]
 "|val| Shields Per Second"
@@ -75223,6 +76775,15 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/StatusChanceWhileAimingModDesc]
 "|val|% Status Chance while aiming"
 
+[/Lotus/Language/Upgrades/SupraCorpusArenaModPartA]
+"Enemies explode on death for |val|"
+
+[/Lotus/Language/Upgrades/SupraCorpusArenaModPartB]
+"(|val|% Enemy Max Health) <DT_MAGNETIC>Magnetic Damage in a"
+
+[/Lotus/Language/Upgrades/SupraCorpusArenaModPartC]
+"|val|m radius."
+
 [/Lotus/Language/Upgrades/SupraHigherAccuracyAiming]
 "Directed Convergence"
 
@@ -75234,6 +76795,12 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Upgrades/SybarisIncreaseRoFonHit_desc]
 "On 2 hits within 0.2 seconds, increase Fire Rate by |val|% for 2 seconds"
+
+[/Lotus/Language/Upgrades/TetraCorpusArenaModPartA]
+"Shots now bounces up to |val| times"
+
+[/Lotus/Language/Upgrades/TetraCorpusArenaModPartB]
+"and travel |val|% further"
 
 [/Lotus/Language/Upgrades/TetraFasterProjAiming]
 "Focused Acceleration"
@@ -75543,6 +77110,18 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Weapons/DjinnMacheteName]
 "GAZAL MACHETE"
+
+[/Lotus/Language/Weapons/IndexEventWeaponRewardDesc]
+"[PH] Description"
+
+[/Lotus/Language/Weapons/IndexEventWeaponRewardName]
+"[PH] VANDAL WEAPON"
+
+[/Lotus/Language/Weapons/InfEmbolistScytheDesc]
+"Charge attacks from this scythe unleash a wave of acid that mutilates enemies and leaves a trail of corrosive sludge."
+
+[/Lotus/Language/Weapons/InfEmbolistScytheName]
+"CAUSTACYST"
 
 [/Lotus/Language/Weapons/InfestedDualAxeDesc]
 "The fast and brutal Dual Ichor axes will quickly tear through enemies with a high probability of inflicting critical damage."
