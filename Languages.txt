@@ -5301,6 +5301,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_CJSurvivalTime_Name]
 "Survive 10 minutes or more at DRACO on CERES"
 
+[/Lotus/Language/Challenges/Challenge_CombatSpecialist_Description]
+"Complete 3 Sorties"
+
+[/Lotus/Language/Challenges/Challenge_CombatSpecialist_Name]
+"Combat Specialist"
+
 [/Lotus/Language/Challenges/Challenge_ComboKill_Description]
 "Use two of weapon/melee/powers to kill opponent"
 
@@ -5733,6 +5739,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_FuseMods_Name]
 "Greater Than the Sum"
 
+[/Lotus/Language/Challenges/Challenge_GunningForPromotion_Description]
+"Complete 10 Syndicate missions"
+
+[/Lotus/Language/Challenges/Challenge_GunningForPromotion_Name]
+"Gunning For Promotion"
+
 [/Lotus/Language/Challenges/Challenge_Hacker_Description]
 "Hack 1 console."
 
@@ -6043,6 +6055,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Earn 100,000 credits in Battle Pay. "
 
 [/Lotus/Language/Challenges/Challenge_Mercenary_Name]
+"Mercenary"
+
+[/Lotus/Language/Challenges/Challenge_Mercenary2_Description]
+"Earn Battle Pay from 5 unique Invasions."
+
+[/Lotus/Language/Challenges/Challenge_Mercenary2_Name]
 "Mercenary"
 
 [/Lotus/Language/Challenges/Challenge_MPCephFragments_Name]
@@ -7569,6 +7587,12 @@ But the experiment was only a partial success. Without pain, Dhurnam grew weak a
 
 [/Lotus/Language/ChangeInfo/SCEAAPPVER_01.36_SCEAMASTERVER_01.00_SCEEAPPVER_01.35_SCEEMASTERVER_01.00_SCEZAPPVER_01.05_SCEZMASTERVER_01.00]
 "Specters of the Rail"
+
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.37_SCEAMASTERVER_01.00_SCEEAPPVER_01.36_SCEEMASTERVER_01.00_SCEZAPPVER_01.06_SCEZMASTERVER_01.00]
+"The Silver Grove"
+
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.38_SCEAMASTERVER_01.00_SCEEAPPVER_01.37_SCEEMASTERVER_01.00]
+"The Index Preview"
 
 [/Lotus/Language/Changyou/AdjustmentColourPickerAbbrev]
 "[PH] ADJUSTMENTS"
@@ -20334,7 +20358,7 @@ Your Battle Cards are ready now... Go!"
 "IMPALE DAMAGE"
 
 [/Lotus/Language/Game/IndexPoints]
-"Index Points"
+"Financial Stress"
 
 [/Lotus/Language/Game/InfestedAladV]
 "MUTALIST ALAD V"
@@ -21161,25 +21185,25 @@ A call echoes across the stars - as a menace approaches..."
 "This common plant can only be found at night."
 
 [/Lotus/Language/Game/NightmareModeEnergyDrain]
-"Energy Drain Mode!"
+"Energy Drain Mode"
 
 [/Lotus/Language/Game/NightmareModeLowGrav]
-"Low Gravity Mode!"
+"Low Gravity Mode"
 
 [/Lotus/Language/Game/NightmareModeNoHud]
-"No HUD Mode!"
+"No HUD Mode"
 
 [/Lotus/Language/Game/NightmareModeNoShield]
-"No Shield Mode!"
+"No Shield Mode"
 
 [/Lotus/Language/Game/NightmareModeTimed]
-"Timed Mode!"
+"Timed Mode"
 
 [/Lotus/Language/Game/NightmareModeTimer]
 "Nightmare Mode Timer Enabled"
 
 [/Lotus/Language/Game/NightmareModeVampire]
-"Vampire Mode!"
+"Vampire Mode"
 
 [/Lotus/Language/Game/NightRarePlant]
 "MOONLIGHT JADELEAF"
@@ -73710,6 +73734,24 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Subtitles/Relays/DStarsOnly140Maroo]
 "Thanks for the Ayatan Star, but you know, when you put them in a sculpture, they generate even more Endo."
 
+[/Lotus/Language/Subtitles/Relays/DTeshinRelay0010Teshin]
+"Consider the sword. Protect or kill, it chooses not, for it only obeys the will of its master."
+
+[/Lotus/Language/Subtitles/Relays/DTeshinRelay0020Teshin]
+"Pupil, if your Warframe becomes a useless husk without you, then what do you become without it?"
+
+[/Lotus/Language/Subtitles/Relays/DTeshinRelay0030Teshin]
+"The river nurtures. Along its banks life flourishes. And yet, when the storm swells, the river kills. You need the river but don't ever trust it."
+
+[/Lotus/Language/Subtitles/Relays/DTeshinRelay0040Teshin]
+"Even the most principled must bow to their nature when forced. Please, remember this."
+
+[/Lotus/Language/Subtitles/Relays/DTeshinRelay0050Teshin]
+"Hesitation makes one vulnerable. When the unexpected happens, do not hesitate. Remember this."
+
+[/Lotus/Language/Subtitles/Relays/DTeshinRelay0060Teshin]
+"Surprise is a weapon best countered with preparation. Prepare for what you least expect."
+
 [/Lotus/Language/Subtitles/Relays/DTradeTutBuyer070Maroo]
 "Sellin' are we? Okay then, find a shady spot near the tree and let everyone know you're here. If someone sees something they like, it's time to start negotiating."
 
@@ -76352,9 +76394,6 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/ComboStatusEffectModDesc]
 "|val|% Status Chance stacks with Combo Multiplier"
 
-[/Lotus/Language/Upgrades/CompanionShockCollarDesc]
-"[PH] Augments attacks adding |AMOUNT| Electricity Damage and increasing Status Chance by |AMOUNT|."
-
 [/Lotus/Language/Upgrades/CorrosiveProcResist]
 "|val|% chance to resist a Corrosive damage effect"
 
@@ -76647,7 +76686,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "ON KNOCKDOWN"
 
 [/Lotus/Language/Upgrades/OnLowHealth_Desc]
-"AT LOW HEALTH"
+"AT LESS THAN 50 HEALTH"
 
 [/Lotus/Language/Upgrades/OnMeleeChannelKill_Description]
 "ON MELEE CHANNEL KILL"
@@ -76717,9 +76756,6 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Upgrades/RipkasNightwatchModProcChance]
 "Status Chance by |val|% when attacking a prone enemy"
-
-[/Lotus/Language/Upgrades/SentinelShieldAuraModDesc]
-"[PH] Replenishes shields for nearby allies by |val|% /s"
 
 [/Lotus/Language/Upgrades/ShieldAuraPreceptModDesc]
 "Increases Max Shields by |MAX|% and Shield Regen by |REGEN|% for |DURATION|s."
@@ -76797,7 +76833,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "On 2 hits within 0.2 seconds, increase Fire Rate by |val|% for 2 seconds"
 
 [/Lotus/Language/Upgrades/TetraCorpusArenaModPartA]
-"Shots now bounces up to |val| times"
+"Shots now bounce up to |val| times"
 
 [/Lotus/Language/Upgrades/TetraCorpusArenaModPartB]
 "and travel |val|% further"
