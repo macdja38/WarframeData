@@ -53465,6 +53465,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/Options_Game_RegionEurope]
 "Europe"
 
+[/Lotus/Language/Menu/Options_Game_RegionNA]
+"North America"
+
 [/Lotus/Language/Menu/Options_Game_RegionNAEast]
 "North America - East"
 
