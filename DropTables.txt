@@ -677,11 +677,11 @@ DROP_SIGIL (Drop Chance: 100%)
 
 
 [CorpusChampionTeamADropTable]
- - VED XOL (CCTeamAHeavyAvatar)
- - NAKO XOL (CCTeamARifleAvatar)
- - PELNA CADE (CCTeamASkateAvatar)
- - VED XOL (CCTeamASkateBAvatar)
- - LOCKJAW & SOL (CCTeamAZanukaAvatar)
+ - Ved Xol (CCTeamAHeavyAvatar)
+ - Nako Xol (CCTeamARifleAvatar)
+ - Pelna Cade (CCTeamASkateAvatar)
+ - Ved Xol (CCTeamASkateBAvatar)
+ - Lockjaw & Sol (CCTeamAZanukaAvatar)
 
 DROP_MOD (Drop Chance: 2%)
 	Pain Threshold, UNCOMMON, 45.83%
@@ -690,10 +690,10 @@ DROP_MOD (Drop Chance: 2%)
 
 
 [CorpusChampionTeamBDropTable]
- - JAD TERAN (CCTeamBDisruptorAvatar)
- - AZOTH (CCTeamBHyenaAvatar)
- - RAPTOR RX (CCTeamBOspreyAvatar)
- - AUDITOR (CCTeamBRiotMoaAvatar)
+ - Jad Teran (CCTeamBDisruptorAvatar)
+ - Azoth (CCTeamBHyenaAvatar)
+ - Raptor RX (CCTeamBOspreyAvatar)
+ - Auditor (CCTeamBRiotMoaAvatar)
 
 DROP_MOD (Drop Chance: 2%)
 	Medi-Pet Kit, UNCOMMON, 45.83%
@@ -702,10 +702,10 @@ DROP_MOD (Drop Chance: 2%)
 
 
 [CorpusChampionTeamCDropTable]
- - JEN DRO (CCTeamCDeceptionAvatar)
- - M-WAM (CCTeamCMoaAvatar)
- - DERIM ZAHN (CCTeamCSimplifiedHackerAvatar)
- - TIA MAYN (CCTeamCStealthAvatar)
+ - Jen Dro (CCTeamCDeceptionAvatar)
+ - M-W.A.M. (CCTeamCMoaAvatar)
+ - Derim Zahn (CCTeamCSimplifiedHackerAvatar)
+ - Tia Mayn (CCTeamCStealthAvatar)
 
 DROP_MOD (Drop Chance: 2%)
 	Kinetic Ricochet, UNCOMMON, 45.83%
@@ -4551,8 +4551,8 @@ DROP_POWERUP (Drop Chance: 75%)
 
 [SpaceDropTables/CorpusSwarmDroneDropTable]
  - RAZORFLIES (FlightAvatar)
- - LOCUST DRONE (DistractionDroneAvatar)
  - LOCUST DRONE (DistractionDroneWaterAvatar)
+ - LOCUST DRONE (DistractionDroneAvatar)
  - LOCUST DRONE (SwarmDroneAvatar)
 
 DROP_AMMO (Drop Chance: 0%)

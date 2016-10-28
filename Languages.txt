@@ -12629,76 +12629,76 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "Ved Xol was nominated to become the head of the Loan Reclamation Division at Anyo Corp. after demonstrating ruthless aptitude within The Index. He has obtained favorable results with his team on many occasions, and is a firm favourite amongst corporate backers."
 
 [/Lotus/Language/Enemies/CCTeamAHeavyName]
-"VED XOL"
+"Ved Xol"
 
 [/Lotus/Language/Enemies/CCTeamARifleDesc]
 "The younger brother of Ved Xol displayed no aptitude for business. Instead, his enthusiasm for violence and conflict have helped him quickly climb corporate ranks."
 
 [/Lotus/Language/Enemies/CCTeamARifleName]
-"NAKO XOL"
+"Nako Xol"
 
 [/Lotus/Language/Enemies/CCTeamASentinelName]
-"SOL"
+"Sol"
 
 [/Lotus/Language/Enemies/CCTeamASkateDesc]
 "Pelna Cade is a skilled technician who graduated with the Xol brothers. Remaining close friends with the family following their military service together, he now works for them to keep the robotics in their service in peak condition."
 
 [/Lotus/Language/Enemies/CCTeamASkateName]
-"PELNA CADE"
+"Pelna Cade"
 
 [/Lotus/Language/Enemies/CCTeamAZanukaDesc]
 "The Loan Reclamation Division worked closely with Alad V on several ventures during his tenure on the Corpus Board of Directors. Despite his involuntary retirement, it is speculated that the Xol Brothers still undertake assignments on his behalf. These robots, based on Alad V's own patented designs were delivered as payment for services rendered and only serve to strengthen such suspicions."
 
 [/Lotus/Language/Enemies/CCTeamAZanukaName]
-"LOCKJAW & SOL"
+"Lockjaw & Sol"
 
 [/Lotus/Language/Enemies/CCTeamBDisruptorDesc]
 "A young and ambitious Anyo Corp. employee, Jad has demonstrated remarkable aptitude for micromanaging machinery. He was promoted to the Robotic Technology Division where he leads the design of new robotics to be utilized by other divisions of Anyo Corp."
 
 [/Lotus/Language/Enemies/CCTeamBDisruptorName]
-"JAD TERAN"
+"Jad Teran"
 
 [/Lotus/Language/Enemies/CCTeamBHyenaDesc]
 "Affectionately known as “Azoth” the Hyena Hg is the latest version of Hyena to be produced at Anyo Corp. This model has been optimized to process Index Points with lethal efficiency."
 
 [/Lotus/Language/Enemies/CCTeamBHyenaName]
-"AZOTH"
+"Azoth"
 
 [/Lotus/Language/Enemies/CCTeamBOspreyDesc]
 "The Index marks the debut of the X-series of the Raptor. This version of armoured Osprey doubles as both a mobile accounting system and security detail for the brokers employed by Anyo Corp."
 
 [/Lotus/Language/Enemies/CCTeamBOspreyName]
-"RAPTOR RX"
+"Raptor RX"
 
 [/Lotus/Language/Enemies/CCTeamBRiotMoaDesc]
 "A heavily modified model of Denial Bursas, designed for the secure transferral of offline funds. This armoured robot protects the financial interests of Anyo Corp."
 
 [/Lotus/Language/Enemies/CCTeamBRiotMoaName]
-"AUDITOR"
+"Auditor"
 
 [/Lotus/Language/Enemies/CCTeamCDeceptionDesc]
 "Jen specialises in corporate espionage and uses the information she gathers to facilitate sudden downturns for her opponents."
 
 [/Lotus/Language/Enemies/CCTeamCDeceptionName]
-"JEN DRO"
+"Jen Dro"
 
 [/Lotus/Language/Enemies/CCTeamCHackerDesc]
 "A digital virtuoso, Derim is a capable hacker who applies his trade laundering funds traded through The Index."
 
 [/Lotus/Language/Enemies/CCTeamCHackerName]
-"DERIM ZAHN"
+"Derim Zahn"
 
 [/Lotus/Language/Enemies/CCTeamCMoaDesc]
 "The Multi-Weapon Assault Moa is equipped with a number of weapons to assist the brokers employed by Zenith Galactical with their endeavors."
 
 [/Lotus/Language/Enemies/CCTeamCMoaName]
-"M-WAM"
+"M-W.A.M."
 
 [/Lotus/Language/Enemies/CCTeamCStealthDesc]
-"Tia supports her allies by providing them with effective exit strategies when a deals takes a turn for the worse. These strategies often leave the other party with significant medical fees."
+"Tia supports her allies by providing them with effective exit strategies when a deal takes a turn for the worse. These strategies often leave the other party with significant medical fees."
 
 [/Lotus/Language/Enemies/CCTeamCStealthName]
-"TIA MAYN"
+"Tia Mayn"
 
 [/Lotus/Language/Enemies/FairyQuestLoki]
 "KNAVE SPECTER"
@@ -15073,6 +15073,11 @@ The Lotus"
 
 [/Lotus/Language/G1Quests/GrineerSeaLabG]
 "Research Station Omega"
+
+[/Lotus/Language/G1Quests/HallowedNightmaresRewardBody]
+"You’ve made your choice in unsealing the treasure, but ready yourself Tenno, you’ll now have to take on the Jack-O-Naught.
+
+- Lotus"
 
 [/Lotus/Language/G1Quests/HarvesterkMessage]
 "Thank you for volunteering for the Zanuka Project, you will make a fine addition to my collection."
@@ -17488,6 +17493,9 @@ This sigil shows you faced your fear and conquered your nightmares.
 
 [/Lotus/Language/G1Quests/TacAlertHalloweenRewardsTitle]
 "Hallowed Nightmares: Sleeping?"
+
+[/Lotus/Language/G1Quests/TacAlertHalloweenTimeAttackTitle]
+"Hallowed Nightmares - Time Attack"
 
 [/Lotus/Language/G1Quests/TacAlertHalloweenTitle]
 "Hallowed Nightmares"
@@ -21184,8 +21192,20 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/NightCommonPlantDesc]
 "This common plant can only be found at night."
 
+[/Lotus/Language/Game/NightmareMode_Exclamation]
+"|MODE|!"
+
 [/Lotus/Language/Game/NightmareModeEnergyDrain]
 "Energy Drain Mode"
+
+[/Lotus/Language/Game/NightmareModeExplodingCorpses]
+"Death Detonation Mode"
+
+[/Lotus/Language/Game/NightmareModeFriendlyFire]
+"Friendly Fire Mode"
+
+[/Lotus/Language/Game/NightmareModeHeadshotsOnly]
+"Headshot Mode"
 
 [/Lotus/Language/Game/NightmareModeLowGrav]
 "Low Gravity Mode"
@@ -23005,6 +23025,12 @@ In order to make the target move, Tenno must stand next to the cart and use ener
 "These Sabotage missions are set in an infested Hive. There are three major Hives around the level, however each of these are invincible at first. Growing near the Hives are 5 Tumor Nodes that have to be located and destroyed. Once the Tumors are all destroyed, the Hive will become vulnerable to attacks.
 
 After a Hive is destroyed, it will activate one of six different traps that will trigger for the remainder of the mission. Once all three have been destroyed, Tenno will have to reach extraction with three traps active."
+
+[/Lotus/Language/GameModes/Index]
+"THE INDEX"
+
+[/Lotus/Language/GameModes/IndexEndless]
+"THE INDEX: ENDURANCE"
 
 [/Lotus/Language/GameModes/Interception]
 "Interception"
@@ -56167,6 +56193,9 @@ This offer expires in |TIMELEFT|."
 [/Lotus/Language/Menu/Store_PrimeAccess]
 "PRIME ACCESS"
 
+[/Lotus/Language/Menu/Store_PrimeVault]
+"PRIME VAULT"
+
 [/Lotus/Language/Menu/Store_ProratedBundle]
 "This bundle has been prorated because you already own some of the items (original price: |PRICE|).  You won't receive those items again."
 
@@ -57299,6 +57328,9 @@ https://warframe.com/eula"
 [/Lotus/Language/Mods/ChannelingEfficiencyOnLowHealth_desc]
 "At Low Health, |val|% Channeled Damage Reflection for 8 seconds"
 
+[/Lotus/Language/Mods/ColdDmgReloadSpeedMod]
+"Chilling Reload"
+
 [/Lotus/Language/Mods/ComboCritChanceMod]
 "Blood Rush"
 
@@ -57307,6 +57339,9 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Mods/ComboStatusChanceMod]
 "Weeping Wounds"
+
+[/Lotus/Language/Mods/ComboTimeStatusChanceMod]
+"Drifting Contact"
 
 [/Lotus/Language/Mods/CompanionMedipetKitMod]
 "Medi-Pet Kit"
@@ -57673,6 +57708,9 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Mods/HolsterSpeedBonusModShotgun]
 "Soft Hands"
+
+[/Lotus/Language/Mods/HolsterSpeedSlideBoostMod]
+"Streamlined Form"
 
 [/Lotus/Language/Mods/IncreasedEfficiencyOnLowHealth]
 "Final Act"
