@@ -5032,13 +5032,13 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "General Sargas Ruk"
 
 [/Lotus/Language/Bosses/BossHyenaElectric]
-"Hyena Th"
+"Hyena TH"
 
 [/Lotus/Language/Bosses/BossHyenaFire]
 "Hyena NG"
 
 [/Lotus/Language/Bosses/BossHyenaGun]
-"Hyena Pb"
+"Hyena PB"
 
 [/Lotus/Language/Bosses/BossHyenaIce]
 "Hyena LN2"
@@ -7390,7 +7390,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Not much is known about the mysterious Zura. She appeared in the fighting pits with her Hyekka and carved a bloody path through her opposition. The crowd always roars with pleasure when Zura steps into the fighting pits."
 
 [/Lotus/Language/Champions/GrineerBeastMasterName]
-"EXECUTIONER ZURA"
+"Executioner Zura"
 
 [/Lotus/Language/Champions/GrineerChargerDesc]
 "An agile combatant without fear."
@@ -7399,7 +7399,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "The sole survivor of a frontier battalion that was eradicated by a lone Tenno, when Garesh eventually returned to civilization, he was tried as deserter and sentenced to death by Rathuum. To everyone’s surprise he killed all his Executioners and was granted a pardon on the condition that he himself become and Executioner. Garesh yearns for the day when he can punish a Tenno."
 
 [/Lotus/Language/Champions/GrineerChargerName]
-"EXECUTIONER GARESH"
+"Executioner Garesh"
 
 [/Lotus/Language/Champions/GrineerEngineerDesc]
 "A cunning combatant that uses machinery to assist him."
@@ -7408,7 +7408,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Reth was once a simple labourer working in the shipyards on Ceres. He often wondered how lethal the equipment he worked with could be if he only made minor tweaks to its design. After a series of escalated killings his handiwork was discovered by his superiors. Rather than risk being captured, Reth fled to Kela, where he now field tests his latest machinations in the service of Rathuum."
 
 [/Lotus/Language/Champions/GrineerEngineerName]
-"EXECUTIONER RETH"
+"Executioner Reth"
 
 [/Lotus/Language/Champions/GrineerHeavyDesc]
 "A resilient combatant who relishes pain."
@@ -7421,7 +7421,7 @@ The experiment left him sluggish and unresponsive. Weak of voice, he whispered f
 But the experiment was only a partial success. Without pain, Dhurnam grew weak again. Unfit for regular duty, the pits of Rathuum became his new home. The only place where he could find the steady diet of torment and suffering needed to survive."
 
 [/Lotus/Language/Champions/GrineerHeavyName]
-"EXECUTIONER DHURNAM"
+"Executioner Dhurnam"
 
 [/Lotus/Language/Champions/GrineerHellionDesc]
 "Highly maneuverable combatant with devastating attacks."
@@ -7430,7 +7430,7 @@ But the experiment was only a partial success. Without pain, Dhurnam grew weak a
 "In return for a substantial donation to his campaign, Vay Hek consigned one of his most vicious clones to Kela’s service. Vay Molta has become a crowd favourite with her modified Jat Kittag."
 
 [/Lotus/Language/Champions/GrineerHellionName]
-"EXECUTIONER VAY MOLTA"
+"Executioner Vay Molta"
 
 [/Lotus/Language/Champions/GrineerMedicDesc]
 "Heals his team with advanced medical technology."
@@ -7439,7 +7439,7 @@ But the experiment was only a partial success. Without pain, Dhurnam grew weak a
 "Once a medical officer under Sargas Ruk, Thul failed to save the life of one of his favoured officers. Thul was “reassigned” to service under Kela as an Executioner of Rathuum. He has managed to survive under the protection of his allies, who value his medical skills."
 
 [/Lotus/Language/Champions/GrineerMedicName]
-"EXECUTIONER DOK THUL"
+"Executioner Dok Thul"
 
 [/Lotus/Language/Champions/GrineerSniperDesc]
 "A deceptive and cunning combatant."
@@ -7448,7 +7448,7 @@ But the experiment was only a partial success. Without pain, Dhurnam grew weak a
 "Olka Harkonar hails from the Harkonar Production Zone. She is one of the few nobles not satisfied by simply watching her weapons wreak havoc, she needed to join the fray. So Olka Harkonar became an Executioner of Rathuum, vowing to prove the might of Harkonar weapons and armor with every judgement she made."
 
 [/Lotus/Language/Champions/GrineerSniperName]
-"EXECUTIONER HARKONAR"
+"Executioner Harkonar"
 
 [/Lotus/Language/Champions/GrineerSoldierDesc]
 "An experienced veteran, trained and disciplined."
@@ -7457,19 +7457,19 @@ But the experiment was only a partial success. Without pain, Dhurnam grew weak a
 "Nok led a decorated career in service to Captain Vor, tasked with routing out any weak or anarchic influences within the ranks of the Grineer Army. After many years of loyal service, the degenerative effects that plague all Grineer began taking their toll on Nok. With Vor's blessing, Nok was granted leave to spend his remaining days punishing Grineer in the court of Rathuum."
 
 [/Lotus/Language/Champions/GrineerSoldierName]
-"EXECUTIONER NOK"
+"Executioner Nok"
 
 [/Lotus/Language/Champions/GruntDroneDesc]
 "Delivers the final judgement of Executioner Nok."
 
 [/Lotus/Language/Champions/GruntDroneName]
-"DETH CARABUS"
+"Deth Carabus"
 
 [/Lotus/Language/Champions/HealerDroneDesc]
 "Restores health to allies."
 
 [/Lotus/Language/Champions/HealerDroneName]
-"MEDICAL CARABUS"
+"Medical Carabus"
 
 [/Lotus/Language/Champions/NightwatchLeaderGorthDesc]
 "A frontline warrior who protects his allies."
@@ -7478,7 +7478,7 @@ But the experiment was only a partial success. Without pain, Dhurnam grew weak a
 "Gorth was a distinguished commander of the Nightwatch Corps but when he unwittingly killed a close ally of Lech Krill for stealing supplies, he faced political fallout that destroyed his career.  Exiled from military service, Gorth now seeks to redeem his honor as an Executioner of Rathuum."
 
 [/Lotus/Language/Champions/NightwatchLeaderGorthName]
-"EXECUTIONER GORTH"
+"Executioner Gorth"
 
 [/Lotus/Language/ChangeInfo/SCEAAPPVER_01.01_SCEAMASTERVER_01.00]
 "UPDATE #10 - Shadows of the Dead"
@@ -8898,43 +8898,43 @@ Once again, we apologize for the inconvenience this has caused you."
 "Submitting issue to tracking server..."
 
 [/Lotus/Language/CustomerSupport/AccountNameChangeWarning]
-"We endeavour to keep Warframe open and welcoming for all users. As a result, some players may find their public account name being changed if we receive complaints from other players (including circumstances where such names made it past the filters we have in place). Names related to politics, religion, sex or hate are best avoided, as they don't fit the tone of the game and can easily offend other users. 
+"We endeavour to keep Warframe open and welcoming for all users. As a result, some players may find their public account name being changed if we receive complaints from other players (including circumstances where such names made it past the filters we have in place). Names related to politics, religion, sex or hate are best avoided, as they do not reflect the tone of the Warframe community.
 
-In regards to your account name, there have been a number of complaints which upon further review required your name to be changed.
+With regards to your account name, we have received a number of complaints from other players about it. Upon further review, your name was deemed offensive by the community standards and it is necessary to change it.
 
-Since we do understand the inconvenience this can cause, we are offering a free name change to any affected players. Please kindly submit a Warframe support ticket detailing the newly desired name within a week of receiving this notification and we will do our best to fulfill the name change request at the earliest possible opportunity.
+Since we do understand the inconvenience this can cause, we are offering a free name change to any affected players. Please submit a support ticket listing a few options for the new name you would like to use. We will do our best to fulfill the name change request as quickly as possible.
 
 Thank you for your understanding,
 
 Warframe Support Team"
 
 [/Lotus/Language/CustomerSupport/AfkSpecificWarning]
-"We have received reports of you being AFK. Please note that the community frowns on this behavior and we ask that if you intend to go AFK, to not do so in public missions.  This is your first and only warning- any future reports that you are leeching missions and your account will be suspended.
+"We have received reports of you being AFK. Please note that the community frowns on this behavior and we ask that if you intend to go AFK, that you refrain from playing in public missions. If we continue to receive reports of you being AFK, you risk having your account suspended.
 
 Thank you for your cooperation,
 
 Warframe Support Team"
 
 [/Lotus/Language/CustomerSupport/ClanNameChangeWarning]
-"We endeavour to keep Warframe open and welcoming for all users. As a result, some players may find their clan/alliance names being changed if we receive complaints from other players (including circumstances where such names made it past the filters we have in place). Names related to politics, religion, sex or hate are best avoided, as they don't fit the tone of the game and can easily offend other users. 
+"We endeavour to keep Warframe open and welcoming for all users. As a result, some players may find their clan/alliance names being changed if we receive complaints from other players (including circumstances where such names made it past the filters we have in place). Names related to politics, religion, sex or hate are best avoided, as they do not reflect the tone of the Warframe community.
 
-In regards to your clan/alliance name, there have been a number of complaints which upon further review required the name to be changed.
+With regards to your clan/alliance name, we have received a number of complaints from other players about it. Upon further review, your clan/alliance name was deemed offensive by the community standards and it is necessary to change it.
 
-Since we understand the inconvenience this can cause, we offer a free clan/alliance change and, if needed, emblem change to any affected parties. Please kindly submit a Warframe support ticket detailing the newly desired name within a week of receiving this notification and we will do our best to fulfill the name change request at the earliest possible opportunity. If additional time is required for your clan/alliance to finalize a decision, please indicate as such when contacting us.
+Since we understand the inconvenience this can cause, we offer a free clan/alliance change and (if needed) an emblem change to any affected parties. Please submit a support ticket listing a few options for the new name you would like to use. We will do our best to fulfill the name change request as quickly as possible.
 
 Thank you for your understanding,
 
 Warframe Support Team"
 
 [/Lotus/Language/CustomerSupport/CreatingTrollAccountsWarning]
-"We have received reports stating that you have been creating alternate accounts for the purpose of harassing other players in the game.  Please note that this activity is prohibited and you will find that your troll account has been banned.  If we find that you have created more accounts for this purpose, or that you are continuing to harass your fellow players, your main account will be suspended as well.
+"We have received reports that you have been creating alternate accounts for the purpose of harassing other players in the game. Please note that this activity is prohibited and you will find that your troll account has been banned. If we find that you have created more accounts for this purpose, or that you are continuing to harass your fellow players, you risk having your main account banned as well.
 
 Thank you for your cooperation,
 
 Warframe Support Team"
 
 [/Lotus/Language/CustomerSupport/GeneralGriefingWarning]
-"We have received reports of you mission griefing other users (ex. not helping to complete missions, being AFK, or preventing users from completing missions). This is your first and only warning- any future reports that you are griefing users and your account will be suspended.
+"We have received reports of you griefing other players during missions (ex. not helping to complete missions, being AFK, or preventing users from completing missions). If we continue to receive reports of you griefing your fellow players, you risk having your account suspended.
 
 Thank you for your cooperation,
 
@@ -8944,30 +8944,30 @@ Warframe Support Team"
 "Message from Customer Support"
 
 [/Lotus/Language/CustomerSupport/HarassmentWarning]
-"We have received reports from players stating that you have been harassing them.  Warframe has a zero tolerance policy for inappropriate/disrespectful behavior towards all users.  This is your one and only warning- any future reports pertaining to this account harassing other users will lead to an account suspension.
+"We have received reports from other players stating that you have been harassing them. Behaviour of this nature is not welcome in the Warframe community. If we continue to receive reports of you harassing your fellow players, your account will be suspended.
 
 Thank you for your cooperation,
 
 Warframe Support Team"
 
 [/Lotus/Language/CustomerSupport/OffensiveCommentsWarning]
-"We have received reports from players stating you have been making offensive comments and/or using profanity in the chat.  Warframe has a zero tolerance policy for inappropriate/disrespectful behavior towards all users.  This is your one and only warning- any future reports pertaining to this account making such comments will lead to an account suspension.
+"We have received reports from other players stating that you have been making offensive comments and/or using profanity in the chat. Comments of this nature are not welcome in the Warframe community. If we continue to receive reports of you making offensive comments, your account will be suspended.
 
 Thank you for your cooperation,
 
 Warframe Support Team"
 
 [/Lotus/Language/CustomerSupport/SpammingWarning]
-"We have received reports from players stating you have been spamming the chat.  Warframe has a zero tolerance policy for this sort of behavior.  This is your one and only warning- any future reports pertaining to this account spamming the chat channels will lead to an account suspension.
+"We have received reports from other players stating you have been spamming the chat. Activity of this nature is not welcome in the Warframe community. If we continue to receive reports of you spamming the chat, your ability to chat or your account itself will be suspended.
 
 Thank you for your cooperation,
 
 Warframe Support Team"
 
 [/Lotus/Language/CustomerSupport/TradeBannedNotification]
-"We have received reports from players stating that you have mislead them during a trade.  The reports included screenshots of your conversation during the trade and there is no doubt that your intention was to mislead.  The trading system is designed to allow players a way to barter and trade with one another in good faith.  Your misuse of the trade system is unacceptable and as such, your trading privileges have been revoked.  If you have any questions or concerns, please contact Support.
+"We have received reports from other players stating that you have misled them during a trade. The reports included screenshots of your conversation during the trade and there is no doubt that your intention was to mislead. The trading system is designed to allow players a way to barter and trade with one another in good faith, and intentionally misleading your fellow players is most dishonourable conduct. As such, your trading privileges have been revoked. If you have any questions or concerns, please contact Support.
 
-Thank you for your understanding
+Thank you for your understanding,
 
 Warframe Support Team"
 
@@ -12701,181 +12701,193 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "Tia Mayn"
 
 [/Lotus/Language/Enemies/FairyQuestLoki]
-"KNAVE SPECTER"
+"Knave Specter"
 
 [/Lotus/Language/Enemies/FairyQuestOberon]
-"FEYARCH SPECTER"
+"Feyarch Specter"
 
 [/Lotus/Language/Enemies/FairyQuestSaryn]
-"ORPHID SPECTER"
+"Orphid Specter"
 
 [/Lotus/Language/Enemies/FairyQuestSarynMolt]
-"ORPHID HUSKS"
+"Orphid Husks"
 
 [/Lotus/Language/Enemies/ReplicantChroma]
-"CHROMA SPECTER"
+"Chroma Specter"
 
 [/Lotus/Language/Enemies/ReplicantEmber]
-"EMBER SPECTER"
+"Ember Specter"
 
 [/Lotus/Language/Enemies/ReplicantEquinox]
-"EQUINOX SPECTER"
+"Equinox Specter"
 
 [/Lotus/Language/Enemies/ReplicantExcalibur]
-"EXCALIBUR SPECTER"
+"Excalibur Specter"
 
 [/Lotus/Language/Enemies/ReplicantFrost]
-"FROST SPECTER"
+"Frost Specter"
 
 [/Lotus/Language/Enemies/ReplicantHydroid]
-"HYDROID SPECTER"
+"Hydroid Specter"
+
+[/Lotus/Language/Enemies/ReplicantIvara]
+"Ivara Specter"
 
 [/Lotus/Language/Enemies/ReplicantLoki]
-"LOKI SPECTER"
+"Loki Specter"
 
 [/Lotus/Language/Enemies/ReplicantMag]
-"MAG SPECTER"
+"Mag Specter"
 
 [/Lotus/Language/Enemies/ReplicantMesa]
-"MESA SPECTER"
+"Mesa Specter"
 
 [/Lotus/Language/Enemies/ReplicantNova]
-"NOVA SPECTER"
+"Nova Specter"
 
 [/Lotus/Language/Enemies/ReplicantPaladin]
-"OBERON SPECTER"
+"Oberon Specter"
 
 [/Lotus/Language/Enemies/ReplicantPlaceholder]
-"SPECTER"
+"Specter"
 
 [/Lotus/Language/Enemies/ReplicantRhino]
-"RHINO SPECTER"
+"Rhino Specter"
 
 [/Lotus/Language/Enemies/ReplicantSaryn]
-"SARYN SPECTER"
+"Saryn Specter"
 
 [/Lotus/Language/Enemies/ReplicantTrinity]
-"TRINITY SPECTER"
+"Trinity Specter"
 
 [/Lotus/Language/Enemies/ReplicantValkyr]
-"VALKYR SPECTER"
+"Valkyr Specter"
 
 [/Lotus/Language/Enemies/ReplicantVolt]
-"VOLT SPECTER"
+"Volt Specter"
+
+[/Lotus/Language/Enemies/ReplicantWukong]
+"Wukong Specter"
 
 [/Lotus/Language/EnemyLeaders/BlastLeaderDesc]
 "Defends itself with a radial Blast Attack"
 
 [/Lotus/Language/EnemyLeaders/BlastLeaderInfestedName]
-"VOLATILE"
+"Volatile"
 
 [/Lotus/Language/EnemyLeaders/BlastLeaderName]
-"BLITZ"
+"Blitz"
 
 [/Lotus/Language/EnemyLeaders/EnergyLeechLeaderDesc]
 "A tank who drains Energy from nearby enemies"
 
 [/Lotus/Language/EnemyLeaders/EnergyLeechLeaderInfestedName]
-"PARASITIC"
+"Parasitic"
 
 [/Lotus/Language/EnemyLeaders/EnergyLeechLeaderName]
-"ENERGY LEECH"
+"Energy Leech"
 
 [/Lotus/Language/EnemyLeaders/FireLeaderDesc]
 "Heat based attacks and Auras"
 
 [/Lotus/Language/EnemyLeaders/FireLeaderInfestedName]
-"CAUSTIC"
+"Caustic"
 
 [/Lotus/Language/EnemyLeaders/FireLeaderName]
-"ARSON"
+"Arson"
 
 [/Lotus/Language/EnemyLeaders/GenericLeaderName]
-"|ENEMY| EXIMUS"
+"|ENEMY| Eximus"
 
 [/Lotus/Language/EnemyLeaders/GenericPersistentEnemyName]
-"|ENEMY| BIDEA EXIMUS"
+"|ENEMY| Bidea Eximus"
 
 [/Lotus/Language/EnemyLeaders/GenericRareSpawnName]
-"|ENEMY| SYNTHESIS TARGET"
+"|ENEMY| Synthesis Target"
 
 [/Lotus/Language/EnemyLeaders/IceLeaderDesc]
 "Cold based attacks and auras"
 
 [/Lotus/Language/EnemyLeaders/IceLeaderInfestedName]
-"FROZEN"
+"Frozen"
 
 [/Lotus/Language/EnemyLeaders/IceLeaderName]
-"ARCTIC"
+"Arctic"
 
 [/Lotus/Language/EnemyLeaders/KubrowLeaderName]
-"|ENEMY| ALPHA"
+"|ENEMY| Alpha"
 
 [/Lotus/Language/EnemyLeaders/LifeLeechLeaderDesc]
 "Life Leech Weapon, Enhanced Health"
 
 [/Lotus/Language/EnemyLeaders/LifeLeechLeaderInfestedName]
-"SANGUINE"
+"Sanguine"
 
 [/Lotus/Language/EnemyLeaders/LifeLeechLeaderName]
-"LEECH"
+"Leech"
 
 [/Lotus/Language/EnemyLeaders/MagLeaderDesc]
 "Electric based attacks and auras"
 
 [/Lotus/Language/EnemyLeaders/MagLeaderInfestedName]
-"BIOELECTRIC"
+"Bioelectric"
 
 [/Lotus/Language/EnemyLeaders/MagLeaderName]
-"SHOCK"
+"Shock"
 
 [/Lotus/Language/EnemyLeaders/ProsecutorGenericDesc]
 "Vicious melee attacks"
 
 [/Lotus/Language/EnemyLeaders/ProsecutorGenericLeaderName]
-"|ENEMY| PROSECUTOR"
+"|ENEMY| Prosecutor"
 
 [/Lotus/Language/EnemyLeaders/ProsecutorGenericName]
-"GUARDSMAN"
+"Guardsman"
 
 [/Lotus/Language/EnemyLeaders/ProsecutorLeaderElecDesc]
 "Vulnerable to Electric damage"
 
 [/Lotus/Language/EnemyLeaders/ProsecutorLeaderElecName]
-"SHOCK"
+"Shock"
 
 [/Lotus/Language/EnemyLeaders/ProsecutorLeaderFireDesc]
 "Vulnerable to Fire damage"
 
 [/Lotus/Language/EnemyLeaders/ProsecutorLeaderFireName]
-"FIRE"
+"Fire"
 
 [/Lotus/Language/EnemyLeaders/ProsecutorLeaderIceDesc]
 "Vulnerable to Ice damage"
 
 [/Lotus/Language/EnemyLeaders/ProsecutorLeaderIceName]
-"ICE"
+"Ice"
 
 [/Lotus/Language/EnemyLeaders/ProsecutorLeaderPoisonDesc]
 "Vulnerable to Toxic damage"
 
 [/Lotus/Language/EnemyLeaders/ProsecutorLeaderPoisonName]
-"TOXIC"
+"Toxic"
 
 [/Lotus/Language/EnemyLeaders/ShieldLeaderDesc]
 "Recharges the shields of nearby allies"
 
 [/Lotus/Language/EnemyLeaders/ShieldLeaderName]
-"GUARDIAN"
+"Guardian"
 
 [/Lotus/Language/EnemyLeaders/ToxicLeaderDesc]
 "Toxin based attacks and auras"
 
 [/Lotus/Language/EnemyLeaders/ToxicLeaderInfestedName]
-"VENOMOUS"
+"Venomous"
 
 [/Lotus/Language/EnemyLeaders/ToxicLeaderName]
-"VENOM"
+"Venom"
+
+[/Lotus/Language/Equipment/BaroFireworksCrateDesc]
+"A bombastic symphony of color."
+
+[/Lotus/Language/Equipment/BaroFireworksCrateName]
+"KI'TEER FIREWORKS"
 
 [/Lotus/Language/Factions/ArbitersDesc]
 "-"
@@ -18608,13 +18620,13 @@ Arming: Turrets"
 "DAMAGE ABSORPTION"
 
 [/Lotus/Language/Game/AcolyteGraspingCrawler]
-"NAUSEOUS VOID SHADE"
+"Nauseous Void Shade"
 
 [/Lotus/Language/Game/AcolyteGraspingCrawlerDesc]
 "Has an immobilizing vomit attack"
 
 [/Lotus/Language/Game/AcolyteMeleeCrawler]
-"VOID SHADE"
+"Void Shade"
 
 [/Lotus/Language/Game/AcolyteMeleeCrawlerDesc]
 "Weak claw attacks"
@@ -18623,7 +18635,7 @@ Arming: Turrets"
 "ACTIVATE CANNON (ALARMED)"
 
 [/Lotus/Language/Game/ActivateOperatorTransference]
-"<USE> Transfer to warframe"
+"<USE> Transfer to Warframe"
 
 [/Lotus/Language/Game/ActivatePurifier]
 "Activate Vaporizor"
@@ -18650,10 +18662,10 @@ Arming: Turrets"
 "AIR RANGE (METERS)"
 
 [/Lotus/Language/Game/AladV]
-"ALAD V"
+"Alad V"
 
 [/Lotus/Language/Game/AladVPet]
-"ZANUKA"
+"Zanuka"
 
 [/Lotus/Language/Game/AladVPetDesc]
 "Fast with claw and missile attacks"
@@ -18692,7 +18704,7 @@ Arming: Turrets"
 "SATELLITES:"
 
 [/Lotus/Language/Game/AreaCasterAcolyte]
-"MISERY"
+"Misery"
 
 [/Lotus/Language/Game/AreaCasterAcolyteDesc]
 "Zealous and patient"
@@ -18704,13 +18716,13 @@ Arming: Turrets"
 "Contains Argon Crystals"
 
 [/Lotus/Language/Game/AridDeployableCover]
-"ARID BLUNT"
+"Arid Blunt"
 
 [/Lotus/Language/Game/ARMOR_REDUCTION_PERCENT]
 "ARMOR REDUCTION (%)"
 
 [/Lotus/Language/Game/ArmoredJackal]
-"RAZORBACK"
+"Razorback"
 
 [/Lotus/Language/Game/ArmoredJackalLeftArm]
 "RAZORBACK LEFT ARM"
@@ -18743,13 +18755,13 @@ Arming: Turrets"
 "ATTRACT RADIUS"
 
 [/Lotus/Language/Game/AuraGrineerLancerRifle]
-"AURA LANCER"
+"Aura Lancer"
 
 [/Lotus/Language/Game/AuraGrineerLancerRifleDesc]
 "Boosts armor and damage of allies"
 
 [/Lotus/Language/Game/AutoTurret]
-"TURRET"
+"Turret"
 
 [/Lotus/Language/Game/Available]
 "Available"
@@ -18758,7 +18770,7 @@ Arming: Turrets"
 "Begin"
 
 [/Lotus/Language/Game/BlackSeedSniper]
-"BLACK SEED AGENT"
+"Black Seed Agent"
 
 [/Lotus/Language/Game/BlastDoorTimerMessage]
 "HOLD THIS POSITION UNTIL THE BYPASS IS COMPLETE"
@@ -18773,7 +18785,7 @@ Arming: Turrets"
 "BLIND RANGE (METERS)"
 
 [/Lotus/Language/Game/BossAmbulas]
-"AMBULAS"
+"Ambulas"
 
 [/Lotus/Language/Game/BossExample]
 "Boss Example"
@@ -18788,7 +18800,7 @@ Arming: Turrets"
 "Hack successful. Target list overwritten."
 
 [/Lotus/Language/Game/BurstCasterAcolyte]
-"ANGST"
+"Angst"
 
 [/Lotus/Language/Game/BurstCasterAcolyteDesc]
 "Agile and ferocious"
@@ -18797,19 +18809,19 @@ Arming: Turrets"
 "<USE> CALL ELEVATOR"
 
 [/Lotus/Language/Game/CaptainVor]
-"CAPTAIN VOR"
+"Captain Vor"
 
 [/Lotus/Language/Game/CaptureTargetBlackSeed]
-"BLACK SEED OPERATIVE"
+"Black Seed Operative"
 
 [/Lotus/Language/Game/CaptureTargetCorpus]
-"CORPUS TARGET"
+"Corpus Target"
 
 [/Lotus/Language/Game/CaptureTargetCorpusNullifier]
-"NULLIFIER TARGET"
+"Nullifier Target"
 
 [/Lotus/Language/Game/CaptureTargetGrineer]
-"GRINEER TARGET"
+"Grineer Target"
 
 [/Lotus/Language/Game/CaptureTargetsRemaining]
 "TARGETS REMAINING: "
@@ -18830,7 +18842,7 @@ Arming: Turrets"
 "Carries energy cells"
 
 [/Lotus/Language/Game/CellCarrierDroneName]
-"MUTALIST OSPREY CARRIER"
+"Mutalist Osprey Carrier"
 
 [/Lotus/Language/Game/Ceres]
 "Ceres"
@@ -18857,7 +18869,7 @@ Arming: Turrets"
 "Clem Clem"
 
 [/Lotus/Language/Game/ClemAvatarTitle]
-"CLEM"
+"Clem"
 
 [/Lotus/Language/Game/COMBO_WINDOW]
 "COMBO WINDOW"
@@ -18895,7 +18907,7 @@ SEGMENT REQUIRED"
 "CONTROL TIME"
 
 [/Lotus/Language/Game/ControlAcolyte]
-"TORMENT"
+"Torment"
 
 [/Lotus/Language/Game/ControlAcolyteDesc]
 "Arrogant and calculating"
@@ -18913,7 +18925,7 @@ SEGMENT REQUIRED"
 "Drover Bursa has an aura that weakens the armor"
 
 [/Lotus/Language/Game/ControlRiotMoaName]
-"DROVER BURSA"
+"Drover Bursa"
 
 [/Lotus/Language/Game/CONVERSION_PERCENT]
 "CONVERSION PERCENT"
@@ -18928,13 +18940,13 @@ SEGMENT REQUIRED"
 "OROKIN POWER CORE"
 
 [/Lotus/Language/Game/CorpusArtificer]
-"DATALYST"
+"Datalyst"
 
 [/Lotus/Language/Game/CorpusArtificerDesc]
 "Summons Nemes"
 
 [/Lotus/Language/Game/CorpusArtificerSentinel]
-"NEMES"
+"Nemes"
 
 [/Lotus/Language/Game/CorpusArtificerSentinelDesc]
 "Charges its target and detonates when threatened"
@@ -18943,40 +18955,40 @@ SEGMENT REQUIRED"
 "TRANSLOCATOR"
 
 [/Lotus/Language/Game/CorpusFireLeaderName]
-"CORPUS FIRE LEADER"
+"Corpus Fire Leader"
 
 [/Lotus/Language/Game/CorpusFlakShipDesc]
 "Voltage grenades detonate to create an electric field"
 
 [/Lotus/Language/Game/CorpusFlakShipName]
-"CORVETTE"
+"Corvette"
 
 [/Lotus/Language/Game/CorpusIceLeaderName]
-"CORPUS ICE LEADER"
+"Corpus Ice Leader"
 
 [/Lotus/Language/Game/CorpusJetSpaceManDesc]
 "Crewman equipped with a Jetpack"
 
 [/Lotus/Language/Game/CorpusJetSpaceManName]
-"RANGER"
+"Ranger"
 
 [/Lotus/Language/Game/CorpusJetSpaceManThreeDesc]
 "Crewman equipped with a Jetpack"
 
 [/Lotus/Language/Game/CorpusJetSpaceManThreeName]
-"QUANTA RANGER"
+"Quanta Ranger"
 
 [/Lotus/Language/Game/CorpusJetSpaceManTwoDesc]
 "Crewman equipped with a Jetpack"
 
 [/Lotus/Language/Game/CorpusJetSpaceManTwoName]
-"PENTA RANGER"
+"Penta Ranger"
 
 [/Lotus/Language/Game/CorpusLaserShipDesc]
 "Armed with a highly accurate laser cannon"
 
 [/Lotus/Language/Game/CorpusLaserShipName]
-"FRIGATE"
+"Frigate"
 
 [/Lotus/Language/Game/CorpusLootCrateCommon]
 "COMMON CORPUS STORAGE CONTAINER"
@@ -18985,10 +18997,10 @@ SEGMENT REQUIRED"
 "UNCOMMON CORPUS STORAGE CONTAINER"
 
 [/Lotus/Language/Game/CorpusMagLeaderName]
-"CORPUS ELECTRIC LEADER"
+"Corpus Electric Leader"
 
 [/Lotus/Language/Game/CorpusMiniJackal]
-"LYNX"
+"Lynx"
 
 [/Lotus/Language/Game/CorpusMiniJackalDesc]
 "Summons Turrets and Ospreys"
@@ -18997,19 +19009,19 @@ SEGMENT REQUIRED"
 "Armed with a Mining Laser and Explosive Launcher"
 
 [/Lotus/Language/Game/CorpusPodName]
-"GOX"
+"Gox"
 
 [/Lotus/Language/Game/CorpusScout]
-"CORPUS SCOUT"
+"Corpus Scout"
 
 [/Lotus/Language/Game/CorpusScoutName]
-"CORPUS SCOUT"
+"Corpus Scout"
 
 [/Lotus/Language/Game/CorpusSpaceTurretDesc]
 "Inflicts moderate damage at a fast rate"
 
 [/Lotus/Language/Game/CorpusSpaceTurretName]
-"CANNON BATTERY"
+"Cannon Battery"
 
 [/Lotus/Language/Game/CorpusStasisMine]
 "Corpus Stasis Mine"
@@ -19018,40 +19030,40 @@ SEGMENT REQUIRED"
 "Follows a target while attacking them with lasers"
 
 [/Lotus/Language/Game/CorpusSwarmDroneName]
-"LOCUST DRONE"
+"Locust Drone"
 
 [/Lotus/Language/Game/CorpusSwarmShipDesc]
 "Launches several locust drones"
 
 [/Lotus/Language/Game/CorpusSwarmShipName]
-"CARRIER"
+"Carrier"
 
 [/Lotus/Language/Game/CorpusToxicLeaderName]
-"CORPUS TOXIC LEADER"
+"Corpus Toxic Leader"
 
 [/Lotus/Language/Game/CorpusWalker]
-"CORPUS WALKER"
+"Corpus Walker"
 
 [/Lotus/Language/Game/CorruptedAncient]
-"CORRUPTED ANCIENT"
+"Corrupted Ancient"
 
 [/Lotus/Language/Game/CorruptedCrewman]
-"CORRUPTED CREWMAN"
+"Corrupted Crewman"
 
 [/Lotus/Language/Game/CorruptedHeavyGunner]
-"CORRUPTED HEAVY GUNNER"
+"Corrupted Heavy Gunner"
 
 [/Lotus/Language/Game/CorruptedLancer]
-"CORRUPTED LANCER"
+"Corrupted Lancer"
 
 [/Lotus/Language/Game/CorruptedMoa]
-"CORRUPTED MOA"
+"Corrupted Moa"
 
 [/Lotus/Language/Game/CorruptedName]
-"CORRUPTED DRONE"
+"Corrupted Drone"
 
 [/Lotus/Language/Game/CouncilorVayHek]
-"COUNCILOR VAY HEK"
+"Councilor Vay Hek"
 
 [/Lotus/Language/Game/CREDIT_MULTIPLIER]
 "CREDIT MULTIPLIER"
@@ -19087,7 +19099,7 @@ SEGMENT REQUIRED"
 "CRIPPLE RADIUS"
 
 [/Lotus/Language/Game/CrpExcavationCarrier]
-"CORPUS POWER CARRIER"
+"Corpus Power Carrier"
 
 [/Lotus/Language/Game/CrpExcavationCarrierDesc]
 "Energy Transport Unit"
@@ -19208,7 +19220,7 @@ SEGMENT REQUIRED"
 "A member of the infamous Grustrag Three"
 
 [/Lotus/Language/Game/DeathSquadName]
-"GRUSTRAG THREE"
+"Grustrag Three"
 
 [/Lotus/Language/Game/DEBUFF_DURATION]
 "DEBUFF DURATION"
@@ -19243,7 +19255,7 @@ Your Battle Cards are ready now... Go!"
 "Orokin artifact requiring protection"
 
 [/Lotus/Language/Game/DefenseArtifactKuva]
-"KUVA DISPENSER"
+"Kuva Distillery"
 
 [/Lotus/Language/Game/DefenseArtifactKuvaDesc]
 "Sabotaged Kuva Dispenser "
@@ -19264,10 +19276,10 @@ Your Battle Cards are ready now... Go!"
 "Portable protection against gun fire"
 
 [/Lotus/Language/Game/DeployableCoverName]
-"BLUNT"
+"Blunt"
 
 [/Lotus/Language/Game/DeployCorpus]
-"CORPUS TECH"
+"Corpus Tech"
 
 [/Lotus/Language/Game/DeployCorpusDesc]
 "Energy Repeater, deploys Drones"
@@ -19282,7 +19294,7 @@ Your Battle Cards are ready now... Go!"
 "ABANDONED STORAGE CONTAINER"
 
 [/Lotus/Language/Game/DesertSkateName]
-"DESERT SKATE"
+"Desert Skate"
 
 [/Lotus/Language/Game/DestroyRaptorTarget]
 "Destroy Grav Conveyors"
@@ -19316,7 +19328,7 @@ Your Battle Cards are ready now... Go!"
 "Search the area around the Grineer excavation site"
 
 [/Lotus/Language/Game/DiscOsprey]
-"SAPPING OSPREY"
+"Sapping Osprey"
 
 [/Lotus/Language/Game/DiscOspreyDesc]
 "Energy orb pulses AoE damage after detonation"
@@ -19328,10 +19340,10 @@ Your Battle Cards are ready now... Go!"
 "Isolator Bursa has an aura that delays and slows shield regeneration"
 
 [/Lotus/Language/Game/DispersionRiotMoaName]
-"ISOLATOR BURSA"
+"Isolator Bursa"
 
 [/Lotus/Language/Game/DisposalDrone]
-"DISPOSAL OSPREY"
+"Disposal Osprey"
 
 [/Lotus/Language/Game/DISTANCE_PER_ENERGY]
 "DISTANCE PER ENERGY (METERS)"
@@ -19484,7 +19496,7 @@ Your Battle Cards are ready now... Go!"
 "The duel between |PLAYER_A| and |PLAYER_B| has ended in a draw"
 
 [/Lotus/Language/Game/DuellistAcolyte]
-"VIOLENCE"
+"Violence"
 
 [/Lotus/Language/Game/DuellistAcolyteDesc]
 "Fast and vicious"
@@ -19499,22 +19511,22 @@ Your Battle Cards are ready now... Go!"
 "EFFECT DURATION"
 
 [/Lotus/Language/Game/ElectricStickyRollingDrone]
-"NERVO"
+"Nervo"
 
 [/Lotus/Language/Game/EliteGrineerLancerRifle]
-"ELITE LANCER"
+"Elite Lancer"
 
 [/Lotus/Language/Game/EliteGrineerLancerRifleDesc]
 "High Damage"
 
 [/Lotus/Language/Game/EliteGrineerLancerShotgun]
-"EVISCERATOR"
+"Eviscerator"
 
 [/Lotus/Language/Game/EliteGrineerLancerShotgunDesc]
 "Long range blade attacks"
 
 [/Lotus/Language/Game/EliteSpaceMan]
-"ELITE CREWMAN"
+"Elite Crewman"
 
 [/Lotus/Language/Game/EMP_DURATION]
 "EMP DURATION"
@@ -19556,13 +19568,13 @@ Your Battle Cards are ready now... Go!"
 "DRAIN PER SEC"
 
 [/Lotus/Language/Game/EngineerRollingTurret]
-"RETH ROLLER"
+"Reth Roller"
 
 [/Lotus/Language/Game/EnterDevourer]
 "Enter Esophage"
 
 [/Lotus/Language/Game/ENTITY_TAGGED]
-"|TARGET| TAGGED"
+"|TARGET| Tagged"
 
 [/Lotus/Language/Game/EPS]
 "ENERGY PER SECOND"
@@ -19748,73 +19760,73 @@ Your Battle Cards are ready now... Go!"
 "FOMORIAN REACTOR SHELL"
 
 [/Lotus/Language/Game/FortressAuraGrineerLancerRifle]
-"KUVA AURA LANCER"
+"Kuva Aura Lancer"
 
 [/Lotus/Language/Game/FortressEliteGrineerLancerRifle]
-"KUVA ELITE LANCER"
+"Kuva Elite Lancer"
 
 [/Lotus/Language/Game/FortressEliteGrineerLancerShotgun]
-"KUVA EVISCERATOR"
+"Kuva Eviscerator"
 
 [/Lotus/Language/Game/FortressGrineerBeastMasterName]
-"KUVA DRAHK MASTER"
+"Kuva Drahk Master"
 
 [/Lotus/Language/Game/FortressGrineerBombardIncendiary]
-"KUVA NAPALM"
+"Kuva Napalm"
 
 [/Lotus/Language/Game/FortressGrineerBombardMinigun]
-"KUVA HEAVY GUNNER"
+"Kuva Heavy Gunner"
 
 [/Lotus/Language/Game/FortressGrineerBombardRocket]
-"KUVA BOMBARD"
+"Kuva Bombard"
 
 [/Lotus/Language/Game/FortressGrineerCatMasterName]
-"KUVA HYEKKA MASTER"
+"Kuva Hyekka Master"
 
 [/Lotus/Language/Game/FortressGrineerFlamer]
-"KUVA SCORCH"
+"Kuva Scorch"
 
 [/Lotus/Language/Game/FortressGrineerJetpackCarrierName]
-"KUVA HELLION CARRIER"
+"Kuva Hellion Carrier"
 
 [/Lotus/Language/Game/FortressGrineerJetpackName]
-"KUVA HELLION"
+"Kuva Hellion"
 
 [/Lotus/Language/Game/FortressGrineerLancerRifle]
-"KUVA LANCER"
+"Kuva Lancer"
 
 [/Lotus/Language/Game/FortressGrineerLancerShield]
-"KUVA SHIELD LANCER"
+"Kuva Shield Lancer"
 
 [/Lotus/Language/Game/FortressGrineerLancerShotgun]
-"KUVA TROOPER"
+"Kuva Trooper"
 
 [/Lotus/Language/Game/FortressGrineerPistol]
-"KUVA SEEKER"
+"Kuva Seeker"
 
 [/Lotus/Language/Game/FortressGrineerRollingDrone]
-"KUVA ROLLER"
+"Kuva Roller"
 
 [/Lotus/Language/Game/FortressGrineerRollingDroneTurret]
-"LATCHER TURRET"
+"Latcher Turret"
 
 [/Lotus/Language/Game/FortressGrineerSawmanBlowtorch]
-"KUVA FLAMEBLADE"
+"Kuva Flameblade"
 
 [/Lotus/Language/Game/FortressGrineerSawmanMelee]
-"KUVA BUTCHER"
+"Kuva Butcher"
 
 [/Lotus/Language/Game/FortressGrineerSawmanPiston]
-"KUVA POWERCLAW"
+"Kuva Powerclaw"
 
 [/Lotus/Language/Game/FortressGrineerSniper]
-"KUVA BALLISTA"
+"Kuva Ballista"
 
 [/Lotus/Language/Game/FortressGrnExcavationCarrier]
-"KUVA POWER CARRIER"
+"Kuva Power Carrier"
 
 [/Lotus/Language/Game/FortressMacheteWoman]
-"KUVA SCORPION"
+"Kuva Scorpion"
 
 [/Lotus/Language/Game/FOV]
 "FIELD OF VIEW"
@@ -19823,10 +19835,10 @@ Your Battle Cards are ready now... Go!"
 ""
 
 [/Lotus/Language/Game/FrogLancerName]
-"DRAGA"
+"Draga"
 
 [/Lotus/Language/Game/FusionBiped]
-"FUSION MOA"
+"Fusion Moa"
 
 [/Lotus/Language/Game/GainedCryotic]
 "+|AMOUNT| CRYOTIC"
@@ -19853,64 +19865,64 @@ Your Battle Cards are ready now... Go!"
 "Play Go with |PLAYER|?"
 
 [/Lotus/Language/Game/GolemBossFull]
-"LEPHANTIS"
+"Lephantis"
 
 [/Lotus/Language/Game/GolemBossGrenadeHead]
-"INFESTED CORPUS"
+"Infested Corpus"
 
 [/Lotus/Language/Game/GolemBossGunHead]
-"ANCIENT INFESTED"
+"Ancient Infested"
 
 [/Lotus/Language/Game/GolemBossMeleeHead]
-"INFESTED GRINEER"
+"Infested Grineer"
 
 [/Lotus/Language/Game/GolemNerve]
-"GOLEM NERVE"
+"Golem Nerve"
 
 [/Lotus/Language/Game/GrineerArtificer]
-"ARTIFICER"
+"Artificer"
 
 [/Lotus/Language/Game/GrineerArtificerDesc]
 "Summons Carubus"
 
 [/Lotus/Language/Game/GrineerArtificerSentinel]
-"CARABUS"
+"Carabus"
 
 [/Lotus/Language/Game/GrineerArtificerSentinelDesc]
 "Charges its target and detonates when threatened"
 
 [/Lotus/Language/Game/GrineerBeastHuntsmanName]
-"GRINEER HUNTSMAN"
+"Grineer Huntsman"
 
 [/Lotus/Language/Game/GrineerBeastMasterDesc]
 "Summons Drahk to fight for it"
 
 [/Lotus/Language/Game/GrineerBeastMasterName]
-"DRAHK MASTER"
+"Drahk Master"
 
 [/Lotus/Language/Game/GrineerBladeSawmanDesert]
-"ARID BUTCHER"
+"Arid Butcher"
 
 [/Lotus/Language/Game/GrineerBladeSawmanForest]
-"FRONTIER BUTCHER"
+"Frontier Butcher"
 
 [/Lotus/Language/Game/GrineerBombardIncendiary]
-"NAPALM"
+"Napalm"
 
 [/Lotus/Language/Game/GrineerBombardIncendiaryDesc]
 "Creates fire hazards"
 
 [/Lotus/Language/Game/GrineerBombardMinigun]
-"HEAVY GUNNER"
+"Heavy Gunner"
 
 [/Lotus/Language/Game/GrineerBombardMinigunDesc]
 "High damage minigun"
 
 [/Lotus/Language/Game/GrineerBombardMinigunDesert]
-"ARID HEAVY GUNNER"
+"Arid Heavy Gunner"
 
 [/Lotus/Language/Game/GrineerBombardRocket]
-"BOMBARD"
+"Bombard"
 
 [/Lotus/Language/Game/GrineerBombardRocketDesc]
 "Long range missile attack"
@@ -19919,49 +19931,49 @@ Your Battle Cards are ready now... Go!"
 "Summons Hyekka to fight for it"
 
 [/Lotus/Language/Game/GrineerCatMasterName]
-"HYEKKA MASTER"
+"Hyekka Master"
 
 [/Lotus/Language/Game/GrineerChargerDesc]
 "Charges foes with devastating melee attacks"
 
 [/Lotus/Language/Game/GrineerChargerFrontierName]
-"FRONTIER BAILIFF"
+"Frontier Bailiff"
 
 [/Lotus/Language/Game/GrineerChargerName]
-"BAILIFF"
+"Bailiff"
 
 [/Lotus/Language/Game/GrineerCombatCatDesc]
 "Trained to hunt down the Infestation"
 
 [/Lotus/Language/Game/GrineerCombatCatName]
-"HYEKKA"
+"Hyekka"
 
 [/Lotus/Language/Game/GrineerCombatPodDesc]
 "Armed with a Demolition Cannon and Mining Drill"
 
 [/Lotus/Language/Game/GrineerCombatPodName]
-"OGMA"
+"Ogma"
 
 [/Lotus/Language/Game/GrineerDefectorName]
-"BAILIFF DEFECTOR"
+"Bailiff Defector"
 
 [/Lotus/Language/Game/GrineerEliteRifleLancerDesert]
-"ELITE ARID LANCER"
+"Elite Arid Lancer"
 
 [/Lotus/Language/Game/GrineerEliteRifleLancerForest]
-"ELITE FRONTIER LANCER"
+"Elite Frontier Lancer"
 
 [/Lotus/Language/Game/GrineerEvisceratorLancerDesert]
-"ARID EVISCERATOR"
+"Arid Eviscerator"
 
 [/Lotus/Language/Game/GrineerEvisceratorLancerForest]
-"FRONTIER EVISCERATOR"
+"Frontier Eviscerator"
 
 [/Lotus/Language/Game/GrineerFireLeaderName]
-"GRINEER FIRE LEADER"
+"Grineer Fire Leader"
 
 [/Lotus/Language/Game/GrineerFlamer]
-"SCORCH"
+"Scorch"
 
 [/Lotus/Language/Game/GrineerFlamerDesc]
 "Short-range incendiary attacks"
@@ -19970,34 +19982,34 @@ Your Battle Cards are ready now... Go!"
 "Heavily armed Grineer Battlecruiser"
 
 [/Lotus/Language/Game/GrineerGalleonName]
-"GALLEON"
+"Galleon"
 
 [/Lotus/Language/Game/GrineerHeavyGunnerForest]
-"FRONTIER HEAVY GUNNER"
+"Frontier Heavy Gunner"
 
 [/Lotus/Language/Game/GrineerIceLeaderName]
-"GRINEER ICE LEADER"
+"Grineer Ice Leader"
 
 [/Lotus/Language/Game/GrineerJetpackCarrierName]
-"HELLION POWER CARRIER"
+"Hellion Power Carrier"
 
 [/Lotus/Language/Game/GrineerJetpackMarineDesert]
-"ARID HELLION"
+"Arid Hellion"
 
 [/Lotus/Language/Game/GrineerJetpackMarineForest]
-"FRONTIER HELLION"
+"Frontier Hellion"
 
 [/Lotus/Language/Game/GrineerJetpackMelee]
-"SPRAG"
+"Sprag"
 
 [/Lotus/Language/Game/GrineerJetpackMeleeDesc]
 ""
 
 [/Lotus/Language/Game/GrineerJetpackName]
-"HELLION"
+"Hellion"
 
 [/Lotus/Language/Game/GrineerJetpackSniper]
-"VEN'KRA TEL"
+"Ven'Kra Tel"
 
 [/Lotus/Language/Game/GrineerJetpackSniperDesc]
 ""
@@ -20006,22 +20018,22 @@ Your Battle Cards are ready now... Go!"
 "Thick dermal plates adorn its hide"
 
 [/Lotus/Language/Game/GrineerKubrowName]
-"DRAHK"
+"Drahk"
 
 [/Lotus/Language/Game/GrineerLancerRifle]
-"LANCER"
+"Lancer"
 
 [/Lotus/Language/Game/GrineerLancerRifleDesc]
 "Heavily armored"
 
 [/Lotus/Language/Game/GrineerLancerShield]
-"SHIELD LANCER"
+"Shield Lancer"
 
 [/Lotus/Language/Game/GrineerLancerShieldDesc]
 "Provides cover for allies"
 
 [/Lotus/Language/Game/GrineerLancerShotgun]
-"TROOPER"
+"Trooper"
 
 [/Lotus/Language/Game/GrineerLancerShotgunDesc]
 "Heavily armored, close range Lancer"
@@ -20030,10 +20042,10 @@ Your Battle Cards are ready now... Go!"
 "Fires highly accurate laser beams"
 
 [/Lotus/Language/Game/GrineerLaserDroneName]
-"LANCER DREG"
+"Lancer Dreg"
 
 [/Lotus/Language/Game/GrineerLeader]
-"COMMANDER"
+"Commander"
 
 [/Lotus/Language/Game/GrineerLootCrateCommon]
 "COMMON GRINEER STORAGE CONTAINER"
@@ -20042,100 +20054,100 @@ Your Battle Cards are ready now... Go!"
 "UNCOMMON GRINEER STORAGE CONTAINER"
 
 [/Lotus/Language/Game/GrineerMagLeaderName]
-"GRINEER ELECTRIC LEADER"
+"Grineer Electric Leader"
 
 [/Lotus/Language/Game/GrineerManicBombard]
-"MANIC BOMBARD"
+"Manic Bombard"
 
 [/Lotus/Language/Game/GrineerManicBombardDesc]
 "Highly mobile heavy artillery"
 
 [/Lotus/Language/Game/GrineerMarinePistolDesert]
-"ARID SEEKER"
+"Arid Seeker"
 
 [/Lotus/Language/Game/GrineerMarinePistolForest]
-"FRONTIER SEEKER"
+"Frontier Seeker"
 
 [/Lotus/Language/Game/GrineerMeleeLeader]
-"ELECTROPROD"
+"Electroprod"
 
 [/Lotus/Language/Game/GrineerMeleeMarine]
-"BUTCHER"
+"Butcher"
 
 [/Lotus/Language/Game/GrineerMissilePlatformDesc]
 "Locks opponents in a tractor field preventing escape"
 
 [/Lotus/Language/Game/GrineerMissilePlatformName]
-"ZEPLEN"
+"Zeplen"
 
 [/Lotus/Language/Game/GrineerMissileShieldSkiffDesc]
 "A Hellion Dargyn equipped with Shield defences"
 
 [/Lotus/Language/Game/GrineerMissileShieldSkiffName]
-"SHIELD-HELLION DARGYN"
+"Shield-Hellion Dargyn"
 
 [/Lotus/Language/Game/GrineerMissileSkiffDesc]
 "Missiles seek out targets and inflict high damage"
 
 [/Lotus/Language/Game/GrineerMissileSkiffName]
-"HELLION DARGYN"
+"Hellion Dargyn"
 
 [/Lotus/Language/Game/GrineerPatrolShipDesc]
 "Lightly armed Grineer Battlecruiser"
 
 [/Lotus/Language/Game/GrineerPatrolShipName]
-"BRIG"
+"Brig"
 
 [/Lotus/Language/Game/GrineerPistol]
-"SEEKER"
+"Seeker"
 
 [/Lotus/Language/Game/GrineerRegulatorDesc]
 "Grants nearby Grineer units extra speed and damage"
 
 [/Lotus/Language/Game/GrineerRegulatorForest]
-"FRONTIER REGULATOR"
+"Frontier Regulator"
 
 [/Lotus/Language/Game/GrineerRegulatorForestDesc]
 "Grants nearby Grineer units extra speed and damage"
 
 [/Lotus/Language/Game/GrineerRegulatorName]
-"REGULATOR"
+"Regulator"
 
 [/Lotus/Language/Game/GrineerRegulatorShipyards]
-"GRINEER REGULATOR"
+"Grineer Regulator"
 
 [/Lotus/Language/Game/GrineerRegulatorShipyardsDesc]
 "GRINEER REGULATOR"
 
 [/Lotus/Language/Game/GrineerRifleLancerDesert]
-"ARID LANCER"
+"Arid Lancer"
 
 [/Lotus/Language/Game/GrineerRifleLancerForest]
-"FRONTIER LANCER"
+"Frontier Lancer"
 
 [/Lotus/Language/Game/GrineerRollingDrone]
-"ROLLER"
+"Roller"
 
 [/Lotus/Language/Game/GrineerRollingTurret]
-"ROLLER SENTRY"
+"Roller Sentry"
 
 [/Lotus/Language/Game/GrineerRoyalGuard]
-"ROYAL GUARD"
+"Kuva Guardian"
 
 [/Lotus/Language/Game/GrineerSawmanBlowtorch]
-"FLAMEBLADE"
+"Flameblade"
 
 [/Lotus/Language/Game/GrineerSawmanBlowtorchDesc]
 "High damage enemy with teleport"
 
 [/Lotus/Language/Game/GrineerSawmanMelee]
-"BUTCHER"
+"Butcher"
 
 [/Lotus/Language/Game/GrineerSawmanMeleeDesc]
 "Blade attacks do critical damage"
 
 [/Lotus/Language/Game/GrineerSawmanPiston]
-"POWERFIST"
+"Powerfist"
 
 [/Lotus/Language/Game/GrineerSawmanPistonDesc]
 "Slow but very powerful melee attacks"
@@ -20144,22 +20156,22 @@ Your Battle Cards are ready now... Go!"
 "A Dargyn equipped with Shield defences"
 
 [/Lotus/Language/Game/GrineerShieldSkiffName]
-"SHIELD DARGYN"
+"Shield Dargyn"
 
 [/Lotus/Language/Game/GrineerShotgunLancerDesert]
-"ARID TROOPER"
+"Arid Trooper"
 
 [/Lotus/Language/Game/GrineerShotgunLancerForest]
-"FRONTIER TROOPER"
+"Frontier Trooper"
 
 [/Lotus/Language/Game/GrineerSkiffDesc]
 "Inflicts moderate damage at a fast rate"
 
 [/Lotus/Language/Game/GrineerSkiffName]
-"DARGYN"
+"Dargyn"
 
 [/Lotus/Language/Game/GrineerSniper]
-"BALLISTA"
+"Ballista"
 
 [/Lotus/Language/Game/GrineerSniperDesc]
 "Long Ranged Sniper"
@@ -20168,49 +20180,49 @@ Your Battle Cards are ready now... Go!"
 "Fires slow projectiles that inflict moderate damage"
 
 [/Lotus/Language/Game/GrineerSpaceDroneName]
-"DREG"
+"Dreg"
 
 [/Lotus/Language/Game/GrineerSpaceMissileTurretDesc]
 "Launches homing missiles"
 
 [/Lotus/Language/Game/GrineerSpaceMissileTurretName]
-"MISSILE BATTERY"
+"Missile Battery"
 
 [/Lotus/Language/Game/GrineerSpaceTurretDesc]
 "Inflicts moderate damage at a fast rate"
 
 [/Lotus/Language/Game/GrineerSpaceTurretName]
-"CANNON BATTERY"
+"Cannon Battery"
 
 [/Lotus/Language/Game/GrineerStandingGunDesc]
 "A turret armed with twin, double-barrel cannons"
 
 [/Lotus/Language/Game/GrineerStandingGunName]
-"RAMPART"
+"Rampart"
 
 [/Lotus/Language/Game/GrineerStasisDroneDesc]
 "Emits a tractor beam, slowing its target down"
 
 [/Lotus/Language/Game/GrineerStasisDroneName]
-"TEMPORAL DREG"
+"Temporal Dreg"
 
 [/Lotus/Language/Game/GrineerSuperZombieMarine]
-"ANCIENT INFESTOID"
+"Ancient Infestoid"
 
 [/Lotus/Language/Game/GrineerSuperZombieMarineDesc]
 "Heals nearby Infested"
 
 [/Lotus/Language/Game/GrineerToxicLeaderName]
-"GRINEER TOXIC LEADER"
+"Grineer Toxic Leader"
 
 [/Lotus/Language/Game/GrineerZombieMarine]
-"INFESTOID"
+"Infestoid"
 
 [/Lotus/Language/Game/GrineerZombieMarineDesc]
 "Explodes when near enemies"
 
 [/Lotus/Language/Game/GrnExcavationCarrier]
-"GRINEER POWER CARRIER"
+"Grineer Power Carrier"
 
 [/Lotus/Language/Game/GrnExcavationCarrierDesc]
 "Energy Transport Unit"
@@ -20273,31 +20285,31 @@ Your Battle Cards are ready now... Go!"
 "Heat Generator"
 
 [/Lotus/Language/Game/HeavyAcolyte]
-"MALICE"
+"Malice"
 
 [/Lotus/Language/Game/HeavyAcolyteDesc]
 "Disciplined and accurate"
 
 [/Lotus/Language/Game/HeavyFieldGrineerMarine]
-"SPARK"
+"Spark"
 
 [/Lotus/Language/Game/HekCCPropDrone]
-"DISRUPTOR DRONE"
+"Disruptor Drone"
 
 [/Lotus/Language/Game/HekCombatPodDesc]
 "Armed with an Asteroid Splitter and Mining Drill"
 
 [/Lotus/Language/Game/HekCombatPodName]
-"OGMA ELITE"
+"Ogma Elite"
 
 [/Lotus/Language/Game/HekPropDrone]
-"PROPAGANDA DRONE"
+"Propaganda Drone"
 
 [/Lotus/Language/Game/HekPropDroneDesc]
 "Boosts Grineer morale while weakening enemies"
 
 [/Lotus/Language/Game/HekStrikeDrone]
-"ORBITAL STRIKE DRONE"
+"Orbital Strike Drone"
 
 [/Lotus/Language/Game/HekStrikeDroneDesc]
 "Paints targets for orbital strikes"
@@ -20315,19 +20327,19 @@ Your Battle Cards are ready now... Go!"
 "Hostage"
 
 [/Lotus/Language/Game/HostileRockman]
-"TOMB GUARDIAN"
+"Tomb Guardian"
 
 [/Lotus/Language/Game/HostileRockmanDesc]
 "Guards the Tomb of Inaros."
 
 [/Lotus/Language/Game/HostileSandman]
-"TOMB PROTECTOR"
+"Tomb Protector"
 
 [/Lotus/Language/Game/HostileSandmanDesc]
 "Watches over the Tomb of Inaros."
 
 [/Lotus/Language/Game/HostileSandmanGiant]
-"TOMB PROTECTOR EFFIGY"
+"Tomb Protector Effigy"
 
 [/Lotus/Language/Game/HostileSandmanGiantDesc]
 "Awoken by the Protector to help defend the Tomb of Inaros."
@@ -20336,7 +20348,7 @@ Your Battle Cards are ready now... Go!"
 "Charging attacks with a Power Drain and HUD Scrambling Aura"
 
 [/Lotus/Language/Game/HyenaElecName]
-"Hyena Th"
+"Hyena TH"
 
 [/Lotus/Language/Game/HyenaFireDesc]
 "Heavy AoE attacks with a Heat Resistance Aura"
@@ -20348,7 +20360,7 @@ Your Battle Cards are ready now... Go!"
 "Long range attacks with Shield Recharge Aura"
 
 [/Lotus/Language/Game/HyenaGunName]
-"Hyena Pb"
+"Hyena PB"
 
 [/Lotus/Language/Game/HyenaIceDesc]
 "Strong Melee attacks with a Slow Aura"
@@ -20369,55 +20381,55 @@ Your Battle Cards are ready now... Go!"
 "Financial Stress"
 
 [/Lotus/Language/Game/InfestedAladV]
-"MUTALIST ALAD V"
+"Mutalist Alad V"
 
 [/Lotus/Language/Game/InfestedAncientDiseased]
-"BROOD MOTHER"
+"Brood Mother"
 
 [/Lotus/Language/Game/InfestedAncientDiseasedDesc]
 "Spawns maggots that attack its target "
 
 [/Lotus/Language/Game/InfestedAncientDisrupter]
-"ANCIENT DISRUPTOR"
+"Ancient Disruptor"
 
 [/Lotus/Language/Game/InfestedAncientDisrupterDesc]
 "Heavy melee unit with a disrupting attack"
 
 [/Lotus/Language/Game/InfestedAncientHealer]
-"ANCIENT HEALER"
+"Ancient Healer"
 
 [/Lotus/Language/Game/InfestedAncientHealerDesc]
 "Heavy melee that applies damage reduction buff to allies."
 
 [/Lotus/Language/Game/InfestedAncientPuss]
-"BOILER"
+"Boiler"
 
 [/Lotus/Language/Game/InfestedAncientPussDesc]
 "Riddled with boils that erupt into spawn pods when hit "
 
 [/Lotus/Language/Game/InfestedDebris]
-"INFESTED SPORE"
+"Infested Spore"
 
 [/Lotus/Language/Game/InfestedDevourer]
-"ESOPHAGE"
+"Esophage"
 
 [/Lotus/Language/Game/InfestedDevourerDesc]
 "Part of an interconnected network of Infested organs. Function remains unclear."
 
 [/Lotus/Language/Game/InfestedGraspingCrawler]
-"NAUSEOUS CRAWLER"
+"Nauseous Crawler"
 
 [/Lotus/Language/Game/InfestedGraspingCrawlerDesc]
 "Has an immobilizing vomit attack"
 
 [/Lotus/Language/Game/InfestedGrenadeCrawler]
-"LOBBER CRAWLER"
+"Lobber Crawler"
 
 [/Lotus/Language/Game/InfestedGrenadeCrawlerDesc]
 "Spits explosive projectiles"
 
 [/Lotus/Language/Game/InfestedHive]
-"HIVE INFESTATION"
+"Hive Infestation"
 
 [/Lotus/Language/Game/InfestedHiveA]
 "Frozen Infested Hive"
@@ -20459,52 +20471,52 @@ Your Battle Cards are ready now... Go!"
 "Controls nearby turrets"
 
 [/Lotus/Language/Game/InfestedLeapingRunner]
-"LEAPER"
+"Leaper"
 
 [/Lotus/Language/Game/InfestedLeapingRunnerDesc]
 "Fast with a leap attack"
 
 [/Lotus/Language/Game/InfestedLightningCrawler]
-"ELECTRIC CRAWLER"
+"Electric Crawler"
 
 [/Lotus/Language/Game/InfestedLightningCrawlerDesc]
 "Shocks nearby enemies with a bio-electrical attack"
 
 [/Lotus/Language/Game/InfestedMeleeCrawler]
-"CRAWLER"
+"Crawler"
 
 [/Lotus/Language/Game/InfestedMeleeCrawlerDesc]
 "Weak claw attacks"
 
 [/Lotus/Language/Game/InfestedMeleeRunner]
-"CHARGER"
+"Charger"
 
 [/Lotus/Language/Game/InfestedMeleeRunnerDesc]
 "Fast with weak claw attacks"
 
 [/Lotus/Language/Game/InfestedMesaName]
-"INFESTED MESA"
+"Infested Mesa"
 
 [/Lotus/Language/Game/InfestedMinion]
-"MAGGOT"
+"Maggot"
 
 [/Lotus/Language/Game/InfestedMinionDesc]
 "Overwhelms prey with sheer numbers "
 
 [/Lotus/Language/Game/InfestedMoaGoo]
-"TAR-MUTALIST MOA"
+"Tar-Mutalist Moa"
 
 [/Lotus/Language/Game/InfestedMoaGooDesc]
 "Discharges tar-like mucus slowing its prey"
 
 [/Lotus/Language/Game/InfestedMoaNanite]
-"SWARM-MUTALIST MOA"
+"Swarm-Mutalist Moa"
 
 [/Lotus/Language/Game/InfestedMoaNaniteDesc]
 "Discharges swarms of infested spores"
 
 [/Lotus/Language/Game/InfestedNoxiousCrawler]
-"TOXIC CRAWLER"
+"Toxic Crawler"
 
 [/Lotus/Language/Game/InfestedNoxiousCrawlerDesc]
 "Releases a poison cloud on death"
@@ -20513,7 +20525,7 @@ Your Battle Cards are ready now... Go!"
 "[PH] Requires 3 Adaptation Stacks"
 
 [/Lotus/Language/Game/InfestedRunner]
-"RUNNER"
+"Runner"
 
 [/Lotus/Language/Game/InfestedRunnerDesc]
 "Fast with weak claw attacks"
@@ -20546,13 +20558,13 @@ Your Battle Cards are ready now... Go!"
 "Infested Corpus Turret"
 
 [/Lotus/Language/Game/InfestedSpaceTurretName]
-"MUTALIST CANNON BATTERY"
+"Mutalist Cannon Battery"
 
 [/Lotus/Language/Game/InfestedSpawnPod]
 "Infested Spawn Pod"
 
 [/Lotus/Language/Game/InfestedSuicideRunner]
-"VOLATILE RUNNER"
+"Volatile Runner"
 
 [/Lotus/Language/Game/InfestedSuicideRunnerDesc]
 "Fast and explodes when near enemies"
@@ -20561,10 +20573,10 @@ Your Battle Cards are ready now... Go!"
 "Injects antiserum into Vaporizers or the user to prevent armor degradation."
 
 [/Lotus/Language/Game/InfestedSyringeName]
-"ANTISERUM INJECTOR"
+"Antiserum Injector"
 
 [/Lotus/Language/Game/InfestedToxicAncient]
-"TOXIC ANCIENT"
+"Toxic Ancient"
 
 [/Lotus/Language/Game/InfestedToxicAncientDesc]
 "Heavy melee unit surrounded by poison cloud"
@@ -20582,7 +20594,7 @@ Your Battle Cards are ready now... Go!"
 "Deploys disruptive ink clouds"
 
 [/Lotus/Language/Game/InkFrogLancerName]
-"DAREK DRAGA"
+"Darek Draga"
 
 [/Lotus/Language/Game/INNER_SHIELD_RANGE]
 "INNER SHIELD RANGE"
@@ -20665,25 +20677,25 @@ A call echoes across the stars - as a menace approaches..."
 "TIME INVULNERABLE"
 
 [/Lotus/Language/Game/J3Golem]
-"J3 JORDAS GOLEM"
+"J3 Jordas Golem"
 
 [/Lotus/Language/Game/JetpackHeavyMarineDesc]
 "Mobile heavy unit that utilizes a grenade launcher"
 
 [/Lotus/Language/Game/JetpackHeavyMarineName]
-"NIGHTWATCH REAVER"
+"Nightwatch Reaver"
 
 [/Lotus/Language/Game/JuggernautBossName]
-"JUGGERNAUT BEHEMOTH"
+"Juggernaut Behemoth"
 
 [/Lotus/Language/Game/JuggernautDesc]
 "Protected by impenetrable armor"
 
 [/Lotus/Language/Game/JuggernautName]
-"JUGGERNAUT"
+"Juggernaut"
 
 [/Lotus/Language/Game/JuggernautTacName]
-"JACK O'NAUT"
+"Jack O'Naut"
 
 [/Lotus/Language/Game/JUMP_METERS]
 "JUMP (METERS)"
@@ -20692,7 +20704,7 @@ A call echoes across the stars - as a menace approaches..."
 "ACTIVATE JUNCTION"
 
 [/Lotus/Language/Game/JuniorGolemName]
-"JORDAS GOLEM"
+"Jordas Golem"
 
 [/Lotus/Language/Game/Jupiter]
 "Jupiter"
@@ -20701,10 +20713,10 @@ A call echoes across the stars - as a menace approaches..."
 "Once overrun by the Infestation, The Corpus are now exploiting Jupiter for its vast deposits of rare gases."
 
 [/Lotus/Language/Game/KelaDeThaym]
-"KELA DE THAYM"
+"Kela De Thaym"
 
 [/Lotus/Language/Game/KelaGrineerRollingTurret]
-"ARMORED ROLLER"
+"Armored Roller"
 
 [/Lotus/Language/Game/KelaOrbitalStrikeActive]
 "ORBITAL STRIKE INITIATED"
@@ -20731,7 +20743,7 @@ A call echoes across the stars - as a menace approaches..."
 "KNOCKBACK STRENGTH"
 
 [/Lotus/Language/Game/KubrowDen]
-"KUBROW DEN"
+"Kubrow Den"
 
 [/Lotus/Language/Game/KubrowDenLongDesc]
 "Fiercely guarded by their owners, the Kubrow den is capable of housing an entire pack of the feral creatures. Once disturbed, these animals will whip themselves into a frenzy attacking anything they deem a threat."
@@ -20746,13 +20758,13 @@ A call echoes across the stars - as a menace approaches..."
 "KUBROW"
 
 [/Lotus/Language/Game/LaserCannonBiped]
-"MOA"
+"Moa"
 
 [/Lotus/Language/Game/LaserChallengeCountdown]
 "TIMER INITIATED"
 
 [/Lotus/Language/Game/LaserDiscBiped]
-"ANTI MOA"
+"Anti Moa"
 
 [/Lotus/Language/Game/LAUNCH_DAMAGE]
 "JUMP DAMAGE"
@@ -20773,13 +20785,13 @@ A call echoes across the stars - as a menace approaches..."
 "Grants Toxin resistance to nearby allies"
 
 [/Lotus/Language/Game/LEECHABLE_HEALTH]
-"LEECHABLE HEALTH"
+"Leechable Health"
 
 [/Lotus/Language/Game/LeechDrone]
-"LEECH OSPREY"
+"Leech Osprey"
 
 [/Lotus/Language/Game/LieutenantLechKril]
-"LT LECH KRIL"
+"Lt Lech Kril"
 
 [/Lotus/Language/Game/LieutenantLechKrilWeakSpot]
 "COOLANT TUBE"
@@ -20812,13 +20824,13 @@ A call echoes across the stars - as a menace approaches..."
 "WAITING FOR PLAYERS |NUM|/|TOT| :|SEC|"
 
 [/Lotus/Language/Game/LureAvatar]
-"VOID LURE"
+"Void Lure"
 
 [/Lotus/Language/Game/LureAvatarDesc]
 "Attracts enemies"
 
 [/Lotus/Language/Game/MacheteWoman]
-"SCORPION"
+"Scorpion"
 
 [/Lotus/Language/Game/MacheteWomanDesc]
 "Lethal melee unit with ranged harpoon attack"
@@ -20827,7 +20839,7 @@ A call echoes across the stars - as a menace approaches..."
 "Dashes in for quick strikes"
 
 [/Lotus/Language/Game/ManicGrineerName]
-"GRINEER MANIC"
+"Grineer Manic"
 
 [/Lotus/Language/Game/Map]
 "Use the mini-map to locate objectives."
@@ -20941,7 +20953,7 @@ A call echoes across the stars - as a menace approaches..."
 "MELEE RANGE BONUS (%)"
 
 [/Lotus/Language/Game/MeleeSpaceMan]
-"PROD CREWMAN"
+"Prod Crewman"
 
 [/Lotus/Language/Game/Mercury]
 "Mercury"
@@ -21091,7 +21103,7 @@ A call echoes across the stars - as a menace approaches..."
 "Fires energy based projectiles that bounce"
 
 [/Lotus/Language/Game/MoaBouncerName]
-"RICOCHET MOA"
+"Ricochet Moa"
 
 [/Lotus/Language/Game/MobileDefenseSatelliteCorpus]
 "CORPUS SATELLITE"
@@ -21100,40 +21112,40 @@ A call echoes across the stars - as a menace approaches..."
 "GRINEER SATELLITE"
 
 [/Lotus/Language/Game/ModCorpBuff]
-"NUL COMBA"
+"Nul Comba"
 
 [/Lotus/Language/Game/ModCorpBuffDesc]
 "Disrupts Buff and Debuff powers"
 
 [/Lotus/Language/Game/ModCorpBuffSkate]
-"NUL SCRAMBUS"
+"Nul Scrambus"
 
 [/Lotus/Language/Game/ModCorpDamage]
-"SAP COMBA"
+"Sap Comba"
 
 [/Lotus/Language/Game/ModCorpDamageDesc]
 "Disrupts Damage powers"
 
 [/Lotus/Language/Game/ModCorpDamageSkate]
-"SAP SCRAMBUS"
+"Sap Scrambus"
 
 [/Lotus/Language/Game/ModCorpMobility]
-"SLO COMBA"
+"Slo Comba"
 
 [/Lotus/Language/Game/ModCorpMobilityDesc]
 "Disrupts Mobility powers"
 
 [/Lotus/Language/Game/ModCorpMobilitySkate]
-"SLO SCRAMBUS"
+"Slo Scrambus"
 
 [/Lotus/Language/Game/ModCorpPerception]
-"FOG COMBA"
+"Fog Comba"
 
 [/Lotus/Language/Game/ModCorpPerceptionDesc]
 "Disrupts Perception powers"
 
 [/Lotus/Language/Game/ModCorpPerceptionSkate]
-"FOG SCRAMBUS"
+"Fog Scrambus"
 
 [/Lotus/Language/Game/MoonChallengeClaimReward]
 "<USE> CLAIM REWARD"
@@ -21238,46 +21250,46 @@ A call echoes across the stars - as a menace approaches..."
 "This uncommon plant can only be found at night."
 
 [/Lotus/Language/Game/NightwatchBailiffName]
-"NIGHTWATCH BAILIFF"
+"Nightwatch Bailiff"
 
 [/Lotus/Language/Game/NightwatchBombardMinigun]
-"NIGHTWATCH BOMBARD"
+"Nightwatch Bombard"
 
 [/Lotus/Language/Game/NightwatchBombardName]
-"NIGHTWATCH BOMBARD"
+"Nightwatch Bombard"
 
 [/Lotus/Language/Game/NightwatchFlamebladeDesc]
 "[PH] Description"
 
 [/Lotus/Language/Game/NightwatchFlamebladeName]
-"NIGHTWATCH FLAMEBLADE"
+"Nightwatch Flameblade"
 
 [/Lotus/Language/Game/NightwatchGrineerCatMasterName]
-"NIGHTWATCH HYEKKA MASTER"
+"Nightwatch Hyekka Master"
 
 [/Lotus/Language/Game/NightwatchLancerName]
-"NIGHTWATCH LANCER"
+"Nightwatch Lancer"
 
 [/Lotus/Language/Game/NightwatchLancerRifle]
-"NIGHTWATCH LANCER"
+"Nightwatch Lancer"
 
 [/Lotus/Language/Game/NightwatchManicGrineerName]
-"NIGHTWATCH MANIC"
+"Nightwatch Manic"
 
 [/Lotus/Language/Game/NightwatchPowerClawDesc]
 "[PH] Description"
 
 [/Lotus/Language/Game/NightwatchPowerClawName]
-"NIGHTWATCH POWERCLAW"
+"Nightwatch Powerclaw"
 
 [/Lotus/Language/Game/NightwatchSeekerName]
-"NIGHTWATCH SEEKER"
+"Nightwatch Seeker"
 
 [/Lotus/Language/Game/NightwatchShieldLancerDesc]
 "[PH] Description"
 
 [/Lotus/Language/Game/NightwatchShieldLancerName]
-"NIGHTWATCH BRUNT LANCER"
+"Nightwatch Brunt Lancer"
 
 [/Lotus/Language/Game/NOISE_RADIUS]
 "NOISE RADIUS"
@@ -21292,7 +21304,7 @@ A call echoes across the stars - as a menace approaches..."
 "Meltdown Imminent"
 
 [/Lotus/Language/Game/NullifySpaceMan]
-"NULLIFIER CREWMAN"
+"Nullifier Crewman"
 
 [/Lotus/Language/Game/NullifySpaceManDesc]
 "Energy shield blocks projectiles and nullifies powers"
@@ -21358,7 +21370,7 @@ A call echoes across the stars - as a menace approaches..."
 "A deadly predator"
 
 [/Lotus/Language/Game/OceanSharkName]
-"LANX"
+"Lanx"
 
 [/Lotus/Language/Game/OddityOneInscription]
 "Scan of |ODDITY| reveals an inscription: 
@@ -21437,10 +21449,10 @@ A call echoes across the stars - as a menace approaches..."
 "ORB RANGE (METERS)"
 
 [/Lotus/Language/Game/OrokinBladeSawman]
-"CORRUPTED BUTCHER"
+"Corrupted Butcher"
 
 [/Lotus/Language/Game/OrokinBombardRocket]
-"CORRUPTED BOMBARD"
+"Corrupted Bombard"
 
 [/Lotus/Language/Game/OrokinCellContainer]
 "CELL ARRAY"
@@ -21449,7 +21461,7 @@ A call echoes across the stars - as a menace approaches..."
 "Contains Orokin Cells"
 
 [/Lotus/Language/Game/OrokinDrone]
-"OROKIN DRONE"
+"Orokin Drone"
 
 [/Lotus/Language/Game/OrokinExplodingBarrel]
 "VOLATILE OROKIN CONTAINER"
@@ -21539,7 +21551,7 @@ A call echoes across the stars - as a menace approaches..."
 "The Grineer have occupied the abandoned settlements here."
 
 [/Lotus/Language/Game/Phorid]
-"PHORID"
+"Phorid"
 
 [/Lotus/Language/Game/PickKey]
 "HOLD <USE> TO TAKE KEY PASS"
@@ -21884,10 +21896,10 @@ A call echoes across the stars - as a menace approaches..."
 "You have won the duel"
 
 [/Lotus/Language/Game/QuadHyena]
-"HYENA PACK"
+"Hyena Pack"
 
 [/Lotus/Language/Game/QuadRobot]
-"JACKAL"
+"Jackal"
 
 [/Lotus/Language/Game/QuadRobotLeftArm]
 "JACKAL LEFT ARM"
@@ -21995,7 +22007,7 @@ A call echoes across the stars - as a menace approaches..."
 "Vitals Failing"
 
 [/Lotus/Language/Game/RailgunBiped]
-"RAILGUN MOA"
+"Railgun Moa"
 
 [/Lotus/Language/Game/Rank_General]
 "General"
@@ -22022,22 +22034,22 @@ A call echoes across the stars - as a menace approaches..."
 "Warlord"
 
 [/Lotus/Language/Game/Raptor]
-"RAPTOR"
+"Raptor"
 
 [/Lotus/Language/Game/RaptorBombTimer]
 "Detonation In: |TIME|"
 
 [/Lotus/Language/Game/RaptorCarrier]
-"RAPTOR MT"
+"Raptor Mt"
 
 [/Lotus/Language/Game/RaptorDrone]
-"NEMES RT"
+"Nemes Rt"
 
 [/Lotus/Language/Game/RaptorLaser]
-"RAPTOR RV"
+"Raptor Rv"
 
 [/Lotus/Language/Game/RaptorMortar]
-"RAPTOR NS"
+"Raptor Ns"
 
 [/Lotus/Language/Game/RareCorpusLootCrate]
 "RARE CORPUS STORAGE CONTAINER"
@@ -22097,7 +22109,7 @@ A call echoes across the stars - as a menace approaches..."
 "NOT ALL TEAMMATES IN RANGE. USE AGAIN TO OVERRIDE WARNING."
 
 [/Lotus/Language/Game/RethTrap]
-"RETH TRAP"
+"Reth Trap"
 
 [/Lotus/Language/Game/RetrievalATVObject]
 "CORPUS ROVER"
@@ -22109,7 +22121,7 @@ A call echoes across the stars - as a menace approaches..."
 "Extract with the power core"
 
 [/Lotus/Language/Game/RifleSpaceMan]
-"CREWMAN"
+"Crewman"
 
 [/Lotus/Language/Game/RK_ARMOR]
 "FERRITE ARMOR"
@@ -22151,7 +22163,7 @@ A call echoes across the stars - as a menace approaches..."
 "SHIELD"
 
 [/Lotus/Language/Game/RogueAcolyte]
-"MANIA"
+"Mania"
 
 [/Lotus/Language/Game/RogueAcolyteDesc]
 "Elusive and deadly"
@@ -22163,7 +22175,7 @@ A call echoes across the stars - as a menace approaches..."
 "[PH] Jester Description"
 
 [/Lotus/Language/Game/RoyalJesterName]
-"[PH] ROYAL JESTER"
+"Kuva Jester"
 
 [/Lotus/Language/Game/RubedoContainer]
 "RUBEDO FORMATION"
@@ -22190,10 +22202,10 @@ A call echoes across the stars - as a menace approaches..."
 "Contains Salvage"
 
 [/Lotus/Language/Game/SandmanTennoClone]
-"SAND SHADOW"
+"Sand Shadow"
 
 [/Lotus/Language/Game/SargasRuk]
-"GENERAL SARGAS RUK"
+"General Sargas Ruk"
 
 [/Lotus/Language/Game/Saturn]
 "Saturn"
@@ -22217,49 +22229,49 @@ A call echoes across the stars - as a menace approaches..."
 "Collects fallen items on the battlefield"
 
 [/Lotus/Language/Game/ScavengerDroneName]
-"SCAVENGER DRONE"
+"Scavenger Drone"
 
 [/Lotus/Language/Game/ScoutsScanned]
 "Scouts Scanned"
 
 [/Lotus/Language/Game/SeaLabBladeSawman]
-"DREKAR BUTCHER"
+"Drekar Butcher"
 
 [/Lotus/Language/Game/SeaLabDeployableCover]
-"DREKAR BLUNT"
+"Drekar Blunt"
 
 [/Lotus/Language/Game/SeaLabEliteRifleLancer]
-"DREKAR ELITE LANCER"
+"Drekar Elite Lancer"
 
 [/Lotus/Language/Game/SeaLabEviscerator]
-"DREKAR EVISCERATOR"
+"Drekar Eviscerator"
 
 [/Lotus/Language/Game/SeaLabFemaleGrineerHeavy]
-"DREKAR HEAVY GUNNER"
+"Drekar Heavy Gunner"
 
 [/Lotus/Language/Game/SeaLabFemaleGrineerMachete]
-"DREKAR SCORPION"
+"Drekar Scorpion"
 
 [/Lotus/Language/Game/SeaLabFemaleGrineerSniper]
-"DREKAR BALLISTA"
+"Drekar Ballista"
 
 [/Lotus/Language/Game/SeaLabGrineerMarinePistol]
-"DREKAR SEEKER"
+"Drekar Seeker"
 
 [/Lotus/Language/Game/SeaLabJetpackMarine]
-"DREKAR HELLION"
+"Drekar Hellion"
 
 [/Lotus/Language/Game/SeaLabManic]
-"DREKAR MANIC"
+"Drekar Manic"
 
 [/Lotus/Language/Game/SeaLabManicBombard]
-"DREKAR MANIC BOMBARD"
+"Drekar Manic Bombard"
 
 [/Lotus/Language/Game/SeaLabRifleLancer]
-"DREKAR LANCER"
+"Drekar Lancer"
 
 [/Lotus/Language/Game/SeaLabShotgunLancer]
-"DREKAR TROOPER"
+"Drekar Trooper"
 
 [/Lotus/Language/Game/SECONDS]
 " SECONDS"
@@ -22292,43 +22304,43 @@ A call echoes across the stars - as a menace approaches..."
 "Detects intruders"
 
 [/Lotus/Language/Game/SensorRegulatorName]
-"SENSOR REGULATOR"
+"Sensor Regulator"
 
 [/Lotus/Language/Game/SensorRegulatorOrokinName]
-"OROKIN SPECTATOR"
+"Orokin Spectator"
 
 [/Lotus/Language/Game/SentientMeleeTrooperName]
-"CONCULYST"
+"Conculyst"
 
 [/Lotus/Language/Game/SentientScoutDesc]
 "Eyes of the Sentient"
 
 [/Lotus/Language/Game/SentientScoutName]
-"OCULYST"
+"Oculyst"
 
 [/Lotus/Language/Game/SentientTrooperDesc]
 "Highly adaptable offenses and defences"
 
 [/Lotus/Language/Game/SentientTrooperName]
-"BATTALYST"
+"Battalyst"
 
 [/Lotus/Language/Game/Shade]
-"SHADE"
+"Shade"
 
 [/Lotus/Language/Game/ShadowBurstCasterAcolyte]
-"SHADOW OF ANGST"
+"Shadow Of Angst"
 
 [/Lotus/Language/Game/ShadowControlAcolyte]
-"SHADOW OF TORMENT"
+"Shadow Of Torment"
 
 [/Lotus/Language/Game/ShadowDuellistAcolyte]
-"SHADOW OF VIOLENCE"
+"Shadow Of Violence"
 
 [/Lotus/Language/Game/ShadowHeavyAcolyte]
-"SHADOW OF MALICE"
+"Shadow Of Malice"
 
 [/Lotus/Language/Game/ShadowRogueAcolyte]
-"SHADOW OF MANIA"
+"Shadow Of Mania"
 
 [/Lotus/Language/Game/SHIELD_MULTIPLIER]
 "SHIELD MULTIPLIER"
@@ -22337,7 +22349,7 @@ A call echoes across the stars - as a menace approaches..."
 "SHIELD RANGE"
 
 [/Lotus/Language/Game/ShieldDrone]
-"SHIELD OSPREY"
+"Shield Osprey"
 
 [/Lotus/Language/Game/ShipIntegrityCompromised]
 "Core Integrity Compromised"
@@ -22346,22 +22358,22 @@ A call echoes across the stars - as a menace approaches..."
 "Utilizes a taser cord"
 
 [/Lotus/Language/Game/ShockFrogLancerName]
-"SHOCK DRAGA"
+"Shock Draga"
 
 [/Lotus/Language/Game/ShockwaveBiped]
-"SHOCKWAVE MOA"
+"Shockwave Moa"
 
 [/Lotus/Language/Game/ShootableButton]
 "BUTTON"
 
 [/Lotus/Language/Game/ShotgunSpaceMan]
-"DETRON CREWMAN"
+"Detron Crewman"
 
 [/Lotus/Language/Game/ShotgunSpaceManDesc]
 "High damage at close range"
 
 [/Lotus/Language/Game/ShotgunSpaceManName]
-"CORPUS AGGRESSOR"
+"Corpus Aggressor"
 
 [/Lotus/Language/Game/ShrapnelMine]
 "SHRAPNEL MINE"
@@ -22385,7 +22397,7 @@ A call echoes across the stars - as a menace approaches..."
 "SLOW (%)"
 
 [/Lotus/Language/Game/SniperSpaceMan]
-"SNIPER CREWMAN"
+"Sniper Crewman"
 
 [/Lotus/Language/Game/SpaceAttackDroneDesc]
 "Weak, but aggressive with a high rate of fire"
@@ -22394,7 +22406,7 @@ A call echoes across the stars - as a menace approaches..."
 "REINFORCED GLASS"
 
 [/Lotus/Language/Game/SpaceMan]
-"CORPUS CREWMAN"
+"Corpus Crewman"
 
 [/Lotus/Language/Game/SPEED_DECREASE_PERCENT]
 "SPEED DECREASE (%)"
@@ -22427,10 +22439,10 @@ A call echoes across the stars - as a menace approaches..."
 "SPREAD SPORES"
 
 [/Lotus/Language/Game/Stalker]
-"STALKER"
+"Stalker"
 
 [/Lotus/Language/Game/StalkerTwo]
-"SHADOW STALKER"
+"Shadow Stalker"
 
 [/Lotus/Language/Game/StartElevator]
 "<USE> START ELEVATOR"
@@ -22445,7 +22457,7 @@ A call echoes across the stars - as a menace approaches..."
 "Stealth Kill Affinity Bonus"
 
 [/Lotus/Language/Game/StickyRollingDrone]
-"LATCHER"
+"Latcher"
 
 [/Lotus/Language/Game/STONE_DURATION]
 "STONE DURATION"
@@ -22460,7 +22472,7 @@ A call echoes across the stars - as a menace approaches..."
 "Charges its target and detonates when threatened"
 
 [/Lotus/Language/Game/SuicideDroneName]
-"OXIUM OSPREY"
+"Oxium Osprey"
 
 [/Lotus/Language/Game/SurvivalActivateLifeSupport]
 "<USE> ACTIVATE LIFE SUPPORT CAPSULE"
@@ -22499,25 +22511,25 @@ A call echoes across the stars - as a menace approaches..."
 "TEAM ANNIHILATION"
 
 [/Lotus/Language/Game/TennoAttackDrone]
-"DRONE GUARDIAN"
+"Drone Guardian"
 
 [/Lotus/Language/Game/TennoGuardian]
-"TENNO GUARDIAN"
+"Tenno Guardian"
 
 [/Lotus/Language/Game/TennoInitiate]
 "INITIATE"
 
 [/Lotus/Language/Game/TennoMoa]
-"FUSION MOA GUARDIAN"
+"Fusion Moa Guardian"
 
 [/Lotus/Language/Game/TennoReplicant]
-"|PLAYER_NAME| SPECTER"
+"|Player_Name| Specter"
 
 [/Lotus/Language/Game/TennoRival]
 "TENNO SPECTER"
 
 [/Lotus/Language/Game/TennoShieldDrone]
-"SHIELD GUARDIAN"
+"Shield Guardian"
 
 [/Lotus/Language/Game/TennoWay_Madurai]
 "MADURAI"
@@ -22583,7 +22595,7 @@ A call echoes across the stars - as a menace approaches..."
 "TESHIN"
 
 [/Lotus/Language/Game/TeshinSpecter]
-"TESHIN SPECTER"
+"Teshin Specter"
 
 [/Lotus/Language/Game/TeshinStealDisc]
 "[PH] STEAL DISC"
@@ -22598,7 +22610,7 @@ A call echoes across the stars - as a menace approaches..."
 "[PH] STARTER PET"
 
 [/Lotus/Language/Game/TORNADOES]
-"TORNADOES"
+"Tornadoes"
 
 [/Lotus/Language/Game/TorpedoGunButton]
 "<USE> LAUNCH GRINEER BREACH TORPEDO"
@@ -22610,7 +22622,7 @@ A call echoes across the stars - as a menace approaches..."
 "Carries Crawlers into battle"
 
 [/Lotus/Language/Game/ToxicDroneName]
-"MUTALIST-OSPREY"
+"Mutalist-Osprey"
 
 [/Lotus/Language/Game/TreasureHuntTimeLimit]
 "Reach the end before the door closes!"
@@ -22782,13 +22794,13 @@ Absorb this energy sphere..."
 "Warframe Power TEMPORARILY unlocked. Use the Arsenal to upgrade weapons and unlock powers as you level up..."
 
 [/Lotus/Language/Game/TylRegor]
-"TYL REGOR"
+"Tyl Regor"
 
 [/Lotus/Language/Game/TylRegorDesc]
 "Melee Specialist"
 
 [/Lotus/Language/Game/TylRegorName]
-"TYL REGOR"
+"Tyl Regor"
 
 [/Lotus/Language/Game/UltraRareCorpusLootCrate]
 "REINFORCED CORPUS STORAGE CONTAINER"
@@ -22815,13 +22827,13 @@ Absorb this energy sphere..."
 "Empowers Grineer while Disabling Tenno"
 
 [/Lotus/Language/Game/VayHekDroneName]
-"COUNCILOR VAY HEK"
+"Councilor Vay Hek"
 
 [/Lotus/Language/Game/VayHekFrameDesc]
 "Vay Hek's combat platform"
 
 [/Lotus/Language/Game/VayHekFrameName]
-"VAY HEK TERRA FRAME"
+"Vay Hek Terra Frame"
 
 [/Lotus/Language/Game/Venus]
 "Venus"
@@ -22830,7 +22842,7 @@ Absorb this energy sphere..."
 "The Corpus have focused their manufacturing facilities in this area."
 
 [/Lotus/Language/Game/VideoDroneName]
-"RATHUUM BROADCASTER"
+"Rathuum Broadcaster"
 
 [/Lotus/Language/Game/Void]
 "Void"
@@ -22842,13 +22854,13 @@ Absorb this energy sphere..."
 "Ancient Orokin places are hidden here."
 
 [/Lotus/Language/Game/VoidNegationTower]
-"[PH] VOID NEGATION TOWER"
+"Kuva Siphon"
 
 [/Lotus/Language/Game/VoidNegationTowerBraid]
-"[PH] VOID NEGATION BRAID"
+"Kuva Siphon Braid"
 
 [/Lotus/Language/Game/VorTwo]
-"CORRUPTED VOR"
+"Corrupted Vor"
 
 [/Lotus/Language/Game/VorTwoDesc]
 "I was cut in half, destroyed, but through its Janus Key, the Void called to me. It brought me here and here I was reborn. 
@@ -22862,25 +22874,25 @@ Absorb this energy sphere..."
 "WAKEUP HEALTH THRESHOLD"
 
 [/Lotus/Language/Game/WardenCorpus]
-"CORPUS WARDEN"
+"Corpus Warden"
 
 [/Lotus/Language/Game/WardenCorpusDesc]
 "Highly shielded, heavy weaponry"
 
 [/Lotus/Language/Game/WardenCorrupted]
-"CORRUPTED WARDEN"
+"Corrupted Warden"
 
 [/Lotus/Language/Game/WardenDesc]
 "Weak to stealth takedowns"
 
 [/Lotus/Language/Game/WardenGrineer]
-"GRINEER WARDEN"
+"Grineer Warden"
 
 [/Lotus/Language/Game/WardenLeader]
-"WARDEN"
+"Warden"
 
 [/Lotus/Language/Game/WardenLeaderCodex]
-"WARDEN EXIMUS"
+"Warden Eximus"
 
 [/Lotus/Language/Game/WardenLeaderDesc]
 "Life leech weapon, increased speed, weak to stealth takedowns"
@@ -22892,7 +22904,7 @@ Absorb this energy sphere..."
 "Deploys aquatic mines. "
 
 [/Lotus/Language/Game/WaterMineDroneName]
-"SIKULA"
+"Sikula"
 
 [/Lotus/Language/Game/Wave]
 "WAVE"
@@ -22928,7 +22940,7 @@ Absorb this energy sphere..."
 "WYRM"
 
 [/Lotus/Language/Game/ZanukaHunter]
-"ZANUKA HUNTER"
+"Zanuka Hunter"
 
 [/Lotus/Language/Game/ZanukaHunterDesc]
 "Captures Warframes"
@@ -30723,7 +30735,7 @@ This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve pro
 "Fitted with cloaking technology, this Grineer observation drone collects battlefield information and supports tactical deployments."
 
 [/Lotus/Language/Items/GrineerFlyingDroneName]
-"GRINEER INFORMER"
+"Grineer Informer"
 
 [/Lotus/Language/Items/GrineerGooGunDesc]
 "Firing a sticky, toxic, explosive compound, the Stug Gel Gun offers multiple ejection modes, delivering maximum damage in all situations."
@@ -31308,7 +31320,7 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 "A morbidly festive skin for the Jat Kittag."
 
 [/Lotus/Language/Items/HalloweenJatKittagName]
-"KITTAG DAY OF THE DEAD JAT SKIN"
+"JAT KITTAG DAY OF THE DEAD SKIN"
 
 [/Lotus/Language/Items/HalloweenKronenDesc]
 "A morbidly festive skin for the Kronen."
@@ -54583,6 +54595,9 @@ Do you wish to enable Recruit Conditioning?"
 [/Lotus/Language/Menu/PvpWonRound]
 "You won this round!"
 
+[/Lotus/Language/Menu/Quest_Replay]
+"REPLAY QUEST"
+
 [/Lotus/Language/Menu/Quest_ViewStartCinematic]
 "VIEW CINEMATIC"
 
@@ -57069,7 +57084,7 @@ This one is dedicated to you."
 "Cannot select another mission while a vote is in progress."
 
 [/Lotus/Language/Menu/WagerProgressTitle]
-"Personal Point Target:"
+"Wager Target:"
 
 [/Lotus/Language/Menu/WaitingToBeHealed]
 "A teammate needs to be revived!"
@@ -57731,7 +57746,7 @@ https://warframe.com/eula"
 "With melee equipped, |val|% Mobility"
 
 [/Lotus/Language/Mods/IncreasedMobilityEquipped_descTwo]
-"|val| Sprint Speed"
+"+|val| Sprint Speed"
 
 [/Lotus/Language/Mods/IncreasedMobilityOnLowHealth]
 "Tactical Retreat"
@@ -57906,6 +57921,9 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Mods/PassiveReloadShotgunMod]
 "Lock and Load"
+
+[/Lotus/Language/Mods/PrimedRifleModFreezeDamage]
+"Primed Cryo Rounds"
 
 [/Lotus/Language/Mods/ProvaCorpusArenaMod]
 "Static Discharge"
@@ -60703,40 +60721,40 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "PROCESSING SYNTHESIS DATA"
 
 [/Lotus/Language/SanctuaryResearch/ResearchTitle1]
-"Imprint: LANCER"
+"Imprint: Lancer"
 
 [/Lotus/Language/SanctuaryResearch/ResearchTitle10]
-"Imprint: NULLIFIER CREWMAN"
+"Imprint: Nullifier Crewman"
 
 [/Lotus/Language/SanctuaryResearch/ResearchTitle2]
-"Imprint: ANTI MOA"
+"Imprint: Anti Moa"
 
 [/Lotus/Language/SanctuaryResearch/ResearchTitle3]
-"Imprint: ARID EVISCERATOR"
+"Imprint: Arid Eviscerator"
 
 [/Lotus/Language/SanctuaryResearch/ResearchTitle4]
-"Imprint: CORRUPTED ANCIENT"
+"Imprint: Corrupted Ancient"
 
 [/Lotus/Language/SanctuaryResearch/ResearchTitle5]
-"Imprint: CREWMAN"
+"Imprint: Crewman"
 
 [/Lotus/Language/SanctuaryResearch/ResearchTitle6]
-"Imprint: RUNNER"
+"Imprint: Runner"
 
 [/Lotus/Language/SanctuaryResearch/ResearchTitle7]
-"Imprint: GUARDSMAN"
+"Imprint: Guardsman"
 
 [/Lotus/Language/SanctuaryResearch/ResearchTitle8]
-"Imprint: CORRUPTED HEAVY GUNNER"
+"Imprint: Corrupted Heavy Gunner"
 
 [/Lotus/Language/SanctuaryResearch/ResearchTitle9]
-"Imprint: CHARGER"
+"Imprint: Charger"
 
 [/Lotus/Language/SanctuaryResearch/SynthesisProgress]
 "SYNTHESIS PROGRESS"
 
 [/Lotus/Language/SanctuaryResearch/SynthesisTarget]
-"|TARGET| SYNTHESIS"
+"|TARGET| Synthesis"
 
 [/Lotus/Language/Scans/GftPlantRuksClawMatureDesc]
 "This plant was introduced to arid regions across the Origin system, for its ability to collect moisture in harsh environments."
@@ -61162,7 +61180,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "NOGGLE STATUE - BANSHEE"
 
 [/Lotus/Language/ShipDecorations/BobbleheadBaroKiTeerDesc]
-"A small wobbly statue of Baro Ki'Teer."
+"A wobbly embodiment of grace and distinction."
 
 [/Lotus/Language/ShipDecorations/BobbleheadBaroKiTeerName]
 "NOGGLE STATUE - BARO KI'TEER"
@@ -61718,6 +61736,12 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/ShipDecorations/OrnamentSteelMeridianName]
 "INSIGNIA SCULPTURE"
+
+[/Lotus/Language/ShipDecorations/ShelvingDecoBaroNoggleHolderDesc]
+"Behold, the singular vision of a great artist and the life’s work of a master craftsmen. An artifact so refined, so imbued with the finest material that it has no equal in this system. This is the plinth that all others aspire to be. This is Pedestal Prime."
+
+[/Lotus/Language/ShipDecorations/ShelvingDecoBaroNoggleHolderName]
+"PEDESTAL PRIME"
 
 [/Lotus/Language/Sigils/AllianceSigilBasicDesc]
 "This sigil is worn by the members united within an Alliance."
