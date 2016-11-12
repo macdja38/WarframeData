@@ -84,7 +84,7 @@
 					"Id": "SolNode123",
 					"Name": "V Prime",
 					"Faction": "FC_CORPUS",
-					"MissionType": "MT_RESCUE",
+					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_MISSION",
 					"ArchwingRequired": false,
 				},
@@ -461,7 +461,7 @@
 					"Id": "SolNode33",
 					"Name": "Ariel",
 					"Faction": "FC_GRINEER",
-					"MissionType": "MT_SABOTAGE",
+					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
 					"ArchwingRequired": true,
 				},
@@ -487,7 +487,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_TERRITORY",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": true,
+					"ArchwingRequired": false,
 				},
 				{
 					"Id": "SolNode3",
@@ -1175,7 +1175,7 @@
 				{
 					"Id": "SolNode411",
 					"Name": "Marduk",
-					"Faction": "FC_GRINEER",
+					"Faction": "FC_OROKIN",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_MISSION",
 					"ArchwingRequired": false,
@@ -1183,7 +1183,7 @@
 				{
 					"Id": "SolNode412",
 					"Name": "Mithra",
-					"Faction": "FC_GRINEER",
+					"Faction": "FC_OROKIN",
 					"MissionType": "MT_TERRITORY",
 					"NodeType": "NT_MISSION",
 					"ArchwingRequired": false,
@@ -1377,7 +1377,7 @@
 			]
 		},
 		{
-			"Name": "LUA",
+			"Name": "Lua",
 			"Sectors": [
 				{
 					"Id": "SolNode300",
@@ -1439,6 +1439,75 @@
 					"Id": "SolNode307",
 					"Name": "Zeipel",
 					"Faction": "FC_CORPUS",
+					"MissionType": "MT_RESCUE",
+					"NodeType": "NT_MISSION",
+					"ArchwingRequired": false,
+				}
+			]
+		},
+		{
+			"Name": "Kuva Fortress",
+			"Sectors": [
+				{
+					"Id": "SolNode741",
+					"Name": "Koro",
+					"Faction": "FC_GRINEER",
+					"MissionType": "",
+					"NodeType": "NT_MISSION",
+					"ArchwingRequired": true,
+				},
+				{
+					"Id": "SolNode742",
+					"Name": "Nabuk",
+					"Faction": "FC_GRINEER",
+					"MissionType": "MT_CAPTURE",
+					"NodeType": "NT_MISSION",
+					"ArchwingRequired": true,
+				},
+				{
+					"Id": "SolNode743",
+					"Name": "Rotuma",
+					"Faction": "FC_GRINEER",
+					"MissionType": "MT_MOBILE_DEFENSE",
+					"NodeType": "NT_MISSION",
+					"ArchwingRequired": true,
+				},
+				{
+					"Id": "SolNode744",
+					"Name": "Taveuni",
+					"Faction": "FC_GRINEER",
+					"MissionType": "MT_SURVIVAL",
+					"NodeType": "NT_MISSION",
+					"ArchwingRequired": false,
+				},
+				{
+					"Id": "SolNode745",
+					"Name": "Tamu",
+					"Faction": "FC_GRINEER",
+					"MissionType": "MT_DEFENSE",
+					"NodeType": "NT_MISSION",
+					"ArchwingRequired": true,
+				},
+				{
+					"Id": "SolNode746",
+					"Name": "Dakata",
+					"Faction": "FC_GRINEER",
+					"MissionType": "MT_EXTERMINATION",
+					"NodeType": "NT_MISSION",
+					"ArchwingRequired": true,
+				},
+				{
+					"Id": "SolNode747",
+					"Name": "Pago",
+					"Faction": "FC_GRINEER",
+					"MissionType": "MT_INTEL",
+					"NodeType": "NT_MISSION",
+					"ArchwingRequired": true,
+				},
+				{
+					"Id": "SolNode748",
+					"Name": "Garus",
+					"Faction": "FC_GRINEER",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_MISSION",
 					"ArchwingRequired": false,
