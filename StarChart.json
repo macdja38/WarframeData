@@ -880,7 +880,7 @@
 				{
 					"Id": "SolNode701",
 					"Name": "Jordas Golem Assassinate",
-					"Faction": "FC_GRINEER",
+					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
 					"ArchwingRequired": false,
@@ -888,7 +888,7 @@
 				{
 					"Id": "SolNode704",
 					"Name": "<RAID> THE JORDAS VERDICT",
-					"Faction": "FC_GRINEER",
+					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_EMPTY",
 					"ArchwingRequired": false,
@@ -896,7 +896,7 @@
 				{
 					"Id": "SolNode705",
 					"Name": "MUTALIST ALAD V ASSASSINATE",
-					"Faction": "FC_GRINEER",
+					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
 					"ArchwingRequired": false,

@@ -9649,9 +9649,6 @@ Warframe Support Team"
 [/Lotus/Language/DesignCouncilTips/DC_TipAuthor116]
 "Aciaj613"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor117]
-"DryMind"
-
 [/Lotus/Language/DesignCouncilTips/DC_TipAuthor118]
 "Ocfos"
 
@@ -14284,7 +14281,7 @@ Councilor Vay Hek"
 "Glory Awaits"
 
 [/Lotus/Language/G1Quests/ClemWeeklyMissionDesc]
-"[PH] Help Clem"
+"Help Clem"
 
 [/Lotus/Language/G1Quests/ConfirmAbandonDailySimarisTask]
 "Are you sure you want to abandon this synthesis task?"
