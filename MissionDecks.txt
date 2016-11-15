@@ -870,6 +870,7 @@ Rotation C:
  - Mercury, Odin, MT_TERRITORY, FC_GRINEER, NT_MISSION
  - Venus, Cytherean, MT_TERRITORY, FC_CORPUS, NT_MISSION
  - Earth, Gaia, MT_TERRITORY, FC_GRINEER, NT_MISSION
+ - Mars, Alator, MT_TERRITORY, FC_GRINEER, NT_MISSION
  - Ceres, Cinxia, MT_TERRITORY, FC_GRINEER, NT_MISSION
 
 Rotation A:
@@ -1550,11 +1551,16 @@ Rotation A:
   50 "", LEGENDARY, 0.21%
 
 Rotation B:
-  1 "", COMMON, 20%
-  1 "", COMMON, 20%
-  1 "", COMMON, 20%
-  1 "", COMMON, 20%
-  1 "", COMMON, 20%
+  1 "", COMMON, 15.49%
+  1 "", COMMON, 15.49%
+  1 "", COMMON, 15.49%
+  1 "", COMMON, 15.49%
+  1 "", COMMON, 15.49%
+  1 "", UNCOMMON, 4.51%
+  1 "", UNCOMMON, 4.51%
+  1 "", UNCOMMON, 4.51%
+  1 "", UNCOMMON, 4.51%
+  1 "", UNCOMMON, 4.51%
 
 Rotation C:
   1 "", RARE, 100%

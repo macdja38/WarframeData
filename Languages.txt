@@ -18056,22 +18056,22 @@ Your Queens"
 "You look weak. Nervous. I hope that expression comes out for my trophy case."
 
 [/Lotus/Language/G1Quests/WarWithin1]
-"[PH] War Within stage 1 description"
+"The War Within"
 
 [/Lotus/Language/G1Quests/WarWithin10]
-"[PH] War Within stage 10 description"
+"The War Within"
 
 [/Lotus/Language/G1Quests/WarWithin11]
-"[PH] War Within stage 11 description"
+"The War Within"
 
 [/Lotus/Language/G1Quests/WarWithin12]
-"[PH] War Within stage 12 description"
+"The War Within"
 
 [/Lotus/Language/G1Quests/WarWithin13]
 "Confront the Grineer Queens"
 
 [/Lotus/Language/G1Quests/WarWithin14]
-"[PH] War Within stage 14 description"
+"The War Within"
 
 [/Lotus/Language/G1Quests/WarWithin15]
 "Return to the Mountain Pass"
@@ -18080,13 +18080,13 @@ Your Queens"
 "Investigate the Reservoir on Lua"
 
 [/Lotus/Language/G1Quests/WarWithin3]
-"[PH] War Within stage 3 description"
+"The War Within"
 
 [/Lotus/Language/G1Quests/WarWithin4]
 "Track Teshin"
 
 [/Lotus/Language/G1Quests/WarWithin5]
-"[PH] War Within stage 5 description"
+"The War Within"
 
 [/Lotus/Language/G1Quests/WarWithin6]
 "Pursue Teshin into the Asteroid Field"
@@ -18098,7 +18098,7 @@ Your Queens"
 "The Mountain Pass"
 
 [/Lotus/Language/G1Quests/WarWithin9]
-"[PH] War Within stage 9 description"
+"The War Within"
 
 [/Lotus/Language/G1Quests/WarWithinAWEndMissionChoice]
 "Boarding the Kuva Fortress will restrict mission access. Commit?"
@@ -21712,6 +21712,9 @@ A call echoes across the stars - as a menace approaches..."
 
 [/Lotus/Language/Game/OperatorLisetTransferenceTutorial]
 "PRESS <ACTIVATE_ABILITY_4> TO USE TRANSFERENCE"
+
+[/Lotus/Language/Game/OperatorLisetTransferenceTutorialSelect]
+"PRESS <POWER_MODIFIER> TO USE TRANSFERENCE"
 
 [/Lotus/Language/Game/OperatorMeleeTutorial]
 "PRESS <MELEE> FOR VOID BLAST"
@@ -72997,7 +73000,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "I'll stowaway with Earth-bound cargo. Just my Apothics and these slapdash Somatics I've stolen. By nightfall I'll be home again in a my tent under those bitter, acid skies. This time I'm going to fix it. I will seed a mighty forest, stronger than history… and by my will, use it to bring life."
 
 [/Lotus/Language/Subtitles/SilverGrove/DIntro00010Amaryn]
-"Do you know of the Silver Grove, Earth's oldest and most pure forest? It is home to our most sacred Shrine. We've learned that the Grineer, those twisted abominations, are planning to build a factory on it. Grineer Scorch units have been deployed, intent on turning our blessed Silver Grove to ash."
+"Do you know of the Silver Grove, Earth's oldest and most pure forest? It is home to our most sacred shrine. We've learned that the Grineer, those twisted abominations, are planning to build a factory on it. Grineer Scorch units have been deployed, intent on turning our blessed Silver Grove to ash. Generations ago we recovered an Apothic recipe at the Shrine… we believe it will reawaken the forest's legendary defenses. Gather the ingredients and deliver the Apothic to the heart of the shrine. You are the only hope for the Silver Grove and the natural purity it represents."
 
 [/Lotus/Language/Subtitles/SilverGrove/DIntro00030Amaryn]
 "Are you ready to help our Silver Grove? We need the Apothic to awaken its defenses! Scour the System and find the plants we need."
