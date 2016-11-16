@@ -2077,7 +2077,7 @@ DROP_AMMO (Drop Chance: 70%)
 DROP_MISC_ITEM (Drop Chance: 5%)
 	ORVIUS DISC, COMMON, 100%
 
-DROP_MOD (Drop Chance: 15%)
+DROP_MOD (Drop Chance: 2.5%)
 	Lightning Dash, RARE, 20%
 	Firewalker, RARE, 20%
 	Ice Spring, RARE, 20%

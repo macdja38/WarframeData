@@ -14947,6 +14947,16 @@ The Lotus "
 [/Lotus/Language/G1Quests/Free_Mastery_Sigil_Title]
 "Free 'Mastery' Sigil!"
 
+[/Lotus/Language/G1Quests/FreedomRewardsInboxBody]
+"|PLAYER_NAME|,
+
+Congratulations on attaining two Mastery Ranks! In honor of your performance, you have been rewarded.  Use this gift to further our cause.
+
+-The Lotus"
+
+[/Lotus/Language/G1Quests/FreedomRewardsInboxSubject]
+"Mastery Challenge Conquered"
+
 [/Lotus/Language/G1Quests/FusionMoaEventInGameTitle]
 "Fusion Moa"
 
@@ -21704,14 +21714,23 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/OperatorBurrowTutorial]
 "HOLD <HOLD_CROUCH> TO BURROW"
 
+[/Lotus/Language/Game/OperatorBurrowTutorialPreCrouch]
+"HOLD <PRE_CROUCH> TO BURROW"
+
 [/Lotus/Language/Game/OperatorDashTutorial]
 "HOLD <HOLD_CROUCH> AND TAP <JUMP> TO DASH"
+
+[/Lotus/Language/Game/OperatorDashTutorialPreCrouch]
+"HOLD <PRE_CROUCH> AND TAP <JUMP> TO DASH"
 
 [/Lotus/Language/Game/OperatorLisetBeamTutorial]
 "HOLD <PRE_ATTACK> TO USE BEAM, <AIM_WEAPON> TO AIM"
 
 [/Lotus/Language/Game/OperatorLisetTransferenceTutorial]
 "PRESS <ACTIVATE_ABILITY_4> TO USE TRANSFERENCE"
+
+[/Lotus/Language/Game/OperatorLisetTransferenceTutorialPowerMenu]
+"PRESS <POWER_MENU> WITH <ACTIVATE_ABILITY_MENU_4> TO USE TRANSFERENCE"
 
 [/Lotus/Language/Game/OperatorLisetTransferenceTutorialSelect]
 "PRESS <POWER_MODIFIER> TO USE TRANSFERENCE"
@@ -21722,14 +21741,23 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/OperatorSprintTutorial]
 "HOLD <PRE_RUN> TO JOG"
 
+[/Lotus/Language/Game/OperatorSprintTutorialRun]
+"HOLD <RUN> TO JOG"
+
 [/Lotus/Language/Game/OperatorStunTutorial]
 "USE VOID BLAST TO STUN THE GOLDEN MAW"
 
 [/Lotus/Language/Game/OperatorTransferenceTutorial]
 "TARGET THE STUNNED MAW WITH <ACTIVATE_ABILITY_4> TO ACTIVATE TRANSFERENCE"
 
+[/Lotus/Language/Game/OperatorTransferenceTutorialPowerMenu]
+"TARGET THE STUNNED MAW AND PRESS <POWER_MENU> WITH <ACTIVATE_ABILITY_MENU_4> TO ACTIVATE TRANSFERENCE"
+
 [/Lotus/Language/Game/OperatorWraithTutorial]
 "HOLD <HOLD_CROUCH> FOR VOID MODE"
+
+[/Lotus/Language/Game/OperatorWraithTutorialPreCrouch]
+"HOLD <PRE_CROUCH> FOR VOID MODE"
 
 [/Lotus/Language/Game/ORB_DAMAGE]
 "ORB DAMAGE"
@@ -36983,12 +37011,6 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/SarynPackName]
 "POISONOUS ATTITUDE PACK"
 
-[/Lotus/Language/Items/SarynPrimeDesc]
-"[PH] Description"
-
-[/Lotus/Language/Items/SarynPrimeName]
-"[PH] SARYN PRIME"
-
 [/Lotus/Language/Items/ScannerDesc]
 "Samples a target of interest for later analysis in your Codex (25 charges)."
 
@@ -51366,6 +51388,9 @@ REWARD"
 [/Lotus/Language/Menu/OccupyingFaction]
 "Occupying"
 
+[/Lotus/Language/Menu/Omega_MasteryLimitError]
+"Your Mastery Rank is not high enough to install |MOD| (rank |RANK| needed)."
+
 [/Lotus/Language/Menu/Omega_NoneOwned]
 "You don't own any riven mods"
 
@@ -57449,6 +57474,9 @@ As proof of your deed"
 [/Lotus/Language/Omega/FrostSuffix]
 "do"
 
+[/Lotus/Language/Omega/GenericOmegaMod]
+"|WEAPON| Riven Mod"
+
 [/Lotus/Language/Omega/GrineerDamagePrefix]
 "argi"
 
@@ -57492,10 +57520,22 @@ As proof of your deed"
 "|WEAPON| |NAME|"
 
 [/Lotus/Language/Omega/OmegaMasteryRequirement]
+"MASTERY |LEVEL|"
+
+[/Lotus/Language/Omega/OmegaMasteryRequirementLocked]
 "MASTERY <LOCKED> |LEVEL|"
+
+[/Lotus/Language/Omega/OmegaMasteryRequirementLockedShort]
+"MR <LOCKED> |LEVEL|"
+
+[/Lotus/Language/Omega/OmegaMasteryRequirementShort]
+"MR |LEVEL|"
 
 [/Lotus/Language/Omega/OmegaMeleeMod]
 "[PH] Melee Omega Mod"
+
+[/Lotus/Language/Omega/OmegaNumRerolls]
+"<RESET>|REROLLS|"
 
 [/Lotus/Language/Omega/OmegaPistolMod]
 "[PH] Pistol Omega Mod"
@@ -57774,7 +57814,7 @@ As proof of your deed"
 "MIRAGE PRIME"
 
 [/Lotus/Language/Primes/MiragePrimePassiveAbility]
-"[PH] Long-lasting slide and faster acrobatic maneuvers."
+"Long-lasting slide and faster acrobatic maneuvers."
 
 [/Lotus/Language/Primes/NecrosPrimeDangles]
 "MORTOS PRIME BINDS"
@@ -76595,7 +76635,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Suits/LiquefyAbilityPvPDesc]
 "Become a water trap, opponents that come into contact will be knocked down if they attempt to jump."
 
-[/Lotus/Language/Suits/lokiDesc]
+[/Lotus/Language/Suits/LokiDesc]
 "Desired by advanced players, Loki offers a variety of specialized reconfiguring abilities. The creativity of Loki's powers allows players to master the battlefield through manipulation."
 
 [/Lotus/Language/Suits/LokiName]
@@ -76677,7 +76717,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "MIRAGE"
 
 [/Lotus/Language/Suits/MiragePassiveAbility]
-"[PH] Long-lasting slide and faster acrobatic maneuvers."
+"Long-lasting slide and faster acrobatic maneuvers."
 
 [/Lotus/Language/Suits/MolecularPrimeAbilityAugment1Desc]
 "[PH] Molecular Prime Augment - Primed enemies within |RADIUS|m will be attracted to each other, exploding for |DAMAGE| damage over |DAMAGE_RADIUS|m on contact."
