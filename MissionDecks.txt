@@ -20,33 +20,33 @@ Stripped=True
  - Saturn, Pandora, MT_PURSUIT, FC_GRINEER, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  10 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", UNCOMMON, 22.11%
-  1 "", RARE, 2.01%
+  1 Tempered Blade, COMMON, 10.84%
+  1 Sudden Impact, COMMON, 10.84%
+  1 Poisonous Sting, COMMON, 10.84%
+  1 Glacial Edge, COMMON, 10.84%
+  1 Galvanized Blade, COMMON, 10.84%
+  10 15 ENDO, COMMON, 10.84%
+  1 Furor, COMMON, 10.84%
+  1 50 ENDO, UNCOMMON, 22.11%
+  1 80 ENDO, RARE, 2.01%
 
 Rotation B:
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  3 "", COMMON, 77.44%
+  1 Extend, UNCOMMON, 3.76%
+  1 Superior Defenses, UNCOMMON, 3.76%
+  1 Cutting Edge, UNCOMMON, 3.76%
+  1 System Reroute, UNCOMMON, 3.76%
+  1 Efficient Transferral, UNCOMMON, 3.76%
+  1 Blazing Steel, UNCOMMON, 3.76%
+  3 50 ENDO, COMMON, 77.44%
 
 Rotation C:
-  5 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
+  5 80 ENDO, COMMON, 14.29%
+  1 MESO D1 RELIC, COMMON, 14.29%
+  1 MESO F1 RELIC, COMMON, 14.29%
+  1 MESO S2 RELIC, COMMON, 14.29%
+  1 MESO V2 RELIC, COMMON, 14.29%
+  1 MESO S1 RELIC, COMMON, 14.29%
+  1 MESO V1 RELIC, COMMON, 14.29%
 
 
 [ArchwingSabotageRewards]
@@ -202,79 +202,79 @@ Stripped=True
  - Kuva Fortress, Nabuk, MT_CAPTURE, FC_GRINEER, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 9.48%
-  1 "", COMMON, 9.48%
-  1 "", COMMON, 9.48%
-  1 "", UNCOMMON, 11.06%
-  1 "", COMMON, 9.48%
-  1 "", COMMON, 9.48%
-  1 "", RARE, 0.17%
-  1 "", UNCOMMON, 11.06%
-  1 "", COMMON, 9.48%
-  1 "", COMMON, 9.48%
-  1 "", COMMON, 9.48%
-  1 "", RARE, 0.17%
-  1 "", RARE, 0.17%
-  1 "", RARE, 0.17%
-  1 "", RARE, 0.17%
-  1 "", RARE, 0.17%
-  1 "", RARE, 0.17%
-  1 "", RARE, 0.17%
-  1 "", RARE, 0.17%
-  1 "", RARE, 0.17%
-  1 "", RARE, 0.17%
-  1 "", RARE, 0.17%
+  1 Vitality, COMMON, 9.48%
+  1 Fast Deflection, COMMON, 9.48%
+  1 Fast Deflection, COMMON, 9.48%
+  1 Rush, UNCOMMON, 11.06%
+  1 Magazine Warp, COMMON, 9.48%
+  1 Trick Mag, COMMON, 9.48%
+  1 Pressure Point, RARE, 0.17%
+  1 Ammo Drum, UNCOMMON, 11.06%
+  1 Fast Hands, COMMON, 9.48%
+  1 Quickdraw, COMMON, 9.48%
+  1 HEALTH RESTORE, COMMON, 9.48%
+  1 OMNI AMMO BOX, RARE, 0.17%
+  1 North Wind, RARE, 0.17%
+  1 Shocking Touch, RARE, 0.17%
+  1 Molten Impact, RARE, 0.17%
+  1 Vitality, RARE, 0.17%
+  1 Stretch, RARE, 0.17%
+  1 LITH C1 RELIC, RARE, 0.17%
+  1 LITH V1 RELIC, RARE, 0.17%
+  1 MESO S2 RELIC, RARE, 0.17%
+  1 MESO V2 RELIC, RARE, 0.17%
+  1 NEO N3 RELIC, RARE, 0.17%
 
 
 [ClemCloneRewards]
 
 Rotation A:
-  1 "", COMMON, 100%
+  1 CLEM CLONE BLUEPRINT, COMMON, 100%
 
 Rotation B:
-  1 "", COMMON, 100%
+  1 CLEM CLONE BLUEPRINT, COMMON, 100%
 
 Rotation C:
-  1 "", COMMON, 100%
+  1 CLEM CLONE BLUEPRINT, COMMON, 100%
 
 
 [CorpusArenaWagerRewardsEasy]
  - Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT
 
 Rotation A:
-  1 "", COMMON, 100%
+  1 1500 CREDITS, COMMON, 100%
 
 Rotation B:
-  1 "", COMMON, 100%
+  1 3000 CREDITS, COMMON, 100%
 
 Rotation C:
-  1 "", COMMON, 100%
+  1 6000 CREDITS, COMMON, 100%
 
 
 [CorpusArenaWagerRewardsHard]
  - Neptune, THE INDEX: ENDURANCE, MT_ARENA, FC_CORPUS, NT_EVENT
 
 Rotation A:
-  1 "", COMMON, 100%
+  1 45000 CREDITS, COMMON, 100%
 
 Rotation B:
-  1 "", COMMON, 100%
+  1 60000 CREDITS, COMMON, 100%
 
 Rotation C:
-  1 "", COMMON, 100%
+  1 75000 CREDITS, COMMON, 100%
 
 
 [CorpusArenaWagerRewardsMedium]
  - Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT
 
 Rotation A:
-  1 "", COMMON, 100%
+  1 15000 CREDITS, COMMON, 100%
 
 Rotation B:
-  1 "", COMMON, 100%
+  1 25000 CREDITS, COMMON, 100%
 
 Rotation C:
-  1 "", COMMON, 100%
+  1 35000 CREDITS, COMMON, 100%
 
 
 [CorpusInfestedSabotageRewards]
@@ -290,34 +290,34 @@ Stripped=True
  - Phobos, Kepler, MT_RACE, FC_CORPUS, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  10 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
+  1 Tempered Blade, COMMON, 14.29%
+  1 Sudden Impact, COMMON, 14.29%
+  1 Poisonous Sting, COMMON, 14.29%
+  1 Glacial Edge, COMMON, 14.29%
+  1 Galvanized Blade, COMMON, 14.29%
+  10 15 ENDO, COMMON, 14.29%
+  1 Furor, COMMON, 14.29%
 
 Rotation B:
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  3 "", COMMON, 77.44%
+  1 Extend, UNCOMMON, 3.76%
+  1 Superior Defenses, UNCOMMON, 3.76%
+  1 Cutting Edge, UNCOMMON, 3.76%
+  1 System Reroute, UNCOMMON, 3.76%
+  1 Efficient Transferral, UNCOMMON, 3.76%
+  1 Blazing Steel, UNCOMMON, 3.76%
+  3 50 ENDO, COMMON, 77.44%
 
 Rotation C:
-  1 "", UNCOMMON, 7.52%
-  1 "", UNCOMMON, 7.52%
-  1 "", UNCOMMON, 7.52%
-  5 "", COMMON, 11.06%
-  1 "", COMMON, 11.06%
-  1 "", COMMON, 11.06%
-  1 "", COMMON, 11.06%
-  1 "", COMMON, 11.06%
-  1 "", COMMON, 11.06%
-  1 "", COMMON, 11.06%
+  1 Meteor Crash, UNCOMMON, 7.52%
+  1 Nebula Bore, UNCOMMON, 7.52%
+  1 Astral Slash, UNCOMMON, 7.52%
+  5 80 ENDO, COMMON, 11.06%
+  1 LITH C1 RELIC, COMMON, 11.06%
+  1 LITH N1 RELIC, COMMON, 11.06%
+  1 LITH S3 RELIC, COMMON, 11.06%
+  1 LITH V1 RELIC, COMMON, 11.06%
+  1 LITH K1 RELIC, COMMON, 11.06%
+  1 LITH A1 RELIC, COMMON, 11.06%
 
 
 [DefenseMissionRewards/BadlandsDefenseMissionRewards]
@@ -336,69 +336,69 @@ Rotation C:
  - Phobos, Memphis, MT_DEFENSE, FC_INFESTATION, NT_CLAN
 
 Rotation A:
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.76%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", RARE, 1.01%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", RARE, 1.01%
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 1.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 LITH C1 RELIC, UNCOMMON, 2.76%
+  1 LITH V1 RELIC, UNCOMMON, 2.76%
+  1 LITH N1 RELIC, UNCOMMON, 2.76%
+  1 LITH S3 RELIC, UNCOMMON, 2.76%
+  1 LITH A1 RELIC, UNCOMMON, 2.76%
+  1 True Punishment, RARE, 1.01%
 
 Rotation B:
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", RARE, 0.67%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", RARE, 0.67%
-  1 "", RARE, 0.67%
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 0.67%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 MESO S2 RELIC, UNCOMMON, 1.84%
+  1 MESO V2 RELIC, UNCOMMON, 1.84%
+  1 MESO D1 RELIC, UNCOMMON, 1.84%
+  1 MESO F1 RELIC, UNCOMMON, 1.84%
+  1 MESO V1 RELIC, UNCOMMON, 1.84%
+  1 True Punishment, RARE, 0.67%
+  1 Quickening, RARE, 0.67%
 
 Rotation C:
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", RARE, 0.4%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.21%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", RARE, 0.4%
-  1 "", RARE, 0.4%
-  1 "", RARE, 0.4%
-  1 "", RARE, 0.4%
+  1 Hellfire, COMMON, 15.18%
+  1 Heated Charge, COMMON, 15.18%
+  1 Molten Impact, UNCOMMON, 2.21%
+  1 Barrel Diffusion, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 Intensify, UNCOMMON, 2.21%
+  1 NEO N3 RELIC, UNCOMMON, 2.21%
+  1 Thunderbolt, RARE, 0.4%
+  1 50 ENDO, COMMON, 15.18%
+  1 80 ENDO, UNCOMMON, 2.21%
+  1 MESO S2 RELIC, COMMON, 15.18%
+  1 MESO V2 RELIC, COMMON, 15.18%
+  1 NEO S1 RELIC, UNCOMMON, 2.21%
+  1 NEO V2 RELIC, UNCOMMON, 2.21%
+  1 NEO S3 RELIC, UNCOMMON, 2.21%
+  1 NEO N2 RELIC, UNCOMMON, 2.21%
+  1 True Punishment, RARE, 0.4%
+  1 Quickening, RARE, 0.4%
+  1 Enduring Strike, RARE, 0.4%
+  1 Life Strike, RARE, 0.4%
 
 
 [DefenseMissionRewards/DefenseMissionRewardsEasy]
@@ -414,43 +414,43 @@ Rotation C:
  - Phobos, Gulliver, MT_DEFENSE, FC_CORPUS, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 LITH A1 RELIC, COMMON, 9.09%
+  1 LITH K1 RELIC, COMMON, 9.09%
+  1 LITH C1 RELIC, COMMON, 9.09%
+  1 LITH N1 RELIC, COMMON, 9.09%
+  1 LITH V1 RELIC, COMMON, 9.09%
+  1 MESO S2 RELIC, COMMON, 9.09%
 
 Rotation B:
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
-  1 "", COMMON, 9.09%
+  1 MESO D1 RELIC, COMMON, 9.09%
+  1 MESO F1 RELIC, COMMON, 9.09%
+  1 MESO S2 RELIC, COMMON, 9.09%
+  1 MESO V2 RELIC, COMMON, 9.09%
+  1 MESO S1 RELIC, COMMON, 9.09%
+  1 MESO V1 RELIC, COMMON, 9.09%
+  1 Reflex Coil, COMMON, 9.09%
+  1 Cryo Rounds, COMMON, 9.09%
+  1 Hell's Chamber, COMMON, 9.09%
+  1 Shocking Touch, COMMON, 9.09%
+  1 50 ENDO, COMMON, 9.09%
 
 Rotation C:
-  1 "", UNCOMMON, 9.09%
-  1 "", UNCOMMON, 9.09%
-  1 "", UNCOMMON, 9.09%
-  1 "", UNCOMMON, 9.09%
-  1 "", UNCOMMON, 9.09%
-  1 "", UNCOMMON, 9.09%
-  1 "", UNCOMMON, 9.09%
-  1 "", UNCOMMON, 9.09%
-  1 "", UNCOMMON, 9.09%
-  1 "", UNCOMMON, 9.09%
-  1 "", UNCOMMON, 9.09%
+  1 Metal Auger, UNCOMMON, 9.09%
+  1 Ravage, UNCOMMON, 9.09%
+  1 MESO V2 RELIC, UNCOMMON, 9.09%
+  1 MESO S2 RELIC, UNCOMMON, 9.09%
+  1 MESO F1 RELIC, UNCOMMON, 9.09%
+  1 MESO D1 RELIC, UNCOMMON, 9.09%
+  1 Continuity, UNCOMMON, 9.09%
+  1 Master Thief, UNCOMMON, 9.09%
+  1 80 ENDO, UNCOMMON, 9.09%
+  1 MESO S1 RELIC, UNCOMMON, 9.09%
+  1 MESO V1 RELIC, UNCOMMON, 9.09%
 
 
 [DefenseMissionRewards/DefenseMissionRewardsHard]
@@ -466,53 +466,53 @@ Rotation C:
  - Kuva Fortress, Tamu, MT_DEFENSE, FC_GRINEER, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
+  1 Vitality, COMMON, 11.11%
+  1 Magazine Warp, COMMON, 11.11%
+  1 Trick Mag, COMMON, 11.11%
+  1 NEO S1 RELIC, COMMON, 11.11%
+  1 NEO V2 RELIC, COMMON, 11.11%
+  1 NEO S3 RELIC, COMMON, 11.11%
+  1 NEO N3 RELIC, COMMON, 11.11%
+  1 NEO V3 RELIC, COMMON, 11.11%
+  1 NEO N2 RELIC, COMMON, 11.11%
 
 Rotation B:
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
+  1 AXI G1 RELIC, COMMON, 6.25%
+  1 AXI T1 RELIC, COMMON, 6.25%
+  1 AXI V1 RELIC, COMMON, 6.25%
+  1 AXI N3 RELIC, COMMON, 6.25%
+  1 AXI N1 RELIC, COMMON, 6.25%
+  1 AXI N2 RELIC, COMMON, 6.25%
+  1 AXI A1 RELIC, COMMON, 6.25%
+  1 AXI V3 RELIC, COMMON, 6.25%
+  1 Hornet Strike, COMMON, 6.25%
+  1 Reflex Coil, COMMON, 6.25%
+  1 Deep Freeze, COMMON, 6.25%
+  1 North Wind, COMMON, 6.25%
+  1 Hell's Chamber, COMMON, 6.25%
+  1 Streamline, COMMON, 6.25%
+  1 Shocking Touch, COMMON, 6.25%
+  1 50 ENDO, COMMON, 6.25%
 
 Rotation C:
-  1 "", UNCOMMON, 2.26%
-  1 "", UNCOMMON, 2.26%
-  1 "", UNCOMMON, 2.26%
-  1 "", UNCOMMON, 2.26%
-  1 "", UNCOMMON, 2.26%
-  1 "", UNCOMMON, 2.26%
-  1 "", UNCOMMON, 2.26%
-  1 "", UNCOMMON, 2.26%
-  1 "", UNCOMMON, 2.26%
-  1 "", UNCOMMON, 2.26%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
+  1 Vital Sense, UNCOMMON, 2.26%
+  1 Metal Auger, UNCOMMON, 2.26%
+  1 Ravage, UNCOMMON, 2.26%
+  1 Stretch, UNCOMMON, 2.26%
+  1 Handspring, UNCOMMON, 2.26%
+  1 Convulsion, UNCOMMON, 2.26%
+  1 Split Chamber, UNCOMMON, 2.26%
+  1 Continuity, UNCOMMON, 2.26%
+  1 Master Thief, UNCOMMON, 2.26%
+  1 80 ENDO, UNCOMMON, 2.26%
+  1 AXI G1 RELIC, COMMON, 9.68%
+  1 AXI T1 RELIC, COMMON, 9.68%
+  1 AXI V1 RELIC, COMMON, 9.68%
+  1 AXI N3 RELIC, COMMON, 9.68%
+  1 AXI N1 RELIC, COMMON, 9.68%
+  1 AXI N2 RELIC, COMMON, 9.68%
+  1 AXI A1 RELIC, COMMON, 9.68%
+  1 AXI V3 RELIC, COMMON, 9.68%
 
 
 [DefenseMissionRewards/DefenseMissionRewardsMedium]
@@ -523,99 +523,99 @@ Rotation C:
  - Europa, Paimon, MT_DEFENSE, FC_CORPUS, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
+  1 MESO D1 RELIC, COMMON, 14.29%
+  1 MESO F1 RELIC, COMMON, 14.29%
+  1 MESO S2 RELIC, COMMON, 14.29%
+  1 MESO V2 RELIC, COMMON, 14.29%
+  1 MESO S1 RELIC, COMMON, 14.29%
+  1 MESO V1 RELIC, COMMON, 14.29%
+  1 15 ENDO, COMMON, 14.29%
 
 Rotation B:
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
-  1 "", COMMON, 6.67%
+  1 NEO S1 RELIC, COMMON, 6.67%
+  1 NEO V2 RELIC, COMMON, 6.67%
+  1 NEO N3 RELIC, COMMON, 6.67%
+  1 NEO N2 RELIC, COMMON, 6.67%
+  1 NEO V3 RELIC, COMMON, 6.67%
+  1 NEO S3 RELIC, COMMON, 6.67%
+  1 Reflex Coil, COMMON, 6.67%
+  1 Deep Freeze, COMMON, 6.67%
+  1 North Wind, COMMON, 6.67%
+  1 Cryo Rounds, COMMON, 6.67%
+  1 Hell's Chamber, COMMON, 6.67%
+  1 Stormbringer, COMMON, 6.67%
+  1 Point Blank, COMMON, 6.67%
+  1 Fury, COMMON, 6.67%
+  1 50 ENDO, COMMON, 6.67%
 
 Rotation C:
-  1 "", UNCOMMON, 4.51%
-  1 "", UNCOMMON, 4.51%
-  1 "", UNCOMMON, 4.51%
-  1 "", UNCOMMON, 4.51%
-  1 "", UNCOMMON, 4.51%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
+  1 Vital Sense, UNCOMMON, 4.51%
+  1 Metal Auger, UNCOMMON, 4.51%
+  1 Ravage, UNCOMMON, 4.51%
+  1 Stretch, UNCOMMON, 4.51%
+  1 80 ENDO, UNCOMMON, 4.51%
+  1 NEO S1 RELIC, COMMON, 12.91%
+  1 NEO V2 RELIC, COMMON, 12.91%
+  1 NEO S3 RELIC, COMMON, 12.91%
+  1 NEO N3 RELIC, COMMON, 12.91%
+  1 NEO V3 RELIC, COMMON, 12.91%
+  1 NEO N2 RELIC, COMMON, 12.91%
 
 
 [DerelictDefenseRewards]
 
 Rotation A:
-  3 "", COMMON, 12.5%
-  3 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
+  3 80 ENDO, COMMON, 12.5%
+  3 50 ENDO, COMMON, 12.5%
+  1 LITH N1 RELIC, COMMON, 12.5%
+  1 LITH S3 RELIC, COMMON, 12.5%
+  1 LITH V1 RELIC, COMMON, 12.5%
+  1 LITH A1 RELIC, COMMON, 12.5%
+  1 LITH C1 RELIC, COMMON, 12.5%
+  1 LITH K1 RELIC, COMMON, 12.5%
 
 Rotation B:
-  3 "", COMMON, 38.72%
-  3 "", COMMON, 38.72%
-  1 "", UNCOMMON, 22.56%
+  3 80 ENDO, COMMON, 38.72%
+  3 50 ENDO, COMMON, 38.72%
+  1 MUTALIST ALAD V NAV COORDINATE, UNCOMMON, 22.56%
 
 Rotation C:
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", UNCOMMON, 22.56%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
+  1 MESO V1 RELIC, COMMON, 12.91%
+  1 MESO D1 RELIC, COMMON, 12.91%
+  1 MESO S2 RELIC, COMMON, 12.91%
+  1 FORMA BLUEPRINT, UNCOMMON, 22.56%
+  1 MESO F1 RELIC, COMMON, 12.91%
+  1 MESO V2 RELIC, COMMON, 12.91%
+  1 MESO S1 RELIC, COMMON, 12.91%
 
 
 [DerelictSurvivalRewards]
 
 Rotation A:
-  3 "", COMMON, 25%
-  3 "", COMMON, 25%
-  1 "", COMMON, 25%
-  1 "", COMMON, 25%
+  3 80 ENDO, COMMON, 25%
+  3 50 ENDO, COMMON, 25%
+  1 LITH C1 RELIC, COMMON, 25%
+  1 LITH A1 RELIC, COMMON, 25%
 
 Rotation B:
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
+  1 NEO V2 RELIC, COMMON, 14.29%
+  1 NEO N3 RELIC, COMMON, 14.29%
+  1 NEO S1 RELIC, COMMON, 14.29%
+  1 NEO S3 RELIC, COMMON, 14.29%
+  1 MUTALIST ALAD V NAV COORDINATE, COMMON, 14.29%
+  1 NEO N2 RELIC, COMMON, 14.29%
+  1 NEO V3 RELIC, COMMON, 14.29%
 
 Rotation C:
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", UNCOMMON, 22.56%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
+  1 AXI G1 RELIC, COMMON, 9.68%
+  1 AXI T1 RELIC, COMMON, 9.68%
+  1 AXI N2 RELIC, COMMON, 9.68%
+  1 AXI V3 RELIC, COMMON, 9.68%
+  1 AXI N3 RELIC, COMMON, 9.68%
+  1 FORMA BLUEPRINT, UNCOMMON, 22.56%
+  1 AXI V1 RELIC, COMMON, 9.68%
+  1 AXI N1 RELIC, COMMON, 9.68%
+  1 AXI A1 RELIC, COMMON, 9.68%
 
 
 [ExtractionMissionRewards/ExtractionHighLevelRewards]
@@ -625,42 +625,42 @@ Rotation C:
  - Europa, Cholistan, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
 
 Rotation A:
-  1 "", COMMON, 25%
-  1 "", COMMON, 25%
-  1 "", COMMON, 25%
-  5 "", COMMON, 25%
+  1 2000 CREDITS, COMMON, 25%
+  1 2500 CREDITS, COMMON, 25%
+  1 3000 CREDITS, COMMON, 25%
+  5 80 ENDO, COMMON, 25%
 
 Rotation B:
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
+  1 NEO S1 RELIC, COMMON, 7.14%
+  1 NEO S3 RELIC, COMMON, 7.14%
+  1 NEO N3 RELIC, COMMON, 7.14%
+  1 NEO N2 RELIC, COMMON, 7.14%
+  1 NEO V2 RELIC, COMMON, 7.14%
+  1 NEO V3 RELIC, COMMON, 7.14%
+  1 Steel Fiber, COMMON, 7.14%
+  1 Stretch, COMMON, 7.14%
+  1 Serration, COMMON, 7.14%
+  1 Hell's Chamber, COMMON, 7.14%
+  1 Hornet Strike, COMMON, 7.14%
+  1 Flow, COMMON, 7.14%
+  1 Split Chamber, COMMON, 7.14%
+  1 Stabilizer, COMMON, 7.14%
 
 Rotation C:
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
+  1 AXI G1 RELIC, COMMON, 9.68%
+  1 AXI T1 RELIC, COMMON, 9.68%
+  1 AXI N2 RELIC, COMMON, 9.68%
+  1 AXI V3 RELIC, COMMON, 9.68%
+  1 AXI N3 RELIC, COMMON, 9.68%
+  1 AXI N1 RELIC, COMMON, 9.68%
+  1 AXI V1 RELIC, COMMON, 9.68%
+  1 AXI A1 RELIC, COMMON, 9.68%
+  1 Cleanse Infested, UNCOMMON, 3.76%
+  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+  1 Arrow Mutation, UNCOMMON, 3.76%
+  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
 
 
 [ExtractionMissionRewards/ExtractionLowLevelRewards]
@@ -671,41 +671,41 @@ Rotation C:
  - Phobos, Wendell, MT_EXCAVATE, FC_GRINEER, NT_EVENT
 
 Rotation A:
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
+  1 500 CREDITS, COMMON, 14.29%
+  1 1000 CREDITS, COMMON, 14.29%
+  1 1500 CREDITS, COMMON, 14.29%
+  1 2000 CREDITS, COMMON, 14.29%
+  1 15 ENDO, COMMON, 14.29%
+  1 50 ENDO, COMMON, 14.29%
+  1 80 ENDO, COMMON, 14.29%
 
 Rotation B:
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
+  1 LITH N1 RELIC, COMMON, 8.33%
+  1 LITH A1 RELIC, COMMON, 8.33%
+  1 LITH C1 RELIC, COMMON, 8.33%
+  1 LITH V1 RELIC, COMMON, 8.33%
+  1 LITH S3 RELIC, COMMON, 8.33%
+  1 LITH K1 RELIC, COMMON, 8.33%
+  1 Parry, COMMON, 8.33%
+  1 Steel Fiber, COMMON, 8.33%
+  1 Serration, COMMON, 8.33%
+  1 Incendiary Coat, COMMON, 8.33%
+  1 Hornet Strike, COMMON, 8.33%
+  1 Intensify, COMMON, 8.33%
 
 Rotation C:
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
+  1 LITH N1 RELIC, COMMON, 12.91%
+  1 LITH A1 RELIC, COMMON, 12.91%
+  1 LITH C1 RELIC, COMMON, 12.91%
+  1 LITH V1 RELIC, COMMON, 12.91%
+  1 LITH S3 RELIC, COMMON, 12.91%
+  1 LITH K1 RELIC, COMMON, 12.91%
+  1 Arrow Mutation, UNCOMMON, 3.76%
+  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
+  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+  1 Cleanse Grineer, UNCOMMON, 3.76%
 
 
 [ExtractionMissionRewards/ExtractionMidLevelRewards]
@@ -713,95 +713,95 @@ Rotation C:
  - Europa, Valefor, MT_EXCAVATE, FC_CORPUS, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
+  1 1500 CREDITS, COMMON, 16.67%
+  1 2000 CREDITS, COMMON, 16.67%
+  1 2500 CREDITS, COMMON, 16.67%
+  1 15 ENDO, COMMON, 16.67%
+  1 50 ENDO, COMMON, 16.67%
+  1 80 ENDO, COMMON, 16.67%
 
 Rotation B:
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
+  1 MESO D1 RELIC, COMMON, 7.69%
+  1 MESO V1 RELIC, COMMON, 7.69%
+  1 MESO S2 RELIC, COMMON, 7.69%
+  1 MESO V2 RELIC, COMMON, 7.69%
+  1 MESO F1 RELIC, COMMON, 7.69%
+  1 MESO S1 RELIC, COMMON, 7.69%
+  1 Provoked, COMMON, 7.69%
+  1 Steel Fiber, COMMON, 7.69%
+  1 Serration, COMMON, 7.69%
+  1 Hornet Strike, COMMON, 7.69%
+  1 Fast Deflection, COMMON, 7.69%
+  1 Charged Shell, COMMON, 7.69%
+  1 Vital Sense, COMMON, 7.69%
 
 Rotation C:
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
+  1 NEO S1 RELIC, COMMON, 12.91%
+  1 NEO S3 RELIC, COMMON, 12.91%
+  1 NEO N3 RELIC, COMMON, 12.91%
+  1 NEO N2 RELIC, COMMON, 12.91%
+  1 NEO V2 RELIC, COMMON, 12.91%
+  1 NEO V3 RELIC, COMMON, 12.91%
+  1 Cleanse Corpus, UNCOMMON, 3.76%
+  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+  1 Arrow Mutation, UNCOMMON, 3.76%
+  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
 
 
 [ExtractionMissionRewards/LimboChassisQuestExcavationRewards]
 
 Rotation A:
-  1 "", COMMON, 48.71%
-  1 "", COMMON, 48.71%
-  1 "", RARE, 2.58%
+  1 1000 CREDITS, COMMON, 48.71%
+  1 1500 CREDITS, COMMON, 48.71%
+  1 LIMBO CHASSIS BLUEPRINT, RARE, 2.58%
 
 Rotation B:
-  1 "", COMMON, 38.72%
-  1 "", COMMON, 38.72%
-  1 "", UNCOMMON, 22.56%
+  1 1500 CREDITS, COMMON, 38.72%
+  1 2000 CREDITS, COMMON, 38.72%
+  1 LIMBO CHASSIS BLUEPRINT, UNCOMMON, 22.56%
 
 Rotation C:
-  1 "", COMMON, 33.33%
-  1 "", COMMON, 33.33%
-  1 "", COMMON, 33.33%
+  1 2000 CREDITS, COMMON, 33.33%
+  1 3000 CREDITS, COMMON, 33.33%
+  1 LIMBO CHASSIS BLUEPRINT, COMMON, 33.33%
 
 
 [ExtractionMissionRewards/LimboHelmetQuestExcavationRewards]
 
 Rotation A:
-  1 "", COMMON, 48.71%
-  1 "", COMMON, 48.71%
-  1 "", RARE, 2.58%
+  1 1000 CREDITS, COMMON, 48.71%
+  1 1500 CREDITS, COMMON, 48.71%
+  1 LIMBO NEUROPTICS BLUEPRINT, RARE, 2.58%
 
 Rotation B:
-  1 "", COMMON, 38.72%
-  1 "", COMMON, 38.72%
-  1 "", UNCOMMON, 22.56%
+  1 1500 CREDITS, COMMON, 38.72%
+  1 2000 CREDITS, COMMON, 38.72%
+  1 LIMBO NEUROPTICS BLUEPRINT, UNCOMMON, 22.56%
 
 Rotation C:
-  1 "", COMMON, 33.33%
-  1 "", COMMON, 33.33%
-  1 "", COMMON, 33.33%
+  1 2000 CREDITS, COMMON, 33.33%
+  1 3000 CREDITS, COMMON, 33.33%
+  1 LIMBO NEUROPTICS BLUEPRINT, COMMON, 33.33%
 
 
 [ExtractionMissionRewards/LimboSystemsQuestExcavationRewards]
 
 Rotation A:
-  1 "", COMMON, 48.71%
-  1 "", COMMON, 48.71%
-  1 "", RARE, 2.58%
+  1 1000 CREDITS, COMMON, 48.71%
+  1 1500 CREDITS, COMMON, 48.71%
+  1 LIMBO SYSTEMS BLUEPRINT, RARE, 2.58%
 
 Rotation B:
-  1 "", COMMON, 38.72%
-  1 "", COMMON, 38.72%
-  1 "", UNCOMMON, 22.56%
+  1 1500 CREDITS, COMMON, 38.72%
+  1 2000 CREDITS, COMMON, 38.72%
+  1 LIMBO SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
 
 Rotation C:
-  1 "", COMMON, 33.33%
-  1 "", COMMON, 33.33%
-  1 "", COMMON, 33.33%
+  1 2000 CREDITS, COMMON, 33.33%
+  1 3000 CREDITS, COMMON, 33.33%
+  1 LIMBO SYSTEMS BLUEPRINT, COMMON, 33.33%
 
 
 [ForestSabotageRewards]
@@ -829,41 +829,41 @@ Stripped=True
  - Uranus, Caelus, MT_TERRITORY, FC_GRINEER, NT_MISSION
 
 Rotation A:
-  1 "", UNCOMMON, 2.51%
-  1 "", UNCOMMON, 2.51%
-  1 "", UNCOMMON, 2.51%
-  1 "", UNCOMMON, 2.51%
-  1 "", UNCOMMON, 2.51%
-  1 "", UNCOMMON, 2.51%
-  1 "", UNCOMMON, 2.51%
-  1 "", UNCOMMON, 2.51%
-  1 "", UNCOMMON, 2.51%
-  3 "", COMMON, 38.72%
-  5 "", COMMON, 38.72%
+  1 Automatic Trigger, UNCOMMON, 2.51%
+  1 Combustion Rounds, UNCOMMON, 2.51%
+  1 Dual Rounds, UNCOMMON, 2.51%
+  1 Hollowed Bullets, UNCOMMON, 2.51%
+  1 Magazine Extension, UNCOMMON, 2.51%
+  1 Modified Munitions, UNCOMMON, 2.51%
+  1 Parallax Scope, UNCOMMON, 2.51%
+  1 Rubedo-Lined Barrel, UNCOMMON, 2.51%
+  1 Venomous Clip, UNCOMMON, 2.51%
+  3 50 ENDO, COMMON, 38.72%
+  5 50 ENDO, COMMON, 38.72%
 
 Rotation B:
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  5 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
+  1 Superior Defenses, COMMON, 10%
+  1 Bleeding Edge, COMMON, 10%
+  1 Superior Defenses, COMMON, 10%
+  1 Argon Plating, COMMON, 10%
+  1 Furor, COMMON, 10%
+  5 50 ENDO, COMMON, 10%
+  1 Glacial Edge, COMMON, 10%
+  1 Electrified Barrel, COMMON, 10%
+  1 Energy Inversion, COMMON, 10%
+  1 50 ENDO, COMMON, 10%
 
 Rotation C:
-  5 "", UNCOMMON, 22.56%
-  5 "", COMMON, 8.6%
-  1 "", COMMON, 8.6%
-  1 "", COMMON, 8.6%
-  1 "", COMMON, 8.6%
-  1 "", COMMON, 8.6%
-  1 "", COMMON, 8.6%
-  1 "", COMMON, 8.6%
-  1 "", COMMON, 8.6%
-  1 "", COMMON, 8.6%
+  5 80 ENDO, UNCOMMON, 22.56%
+  5 50 ENDO, COMMON, 8.6%
+  1 AXI G1 RELIC, COMMON, 8.6%
+  1 AXI T1 RELIC, COMMON, 8.6%
+  1 AXI V1 RELIC, COMMON, 8.6%
+  1 AXI N3 RELIC, COMMON, 8.6%
+  1 AXI N1 RELIC, COMMON, 8.6%
+  1 AXI A1 RELIC, COMMON, 8.6%
+  1 AXI V3 RELIC, COMMON, 8.6%
+  1 AXI N2 RELIC, COMMON, 8.6%
 
 
 [InterceptionMissionRewards/InterceptionMissionRewardsEasy]
@@ -874,43 +874,43 @@ Rotation C:
  - Ceres, Cinxia, MT_TERRITORY, FC_GRINEER, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
+  1 Vitality, COMMON, 10%
+  1 Magazine Warp, COMMON, 10%
+  1 Trick Mag, COMMON, 10%
+  1 Pressure Point, COMMON, 10%
+  1 LITH A1 RELIC, COMMON, 10%
+  1 LITH C1 RELIC, COMMON, 10%
+  1 LITH V1 RELIC, COMMON, 10%
+  1 LITH S3 RELIC, COMMON, 10%
+  1 LITH N1 RELIC, COMMON, 10%
+  1 LITH K1 RELIC, COMMON, 10%
 
 Rotation B:
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
-  1 "", COMMON, 6.25%
+  1 Speed Trigger, COMMON, 6.25%
+  1 Fast Deflection, COMMON, 6.25%
+  1 Rush, COMMON, 6.25%
+  1 Target Cracker, COMMON, 6.25%
+  1 No Return, COMMON, 6.25%
+  1 Serration, COMMON, 6.25%
+  1 Hornet Strike, COMMON, 6.25%
+  1 Reflex Coil, COMMON, 6.25%
+  1 Deep Freeze, COMMON, 6.25%
+  1 North Wind, COMMON, 6.25%
+  1 MESO V1 RELIC, COMMON, 6.25%
+  1 MESO D1 RELIC, COMMON, 6.25%
+  1 MESO V2 RELIC, COMMON, 6.25%
+  1 MESO S2 RELIC, COMMON, 6.25%
+  1 MESO F1 RELIC, COMMON, 6.25%
+  1 MESO S1 RELIC, COMMON, 6.25%
 
 Rotation C:
-  1 "", COMMON, 16.24%
-  1 "", COMMON, 16.24%
-  1 "", COMMON, 16.24%
-  1 "", COMMON, 16.24%
-  1 "", COMMON, 16.24%
-  1 "", COMMON, 16.24%
-  1 "", RARE, 2.58%
+  1 MESO V1 RELIC, COMMON, 16.24%
+  1 MESO D1 RELIC, COMMON, 16.24%
+  1 MESO V2 RELIC, COMMON, 16.24%
+  1 MESO S2 RELIC, COMMON, 16.24%
+  1 MESO F1 RELIC, COMMON, 16.24%
+  1 MESO S1 RELIC, COMMON, 16.24%
+  1 Natural Talent, RARE, 2.58%
 
 
 [InterceptionMissionRewards/InterceptionMissionRewardsHard]
@@ -923,34 +923,34 @@ Rotation C:
  - Void, Mithra, MT_TERRITORY, FC_OROKIN, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
+  1 Vitality, COMMON, 11.11%
+  1 Magazine Warp, COMMON, 11.11%
+  1 Trick Mag, COMMON, 11.11%
+  1 NEO S3 RELIC, COMMON, 11.11%
+  1 NEO S1 RELIC, COMMON, 11.11%
+  1 NEO N2 RELIC, COMMON, 11.11%
+  1 NEO N3 RELIC, COMMON, 11.11%
+  1 NEO V2 RELIC, COMMON, 11.11%
+  1 NEO V3 RELIC, COMMON, 11.11%
 
 Rotation B:
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
+  1 AXI N2 RELIC, COMMON, 14.29%
+  1 AXI G1 RELIC, COMMON, 14.29%
+  1 AXI T1 RELIC, COMMON, 14.29%
+  1 AXI N1 RELIC, COMMON, 14.29%
+  1 AXI N3 RELIC, COMMON, 14.29%
+  1 AXI V1 RELIC, COMMON, 14.29%
+  1 AXI A1 RELIC, COMMON, 14.29%
 
 Rotation C:
-  1 "", RARE, 2.58%
-  1 "", COMMON, 13.92%
-  1 "", COMMON, 13.92%
-  1 "", COMMON, 13.92%
-  1 "", COMMON, 13.92%
-  1 "", COMMON, 13.92%
-  1 "", COMMON, 13.92%
-  1 "", COMMON, 13.92%
+  1 AXI N2 RELIC, RARE, 2.58%
+  1 AXI N1 RELIC, COMMON, 13.92%
+  1 AXI V3 RELIC, COMMON, 13.92%
+  1 AXI V1 RELIC, COMMON, 13.92%
+  1 AXI G1 RELIC, COMMON, 13.92%
+  1 AXI T1 RELIC, COMMON, 13.92%
+  1 AXI N3 RELIC, COMMON, 13.92%
+  1 AXI A1 RELIC, COMMON, 13.92%
 
 
 [InterceptionMissionRewards/InterceptionMissionRewardsMedium]
@@ -961,147 +961,147 @@ Rotation C:
  - Europa, Ose, MT_TERRITORY, FC_CORPUS, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
-  1 "", COMMON, 10%
+  1 Vitality, COMMON, 10%
+  1 Magazine Warp, COMMON, 10%
+  1 Trick Mag, COMMON, 10%
+  1 MESO V1 RELIC, COMMON, 10%
+  1 MESO D1 RELIC, COMMON, 10%
+  1 MESO V2 RELIC, COMMON, 10%
+  1 MESO S2 RELIC, COMMON, 10%
+  1 MESO F1 RELIC, COMMON, 10%
+  1 MESO S1 RELIC, COMMON, 10%
+  1 15 ENDO, COMMON, 10%
 
 Rotation B:
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
+  1 Target Cracker, COMMON, 7.14%
+  1 No Return, COMMON, 7.14%
+  1 Serration, COMMON, 7.14%
+  1 Hornet Strike, COMMON, 7.14%
+  1 Reflex Coil, COMMON, 7.14%
+  1 North Wind, COMMON, 7.14%
+  1 Hell's Chamber, COMMON, 7.14%
+  1 NEO S3 RELIC, COMMON, 7.14%
+  1 NEO S1 RELIC, COMMON, 7.14%
+  1 NEO N2 RELIC, COMMON, 7.14%
+  1 NEO N3 RELIC, COMMON, 7.14%
+  1 NEO V2 RELIC, COMMON, 7.14%
+  1 NEO V3 RELIC, COMMON, 7.14%
+  1 50 ENDO, COMMON, 7.14%
 
 Rotation C:
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
+  1 NEO S3 RELIC, COMMON, 16.67%
+  1 NEO S1 RELIC, COMMON, 16.67%
+  1 NEO N2 RELIC, COMMON, 16.67%
+  1 NEO N3 RELIC, COMMON, 16.67%
+  1 NEO V2 RELIC, COMMON, 16.67%
+  1 NEO V3 RELIC, COMMON, 16.67%
 
 
 [InterceptRewardsGrineer]
 
 Rotation A:
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.76%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", RARE, 2.01%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 LITH C1 RELIC, UNCOMMON, 2.76%
+  1 LITH V1 RELIC, UNCOMMON, 2.76%
+  1 LITH N1 RELIC, UNCOMMON, 2.76%
+  1 LITH S3 RELIC, UNCOMMON, 2.76%
+  1 LITH A1 RELIC, UNCOMMON, 2.76%
 
 Rotation B:
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", RARE, 2.01%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 MESO S2 RELIC, UNCOMMON, 1.84%
+  1 MESO V2 RELIC, UNCOMMON, 1.84%
+  1 MESO D1 RELIC, UNCOMMON, 1.84%
+  1 MESO F1 RELIC, UNCOMMON, 1.84%
+  1 MESO V1 RELIC, UNCOMMON, 1.84%
 
 Rotation C:
-  1 "", RARE, 1.01%
-  1 "", COMMON, 18.97%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", RARE, 1.01%
-  1 "", COMMON, 18.97%
-  1 "", COMMON, 18.97%
-  1 "", COMMON, 18.97%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
+  1 Natural Talent, RARE, 1.01%
+  1 North Wind, COMMON, 18.97%
+  1 Cryo Rounds, UNCOMMON, 2.21%
+  1 Hell's Chamber, UNCOMMON, 2.21%
+  1 Stretch, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 NEO N3 RELIC, UNCOMMON, 2.21%
+  1 Handspring, RARE, 1.01%
+  1 MESO S2 RELIC, COMMON, 18.97%
+  1 MESO V2 RELIC, COMMON, 18.97%
+  1 50 ENDO, COMMON, 18.97%
+  1 80 ENDO, UNCOMMON, 2.21%
+  1 NEO S1 RELIC, UNCOMMON, 2.21%
+  1 NEO V2 RELIC, UNCOMMON, 2.21%
+  1 NEO S3 RELIC, UNCOMMON, 2.21%
+  1 NEO N2 RELIC, UNCOMMON, 2.21%
 
 
 [InvasionRewards]
 
 Rotation A:
-  3 "", COMMON, 75.88%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", UNCOMMON, 1.38%
-  1 "", RARE, 0.5%
-  1 "", RARE, 0.5%
-  1 "", RARE, 0.5%
-  1 "", RARE, 0.5%
+  3 DETONITE INJECTOR, COMMON, 75.88%
+  1 KARAK WRAITH BLUEPRINT, UNCOMMON, 1.38%
+  1 KARAK WRAITH BARREL, UNCOMMON, 1.38%
+  1 KARAK WRAITH RECEIVER, UNCOMMON, 1.38%
+  1 KARAK WRAITH STOCK, UNCOMMON, 1.38%
+  1 STRUN WRAITH BLUEPRINT, UNCOMMON, 1.38%
+  1 STRUN WRAITH BARREL, UNCOMMON, 1.38%
+  1 STRUN WRAITH RECEIVER, UNCOMMON, 1.38%
+  1 STRUN WRAITH STOCK, UNCOMMON, 1.38%
+  1 LATRON WRAITH BLUEPRINT, UNCOMMON, 1.38%
+  1 LATRON WRAITH BARREL, UNCOMMON, 1.38%
+  1 LATRON WRAITH RECEIVER, UNCOMMON, 1.38%
+  1 LATRON WRAITH STOCK, UNCOMMON, 1.38%
+  1 WRAITH TWIN VIPERS BLUEPRINT, UNCOMMON, 1.38%
+  1 WRAITH TWIN VIPERS BARRELS, UNCOMMON, 1.38%
+  1 WRAITH TWIN VIPERS LINK, UNCOMMON, 1.38%
+  1 WRAITH TWIN VIPERS RECEIVERS, UNCOMMON, 1.38%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 0.5%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 0.5%
+  1 FORMA BLUEPRINT, RARE, 0.5%
+  1 EXILUS ADAPTER, RARE, 0.5%
 
 Rotation B:
-  3 "", COMMON, 75.88%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", RARE, 0.5%
-  1 "", RARE, 0.5%
-  1 "", RARE, 0.5%
-  1 "", RARE, 0.5%
+  3 FIELDRON, COMMON, 75.88%
+  1 DERA VANDAL BLUEPRINT, UNCOMMON, 2.76%
+  1 DERA VANDAL BARREL, UNCOMMON, 2.76%
+  1 DERA VANDAL RECEIVER, UNCOMMON, 2.76%
+  1 DERA VANDAL STOCK, UNCOMMON, 2.76%
+  1 SNIPETRON VANDAL BLUEPRINT, UNCOMMON, 2.76%
+  1 SNIPETRON VANDAL STOCK, UNCOMMON, 2.76%
+  1 SNIPETRON VANDAL RECEIVER, UNCOMMON, 2.76%
+  1 SNIPETRON VANDAL BARREL, UNCOMMON, 2.76%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 0.5%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 0.5%
+  1 FORMA BLUEPRINT, RARE, 0.5%
+  1 EXILUS ADAPTER, RARE, 0.5%
 
 Rotation C:
-  1 "", COMMON, 75.88%
-  2 "", UNCOMMON, 22.11%
-  1 "", RARE, 2.01%
+  1 MUTAGEN MASS, COMMON, 75.88%
+  2 MUTAGEN MASS, UNCOMMON, 22.11%
+  1 MUTALIST ALAD V NAV COORDINATE, RARE, 2.01%
 
 
 [KelaEventRewardsEasy]
@@ -1123,18 +1123,18 @@ Stripped=True
 [MacheteMayhemBonusRewards]
 
 Rotation A:
-  5 "", COMMON, 75.88%
-  1 "", RARE, 0.29%
-  1 "", RARE, 0.29%
-  1 "", RARE, 0.29%
-  1 "", RARE, 0.29%
-  1 "", RARE, 0.29%
-  1 "", RARE, 0.29%
-  1 "", RARE, 0.29%
-  1 "", UNCOMMON, 5.53%
-  1 "", UNCOMMON, 5.53%
-  1 "", UNCOMMON, 5.53%
-  1 "", UNCOMMON, 5.53%
+  5 80 ENDO, COMMON, 75.88%
+  1 MADURAI LENS, RARE, 0.29%
+  1 VAZARIN LENS, RARE, 0.29%
+  1 ZENURIK LENS, RARE, 0.29%
+  1 NARAMON LENS, RARE, 0.29%
+  1 UNAIRU LENS, RARE, 0.29%
+  1 FORMA, RARE, 0.29%
+  1 EXILUS ADAPTER, RARE, 0.29%
+  1 Voltaic Strike, UNCOMMON, 5.53%
+  1 Jolt, UNCOMMON, 5.53%
+  1 High Voltage, UNCOMMON, 5.53%
+  1 Shell Shock, UNCOMMON, 5.53%
 
 
 [MirageRewards]
@@ -1144,185 +1144,185 @@ Stripped=True
 [MissionRewardsCorpus]
 
 Rotation A:
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", UNCOMMON, 3.69%
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", RARE, 2.01%
-  1 "", UNCOMMON, 3.69%
-  1 "", UNCOMMON, 3.69%
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", UNCOMMON, 3.69%
-  1 "", UNCOMMON, 3.69%
-  1 "", UNCOMMON, 3.69%
+  1 Vitality, COMMON, 10.84%
+  1 Fast Deflection, COMMON, 10.84%
+  1 Fast Deflection, COMMON, 10.84%
+  1 Rush, UNCOMMON, 3.69%
+  1 Magazine Warp, COMMON, 10.84%
+  1 Trick Mag, COMMON, 10.84%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 3.69%
+  1 Fast Hands, UNCOMMON, 3.69%
+  1 LITH C1 RELIC, COMMON, 10.84%
+  1 LITH V1 RELIC, COMMON, 10.84%
+  1 LITH N1 RELIC, UNCOMMON, 3.69%
+  1 LITH S3 RELIC, UNCOMMON, 3.69%
+  1 LITH A1 RELIC, UNCOMMON, 3.69%
 
 Rotation B:
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", RARE, 2.01%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 MESO S2 RELIC, UNCOMMON, 1.84%
+  1 MESO V2 RELIC, UNCOMMON, 1.84%
+  1 MESO D1 RELIC, UNCOMMON, 1.84%
+  1 MESO F1 RELIC, UNCOMMON, 1.84%
+  1 MESO V1 RELIC, UNCOMMON, 1.84%
 
 Rotation C:
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", RARE, 2.01%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
+  1 Convulsion, COMMON, 15.18%
+  1 Shocking Touch, COMMON, 15.18%
+  1 Stormbringer, UNCOMMON, 2.21%
+  1 Split Chamber, UNCOMMON, 2.21%
+  1 Stretch, UNCOMMON, 2.21%
+  1 Continuity, UNCOMMON, 2.21%
+  1 NEO N3 RELIC, UNCOMMON, 2.21%
+  1 Master Thief, RARE, 2.01%
+  1 MESO S2 RELIC, COMMON, 15.18%
+  1 MESO V2 RELIC, COMMON, 15.18%
+  1 50 ENDO, COMMON, 15.18%
+  1 80 ENDO, UNCOMMON, 2.21%
+  1 NEO S1 RELIC, UNCOMMON, 2.21%
+  1 NEO V2 RELIC, UNCOMMON, 2.21%
+  1 NEO S3 RELIC, UNCOMMON, 2.21%
+  1 NEO N2 RELIC, UNCOMMON, 2.21%
 
 
 [MissionRewardsGrineer]
 
 Rotation A:
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.76%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", RARE, 2.01%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 LITH C1 RELIC, UNCOMMON, 2.76%
+  1 LITH V1 RELIC, UNCOMMON, 2.76%
+  1 LITH N1 RELIC, UNCOMMON, 2.76%
+  1 LITH S3 RELIC, UNCOMMON, 2.76%
+  1 LITH A1 RELIC, UNCOMMON, 2.76%
 
 Rotation B:
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", RARE, 2.01%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 MESO S2 RELIC, UNCOMMON, 1.84%
+  1 MESO V2 RELIC, UNCOMMON, 1.84%
+  1 MESO D1 RELIC, UNCOMMON, 1.84%
+  1 MESO F1 RELIC, UNCOMMON, 1.84%
+  1 MESO V1 RELIC, UNCOMMON, 1.84%
 
 Rotation C:
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", RARE, 2.01%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
+  1 Deep Freeze, COMMON, 15.18%
+  1 North Wind, COMMON, 15.18%
+  1 Cryo Rounds, UNCOMMON, 2.21%
+  1 Hell's Chamber, UNCOMMON, 2.21%
+  1 Stretch, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 NEO N3 RELIC, UNCOMMON, 2.21%
+  1 Handspring, RARE, 2.01%
+  1 MESO S2 RELIC, COMMON, 15.18%
+  1 MESO V2 RELIC, COMMON, 15.18%
+  1 50 ENDO, COMMON, 15.18%
+  1 80 ENDO, UNCOMMON, 2.21%
+  1 NEO S1 RELIC, UNCOMMON, 2.21%
+  1 NEO V2 RELIC, UNCOMMON, 2.21%
+  1 NEO S3 RELIC, UNCOMMON, 2.21%
+  1 NEO N2 RELIC, UNCOMMON, 2.21%
 
 
 [MissionRewardsInfested]
  - Phobos, Opik, MT_RACE, FC_CORPUS, NT_EVENT
 
 Rotation A:
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.76%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", RARE, 2.01%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
-  1 "", UNCOMMON, 2.76%
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 LITH C1 RELIC, UNCOMMON, 2.76%
+  1 LITH V1 RELIC, UNCOMMON, 2.76%
+  1 LITH N1 RELIC, UNCOMMON, 2.76%
+  1 LITH S3 RELIC, UNCOMMON, 2.76%
+  1 LITH A1 RELIC, UNCOMMON, 2.76%
 
 Rotation B:
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", RARE, 2.01%
-  1 "", UNCOMMON, 1.84%
-  1 "", COMMON, 8.43%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
-  1 "", UNCOMMON, 1.84%
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 MESO S2 RELIC, UNCOMMON, 1.84%
+  1 MESO V2 RELIC, UNCOMMON, 1.84%
+  1 MESO D1 RELIC, UNCOMMON, 1.84%
+  1 MESO F1 RELIC, UNCOMMON, 1.84%
+  1 MESO V1 RELIC, UNCOMMON, 1.84%
 
 Rotation C:
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", RARE, 2.01%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.21%
-  1 "", COMMON, 15.18%
-  1 "", COMMON, 15.18%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
+  1 Hellfire, COMMON, 15.18%
+  1 Heated Charge, COMMON, 15.18%
+  1 Molten Impact, UNCOMMON, 2.21%
+  1 Barrel Diffusion, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 Intensify, UNCOMMON, 2.21%
+  1 NEO N3 RELIC, UNCOMMON, 2.21%
+  1 Thunderbolt, RARE, 2.01%
+  1 50 ENDO, COMMON, 15.18%
+  1 80 ENDO, UNCOMMON, 2.21%
+  1 MESO S2 RELIC, COMMON, 15.18%
+  1 MESO V2 RELIC, COMMON, 15.18%
+  1 NEO S1 RELIC, UNCOMMON, 2.21%
+  1 NEO V2 RELIC, UNCOMMON, 2.21%
+  1 NEO S3 RELIC, UNCOMMON, 2.21%
+  1 NEO N2 RELIC, UNCOMMON, 2.21%
 
 
 [NightmareModeRewards]
@@ -1362,25 +1362,25 @@ Stripped=True
 [ProjectPanaceaBonusRewards]
 
 Rotation A:
-  1 "", RARE, 0.25%
-  1 "", RARE, 0.25%
-  1 "", RARE, 0.25%
-  1 "", RARE, 0.25%
-  1 "", RARE, 0.25%
-  1 "", RARE, 0.25%
-  1 "", RARE, 0.25%
-  1 "", RARE, 0.25%
-  10 "", UNCOMMON, 3.16%
-  5 "", COMMON, 18.97%
-  1 "", COMMON, 18.97%
-  1 "", UNCOMMON, 3.16%
-  1 "", UNCOMMON, 3.16%
-  1 "", UNCOMMON, 3.16%
-  1 "", COMMON, 18.97%
-  1 "", COMMON, 18.97%
-  2 "", UNCOMMON, 3.16%
-  2 "", UNCOMMON, 3.16%
-  1 "", UNCOMMON, 3.16%
+  1 RIFT SIGIL, RARE, 0.25%
+  1 Stunning Speed, RARE, 0.25%
+  1 Hammer Shot, RARE, 0.25%
+  1 Blaze, RARE, 0.25%
+  1 Buzz Kill, RARE, 0.25%
+  1 Maim, RARE, 0.25%
+  1 Fanged Fusillade, RARE, 0.25%
+  1 Sweeping Serration, RARE, 0.25%
+  10 80 ENDO, UNCOMMON, 3.16%
+  5 80 ENDO, COMMON, 18.97%
+  1 3000 CREDITS, COMMON, 18.97%
+  1 4000 CREDITS, UNCOMMON, 3.16%
+  1 4000 CREDITS, UNCOMMON, 3.16%
+  1 DETONITE AMPULE, UNCOMMON, 3.16%
+  1 FIELDRON SAMPLE, COMMON, 18.97%
+  1 MUTAGEN SAMPLE, COMMON, 18.97%
+  2 Madurai Transmute Core, UNCOMMON, 3.16%
+  2 Vazarin Transmute Core, UNCOMMON, 3.16%
+  1 Naramon Transmute Core, UNCOMMON, 3.16%
 
 
 [ProjectSinisterRewardsBasic]
@@ -1390,61 +1390,61 @@ Stripped=True
 [ProjectSinisterRewardsBonus]
 
 Rotation A:
-  1 "", UNCOMMON, 5.61%
-  1 "", UNCOMMON, 5.61%
-  1 "", UNCOMMON, 5.61%
-  1 "", UNCOMMON, 5.61%
-  5 "", COMMON, 38.52%
-  25 "", LEGENDARY, 0.51%
-  1 "", COMMON, 38.52%
+  1 Shrapnel Shot, UNCOMMON, 5.61%
+  1 Catalyzer Link, UNCOMMON, 5.61%
+  1 Hydraulic Crosshairs, UNCOMMON, 5.61%
+  1 Body Count, UNCOMMON, 5.61%
+  5 80 ENDO, COMMON, 38.52%
+  25 80 ENDO, LEGENDARY, 0.51%
+  1 Focused Defense, COMMON, 38.52%
 
 Rotation B:
-  1 "", COMMON, 37.94%
-  1 "", COMMON, 37.94%
-  1 "", UNCOMMON, 3.69%
-  1 "", UNCOMMON, 3.69%
-  1 "", UNCOMMON, 3.69%
-  1 "", UNCOMMON, 3.69%
-  1 "", RARE, 1.01%
-  1 "", RARE, 1.01%
-  1 "", UNCOMMON, 3.69%
-  1 "", UNCOMMON, 3.69%
+  1 Hydraulic Crosshairs, COMMON, 37.94%
+  1 Body Count, COMMON, 37.94%
+  1 Blood Rush, UNCOMMON, 3.69%
+  1 Sharpened Bullets, UNCOMMON, 3.69%
+  1 Bladed Rounds, UNCOMMON, 3.69%
+  1 Embedded Catalyzer, UNCOMMON, 3.69%
+  1 Nano-Applicator, RARE, 1.01%
+  1 Argon Scope, RARE, 1.01%
+  1 Guided Ordnance, UNCOMMON, 3.69%
+  1 Targeting Subsystem, UNCOMMON, 3.69%
 
 Rotation C:
-  1 "", COMMON, 37.94%
-  1 "", COMMON, 37.94%
-  1 "", UNCOMMON, 5.53%
-  1 "", UNCOMMON, 5.53%
-  1 "", UNCOMMON, 5.53%
-  1 "", UNCOMMON, 5.53%
-  1 "", RARE, 0.67%
-  1 "", RARE, 0.67%
-  1 "", RARE, 0.67%
+  1 Shrapnel Shot, COMMON, 37.94%
+  1 Catalyzer Link, COMMON, 37.94%
+  1 Laser Sight, UNCOMMON, 5.53%
+  1 Weeping Wounds, UNCOMMON, 5.53%
+  1 Spring-Loaded Chamber, UNCOMMON, 5.53%
+  1 Repeater Clip, UNCOMMON, 5.53%
+  1 Maiming Strike, RARE, 0.67%
+  1 Pressurized Magazine, RARE, 0.67%
+  1 Narrow Barrel, RARE, 0.67%
 
 
 [ProjectSinisterRewardsFinal]
 
 Rotation A:
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", RARE, 0.67%
-  1 "", RARE, 0.67%
-  1 "", COMMON, 10.84%
-  1 "", COMMON, 10.84%
-  1 "", UNCOMMON, 2.21%
-  1 "", UNCOMMON, 2.21%
-  1 "", RARE, 0.67%
-  1 "", COMMON, 10.84%
+  1 Shrapnel Shot, COMMON, 10.84%
+  1 Catalyzer Link, COMMON, 10.84%
+  1 Hydraulic Crosshairs, COMMON, 10.84%
+  1 Blood Rush, COMMON, 10.84%
+  1 Sharpened Bullets, UNCOMMON, 2.21%
+  1 Bladed Rounds, UNCOMMON, 2.21%
+  1 Body Count, UNCOMMON, 2.21%
+  1 Embedded Catalyzer, UNCOMMON, 2.21%
+  1 Laser Sight, UNCOMMON, 2.21%
+  1 Weeping Wounds, UNCOMMON, 2.21%
+  1 Spring-Loaded Chamber, UNCOMMON, 2.21%
+  1 Repeater Clip, UNCOMMON, 2.21%
+  1 Maiming Strike, RARE, 0.67%
+  1 Nano-Applicator, RARE, 0.67%
+  1 Argon Scope, COMMON, 10.84%
+  1 Pressurized Magazine, COMMON, 10.84%
+  1 Targeting Subsystem, UNCOMMON, 2.21%
+  1 Guided Ordnance, UNCOMMON, 2.21%
+  1 Narrow Barrel, RARE, 0.67%
+  1 Focused Defense, COMMON, 10.84%
 
 
 [ProjectUndermineBonusRewards]
@@ -1543,208 +1543,208 @@ Stripped=True
 [SortieRewards]
 
 Rotation A:
-  25 "", COMMON, 96.79%
-  1 "", RARE, 1.28%
-  1 "", RARE, 1.28%
-  1 "", LEGENDARY, 0.21%
-  1 "", LEGENDARY, 0.21%
-  50 "", LEGENDARY, 0.21%
+  25 80 ENDO, COMMON, 96.79%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1.28%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1.28%
+  1 Legendary Core, LEGENDARY, 0.21%
+  1 EXILUS ADAPTER, LEGENDARY, 0.21%
+  50 80 ENDO, LEGENDARY, 0.21%
 
 Rotation B:
-  1 "", COMMON, 15.49%
-  1 "", COMMON, 15.49%
-  1 "", COMMON, 15.49%
-  1 "", COMMON, 15.49%
-  1 "", COMMON, 15.49%
-  1 "", UNCOMMON, 4.51%
-  1 "", UNCOMMON, 4.51%
-  1 "", UNCOMMON, 4.51%
-  1 "", UNCOMMON, 4.51%
-  1 "", UNCOMMON, 4.51%
+  1 MADURAI LENS, COMMON, 15.49%
+  1 VAZARIN LENS, COMMON, 15.49%
+  1 ZENURIK LENS, COMMON, 15.49%
+  1 NARAMON LENS, COMMON, 15.49%
+  1 UNAIRU LENS, COMMON, 15.49%
+  1 GREATER MADURAI LENS, UNCOMMON, 4.51%
+  1 GREATER VAZARIN LENS, UNCOMMON, 4.51%
+  1 GREATER ZENURIK LENS, UNCOMMON, 4.51%
+  1 GREATER NARAMON LENS, UNCOMMON, 4.51%
+  1 GREATER UNAIRU LENS, UNCOMMON, 4.51%
 
 Rotation C:
-  1 "", RARE, 100%
+  1 Rifle Riven Mod, RARE, 100%
 
 
 [SortieRewardsB]
 
 Rotation A:
-  25 "", COMMON, 9.44%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 9.44%
-  1 "", COMMON, 9.44%
-  1 "", UNCOMMON, 11%
-  1 "", UNCOMMON, 11%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 9.44%
-  1 "", COMMON, 9.44%
-  1 "", COMMON, 9.44%
-  1 "", COMMON, 9.44%
-  1 "", COMMON, 9.44%
-  50 "", LEGENDARY, 0.17%
-  1 "", RARE, 1%
-  1 "", RARE, 1%
+  25 80 ENDO, COMMON, 9.44%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 DERA VANDAL BLUEPRINT, COMMON, 9.44%
+  1 DERA VANDAL BARREL, COMMON, 9.44%
+  1 DERA VANDAL RECEIVER, UNCOMMON, 11%
+  1 DERA VANDAL STOCK, UNCOMMON, 11%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 9.44%
+  1 VAZARIN LENS, COMMON, 9.44%
+  1 ZENURIK LENS, COMMON, 9.44%
+  1 NARAMON LENS, COMMON, 9.44%
+  1 UNAIRU LENS, COMMON, 9.44%
+  50 80 ENDO, LEGENDARY, 0.17%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
 
 
 [SortieRewardsC]
 
 Rotation A:
-  25 "", COMMON, 7.55%
-  1 "", RARE, 1%
-  1 "", RARE, 1%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", UNCOMMON, 7.33%
-  1 "", UNCOMMON, 7.33%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  50 "", LEGENDARY, 0.17%
-  1 "", UNCOMMON, 7.33%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 KARAK WRAITH BLUEPRINT, COMMON, 7.55%
+  1 KARAK WRAITH BARREL, COMMON, 7.55%
+  1 KARAK WRAITH RECEIVER, UNCOMMON, 7.33%
+  1 KARAK WRAITH STOCK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 80 ENDO, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
 
 [SortieRewardsD]
 
 Rotation A:
-  25 "", COMMON, 7.55%
-  1 "", RARE, 1%
-  1 "", RARE, 1%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", UNCOMMON, 7.33%
-  1 "", UNCOMMON, 7.33%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  50 "", LEGENDARY, 0.17%
-  1 "", UNCOMMON, 7.33%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
+  1 PYRA SYANDANA, RARE, 1%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 STRUN WRAITH BLUEPRINT, COMMON, 7.55%
+  1 STRUN WRAITH BARREL, COMMON, 7.55%
+  1 STRUN WRAITH RECEIVER, UNCOMMON, 7.33%
+  1 STRUN WRAITH STOCK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 80 ENDO, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
 
 [SortieRewardsE]
 
 Rotation A:
-  25 "", COMMON, 7.55%
-  1 "", RARE, 1%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", UNCOMMON, 7.33%
-  1 "", UNCOMMON, 7.33%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  50 "", LEGENDARY, 0.17%
-  1 "", UNCOMMON, 7.33%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", RARE, 1%
+  25 80 ENDO, COMMON, 7.55%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 SHEEV BLUEPRINT, COMMON, 7.55%
+  1 SHEEV HILT, COMMON, 7.55%
+  1 SHEEV BLADE, UNCOMMON, 7.33%
+  1 SHEEV HEATSINK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 80 ENDO, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
 
 
 [SortieRewardsF]
 
 Rotation A:
-  25 "", COMMON, 7.55%
-  1 "", RARE, 1%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", UNCOMMON, 7.33%
-  1 "", UNCOMMON, 7.33%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  50 "", LEGENDARY, 0.17%
-  1 "", UNCOMMON, 7.33%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", RARE, 1%
+  25 80 ENDO, COMMON, 7.55%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 SNIPETRON VANDAL BLUEPRINT, COMMON, 7.55%
+  1 SNIPETRON VANDAL STOCK, COMMON, 7.55%
+  1 SNIPETRON VANDAL RECEIVER, UNCOMMON, 7.33%
+  1 SNIPETRON VANDAL BARREL, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 80 ENDO, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
 
 
 [SortieRewardsG]
 
 Rotation A:
-  25 "", COMMON, 7.55%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", UNCOMMON, 7.33%
-  1 "", UNCOMMON, 7.33%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  50 "", LEGENDARY, 0.17%
-  1 "", RARE, 1%
-  1 "", RARE, 1%
-  1 "", UNCOMMON, 7.33%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 DERA VANDAL BLUEPRINT, COMMON, 7.55%
+  1 DERA VANDAL BARREL, COMMON, 7.55%
+  1 DERA VANDAL RECEIVER, UNCOMMON, 7.33%
+  1 DERA VANDAL STOCK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 80 ENDO, LEGENDARY, 0.17%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
 
 [SortieRewardsH]
 
 Rotation A:
-  25 "", COMMON, 7.55%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", UNCOMMON, 7.33%
-  1 "", UNCOMMON, 7.33%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  50 "", LEGENDARY, 0.17%
-  1 "", RARE, 1%
-  1 "", RARE, 1%
-  1 "", UNCOMMON, 7.33%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 LATRON WRAITH BLUEPRINT, COMMON, 7.55%
+  1 LATRON WRAITH BARREL, COMMON, 7.55%
+  1 LATRON WRAITH RECEIVER, UNCOMMON, 7.33%
+  1 LATRON WRAITH STOCK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 80 ENDO, LEGENDARY, 0.17%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
 
 [SortieRewardsI]
 
 Rotation A:
-  25 "", COMMON, 7.55%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", UNCOMMON, 7.33%
-  1 "", UNCOMMON, 7.33%
-  1 "", LEGENDARY, 0.17%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
-  50 "", LEGENDARY, 0.17%
-  1 "", RARE, 1%
-  1 "", RARE, 1%
-  1 "", UNCOMMON, 7.33%
-  1 "", COMMON, 7.55%
-  1 "", COMMON, 7.55%
+  25 80 ENDO, COMMON, 7.55%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 WRAITH TWIN VIPERS BLUEPRINT, COMMON, 7.55%
+  1 WRAITH TWIN VIPERS BARRELS, COMMON, 7.55%
+  1 WRAITH TWIN VIPERS LINK, UNCOMMON, 7.33%
+  1 WRAITH TWIN VIPERS RECEIVERS, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 80 ENDO, LEGENDARY, 0.17%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
 
 [SpyMissionRewards/SpyHighMissionRewards]
@@ -1791,38 +1791,38 @@ Stripped=True
  - Sedna, Amarna, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 Rotation A:
-  1 "", COMMON, 25%
-  1 "", COMMON, 25%
-  1 "", COMMON, 25%
-  5 "", COMMON, 25%
+  1 2000 CREDITS, COMMON, 25%
+  1 2500 CREDITS, COMMON, 25%
+  1 3000 CREDITS, COMMON, 25%
+  5 80 ENDO, COMMON, 25%
 
 Rotation B:
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
+  1 NEO S1 RELIC, COMMON, 7.14%
+  1 NEO S3 RELIC, COMMON, 7.14%
+  1 NEO N3 RELIC, COMMON, 7.14%
+  1 NEO N2 RELIC, COMMON, 7.14%
+  1 NEO V2 RELIC, COMMON, 7.14%
+  1 NEO V3 RELIC, COMMON, 7.14%
+  1 Steel Fiber, COMMON, 7.14%
+  1 Stretch, COMMON, 7.14%
+  1 Serration, COMMON, 7.14%
+  1 Hell's Chamber, COMMON, 7.14%
+  1 Hornet Strike, COMMON, 7.14%
+  1 Flow, COMMON, 7.14%
+  1 Split Chamber, COMMON, 7.14%
+  1 Stabilizer, COMMON, 7.14%
 
 Rotation C:
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", UNCOMMON, 11.28%
-  1 "", UNCOMMON, 11.28%
+  1 AXI G1 RELIC, COMMON, 9.68%
+  1 AXI T1 RELIC, COMMON, 9.68%
+  1 AXI N2 RELIC, COMMON, 9.68%
+  1 AXI V3 RELIC, COMMON, 9.68%
+  1 AXI N3 RELIC, COMMON, 9.68%
+  1 AXI N1 RELIC, COMMON, 9.68%
+  1 AXI V1 RELIC, COMMON, 9.68%
+  1 AXI A1 RELIC, COMMON, 9.68%
+  1 Enduring Strike, UNCOMMON, 11.28%
+  1 Life Strike, UNCOMMON, 11.28%
 
 
 [SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards]
@@ -1830,37 +1830,37 @@ Rotation C:
  - Ceres, Gabii, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 Rotation A:
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
+  1 500 CREDITS, COMMON, 14.29%
+  1 1000 CREDITS, COMMON, 14.29%
+  1 1500 CREDITS, COMMON, 14.29%
+  1 2000 CREDITS, COMMON, 14.29%
+  1 15 ENDO, COMMON, 14.29%
+  1 50 ENDO, COMMON, 14.29%
+  1 80 ENDO, COMMON, 14.29%
 
 Rotation B:
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
+  1 LITH N1 RELIC, COMMON, 8.33%
+  1 LITH A1 RELIC, COMMON, 8.33%
+  1 LITH C1 RELIC, COMMON, 8.33%
+  1 LITH V1 RELIC, COMMON, 8.33%
+  1 LITH S3 RELIC, COMMON, 8.33%
+  1 LITH K1 RELIC, COMMON, 8.33%
+  1 Parry, COMMON, 8.33%
+  1 Steel Fiber, COMMON, 8.33%
+  1 Serration, COMMON, 8.33%
+  1 Incendiary Coat, COMMON, 8.33%
+  1 Hornet Strike, COMMON, 8.33%
+  1 Intensify, COMMON, 8.33%
 
 Rotation C:
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", UNCOMMON, 11.28%
-  1 "", UNCOMMON, 11.28%
+  1 LITH N1 RELIC, COMMON, 12.91%
+  1 LITH A1 RELIC, COMMON, 12.91%
+  1 LITH C1 RELIC, COMMON, 12.91%
+  1 LITH V1 RELIC, COMMON, 12.91%
+  1 LITH S3 RELIC, COMMON, 12.91%
+  1 LITH K1 RELIC, COMMON, 12.91%
+  1 True Punishment, UNCOMMON, 11.28%
+  1 Quickening, UNCOMMON, 11.28%
 
 
 [SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards]
@@ -1870,79 +1870,79 @@ Rotation C:
  - Phobos, Zeugma, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 Rotation A:
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
+  1 1500 CREDITS, COMMON, 16.67%
+  1 2000 CREDITS, COMMON, 16.67%
+  1 2500 CREDITS, COMMON, 16.67%
+  1 15 ENDO, COMMON, 16.67%
+  1 50 ENDO, COMMON, 16.67%
+  1 80 ENDO, COMMON, 16.67%
 
 Rotation B:
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
+  1 MESO D1 RELIC, COMMON, 7.69%
+  1 MESO V1 RELIC, COMMON, 7.69%
+  1 MESO S2 RELIC, COMMON, 7.69%
+  1 MESO V2 RELIC, COMMON, 7.69%
+  1 MESO F1 RELIC, COMMON, 7.69%
+  1 MESO S1 RELIC, COMMON, 7.69%
+  1 Provoked, COMMON, 7.69%
+  1 Steel Fiber, COMMON, 7.69%
+  1 Serration, COMMON, 7.69%
+  1 Hornet Strike, COMMON, 7.69%
+  1 Fast Deflection, COMMON, 7.69%
+  1 Charged Shell, COMMON, 7.69%
+  1 Vital Sense, COMMON, 7.69%
 
 Rotation C:
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", UNCOMMON, 11.28%
-  1 "", UNCOMMON, 11.28%
+  1 NEO S1 RELIC, COMMON, 12.91%
+  1 NEO S3 RELIC, COMMON, 12.91%
+  1 NEO N3 RELIC, COMMON, 12.91%
+  1 NEO N2 RELIC, COMMON, 12.91%
+  1 NEO V2 RELIC, COMMON, 12.91%
+  1 NEO V3 RELIC, COMMON, 12.91%
+  1 Quickening, UNCOMMON, 11.28%
+  1 Enduring Strike, UNCOMMON, 11.28%
 
 
 [SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards]
  - Eris, Zabala, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 Rotation A:
-  1 "", COMMON, 25%
-  1 "", COMMON, 25%
-  1 "", COMMON, 25%
-  5 "", COMMON, 25%
+  1 2000 CREDITS, COMMON, 25%
+  1 2500 CREDITS, COMMON, 25%
+  1 3000 CREDITS, COMMON, 25%
+  5 80 ENDO, COMMON, 25%
 
 Rotation B:
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
+  1 NEO S1 RELIC, COMMON, 16.67%
+  1 NEO S3 RELIC, COMMON, 16.67%
+  1 NEO N3 RELIC, COMMON, 16.67%
+  1 NEO N2 RELIC, COMMON, 16.67%
+  1 NEO V2 RELIC, COMMON, 16.67%
+  1 NEO V3 RELIC, COMMON, 16.67%
 
 Rotation C:
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
-  1 "", COMMON, 11.11%
+  1 AXI G1 RELIC, COMMON, 11.11%
+  1 AXI T1 RELIC, COMMON, 11.11%
+  1 AXI N2 RELIC, COMMON, 11.11%
+  1 AXI V3 RELIC, COMMON, 11.11%
+  1 AXI N3 RELIC, COMMON, 11.11%
+  1 AXI N1 RELIC, COMMON, 11.11%
+  1 AXI V1 RELIC, COMMON, 11.11%
+  1 AXI A1 RELIC, COMMON, 11.11%
+  1 Life Strike, COMMON, 11.11%
 
 
 [SurvivalMissionRewards/SurvivalGeneticFoundryRewards]
 
 Rotation B:
-  1 "", COMMON, 33.33%
-  1 "", COMMON, 33.33%
-  1 "", COMMON, 33.33%
+  1 2000 CREDITS, COMMON, 33.33%
+  1 4000 CREDITS, COMMON, 33.33%
+  1 80 ENDO, COMMON, 33.33%
 
 Rotation C:
-  1 "", COMMON, 33.33%
-  1 "", COMMON, 33.33%
-  1 "", COMMON, 33.33%
+  1 2000 CREDITS, COMMON, 33.33%
+  1 4000 CREDITS, COMMON, 33.33%
+  1 80 ENDO, COMMON, 33.33%
 
 
 [SurvivalMissionRewards/SurvivalHighLevelRewards]
@@ -1958,42 +1958,42 @@ Rotation C:
  - Kuva Fortress, Taveuni, MT_SURVIVAL, FC_GRINEER, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 25%
-  1 "", COMMON, 25%
-  1 "", COMMON, 25%
-  5 "", COMMON, 25%
+  1 2000 CREDITS, COMMON, 25%
+  1 2500 CREDITS, COMMON, 25%
+  1 3000 CREDITS, COMMON, 25%
+  5 80 ENDO, COMMON, 25%
 
 Rotation B:
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
-  1 "", COMMON, 7.14%
+  1 NEO S1 RELIC, COMMON, 7.14%
+  1 NEO S3 RELIC, COMMON, 7.14%
+  1 NEO N3 RELIC, COMMON, 7.14%
+  1 NEO N2 RELIC, COMMON, 7.14%
+  1 NEO V2 RELIC, COMMON, 7.14%
+  1 NEO V3 RELIC, COMMON, 7.14%
+  1 Steel Fiber, COMMON, 7.14%
+  1 Stretch, COMMON, 7.14%
+  1 Serration, COMMON, 7.14%
+  1 Hell's Chamber, COMMON, 7.14%
+  1 Hornet Strike, COMMON, 7.14%
+  1 Flow, COMMON, 7.14%
+  1 Split Chamber, COMMON, 7.14%
+  1 Stabilizer, COMMON, 7.14%
 
 Rotation C:
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", COMMON, 9.68%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
+  1 AXI G1 RELIC, COMMON, 9.68%
+  1 AXI T1 RELIC, COMMON, 9.68%
+  1 AXI N2 RELIC, COMMON, 9.68%
+  1 AXI V3 RELIC, COMMON, 9.68%
+  1 AXI N3 RELIC, COMMON, 9.68%
+  1 AXI N1 RELIC, COMMON, 9.68%
+  1 AXI V1 RELIC, COMMON, 9.68%
+  1 AXI A1 RELIC, COMMON, 9.68%
+  1 Cleanse Infested, UNCOMMON, 3.76%
+  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+  1 Arrow Mutation, UNCOMMON, 3.76%
+  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
 
 
 [SurvivalMissionRewards/SurvivalLowLevelRewards]
@@ -2004,41 +2004,41 @@ Rotation C:
  - Phobos, Flimnap, MT_SURVIVAL, FC_GRINEER, NT_EVENT
 
 Rotation A:
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
-  1 "", COMMON, 14.29%
+  1 500 CREDITS, COMMON, 14.29%
+  1 1000 CREDITS, COMMON, 14.29%
+  1 1500 CREDITS, COMMON, 14.29%
+  1 2000 CREDITS, COMMON, 14.29%
+  1 15 ENDO, COMMON, 14.29%
+  1 50 ENDO, COMMON, 14.29%
+  1 80 ENDO, COMMON, 14.29%
 
 Rotation B:
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
-  1 "", COMMON, 8.33%
+  1 LITH N1 RELIC, COMMON, 8.33%
+  1 LITH A1 RELIC, COMMON, 8.33%
+  1 LITH C1 RELIC, COMMON, 8.33%
+  1 LITH V1 RELIC, COMMON, 8.33%
+  1 LITH S3 RELIC, COMMON, 8.33%
+  1 LITH K1 RELIC, COMMON, 8.33%
+  1 Parry, COMMON, 8.33%
+  1 Steel Fiber, COMMON, 8.33%
+  1 Serration, COMMON, 8.33%
+  1 Incendiary Coat, COMMON, 8.33%
+  1 Hornet Strike, COMMON, 8.33%
+  1 Intensify, COMMON, 8.33%
 
 Rotation C:
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
+  1 LITH N1 RELIC, COMMON, 12.91%
+  1 LITH A1 RELIC, COMMON, 12.91%
+  1 LITH C1 RELIC, COMMON, 12.91%
+  1 LITH V1 RELIC, COMMON, 12.91%
+  1 LITH S3 RELIC, COMMON, 12.91%
+  1 LITH K1 RELIC, COMMON, 12.91%
+  1 Arrow Mutation, UNCOMMON, 3.76%
+  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
+  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+  1 Cleanse Grineer, UNCOMMON, 3.76%
 
 
 [SurvivalMissionRewards/SurvivalMidLevelRewards]
@@ -2049,69 +2049,69 @@ Rotation C:
  - Void, Ani, MT_SURVIVAL, FC_OROKIN, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
+  1 1500 CREDITS, COMMON, 16.67%
+  1 2000 CREDITS, COMMON, 16.67%
+  1 2500 CREDITS, COMMON, 16.67%
+  1 15 ENDO, COMMON, 16.67%
+  1 50 ENDO, COMMON, 16.67%
+  1 80 ENDO, COMMON, 16.67%
 
 Rotation B:
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
-  1 "", COMMON, 7.69%
+  1 MESO D1 RELIC, COMMON, 7.69%
+  1 MESO V1 RELIC, COMMON, 7.69%
+  1 MESO S2 RELIC, COMMON, 7.69%
+  1 MESO V2 RELIC, COMMON, 7.69%
+  1 MESO F1 RELIC, COMMON, 7.69%
+  1 MESO S1 RELIC, COMMON, 7.69%
+  1 Provoked, COMMON, 7.69%
+  1 Steel Fiber, COMMON, 7.69%
+  1 Serration, COMMON, 7.69%
+  1 Hornet Strike, COMMON, 7.69%
+  1 Fast Deflection, COMMON, 7.69%
+  1 Charged Shell, COMMON, 7.69%
+  1 Vital Sense, COMMON, 7.69%
 
 Rotation C:
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", COMMON, 12.91%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
-  1 "", UNCOMMON, 3.76%
+  1 NEO S1 RELIC, COMMON, 12.91%
+  1 NEO S3 RELIC, COMMON, 12.91%
+  1 NEO N3 RELIC, COMMON, 12.91%
+  1 NEO N2 RELIC, COMMON, 12.91%
+  1 NEO V2 RELIC, COMMON, 12.91%
+  1 NEO V3 RELIC, COMMON, 12.91%
+  1 Cleanse Corpus, UNCOMMON, 3.76%
+  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+  1 Arrow Mutation, UNCOMMON, 3.76%
+  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
 
 
 [SurvivalMissionRewards/SurvivalUltraLevelRewards]
  - Void, Mot, MT_SURVIVAL, FC_OROKIN, NT_MISSION
 
 Rotation A:
-  1 "", COMMON, 25%
-  1 "", COMMON, 25%
-  1 "", COMMON, 25%
-  5 "", COMMON, 25%
+  1 2000 CREDITS, COMMON, 25%
+  1 2500 CREDITS, COMMON, 25%
+  1 3000 CREDITS, COMMON, 25%
+  5 80 ENDO, COMMON, 25%
 
 Rotation B:
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
-  1 "", COMMON, 16.67%
+  1 NEO S1 RELIC, COMMON, 16.67%
+  1 NEO S3 RELIC, COMMON, 16.67%
+  1 NEO N3 RELIC, COMMON, 16.67%
+  1 NEO N2 RELIC, COMMON, 16.67%
+  1 NEO V2 RELIC, COMMON, 16.67%
+  1 NEO V3 RELIC, COMMON, 16.67%
 
 Rotation C:
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
-  1 "", COMMON, 12.5%
+  1 AXI G1 RELIC, COMMON, 12.5%
+  1 AXI T1 RELIC, COMMON, 12.5%
+  1 AXI N2 RELIC, COMMON, 12.5%
+  1 AXI V3 RELIC, COMMON, 12.5%
+  1 AXI N3 RELIC, COMMON, 12.5%
+  1 AXI N1 RELIC, COMMON, 12.5%
+  1 AXI V1 RELIC, COMMON, 12.5%
+  1 AXI A1 RELIC, COMMON, 12.5%
 
 
 [VaultRewards]
@@ -2122,276 +2122,276 @@ Stripped=True
  - LITH M1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 MAG PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 LEX PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 SOMA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats
+  1 DAKRA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 BOAR PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
 [VoidKeyMissionRewards/MagPrimeVaultB]
  - MESO B1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 BOAR PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 DAKRA PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 MAG PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 ORTHOS PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ORTHOS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
 [VoidKeyMissionRewards/MagPrimeVaultC]
  - NEO D1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 DAKRA PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 MAG PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 TRINITY PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+  1 VASTO PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BOAR PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
 [VoidKeyMissionRewards/MagPrimeVaultD]
  - AXI V2 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 VECTIS PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 HIKOU PRIME POUCH, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BRATON PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 TRINITY PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 MAG PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BOAR PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
 [VoidKeyMissionRewards/MagPrimeVaultEnd]
  - AXI V3 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 VECTIS PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 ORTHOS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 BRATON PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 TRINITY PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+  1 VASTO PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 TRINITY PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAA]
  - AXI N3 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 NEKROS PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 VOLT PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 BRONCO PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 PARIS PRIME UPPER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+  1 DUAL KAMAS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
 [VoidKeyMissionRewards/NekrosPAB]
  - NEO N3 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 NEKROS PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 FANG PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+  1 ASH PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ODONATA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAC]
  - AXI T1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 TIGRIS PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 AKSTILETTO PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 BURSTON PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 VECTIS PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAD]
  - AXI G1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 GALATINE PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 KAVASA PRIME KUBROW COLLAR BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 NEKROS PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAE]
  - LITH S3 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 SPIRA PRIME POUCH, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 ASH PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 SOMA PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 AKBRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAF]
  - MESO S1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 SOMA PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 PARIS PRIME UPPER LIMB, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+  1 ODONATA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 NOVA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 TIGRIS PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAG]
  - MESO S2 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 SARYN PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 PARIS PRIME GRIP, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAH]
  - MESO F1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 FRAGOR PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 NEKROS PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 DUAL KAMAS PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 BRONCO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME LOWER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAI]
  - LITH C1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 CARRIER PRIME CEREBRUM, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 KAVASA PRIME BAND, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 NOVA PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 NOVA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAJ]
  - LITH K1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 KAVASA PRIME BUCKLE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 TIGRIS PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 TRINITY PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FANG PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BURSTON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAK]
  - NEO V2 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 VAUBAN PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 GALATINE PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 FANG PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+  1 BRATON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAL]
  - NEO V3 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 VAUBAN PRIME NEUROPTICS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 TIGRIS PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/NekrosPAM]
  - LITH N1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 NOVA PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 AKBRONCO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 NEKROS PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/OrokinCaptureRewardsA]
  - LITH S1 RELIC
 
 Rotation A:
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 PARIS PRIME GRIP, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 SPIRA PRIME POUCH, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 HIKOU PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/OrokinCaptureRewardsB]
  - MESO D1 RELIC
 
 Rotation A:
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 ORTHOS PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 ORTHOS PRIME BLADE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 DUAL KAMAS PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
 [VoidKeyMissionRewards/OrokinCaptureRewardsC]
  - NEO S1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 SARYN PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 TRINITY PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 CARRIER PRIME CARAPACE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 SOMA PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/OrokinCaptureRewardsD]
  - AXI S1 RELIC
 
 Rotation A:
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 BRONCO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 AKBRONCO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 SCINDO PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 TRINITY PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
 [VoidKeyMissionRewards/OrokinDefenseRewardsA]
  - LITH S2 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 SOMA PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 AKBRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 NYX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 KAVASA PRIME BAND, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 Rotation B:
   1 "", COMMON, I:100%, E:100%, F:100%, R:100%
@@ -2401,371 +2401,371 @@ Rotation B:
  - MESO N1 RELIC
 
 Rotation A:
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 FANG PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+  1 BRATON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FANG PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 NYX PRIME NEUROPTICS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 DUAL KAMAS PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
 [VoidKeyMissionRewards/OrokinDefenseRewardsC]
  - NEO S2 RELIC
 
 Rotation A:
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 NYX PRIME SYSTEMS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 SARYN PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 BURSTON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME LOWER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 NOVA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME UPPER LIMB, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
 
 
 [VoidKeyMissionRewards/OrokinDefenseRewardsD]
  - AXI V1 RELIC
 
 Rotation A:
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 ODONATA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 VAUBAN PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 DUAL KAMAS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 VOLT PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
 [VoidKeyMissionRewards/OrokinExterminateRewardsA]
  - LITH F1 RELIC
 
 Rotation A:
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 SCINDO PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FRAGOR PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 ODONATA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/OrokinExterminateRewardsB]
  - MESO C1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 CARRIER PRIME CEREBRUM, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 NOVA PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 SCINDO PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ASH PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
 [VoidKeyMissionRewards/OrokinExterminateRewardsC]
  - NEO N1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 NYX PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 SOMA PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 KAVASA PRIME KUBROW COLLAR BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 HIKOU PRIME STARS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 VECTIS PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
 [VoidKeyMissionRewards/OrokinExterminateRewardsD]
  - AXI K1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 KAVASA PRIME BUCKLE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 HIKOU PRIME POUCH, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 AKSTILETTO PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/OrokinMobileDefenseRewardsA]
  - LITH A1 RELIC
 
 Rotation A:
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 SARYN PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 VECTIS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 BRATON PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 AKSTILETTO PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 VASTO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/OrokinMobileDefenseRewardsB]
  - MESO V1 RELIC
 
 Rotation A:
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 BURSTON PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BRATON PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+  1 SPIRA PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 CARRIER PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 VECTIS PRIME RECEIVER, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
 [VoidKeyMissionRewards/OrokinMobileDefenseRewardsC]
  - NEO S3 RELIC
 
 Rotation A:
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 SOMA PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 VASTO PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 SPIRA PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 CARRIER PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BURSTON PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/OrokinMobileDefenseRewardsD]
  - AXI N2 RELIC
 
 Rotation A:
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 CARRIER PRIME CARAPACE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 LEX PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 NIKANA PRIME HILT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 ASH PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/OrokinSabotageRewardsA]
  - LITH F2 RELIC
 
 Rotation A:
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 ODONATA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 HIKOU PRIME STARS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME UPPER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+  1 BURSTON PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 VAUBAN PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 FANG PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
 
 
 [VoidKeyMissionRewards/OrokinSabotageRewardsB]
  - MESO N2 RELIC
 
 Rotation A:
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 ASH PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 VAUBAN PRIME NEUROPTICS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 HIKOU PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 FANG PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
 
 
 [VoidKeyMissionRewards/OrokinSabotageRewardsC]
  - NEO V1 RELIC
 
 Rotation A:
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
+  1 NYX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 BRONCO PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 VOLT PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 DUAL KAMAS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 NOVA PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
 
 
 [VoidKeyMissionRewards/OrokinSabotageRewardsD]
  - AXI A1 RELIC
 
 Rotation A:
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
+  1 AKSTILETTO PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 TRINITY PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FRAGOR PRIME HEAD, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 DUAL KAMAS PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 BRATON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 NIKANA PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
 
 
 [VoidKeyMissionRewards/OrokinSurvivalRewardsA]
  - LITH V1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 FRAGOR PRIME HANDLE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 PARIS PRIME UPPER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+  1 VOLT PRIME SYSTEMS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 PARIS PRIME LOWER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BURSTON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
 [VoidKeyMissionRewards/OrokinSurvivalRewardsB]
  - MESO V2 RELIC
 
 Rotation A:
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 VASTO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ASH PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 NIKANA PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 VOLT PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
 [VoidKeyMissionRewards/OrokinSurvivalRewardsC]
  - NEO N2 RELIC
 
 Rotation A:
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 VAUBAN PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 FANG PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 VASTO PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 NOVA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
 [VoidKeyMissionRewards/OrokinSurvivalRewardsD]
  - AXI N1 RELIC
 
 Rotation A:
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
+  1 AKSTILETTO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 BRATON PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 ODONATA PRIME WINGS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ASH PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
 
 
 [VoidKeyMissionRewards/ValkyrPAA]
  - LITH C2 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 AKSTILETTO PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 CERNOS PRIME STRING, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats
+  1 VOLT PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 TIGRIS PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
 [VoidKeyMissionRewards/ValkyrPAB]
  - LITH S4 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 SPIRA PRIME POUCH, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 SCINDO PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 HIKOU PRIME STARS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 NYX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BRATON PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/ValkyrPAC]
  - LITH D1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 DAKRA PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 ASH PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 KAVASA PRIME KUBROW COLLAR BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 CARRIER PRIME CARAPACE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BOAR PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/ValkyrPAD]
  - MESO V3 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 CARRIER PRIME CEREBRUM, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 VECTIS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 PARIS PRIME UPPER LIMB, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/ValkyrPAE]
  - MESO V4 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 VALKYR PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%
+  1 SARYN PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 VECTIS PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/ValkyrPAF]
  - MESO N3 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 VAUBAN PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 KAVASA PRIME BAND, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 ODONATA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 AKBRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ASH PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
 [VoidKeyMissionRewards/ValkyrPAG]
  - NEO V4 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 NIKANA PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 AKBRONCO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 TRINITY PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+  1 NEKROS PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 CERNOS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 45 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
 [VoidKeyMissionRewards/ValkyrPAH]
  - NEO V5 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 NYX PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 BRONCO PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 TRINITY PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 CERNOS PRIME GRIP, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 45 Ducats
+  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 MAG PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/ValkyrPAI]
  - NEO S4 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 VENKA PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 45 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 VOLT PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 DUAL KAMAS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME LOWER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/ValkyrPAJ]
  - AXI C1 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 VECTIS PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 CERNOS PRIME UPPER LIMB, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats
+  1 BRATON PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FANG PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 CARRIER PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BURSTON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/ValkyrPAK]
  - AXI S2 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 SPIRA PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 VENKA PRIME GAUNTLET, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 100 Ducats
+  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 BURSTON PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 TRINITY PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
 [VoidKeyMissionRewards/ValkyrPAL]
  - AXI V4 RELIC
 
 Rotation A:
-  1 "", RARE, I:2%, E:4%, F:6%, R:10%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 "", COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 SARYN PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 VALKYR PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+  1 SCINDO PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 BOAR PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
