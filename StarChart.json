@@ -9,7 +9,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode130",
@@ -17,7 +17,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode119",
@@ -25,7 +25,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode12",
@@ -33,7 +33,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode103",
@@ -41,7 +41,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode28",
@@ -49,7 +49,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode108",
@@ -57,7 +57,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "MercuryHUB",
@@ -65,7 +65,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_PVP",
 					"NodeType": "NT_HUB",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "EventNode0",
@@ -73,7 +73,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -86,7 +86,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode61",
@@ -94,7 +94,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode2",
@@ -102,7 +102,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode71",
@@ -110,7 +110,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_INTEL",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode23",
@@ -118,7 +118,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_TERRITORY",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "VenusToMercuryJunction",
@@ -126,7 +126,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_JUNCTION",
 					"NodeType": "NT_JUNCTION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "VenusToEarthShortcut",
@@ -134,7 +134,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode128",
@@ -142,7 +142,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode109",
@@ -150,7 +150,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "VenusToMercuryShortcut",
@@ -158,7 +158,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -171,7 +171,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_PVP",
 					"NodeType": "NT_HUB",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode63",
@@ -179,7 +179,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode27",
@@ -187,7 +187,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode79",
@@ -195,7 +195,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_INTEL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode39",
@@ -203,7 +203,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_EXCAVATE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode15",
@@ -211,7 +211,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode26",
@@ -219,7 +219,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode702",
@@ -227,7 +227,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_EMPTY",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode703",
@@ -235,7 +235,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_EMPTY",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -248,7 +248,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode30",
@@ -256,7 +256,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode113",
@@ -264,7 +264,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode46",
@@ -272,7 +272,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode68",
@@ -280,7 +280,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode58",
@@ -288,7 +288,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "MarsToCeresJunction",
@@ -296,7 +296,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_JUNCTION",
 					"NodeType": "NT_JUNCTION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "MarsToCeresShortcut",
@@ -304,7 +304,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -317,7 +317,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "JupiterToEuropaJunction",
@@ -325,7 +325,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_JUNCTION",
 					"NodeType": "NT_JUNCTION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode88",
@@ -333,7 +333,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode97",
@@ -341,7 +341,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_INTEL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode126",
@@ -349,7 +349,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode125",
@@ -357,7 +357,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode100",
@@ -365,7 +365,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode10",
@@ -373,7 +373,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "JupiterToCeresShortcut",
@@ -381,7 +381,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "JupiterToEuropaShortcut",
@@ -389,7 +389,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -402,7 +402,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode7",
@@ -410,7 +410,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_COUNTER_INTEL",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode42",
@@ -418,7 +418,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode19",
@@ -426,7 +426,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode96",
@@ -434,7 +434,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode67",
@@ -442,7 +442,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_INTEL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -455,7 +455,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "SolNode33",
@@ -463,7 +463,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "SolNode105",
@@ -471,7 +471,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "UranusToNeptuneJunction",
@@ -479,7 +479,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_JUNCTION",
 					"NodeType": "NT_JUNCTION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode64",
@@ -487,7 +487,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_TERRITORY",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode3",
@@ -495,7 +495,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "SolNode90",
@@ -503,7 +503,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode69",
@@ -511,7 +511,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "UranusToNeptuneShortcut",
@@ -519,7 +519,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -532,7 +532,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode95",
@@ -540,7 +540,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "NeptuneToUranusShortcut",
@@ -548,7 +548,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode117",
@@ -556,7 +556,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_ARENA",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode1",
@@ -564,7 +564,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode17",
@@ -572,7 +572,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode78",
@@ -580,7 +580,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode6",
@@ -588,7 +588,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_EXCAVATE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "NeptuneToPlutoJunction",
@@ -596,7 +596,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_JUNCTION",
 					"NodeType": "NT_JUNCTION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "NeptuneToPlutoShortcut",
@@ -604,7 +604,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "NeptuneToVoidShortcut",
@@ -612,7 +612,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -625,7 +625,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "PlutoToNeptuneShortcut",
@@ -633,7 +633,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode72",
@@ -641,7 +641,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode48",
@@ -649,7 +649,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode21",
@@ -657,7 +657,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode92",
@@ -665,7 +665,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode76",
@@ -673,7 +673,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode51",
@@ -681,7 +681,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode38",
@@ -689,7 +689,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "PlutoToSednaJunction",
@@ -697,7 +697,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_JUNCTION",
 					"NodeType": "NT_JUNCTION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "PlutoToErisJunction",
@@ -705,7 +705,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_JUNCTION",
 					"NodeType": "NT_JUNCTION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "PlutoToSednaShortcut",
@@ -713,7 +713,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "PlutoToErisShortcut",
@@ -721,7 +721,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "PlutoToDerelictShortcut",
@@ -729,7 +729,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -742,7 +742,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode131",
@@ -750,7 +750,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "CeresToJupiterJunction",
@@ -758,7 +758,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_JUNCTION",
 					"NodeType": "NT_JUNCTION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode133",
@@ -766,7 +766,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode135",
@@ -774,7 +774,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode132",
@@ -782,7 +782,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_INTEL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode134",
@@ -790,7 +790,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "CeresToJupiterShortcut",
@@ -798,7 +798,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -811,7 +811,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_INTEL",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "ErisHUB",
@@ -819,7 +819,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_PVP",
 					"NodeType": "NT_HUB",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode155",
@@ -827,7 +827,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode154",
@@ -835,7 +835,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_HIVE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode152",
@@ -843,7 +843,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_TERRITORY",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode157",
@@ -851,7 +851,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode151",
@@ -859,7 +859,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "ErisToPlutoShortcut",
@@ -867,7 +867,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode153",
@@ -875,7 +875,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode701",
@@ -883,7 +883,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode704",
@@ -891,7 +891,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_EMPTY",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode705",
@@ -899,7 +899,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -912,7 +912,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_INTEL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SednaToPlutoShortcut",
@@ -920,7 +920,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode184",
@@ -928,7 +928,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode182",
@@ -936,7 +936,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode181",
@@ -944,7 +944,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode183",
@@ -952,7 +952,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ARENA",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode178",
@@ -960,7 +960,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode180",
@@ -968,7 +968,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ARENA",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode179",
@@ -976,7 +976,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SednaToVoidShortcut",
@@ -984,7 +984,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -997,7 +997,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "EuropaHUB",
@@ -1005,7 +1005,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_PVP",
 					"NodeType": "NT_HUB",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "EuropaToJupiterShortcut",
@@ -1013,7 +1013,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode207",
@@ -1021,7 +1021,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "SolNode204",
@@ -1029,7 +1029,7 @@
 					"Faction": "FC_INFESTATION",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode209",
@@ -1037,7 +1037,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode206",
@@ -1045,7 +1045,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode208",
@@ -1053,7 +1053,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_EXCAVATE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode210",
@@ -1061,7 +1061,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode205",
@@ -1069,7 +1069,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "EuropaToVoidShortcut",
@@ -1077,7 +1077,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -1090,7 +1090,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode401",
@@ -1098,7 +1098,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode402",
@@ -1106,7 +1106,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode403",
@@ -1114,7 +1114,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode404",
@@ -1122,7 +1122,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode405",
@@ -1130,7 +1130,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode406",
@@ -1138,7 +1138,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode407",
@@ -1146,7 +1146,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode408",
@@ -1154,7 +1154,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode409",
@@ -1162,7 +1162,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode410",
@@ -1170,7 +1170,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode411",
@@ -1178,7 +1178,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_SABOTAGE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode412",
@@ -1186,7 +1186,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_TERRITORY",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "VoidToPhobosShortcut",
@@ -1194,7 +1194,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "VoidToEuropaShortcut",
@@ -1202,7 +1202,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "VoidToSednaShortcut",
@@ -1210,7 +1210,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "VoidToNeptuneShortcut",
@@ -1218,7 +1218,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -1231,7 +1231,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SettlementNode1",
@@ -1239,7 +1239,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "PhobosToMarsShortcut",
@@ -1247,7 +1247,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "PvpNode2",
@@ -1255,7 +1255,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_PVP",
 					"NodeType": "NT_PVP",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SettlementNode7",
@@ -1263,7 +1263,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SettlementNode5",
@@ -1271,7 +1271,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_INTEL",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SettlementNode3",
@@ -1279,7 +1279,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SettlementNode2",
@@ -1287,7 +1287,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SettlementNode4",
@@ -1295,7 +1295,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "PhobosToVoidShortcut",
@@ -1303,7 +1303,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -1316,7 +1316,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode707",
@@ -1324,7 +1324,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode708",
@@ -1332,7 +1332,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode709",
@@ -1340,7 +1340,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode710",
@@ -1348,7 +1348,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode711",
@@ -1356,7 +1356,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode712",
@@ -1364,7 +1364,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_ASSASSINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "DerelictToPlutoShortcut",
@@ -1372,7 +1372,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_EVENT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -1385,7 +1385,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "MoonToEarthShortcut",
@@ -1393,7 +1393,7 @@
 					"Faction": "FC_OROKIN",
 					"MissionType": "MT_GENERIC",
 					"NodeType": "NT_SHORTCUT",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode306",
@@ -1401,7 +1401,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_INTEL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode302",
@@ -1409,7 +1409,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode305",
@@ -1417,7 +1417,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode304",
@@ -1425,7 +1425,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode301",
@@ -1433,7 +1433,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode307",
@@ -1441,7 +1441,7 @@
 					"Faction": "FC_CORPUS",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		},
@@ -1452,9 +1452,9 @@
 					"Id": "SolNode741",
 					"Name": "Koro",
 					"Faction": "FC_GRINEER",
-					"MissionType": "",
+					"MissionType": "MT_ASSAULT",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "SolNode742",
@@ -1462,7 +1462,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_CAPTURE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "SolNode743",
@@ -1470,7 +1470,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_MOBILE_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "SolNode744",
@@ -1478,7 +1478,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_SURVIVAL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				},
 				{
 					"Id": "SolNode745",
@@ -1486,7 +1486,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_DEFENSE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "SolNode746",
@@ -1494,7 +1494,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_EXTERMINATION",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "SolNode747",
@@ -1502,7 +1502,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_INTEL",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": true,
+					"ArchwingRequired": true
 				},
 				{
 					"Id": "SolNode748",
@@ -1510,7 +1510,7 @@
 					"Faction": "FC_GRINEER",
 					"MissionType": "MT_RESCUE",
 					"NodeType": "NT_MISSION",
-					"ArchwingRequired": false,
+					"ArchwingRequired": false
 				}
 			]
 		}

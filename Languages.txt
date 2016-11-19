@@ -7627,6 +7627,9 @@ But the experiment was only a partial success. Without pain, Dhurnam grew weak a
 [/Lotus/Language/ChangeInfo/SCEAAPPVER_01.38_SCEAMASTERVER_01.00_SCEEAPPVER_01.37_SCEEMASTERVER_01.00_SCEZAPPVER_01.06_SCEZMASTERVER_01.00]
 "The Index Preview"
 
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.39_SCEAMASTERVER_01.00_SCEEAPPVER_01.38_SCEEMASTERVER_01.00_SCEZAPPVER_01.07_SCEZMASTERVER_01.00]
+"The Index Preview"
+
 [/Lotus/Language/Changyou/AdjustmentColourPickerAbbrev]
 "[PH] ADJUSTMENTS"
 
@@ -8732,6 +8735,24 @@ Baro Ki’Teer"
 
 [/Lotus/Language/CompanionApp/Time]
 "TIME"
+
+[/Lotus/Language/Cosmetics/BaroArmourADesc]
+"This decorative armored plate is a Ki’Teer original. "
+
+[/Lotus/Language/Cosmetics/BaroArmourAName]
+"KI'TEER SHOULDER PLATES"
+
+[/Lotus/Language/Cosmetics/BaroArmourCDesc]
+"This decorative armored plate is a Ki’Teer original. "
+
+[/Lotus/Language/Cosmetics/BaroArmourCName]
+"KI'TEER CHEST PLATE"
+
+[/Lotus/Language/Cosmetics/BaroArmourLDesc]
+"This decorative armored plate is a Ki’Teer original. "
+
+[/Lotus/Language/Cosmetics/BaroArmourLName]
+"KI'TEER LEG PLATES"
 
 [/Lotus/Language/Cosmetics/BaroMeleeDangleDesc]
 "[PH] Description"
@@ -10539,6 +10560,9 @@ Warframe Support Team"
 
 [/Lotus/Language/Dojo/DecoDestroyConfirmWithRefundPercentage]
 "Are you sure you want to destroy this decoration? Destruction cannot be cancelled, |PERCENT|% of resources are refunded to the Vault."
+
+[/Lotus/Language/Dojo/DecoDestroyedByOther]
+"The decoration you were moving has been destroyed by another clanmate in the Dojo."
 
 [/Lotus/Language/Dojo/DecoDestroyNoPermission]
 "You do not have permission to remove decorations; you may only contribute to decorations."
@@ -53350,13 +53374,16 @@ Do you wish to enable Recruit Conditioning?"
 "[PH] TASK NOT COMPELTED"
 
 [/Lotus/Language/Menu/REROLL_Confirm]
-"Are you sure you want to cycle |MOD|? It will cost <KUVA> |PRICE| and you will have to prove yourself worthy again."
+"Are you sure you want to cycle |MOD| for <KUVA> |PRICE|?"
 
 [/Lotus/Language/Menu/REROLL_Description]
 "Randomize Riven mod stats"
 
 [/Lotus/Language/Menu/REROLL_InsuffCurrency]
 "INSUFFICIENT <KUVA> (|PRICE| NEEDED)"
+
+[/Lotus/Language/Menu/REROLL_ShortForm]
+"CYCLE FOR <KUVA> |PRICE|"
 
 [/Lotus/Language/Menu/REROLL_Title]
 "CYCLE"
@@ -55538,7 +55565,7 @@ This one is dedicated to you."
 "EXCEPTIONAL"
 
 [/Lotus/Language/Menu/VoidRewardSelect_BoosterBonus]
-"|AMOUNT|% |BOOSTER_NAME| (lasts until end of mission)"
+"|AMOUNT|% |BOOSTER_NAME|"
 
 [/Lotus/Language/Menu/VoidRewardSelect_ChosenRewardTitle]
 "CHOSEN REWARD"
@@ -55724,6 +55751,18 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Menu/WeaponStats_MELEE_SWING_RIGHT_Full]
 "Melee Swing Right"
+
+[/Lotus/Language/Menu/WeaponStats_OmegaAttenHigh]
+"STRONG"
+
+[/Lotus/Language/Menu/WeaponStats_OmegaAttenLow]
+"FAINT"
+
+[/Lotus/Language/Menu/WeaponStats_OmegaAttenMedium]
+"NEUTRAL"
+
+[/Lotus/Language/Menu/WeaponStats_OmegaAttenuationTitle]
+"RIVEN DISPOSITION"
 
 [/Lotus/Language/Menu/WeaponStats_Title]
 "WEAPON STATS"
@@ -56603,6 +56642,9 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Mods/TonkorNightwatchMod]
 "[PH] Airstrike"
+
+[/Lotus/Language/Mods/TransferenceDisruption]
+"Transference Static"
 
 [/Lotus/Language/Mods/TwinBasolkNightwatchMod]
 "Rift Strike"
@@ -57542,6 +57584,12 @@ As proof of your deed"
 
 [/Lotus/Language/Omega/OmegaPrefixSeparator]
 "-"
+
+[/Lotus/Language/Omega/OmegaRerollSelectionConfirm]
+"Cycle Riven into current selection?"
+
+[/Lotus/Language/Omega/OmegaRerollSelectionSubTitle]
+"RIVEN CYCLING"
 
 [/Lotus/Language/Omega/OmegaRifleMod]
 "Rifle Riven Mod"
@@ -74029,13 +74077,13 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "They had lost their minds. I didn't blame them. We built a makeshift prison."
 
 [/Lotus/Language/Subtitles/TheWarWithin/DBonePit0260OperatorVoiceB]
-"They had lost their minds. I didn't blame them. We build a makeshift prison."
+"They had lost their minds. I didn't blame them. We built a makeshift prison."
 
 [/Lotus/Language/Subtitles/TheWarWithin/DBonePit0260OperatorVoiceC]
-"They had lost their minds. I didn't blame them. We build a makeshift prison."
+"They had lost their minds. I didn't blame them. We built a makeshift prison."
 
 [/Lotus/Language/Subtitles/TheWarWithin/DBonePit0260OperatorVoiceD]
-"They had lost their minds. I didn't blame them. We build a makeshift prison."
+"They had lost their minds. I didn't blame them. We built a makeshift prison."
 
 [/Lotus/Language/Subtitles/TheWarWithin/DBonePit0270OperatorVoiceA]
 "I held out hope that we'd be rescued. So I avoided the bloodshed."

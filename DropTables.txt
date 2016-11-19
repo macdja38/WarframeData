@@ -4277,7 +4277,7 @@ DROP_POWERUP (Drop Chance: 25%)
 [ResourceContainerDropTables/AlloyPlateContainerDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/PickUps/ResourceContainers/AlloyPlateContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	/Lotus/Types/Items/MiscItems/AlloyPlatePickup, COMMON, 50%, Bias 0.4
 	ALLOY PLATE, COMMON, 50%
 
 
@@ -4285,13 +4285,13 @@ DROP_MISC_ITEM (Drop Chance: 100%)
 
 DROP_MISC_ITEM (Drop Chance: 100%)
 	ARGON CRYSTAL, RARE, 2.58%
-	/Lotus/Types/PickUps/ResourceContainers/ArgonContainerSpawner [Spawner], COMMON, 97.42%, Bias 0.75
+	/Lotus/Types/Items/MiscItems/ArgonCrystalPickup, COMMON, 97.42%, Bias 0.75
 
 
 [ResourceContainerDropTables/CircuitsContainerDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/PickUps/ResourceContainers/CircuitsContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	/Lotus/Types/Items/MiscItems/CircuitsPickup, COMMON, 50%, Bias 0.4
 	CIRCUITS, COMMON, 50%
 
 
@@ -4299,13 +4299,13 @@ DROP_MISC_ITEM (Drop Chance: 100%)
 
 DROP_MISC_ITEM (Drop Chance: 100%)
 	CONTROL MODULE, COMMON, 50%
-	/Lotus/Types/PickUps/ResourceContainers/ControlModuleContainerSpawner [Spawner], COMMON, 50%, Bias 0.57
+	/Lotus/Types/Items/MiscItems/ControlModulePickup, COMMON, 50%, Bias 0.57
 
 
 [ResourceContainerDropTables/FerriteContainerDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/PickUps/ResourceContainers/FerriteContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	/Lotus/Types/Items/MiscItems/FerritePickup, COMMON, 50%, Bias 0.4
 	FERRITE, COMMON, 50%
 
 
@@ -4313,20 +4313,20 @@ DROP_MISC_ITEM (Drop Chance: 100%)
 
 DROP_MISC_ITEM (Drop Chance: 100%)
 	GALLIUM, COMMON, 50%
-	/Lotus/Types/PickUps/ResourceContainers/GalliumContainerSpawner [Spawner], COMMON, 50%, Bias 0.57
+	/Lotus/Types/Items/MiscItems/GalliumPickup, COMMON, 50%, Bias 0.57
 
 
 [ResourceContainerDropTables/MorphicsContainerDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
 	MORPHICS, COMMON, 50%
-	/Lotus/Types/PickUps/ResourceContainers/MorphicsContainerSpawner [Spawner], COMMON, 50%, Bias 0.57
+	/Lotus/Types/Items/MiscItems/MorphicPickup, COMMON, 50%, Bias 0.57
 
 
 [ResourceContainerDropTables/NanoSporesContainerDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/PickUps/ResourceContainers/NanosporesContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	/Lotus/Types/Items/MiscItems/NanosporesPickup, COMMON, 50%, Bias 0.4
 	NANO SPORES, COMMON, 50%
 
 
@@ -4334,48 +4334,48 @@ DROP_MISC_ITEM (Drop Chance: 100%)
 
 DROP_MISC_ITEM (Drop Chance: 100%)
 	NEURAL SENSORS, COMMON, 50%
-	/Lotus/Types/PickUps/ResourceContainers/NeuralSensorContainerSpawner [Spawner], COMMON, 50%, Bias 0.57
+	/Lotus/Types/Items/MiscItems/NeuralSensorPickup, COMMON, 50%, Bias 0.57
 
 
 [ResourceContainerDropTables/NeurodesContainerDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
 	NEURODES, COMMON, 50%
-	/Lotus/Types/PickUps/ResourceContainers/NeurodesContainerSpawner [Spawner], COMMON, 50%, Bias 0.57
+	/Lotus/Types/Items/MiscItems/NeurodePickup, COMMON, 50%, Bias 0.57
 
 
 [ResourceContainerDropTables/OrokinCellContainerDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
 	OROKIN CELL, RARE, 2.58%
-	/Lotus/Types/PickUps/ResourceContainers/OrokinCellContainerSpawner [Spawner], COMMON, 97.42%, Bias 0.75
+	/Lotus/Types/Items/MiscItems/OrokinCellPickup, COMMON, 97.42%, Bias 0.75
 
 
 [ResourceContainerDropTables/PlastidsContainerDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/PickUps/ResourceContainers/PlastidsContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	/Lotus/Types/Items/MiscItems/PlastidsPickup, COMMON, 50%, Bias 0.4
 	PLASTIDS, COMMON, 50%
 
 
 [ResourceContainerDropTables/PolymerBundleContainerDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/PickUps/ResourceContainers/PolymerBundleContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	/Lotus/Types/Items/MiscItems/PolymerBundlePickup, COMMON, 50%, Bias 0.4
 	POLYMER BUNDLE, COMMON, 50%
 
 
 [ResourceContainerDropTables/RubedoContainerDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/PickUps/ResourceContainers/RubedoContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	/Lotus/Types/Items/MiscItems/RubedoPickup, COMMON, 50%, Bias 0.4
 	RUBEDO, COMMON, 50%
 
 
 [ResourceContainerDropTables/SalvageContainerDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%)
-	/Lotus/Types/PickUps/ResourceContainers/SalvageContainerSpawner [Spawner], COMMON, 50%, Bias 0.4
+	/Lotus/Types/Items/MiscItems/SalvagePickup, COMMON, 50%, Bias 0.4
 	SALVAGE, COMMON, 50%
 
 
