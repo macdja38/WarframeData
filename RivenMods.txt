@@ -1,0 +1,3053 @@
+[Rifle Riven Mod]
+
+Number of buffs: 2-3
+Number of curses: 0-1
+Number of buffs attenuation: 0, 1, 0.66, 0.5, 0.4, 0.35
+Number of buffs curse attenuation: 0, 1, 0.33, 0.5, 1.25, 1.5
+Curse attenuation: 1.25
+Specific fit attenuation: 1.5
+Mastery rank attenuation: 1-1
+Fusion limit range: 8-8
+Polarities: AP_ATTACK AP_DEFENSE AP_TACTIC 
+
+
+Available challenges:
+
+ - Kill [50-70] enemies
+   Complication Chance: 100%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 0.5)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 2)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using health consumables (Weight: 0.15, Multiplier 2)
+      without using shield consumables (Weight: 0.15, Multiplier 2)
+      without using ammo consumables (Weight: 0.15, Multiplier 2)
+      without using energy consumables (Weight: 0.15, Multiplier 2)
+      in one day (Weight: 1, Multiplier 5)
+
+ - Kill [15-20] enemies with headshots
+   Complication Chance: 100%
+   Complications:
+      while undetected (Weight: 1, Multiplier 2)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 2)
+      without dying or becoming downed (Weight: 1, Multiplier 3)
+      without raising any alarms (Weight: 1, Multiplier 2)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using energy consumables (Weight: 0.15, Multiplier 1)
+      in one day (Weight: 1, Multiplier 4)
+
+ - Kill [4-6] sentients
+   Complication Chance: 40%
+   Complications:
+      while sliding (Weight: 1, Multiplier 0.5)
+      while aim gliding (Weight: 1, Multiplier 0.5)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 0.25)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using health consumables (Weight: 0.15, Multiplier 1)
+      without using energy consumables (Weight: 0.15, Multiplier 1)
+      in one day (Weight: 1, Multiplier 2)
+
+ - Kill [15-25] enemies with finishers
+   Complication Chance: 100%
+   Complications:
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 2)
+      without failing a mission (Weight: 1, Multiplier 4)
+      without raising any alarms (Weight: 1, Multiplier 2)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 2)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using health consumables (Weight: 0.15, Multiplier 1)
+      in one day (Weight: 1, Multiplier 3)
+
+ - Kill [10-16] enemies while sliding
+   Complication Chance: 100%
+   Complications:
+      while undetected (Weight: 1, Multiplier 0.5)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 2)
+      without failing a mission (Weight: 1, Multiplier 3)
+      without raising any alarms (Weight: 1, Multiplier 2)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 2)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      in one day (Weight: 1, Multiplier 4)
+
+ - Complete an extermination mission with level 30 or higher enemies without being detected
+   Complication Chance: 100%
+   Complications:
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 1, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 1, Multiplier 1)
+
+ - Complete a defense mission with level 30 or higher enemies with the defense objective taking no damage
+   Complication Chance: 70%
+   Complications:
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using energy consumables (Weight: 1, Multiplier 1)
+
+ - Complete a survival mission with level 30 or higher enemies without killing anyone
+   Complication Chance: 50%
+   Complications:
+      alone (Weight: 1, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 1, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 1, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 1, Multiplier 1)
+      without using energy consumables (Weight: 1, Multiplier 1)
+      without using health consumables (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+
+ - Complete a solo interception mission with level 30 or higher enemies with a Hobbled Dragon Key equipped
+   Complication Chance: 50%
+   Complications:
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+
+ - Find [3-4] Rare Syndicate medallions
+   Complication Chance: 25%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1.5)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 0.5)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using ciphers (Weight: 0.15, Multiplier 1)
+
+ - Find [2-4] caches
+   Complication Chance: 100%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 0.5)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using ciphers (Weight: 0.15, Multiplier 1)
+      without using air support (Weight: 0.15, Multiplier 1)
+      without using health consumables (Weight: 0.15, Multiplier 1)
+      without using shield consumables (Weight: 0.15, Multiplier 1)
+      without using ammo consumables (Weight: 0.15, Multiplier 1)
+      without using energy consumables (Weight: 0.15, Multiplier 1)
+      in one day (Weight: 1, Multiplier 1)
+
+ - Get [3-3] headshots in a single aim glide
+   Complication Chance: 20%
+   Complications:
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Get [10-20] kills in a row while wall dashing or wall clinging without touching the floor
+   Complication Chance: 25%
+   Complications:
+      alone (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Sustain a 3x melee combo multiplier for 30 seconds
+   Complication Chance: 100%
+   Complications:
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Synthesize a Simaris target without using traps or abilities while having a Hobbled Dragon Key equipped
+   Complication Chance: 50%
+   Complications:
+      alone (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+
+
+Upgrade entries:
+
+ - Upgrade: 1.3% Puncture
+   Operation Type: STACKING_MULTIPLY
+   Prefix: insi
+   Suffix: cak
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.7% Critical Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: crita
+   Suffix: cron
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.3% Critical Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: acri
+   Suffix: tis
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1% Electricity
+   Operation Type: ADD
+   Prefix: vexi
+   Suffix: tio
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: No
+
+ - Upgrade: 1% Heat
+   Operation Type: ADD
+   Prefix: igni
+   Suffix: pha
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: No
+
+ - Upgrade: 0.7% Fire Rate (x2 for Bows)
+   Operation Type: STACKING_MULTIPLY
+   Prefix: croni
+   Suffix: dra
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1% Cold
+   Operation Type: ADD
+   Prefix: geli
+   Suffix: do
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: No
+
+ - Upgrade: 1.3% Impact
+   Operation Type: STACKING_MULTIPLY
+   Prefix: magna
+   Suffix: ton
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.1% Status Duration
+   Operation Type: STACKING_MULTIPLY
+   Prefix: deci
+   Suffix: des
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.3% Slash
+   Operation Type: STACKING_MULTIPLY
+   Prefix: sci
+   Suffix: sus
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1% Status Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: hexa
+   Suffix: dex
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1% Toxin
+   Operation Type: ADD
+   Prefix: toxi
+   Suffix: tox
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: No
+
+ - Upgrade: 0.6% Ammo Maximum
+   Operation Type: STACKING_MULTIPLY
+   Prefix: ampi
+   Suffix: bin
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.6% Magazine Capacity
+   Operation Type: STACKING_MULTIPLY
+   Prefix: arma
+   Suffix: tin
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.8% Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: visi
+   Suffix: ata
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1% Multishot
+   Operation Type: STACKING_MULTIPLY
+   Prefix: sati
+   Suffix: can
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1% Flight Speed
+   Operation Type: STACKING_MULTIPLY
+   Prefix: conci
+   Suffix: nak
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.8 Punch Through
+   Operation Type: ADD
+   Prefix: lexi
+   Suffix: nok
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: No
+
+ - Upgrade: -1% Weapon Recoil
+   Operation Type: STACKING_MULTIPLY
+   Prefix: zeti
+   Suffix: mag
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.6% Reload Speed
+   Operation Type: STACKING_MULTIPLY
+   Prefix: feva
+   Suffix: tak
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.5% Damage to Corpus
+   Operation Type: STACKING_MULTIPLY
+   Prefix: manti
+   Suffix: tron
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.5% Damage to Grineer
+   Operation Type: STACKING_MULTIPLY
+   Prefix: argi
+   Suffix: con
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.5% Damage to Infested
+   Operation Type: STACKING_MULTIPLY
+   Prefix: pura
+   Suffix: ada
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.7% Zoom
+   Operation Type: STACKING_MULTIPLY
+   Prefix: hera
+   Suffix: lis
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+Item Compatibility:
+
+   AMPREX, COMMON, Attenuation: 0.965
+   ATTICA, COMMON, Attenuation: 1.315
+   BOLTOR, COMMON, Attenuation: 0.79
+   BRATON, COMMON, Attenuation: 0.965
+   BURSTON, COMMON, Attenuation: 1.175
+   BUZLOK, COMMON, Attenuation: 1.385
+   CERNOS, COMMON, Attenuation: 0.86
+   DAIKYU, COMMON, Attenuation: 1.21
+   DERA, COMMON, Attenuation: 1.245
+   SYBARIS, COMMON, Attenuation: 0.895
+   DREAD, COMMON, Attenuation: 0.825
+   FLUX RIFLE, COMMON, Attenuation: 1.385
+   GLAXION, COMMON, Attenuation: 1.35
+   GORGON, COMMON, Attenuation: 1.175
+   GRAKATA, COMMON, Attenuation: 1.105
+   GRINLOK, COMMON, Attenuation: 1.245
+   HARPAK, COMMON, Attenuation: 1.385
+   HIND, COMMON, Attenuation: 1.42
+   IGNIS, COMMON, Attenuation: 0.79
+   KARAK, COMMON, Attenuation: 1.28
+   LANKA, COMMON, Attenuation: 1.105
+   LATRON, COMMON, Attenuation: 1.07
+   MITER, COMMON, Attenuation: 1.42
+   PARIS, COMMON, Attenuation: 0.965
+   QUANTA, COMMON, Attenuation: 0.895
+   OGRIS, COMMON, Attenuation: 1.245
+   OPTICOR, COMMON, Attenuation: 1.21
+   PANTHERA, COMMON, Attenuation: 1.385
+   PARACYST, COMMON, Attenuation: 1.315
+   PENTA, COMMON, Attenuation: 1.175
+   TETRA, COMMON, Attenuation: 1.35
+   RUBICO, COMMON, Attenuation: 1.105
+   SIMULOR, COMMON, Attenuation: 0.65
+   MUTALIST CERNOS, COMMON, Attenuation: 1.21
+   MUTALIST QUANTA, COMMON, Attenuation: 1.35
+   SOMA, COMMON, Attenuation: 0.65
+   STRADAVAR, COMMON, Attenuation: 1.175
+   SUPRA, COMMON, Attenuation: 1.14
+   SYNAPSE, COMMON, Attenuation: 1.315
+   TIBERON, COMMON, Attenuation: 1.35
+   TONKOR, COMMON, Attenuation: 0.685
+   TORID, COMMON, Attenuation: 1.14
+   VECTIS, COMMON, Attenuation: 1
+   ZARR, COMMON, Attenuation: 1
+   ZHUGE, COMMON, Attenuation: 1.105
+   DETH MACHINE RIFLE, COMMON, Attenuation: 1.455
+   LASER RIFLE, COMMON, Attenuation: 1.21
+   STINGER, COMMON, Attenuation: 1.315
+   VULKAR, COMMON, Attenuation: 1.45
+   VULKLOK, COMMON, Attenuation: 1.245
+
+
+[[PH] Pistol Omega Mod]
+
+Number of buffs: 2-3
+Number of curses: 0-1
+Curse attenuation: 
+Specific fit attenuation: 1.5
+Mastery rank attenuation: 1-1
+Fusion limit range: 8-8
+
+
+Available challenges:
+
+ - Kill [5-30] enemies
+   Complication Chance: 70%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using ciphers (Weight: 0.15, Multiplier 1)
+      without using air support (Weight: 0.15, Multiplier 1)
+      without using health consumables (Weight: 0.15, Multiplier 1)
+      without using shield consumables (Weight: 0.15, Multiplier 1)
+      without using ammo consumables (Weight: 0.15, Multiplier 1)
+      without using energy consumables (Weight: 0.15, Multiplier 1)
+      in one day (Weight: 1, Multiplier 1)
+
+ - Kill [5-15] enemies with headshots
+   Complication Chance: 50%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using ciphers (Weight: 0.15, Multiplier 1)
+      without using air support (Weight: 0.15, Multiplier 1)
+      without using health consumables (Weight: 0.15, Multiplier 1)
+      without using shield consumables (Weight: 0.15, Multiplier 1)
+      without using ammo consumables (Weight: 0.15, Multiplier 1)
+      without using energy consumables (Weight: 0.15, Multiplier 1)
+      in one day (Weight: 1, Multiplier 1)
+
+ - Kill [1-3] sentients
+   Complication Chance: 40%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using ciphers (Weight: 0.15, Multiplier 1)
+      without using air support (Weight: 0.15, Multiplier 1)
+      without using health consumables (Weight: 0.15, Multiplier 1)
+      without using shield consumables (Weight: 0.15, Multiplier 1)
+      without using ammo consumables (Weight: 0.15, Multiplier 1)
+      without using energy consumables (Weight: 0.15, Multiplier 1)
+      in one day (Weight: 1, Multiplier 1)
+
+ - Kill [3-10] enemies with finishers
+   Complication Chance: 35%
+   Complications:
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using ciphers (Weight: 0.15, Multiplier 1)
+      without using air support (Weight: 0.15, Multiplier 1)
+      without using health consumables (Weight: 0.15, Multiplier 1)
+      without using shield consumables (Weight: 0.15, Multiplier 1)
+      without using ammo consumables (Weight: 0.15, Multiplier 1)
+      without using energy consumables (Weight: 0.15, Multiplier 1)
+      in one day (Weight: 1, Multiplier 1)
+
+ - Kill [5-10] enemies while sliding
+   Complication Chance: 35%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using ciphers (Weight: 0.15, Multiplier 1)
+      without using air support (Weight: 0.15, Multiplier 1)
+      without using health consumables (Weight: 0.15, Multiplier 1)
+      without using shield consumables (Weight: 0.15, Multiplier 1)
+      without using ammo consumables (Weight: 0.15, Multiplier 1)
+      without using energy consumables (Weight: 0.15, Multiplier 1)
+      in one day (Weight: 1, Multiplier 1)
+
+ - Complete an extermination mission with level 30 or higher enemies without being detected
+   Complication Chance: 40%
+   Complications:
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Complete a defense mission with level 30 or higher enemies with the defense objective taking no damage
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Complete a survival mission with level 30 or higher enemies without killing anyone
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Complete a solo interception mission with level 30 or higher enemies with a Hobbled Dragon Key equipped
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+
+ - Find [2-5] Rare Syndicate medallions
+   Complication Chance: 50%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using ciphers (Weight: 0.15, Multiplier 1)
+      without using air support (Weight: 0.15, Multiplier 1)
+      without using health consumables (Weight: 0.15, Multiplier 1)
+      without using shield consumables (Weight: 0.15, Multiplier 1)
+      without using ammo consumables (Weight: 0.15, Multiplier 1)
+      without using energy consumables (Weight: 0.15, Multiplier 1)
+      in one day (Weight: 1, Multiplier 1)
+
+ - Find [2-6] caches
+   Complication Chance: 50%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without using ciphers (Weight: 0.15, Multiplier 1)
+      without using air support (Weight: 0.15, Multiplier 1)
+      without using health consumables (Weight: 0.15, Multiplier 1)
+      without using shield consumables (Weight: 0.15, Multiplier 1)
+      without using ammo consumables (Weight: 0.15, Multiplier 1)
+      without using energy consumables (Weight: 0.15, Multiplier 1)
+      in one day (Weight: 1, Multiplier 1)
+
+ - Get [3-6] headshots in a single aim glide
+   Complication Chance: 35%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      while undetected (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Get [15-25] kills in a row while wall dashing or wall clinging without touching the floor
+   Complication Chance: 35%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Sustain a 3x melee combo multiplier for 30 seconds
+   Complication Chance: 35%
+   Complications:
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Synthesize a Simaris target without using traps or abilities while having a Hobbled Dragon Key equipped
+   Complication Chance: 0%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      while undetected (Weight: 1, Multiplier 1)
+
+
+Upgrade entries:
+
+ - Upgrade: 5% Puncture
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Critical Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Critical Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Electricity
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Heat
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3% Fire Rate
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Cold
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Impact
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.8% Status Duration
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Slash
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Status Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Toxin
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.3% Chance to Explode (Use with Caution)
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 7.5% Ammo Maximum
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 100 Range
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Magazine Capacity
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.3% Multishot
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: Reduce the chance an enemy will hear gunfire by 12.5%
+   Operation Type: MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 62.5
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Damage to Corpus
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Damage to Grineer
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Damage to Infested
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Zoom
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Flight Speed
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.5 Punch Through
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: -2.5% Weapon Recoil
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 4% Reload Speed
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Critical Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+Item Compatibility:
+
+   BURST LASER PRIME, COMMON, Attenuation: 1
+   ACRID, COMMON, Attenuation: 1
+   SPECTRA, COMMON, Attenuation: 1
+   DETRON, COMMON, Attenuation: 1
+   CESTRA, COMMON, Attenuation: 1
+   SONICOR, COMMON, Attenuation: 1
+   STATICOR, COMMON, Attenuation: 1
+   ANGSTRUM, COMMON, Attenuation: 1
+   TWIN GREMLINS, COMMON, Attenuation: 1
+   VIPER, COMMON, Attenuation: 1
+   KRAKEN, COMMON, Attenuation: 1
+   SEER, COMMON, Attenuation: 1
+   TWIN GRAKATAS, COMMON, Attenuation: 1
+   STUG, COMMON, Attenuation: 1
+   BRAKK, COMMON, Attenuation: 1
+   NUKOR, COMMON, Attenuation: 1
+   TWIN KOHMAK, COMMON, Attenuation: 1
+   KOHMAK, COMMON, Attenuation: 1
+   TWIN ROGGA, COMMON, Attenuation: 1
+   KULSTAR, COMMON, Attenuation: 1
+   ATOMOS, COMMON, Attenuation: 1
+   POX, COMMON, Attenuation: 1
+   DUAL TOXOCYST, COMMON, Attenuation: 1
+   TYSIS, COMMON, Attenuation: 1
+   EMBOLIST, COMMON, Attenuation: 1
+   TELOS AKBOLTO, COMMON, Attenuation: 1
+   SYNOID GAMMACOR, COMMON, Attenuation: 1
+   SANCTI CASTANAS, COMMON, Attenuation: 1
+   SECURA DUAL CESTRA, COMMON, Attenuation: 1
+   RAKTA BALLISTICA, COMMON, Attenuation: 1
+   VAYKOR MARELOK, COMMON, Attenuation: 1
+   AKLEX, COMMON, Attenuation: 1
+   AKLATO, COMMON, Attenuation: 1
+   TWIN VIPERS, COMMON, Attenuation: 1
+   AKMAGNUS, COMMON, Attenuation: 1
+   AKVASTO, COMMON, Attenuation: 1
+   AKBRONCO PRIME, COMMON, Attenuation: 1
+   FURIS, COMMON, Attenuation: 1
+   BRONCO PRIME, COMMON, Attenuation: 1
+   BOLTO, COMMON, Attenuation: 1
+   LATO, COMMON, Attenuation: 1
+   DEX FURIS, COMMON, Attenuation: 1
+   AKZANI, COMMON, Attenuation: 1
+   MAGNUS, COMMON, Attenuation: 1
+   AKSTILETTO PRIME, COMMON, Attenuation: 1
+   LEX PRIME, COMMON, Attenuation: 1
+   SICARUS PRIME, COMMON, Attenuation: 1
+   VASTO PRIME, COMMON, Attenuation: 1
+   PYRANA, COMMON, Attenuation: 1
+   AKSOMATI, COMMON, Attenuation: 1
+   AKJAGARA, COMMON, Attenuation: 1
+   /Lotus/Weapons/Tenno/ThrowingWeapons/DumplingBomb/DumplingBombs [LotusWeapon], COMMON, Attenuation: 1
+   SPIRA PRIME, COMMON, Attenuation: 1
+   HIKOU PRIME, COMMON, Attenuation: 1
+   TALONS, COMMON, Attenuation: 1
+   KUNAI, COMMON, Attenuation: 1
+   DESPAIR, COMMON, Attenuation: 1
+
+
+[[PH] Shotgun Omega Mod]
+
+Number of buffs: 2-3
+Number of curses: 0-1
+Curse attenuation: 
+Specific fit attenuation: 1.5
+Mastery rank attenuation: 1-1
+Fusion limit range: 8-8
+
+
+Available challenges:
+
+ - Kill [5-30] enemies
+   Complication Chance: 70%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Kill [5-15] enemies with headshots
+   Complication Chance: 50%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Kill [1-3] sentients
+   Complication Chance: 40%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Kill [3-10] enemies with finishers
+   Complication Chance: 35%
+   Complications:
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Kill [5-10] enemies while sliding
+   Complication Chance: 35%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Complete an extermination mission with level 30 or higher enemies without being detected
+   Complication Chance: 40%
+   Complications:
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Complete a defense mission with level 30 or higher enemies with the defense objective taking no damage
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Complete a survival mission with level 30 or higher enemies without killing anyone
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Complete a solo interception mission with level 30 or higher enemies with a Hobbled Dragon Key equipped
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+
+ - Find [2-5] Rare Syndicate medallions
+   Complication Chance: 50%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Find [2-6] caches
+   Complication Chance: 50%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Get [3-6] headshots in a single aim glide
+   Complication Chance: 35%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      while undetected (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Get [15-25] kills in a row while wall dashing or wall clinging without touching the floor
+   Complication Chance: 35%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Sustain a 3x melee combo multiplier for 30 seconds
+   Complication Chance: 35%
+   Complications:
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Synthesize a Simaris target without using traps or abilities while having a Hobbled Dragon Key equipped
+   Complication Chance: 0%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      while undetected (Weight: 1, Multiplier 1)
+
+
+Upgrade entries:
+
+ - Upgrade: 1.2% Puncture
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.8% Critical Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Critical Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Electricity
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Heat
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.8% Fire Rate
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Cold
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Impact
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.8% Status Duration
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Slash
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Status Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Toxin
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Ammo Maximum
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Magazine Capacity
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.8% Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2% Multishot
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Flight Speed
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.5 Punch Through
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Reload Speed
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 62.5
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Damage to Corpus
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Damage to Grineer
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Damage to Infested
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: Reduce the chance an enemy will hear gunfire by 12.5%
+   Operation Type: MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+Item Compatibility:
+
+   SWEEPER PRIME, COMMON, Attenuation: 1
+   SWEEPER, COMMON, Attenuation: 1
+   CONVECTRIX, COMMON, Attenuation: 1
+   DRAKGOON, COMMON, Attenuation: 1
+   KOHM, COMMON, Attenuation: 1
+   PHAGE, COMMON, Attenuation: 1
+   SANCTI TIGRIS, COMMON, Attenuation: 1
+   VAYKOR HEK, COMMON, Attenuation: 1
+   TIGRIS PRIME, COMMON, Attenuation: 1
+   SOBEK, COMMON, Attenuation: 1
+   BOAR PRIME, COMMON, Attenuation: 1
+   HEK, COMMON, Attenuation: 1
+   STRUN, COMMON, Attenuation: 1
+
+
+[[PH] Melee Omega Mod]
+
+Number of buffs: 2-3
+Number of curses: 0-1
+Curse attenuation: 
+Specific fit attenuation: 1.5
+Mastery rank attenuation: 1-1
+Fusion limit range: 8-8
+
+
+Available challenges:
+
+ - Kill [5-30] enemies
+   Complication Chance: 70%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Kill [5-15] enemies with headshots
+   Complication Chance: 50%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Kill [1-3] sentients
+   Complication Chance: 40%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Kill [3-10] enemies with finishers
+   Complication Chance: 35%
+   Complications:
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Kill [5-10] enemies while sliding
+   Complication Chance: 35%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Complete an extermination mission with level 30 or higher enemies without being detected
+   Complication Chance: 40%
+   Complications:
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Complete a defense mission with level 30 or higher enemies with the defense objective taking no damage
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Complete a survival mission with level 30 or higher enemies without killing anyone
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Complete a solo interception mission with level 30 or higher enemies with a Hobbled Dragon Key equipped
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Find [2-5] Rare Syndicate medallions
+   Complication Chance: 50%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Find [2-6] caches
+   Complication Chance: 50%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Get [3-6] headshots in a single aim glide
+   Complication Chance: 35%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      while undetected (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Get [15-25] kills in a row while wall dashing or wall clinging without touching the floor
+   Complication Chance: 35%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      while invisible (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Sustain a 3x melee combo multiplier for 30 seconds
+   Complication Chance: 35%
+   Complications:
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Synthesize a Simaris target without using traps or abilities while having a Hobbled Dragon Key equipped
+   Complication Chance: 0%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      while undetected (Weight: 1, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+
+Upgrade entries:
+
+ - Upgrade: 5% Melee Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 7.5% Puncture
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Critical Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.8% Critical Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Attack Speed Bonus
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Electricity
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Heat
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Attack Speed
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Cold
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 7.5% Impact
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: Impact from melee attacks reduces enemy armor by 25
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Channeling Efficiency
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Damage to Corpus
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Damage to Grineer
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Damage to Infested
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 7.5% Finisher Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.8% Range
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 8.3% Melee Slam Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: Convert 12.5% of Energy used to Bonus Damage on next Melee Attack.
+   Operation Type: SET
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.7% Status Duration
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 7.5% Slash
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Status Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Toxin
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: Increase Combo Duration by 50 secs
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.8% Critical Chance stacks with Combo Multiplier
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.9% Status Chance stacks with Combo Multiplier
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: Slide Attack has 7.5% chance to be a Critical Hit.
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+Item Compatibility:
+
+   KOGAKE, COMMON, Attenuation: 1
+   /Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon [LotusMeleeWeapon], COMMON, Attenuation: 1
+   DECONSTRUCTOR, COMMON, Attenuation: 1
+   PROVA VANDAL, COMMON, Attenuation: 1
+   [PH] CORPUS TONFAS, COMMON, Attenuation: 1
+   OBEX, COMMON, Attenuation: 1
+   SERRO, COMMON, Attenuation: 1
+   RIPKAS, COMMON, Attenuation: 1
+   KESHEG, COMMON, Attenuation: 1
+   JAT KITTAG, COMMON, Attenuation: 1
+   MACHETE, COMMON, Attenuation: 1
+   PRISMA DUAL CLEAVERS, COMMON, Attenuation: 1
+   ACK & BRUNT, COMMON, Attenuation: 1
+   ATTERAX, COMMON, Attenuation: 1
+   HALIKAR, COMMON, Attenuation: 1
+   TWIN BASOLK, COMMON, Attenuation: 1
+   BROKEN SCEPTER, COMMON, Attenuation: 1
+   CERATA, COMMON, Attenuation: 1
+   CAUSTACYST, COMMON, Attenuation: 1
+   MIOS, COMMON, Attenuation: 1
+   MIRE, COMMON, Attenuation: 1
+   LESION, COMMON, Attenuation: 1
+   SCOLIAC, COMMON, Attenuation: 1
+   TELOS BOLTACE, COMMON, Attenuation: 1
+   SYNOID HELIOCOR, COMMON, Attenuation: 1
+   SANCTI MAGISTAR, COMMON, Attenuation: 1
+   SECURA LECTA, COMMON, Attenuation: 1
+   RAKTA DARK DAGGER, COMMON, Attenuation: 1
+   VAYKOR SYDON, COMMON, Attenuation: 1
+   SCINDO PRIME, COMMON, Attenuation: 1
+   DUAL ZOREN, COMMON, Attenuation: 1
+   DUAL ICHOR, COMMON, Attenuation: 1
+   VENKA, COMMON, Attenuation: 1
+   CRONUS, COMMON, Attenuation: 1
+   DAKRA PRIME, COMMON, Attenuation: 1
+   CERAMIC DAGGER, COMMON, Attenuation: 1
+   HEAT DAGGER, COMMON, Attenuation: 1
+   DARK DAGGER, COMMON, Attenuation: 1
+   ETHER DAGGERS, COMMON, Attenuation: 1
+   FANG PRIME, COMMON, Attenuation: 1
+   KAMA, COMMON, Attenuation: 1
+   DUAL ETHER, COMMON, Attenuation: 1
+   DUAL HEAT SWORDS, COMMON, Attenuation: 1
+   FURAX WRAITH, COMMON, Attenuation: 1
+   TEKKO, COMMON, Attenuation: 1
+   ANKYROS PRIME, COMMON, Attenuation: 1
+   KESTREL, COMMON, Attenuation: 1
+   GLAIVE PRIME, COMMON, Attenuation: 1
+   ORVIUS, COMMON, Attenuation: 1
+   GRAM, COMMON, Attenuation: 1
+   SARPA, COMMON, Attenuation: 1
+   REDEEMER, COMMON, Attenuation: 1
+   SIBEAR, COMMON, Attenuation: 1
+   ETHER SWORD, COMMON, Attenuation: 1
+   NINKONDI, COMMON, Attenuation: 1
+   SHAKU, COMMON, Attenuation: 1
+   GAZAL MACHETE, COMMON, Attenuation: 1
+   TONBO, COMMON, Attenuation: 1
+   ORTHOS PRIME, COMMON, Attenuation: 1
+   DUAL KAMAS PRIME, COMMON, Attenuation: 1
+   FRAGOR PRIME, COMMON, Attenuation: 1
+   ANKU, COMMON, Attenuation: 1
+   ETHER REAPER, COMMON, Attenuation: 1
+   REAPER PRIME, COMMON, Attenuation: 1
+   HATE, COMMON, Attenuation: 1
+   DUAL RAZA, COMMON, Attenuation: 1
+   TIPEDO, COMMON, Attenuation: 1
+   BO PRIME, COMMON, Attenuation: 1
+   AMPHIS, COMMON, Attenuation: 1
+   CADUS, COMMON, Attenuation: 1
+   NAMI SKYLA, COMMON, Attenuation: 1
+   NAMI SOLO, COMMON, Attenuation: 1
+   DARK SWORD, COMMON, Attenuation: 1
+   /Lotus/Weapons/Tenno/Melee/Swords/DarkSword/DarkSwordDaggerDuals [LotusMeleeWeapon], COMMON, Attenuation: 1
+   /Lotus/Weapons/Tenno/Melee/Swords/DarkSword/DarkSwordDaggerSingle [LotusMeleeWeapon], COMMON, Attenuation: 1
+   HEAT SWORD, COMMON, Attenuation: 1
+   JAW SWORD, COMMON, Attenuation: 1
+   DRAGON NIKANA, COMMON, Attenuation: 1
+   KARYST, COMMON, Attenuation: 1
+   PANGOLIN SWORD, COMMON, Attenuation: 1
+   PLASMA SWORD, COMMON, Attenuation: 1
+   GALATINE PRIME, COMMON, Attenuation: 1
+   NIKANA PRIME, COMMON, Attenuation: 1
+   LACERA, COMMON, Attenuation: 1
+   WAR, COMMON, Attenuation: 1
+   OKINA, COMMON, Attenuation: 1
+   DESTREZA, COMMON, Attenuation: 1
+   SILVA & AEGIS, COMMON, Attenuation: 1
+   KRONEN, COMMON, Attenuation: 1
+   PRISMA SKANA, COMMON, Attenuation: 1
+
+
+[[PH] Warframe Omega Mod]
+
+Number of buffs: 2-3
+Number of curses: 0-1
+Curse attenuation: 
+Specific fit attenuation: 1.5
+Mastery rank attenuation: 1-1
+Fusion limit range: 8-8
+
+
+Available challenges:
+
+ - Kill [5-30] enemies
+   Complication Chance: 70%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Kill [5-15] enemies with headshots
+   Complication Chance: 50%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Kill [1-3] sentients
+   Complication Chance: 40%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      while sliding (Weight: 1, Multiplier 1)
+      while aim gliding (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Kill [3-10] enemies with finishers
+   Complication Chance: 35%
+   Complications:
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Kill [5-10] enemies while sliding
+   Complication Chance: 35%
+   Complications:
+      while undetected (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Complete an extermination mission with level 30 or higher enemies without being detected
+   Complication Chance: 40%
+   Complications:
+      alone (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Complete a defense mission with level 30 or higher enemies with the defense objective taking no damage
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Complete a survival mission with level 30 or higher enemies without killing anyone
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Complete a solo interception mission with level 30 or higher enemies with a Hobbled Dragon Key equipped
+   Complication Chance: 40%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Find [2-5] Rare Syndicate medallions
+   Complication Chance: 50%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Find [2-6] caches
+   Complication Chance: 50%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without dying or becoming downed (Weight: 1, Multiplier 1)
+      without failing a mission (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Get [3-6] headshots in a single aim glide
+   Complication Chance: 35%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      while undetected (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Get [15-25] kills in a row while wall dashing or wall clinging without touching the floor
+   Complication Chance: 35%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      without raising any alarms (Weight: 1, Multiplier 1)
+      without taking damage (Weight: 1, Multiplier 1)
+      without being disrupted (Weight: 1, Multiplier 1)
+      without getting afflicted by a status effect (Weight: 1, Multiplier 1)
+      without an ally becoming downed (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+
+ - Sustain a 3x melee combo multiplier for 30 seconds
+   Complication Chance: 35%
+   Complications:
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      with an active pet present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Bleeding Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+ - Synthesize a Simaris target without using traps or abilities while having a Hobbled Dragon Key equipped
+   Complication Chance: 0%
+   Complications:
+      with an active pet present (Weight: 1, Multiplier 1)
+      with an active sentinel present (Weight: 1, Multiplier 1)
+      alone (Weight: 1, Multiplier 1)
+      while undetected (Weight: 1, Multiplier 1)
+      without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
+
+
+Upgrade entries:
+
+ - Upgrade: 1.9% Power Range
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Power Duration
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Power Efficiency
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.8% Power Strength
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Armor
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Auto Parry Chance
+   Operation Type: MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: -3.5% Bleedout Reduction
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.1% Casting Speed
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Electricity Resist
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Heat Resist
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Cold Resist
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.9% Radiation Resist
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.9% Toxin Resist
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.2% Damage Resistance on Stun
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: Convert 1.7% of Damage on Health to Energy
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Damage during Bleedout
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 20% Health
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 8
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 6.2% Power Max
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: Drains Energy to stop lethal damage with 4% efficiency.
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: -2.1% Status Duration on Self
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 10% Shield Capacity
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.8% Shield Recharge
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+Item Compatibility:
+
+   NOVA, COMMON, Attenuation: 1
+   NOVA PRIME, COMMON, Attenuation: 1
+   BANSHEE, COMMON, Attenuation: 1
+   /Lotus/Powersuits/Bard/Bard [PowerSuit], COMMON, Attenuation: 1
+   VALKYR, COMMON, Attenuation: 1
+   ATLAS, COMMON, Attenuation: 1
+   MESA, COMMON, Attenuation: 1
+   CHROMA, COMMON, Attenuation: 1
+   EMBER, COMMON, Attenuation: 1
+   EMBER PRIME, COMMON, Attenuation: 1
+   EXCALIBUR UMBRA, COMMON, Attenuation: 1
+   EXCALIBUR, COMMON, Attenuation: 1
+   TITANIA, COMMON, Attenuation: 1
+   FROST, COMMON, Attenuation: 1
+   FROST PRIME, COMMON, Attenuation: 1
+   MIRAGE, COMMON, Attenuation: 1
+   [PH], COMMON, Attenuation: 1
+   NYX, COMMON, Attenuation: 1
+   NYX PRIME, COMMON, Attenuation: 1
+   LOKI, COMMON, Attenuation: 1
+   LOKI PRIME, COMMON, Attenuation: 1
+   MAG, COMMON, Attenuation: 1
+   MAG PRIME, COMMON, Attenuation: 1
+   LIMBO, COMMON, Attenuation: 1
+   WUKONG, COMMON, Attenuation: 1
+   NEKROS, COMMON, Attenuation: 1
+   NEKROS PRIME, COMMON, Attenuation: 1
+   NEZHA, COMMON, Attenuation: 1
+   ASH PRIME, COMMON, Attenuation: 1
+   ASH, COMMON, Attenuation: 1
+   WARFRAME, COMMON, Attenuation: 1
+   WARFRAME, COMMON, Attenuation: 1
+   OBERON, COMMON, Attenuation: 1
+   HYDROID, COMMON, Attenuation: 1
+   IVARA, COMMON, Attenuation: 1
+   RHINO, COMMON, Attenuation: 1
+   RHINO PRIME, COMMON, Attenuation: 1
+   INAROS, COMMON, Attenuation: 1
+   SARYN, COMMON, Attenuation: 1
+   SARYN PRIME, COMMON, Attenuation: 1
+   ZEPHYR, COMMON, Attenuation: 1
+   VAUBAN, COMMON, Attenuation: 1
+   VAUBAN PRIME, COMMON, Attenuation: 1
+   TRINITY, COMMON, Attenuation: 1
+   TRINITY PRIME, COMMON, Attenuation: 1
+   VOLT, COMMON, Attenuation: 1
+   VOLT PRIME, COMMON, Attenuation: 1
+   EQUINOX, COMMON, Attenuation: 1
+
+
+[[PH] Archwing Omega Mod]
+
+Number of buffs: 2-3
+Number of curses: 0-1
+Curse attenuation: 
+Specific fit attenuation: 1.5
+Mastery rank attenuation: 1-1
+Fusion limit range: 8-8
+
+
+Upgrade entries:
+
+ - Upgrade: 0.8% Power Strength
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.9% Power Duration
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.8% Power Efficiency
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.7% Power Range
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.8% Armor
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 6.2% Health
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Power Max
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 15% Shield Capacity
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 6.2% Shield Recharge
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.2% Sprint Speed
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+
+
+[/Lotus/Upgrades/Mods/Randomized/ArchGunRandomModBase [RandomizedArtifactUpgrade]]
+
+Number of buffs: 2-3
+Number of curses: 0-1
+Curse attenuation: 
+Specific fit attenuation: 1.5
+Mastery rank attenuation: 1-1
+Fusion limit range: 8-8
+
+
+Upgrade entries:
+
+ - Upgrade: 5% Electricity
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Heat
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Cold
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.3% Toxin
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.1% Charge Rate
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Magazine Capacity
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Critical Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.8% Critical Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.7% Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.8% Multishot
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.8% Fire Rate
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.8% Range
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Status Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+
+
+[/Lotus/Upgrades/Mods/Randomized/ArchMeleeWeaponRandomModBase [RandomizedArtifactUpgrade]]
+
+Number of buffs: 2-3
+Number of curses: 0-1
+Curse attenuation: 
+Specific fit attenuation: 1.5
+Mastery rank attenuation: 1-1
+Fusion limit range: 8-8
+
+
+Upgrade entries:
+
+ - Upgrade: 3.3% Electricity
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 6.2% Critical Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Critical Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.7% Melee Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 0.6% Attack Speed
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.3% Range
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Status Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Heat
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Cold
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5% Toxin
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+
+
+[[PH] Sentinel Omega Mod]
+
+Number of buffs: 2-3
+Number of curses: 0-1
+Curse attenuation: 
+Specific fit attenuation: 1.5
+Mastery rank attenuation: 1-1
+Fusion limit range: 8-8
+
+
+Upgrade entries:
+
+ - Upgrade: 2.5% Armor
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.8% Rare Item Drop Chance On Death
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 5000 Explosion Damage
+   Operation Type: ADD
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 10% Health
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.7% Max Overheat Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 6.2% Shield Capacity
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 3.8% Shield Recharge
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+Item Compatibility:
+
+   SMEETA KAVAT, COMMON, Attenuation: 1
+   ADARZA KAVAT, COMMON, Attenuation: 1
+   SAHASA KUBROW, COMMON, Attenuation: 1
+   HURAS KUBROW, COMMON, Attenuation: 1
+   RAKSA KUBROW, COMMON, Attenuation: 1
+   SUNIKA KUBROW, COMMON, Attenuation: 1
+   CHESA KUBROW, COMMON, Attenuation: 1
+   DIRIGA, COMMON, Attenuation: 1
+   CARRIER, COMMON, Attenuation: 1
+   DETHCUBE, COMMON, Attenuation: 1
+   DJINN, COMMON, Attenuation: 1
+   HELIOS, COMMON, Attenuation: 1
+   CARRIER PRIME, COMMON, Attenuation: 1
+   WYRM PRIME, COMMON, Attenuation: 1
+   SHADE, COMMON, Attenuation: 1
+   [PH] STARTER PET, COMMON, Attenuation: 1
+   WYRM, COMMON, Attenuation: 1
+
+
+[/Lotus/Upgrades/Mods/Randomized/PetPowerSuitRandomModBase [RandomizedArtifactUpgrade]]
+
+Number of buffs: 2-3
+Number of curses: 0-1
+Curse attenuation: 
+Specific fit attenuation: 1.5
+Mastery rank attenuation: 1-1
+Fusion limit range: 8-8
+
+
+Upgrade entries:
+
+ - Upgrade: 10% Critical Chance
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 6.7% Critical Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Armor-Link
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 7.5% Health-Link
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 2.5% Shield-Link
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 7.5% Bleedout-Link
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 7.5% Melee Damage
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+ - Upgrade: 1.5% Lifesteal-link
+   Operation Type: STACKING_MULTIPLY
+   Prefix: 
+   Suffix: 
+   Rarity: COMMON
+   Can be buff: Yes
+   Can be curse: Yes
+
+Item Compatibility:
+
+   SMEETA KAVAT, COMMON, Attenuation: 1
+   ADARZA KAVAT, COMMON, Attenuation: 1
+   SAHASA KUBROW, COMMON, Attenuation: 1
+   HURAS KUBROW, COMMON, Attenuation: 1
+   RAKSA KUBROW, COMMON, Attenuation: 1
+   SUNIKA KUBROW, COMMON, Attenuation: 1
+   CHESA KUBROW, COMMON, Attenuation: 1
+
+

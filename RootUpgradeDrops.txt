@@ -1,0 +1,411 @@
+[/Lotus/Upgrades/Mods/DropTables/RootUpgradeDrops]
+Level: 0-10
+	15 ENDO, COMMON, AP_FUSION
+	Sundering Strike, RARE, AP_TACTIC
+	True Steel, COMMON, AP_ATTACK
+	Organ Shatter, COMMON, AP_ATTACK
+	Shocking Touch, UNCOMMON, AP_TACTIC
+	Trick Mag, COMMON, AP_TACTIC
+	No Return, UNCOMMON, AP_TACTIC
+	Slip Magazine, COMMON, AP_TACTIC
+	Pistol Gambit, COMMON, AP_ATTACK
+	Ammo Drum, COMMON, AP_TACTIC
+	Piercing Hit, COMMON, AP_TACTIC
+	Magazine Warp, COMMON, AP_TACTIC
+	Point Strike, COMMON, AP_ATTACK
+	Shell Compression, UNCOMMON, AP_TACTIC
+	Flechette, COMMON, AP_TACTIC
+	Ammo Stock, UNCOMMON, AP_TACTIC
+	Blunderbuss, COMMON, AP_ATTACK
+	Vitality, COMMON, AP_DEFENSE
+	Redirection, COMMON, AP_DEFENSE
+	Flow, RARE, AP_TACTIC
+	Rush, UNCOMMON, AP_TACTIC
+	Reach, COMMON, AP_ATTACK
+	Hawk Eye, UNCOMMON, AP_TACTIC
+	Eagle Eye, UNCOMMON, AP_TACTIC
+
+Level: 10-20
+	50 ENDO, UNCOMMON, AP_FUSION
+	Molten Impact, UNCOMMON, AP_TACTIC
+	Fury, UNCOMMON, AP_ATTACK
+	North Wind, UNCOMMON, AP_DEFENSE
+	Reflex Coil, UNCOMMON, AP_TACTIC
+	Target Cracker, UNCOMMON, AP_ATTACK
+	Hornet Strike, UNCOMMON, AP_ATTACK
+	Convulsion, UNCOMMON, AP_TACTIC
+	Heated Charge, UNCOMMON, AP_TACTIC
+	Vital Sense, RARE, AP_ATTACK
+	Serration, UNCOMMON, AP_ATTACK
+	Stormbringer, UNCOMMON, AP_TACTIC
+	Hellfire, UNCOMMON, AP_TACTIC
+	Ravage, RARE, AP_ATTACK
+	Point Blank, UNCOMMON, AP_ATTACK
+	Charged Shell, UNCOMMON, AP_TACTIC
+	Incendiary Coat, UNCOMMON, AP_TACTIC
+	Steel Fiber, COMMON, AP_DEFENSE
+	Enemy Sense, RARE, AP_TACTIC
+	Continuity, RARE, AP_ATTACK
+	Thief's Wit, COMMON, AP_TACTIC
+	Lightning Rod, COMMON, AP_DEFENSE
+	Flame Repellent, COMMON, AP_DEFENSE
+	Insulation, COMMON, AP_DEFENSE
+
+Level: 20-100
+	80 ENDO, RARE, AP_FUSION
+	Pressure Point, COMMON, AP_ATTACK
+	Killing Blow, UNCOMMON, AP_ATTACK
+	Melee Prowess, COMMON, AP_DEFENSE
+	Barrel Diffusion, RARE, AP_ATTACK
+	Gunslinger, UNCOMMON, AP_ATTACK
+	Deep Freeze, UNCOMMON, AP_DEFENSE
+	Seeker, RARE, AP_TACTIC
+	Quickdraw, COMMON, AP_TACTIC
+	Sure Shot, UNCOMMON, AP_DEFENSE
+	Split Chamber, RARE, AP_ATTACK
+	Speed Trigger, UNCOMMON, AP_ATTACK
+	Cryo Rounds, UNCOMMON, AP_DEFENSE
+	Metal Auger, RARE, AP_TACTIC
+	Fast Hands, COMMON, AP_TACTIC
+	Rifle Aptitude, UNCOMMON, AP_DEFENSE
+	Hell's Chamber, RARE, AP_ATTACK
+	Shotgun Spazz, UNCOMMON, AP_ATTACK
+	Chilling Grasp, UNCOMMON, AP_DEFENSE
+	Seeking Force, RARE, AP_TACTIC
+	Tactical Pump, UNCOMMON, AP_TACTIC
+	Shotgun Savvy, UNCOMMON, AP_DEFENSE
+	Continuity, RARE, AP_ATTACK
+	Streamline, RARE, AP_TACTIC
+	Stretch, UNCOMMON, AP_TACTIC
+	Intensify, RARE, AP_ATTACK
+	Fast Deflection, UNCOMMON, AP_DEFENSE
+	Shock Absorbers, RARE, AP_DEFENSE
+	Diamond Skin, UNCOMMON, AP_DEFENSE
+	Antitoxin, UNCOMMON, AP_DEFENSE
+	Warm Coat, COMMON, AP_DEFENSE
+	Rage, RARE, AP_ATTACK
+	Energy Channel, RARE, AP_ATTACK
+	Smite Corpus, UNCOMMON, AP_ATTACK
+	Smite Grineer, UNCOMMON, AP_ATTACK
+	Smite Infested, UNCOMMON, AP_ATTACK
+	Expel Corpus, UNCOMMON, AP_ATTACK
+	Expel Grineer, UNCOMMON, AP_ATTACK
+	Expel Infested, UNCOMMON, AP_ATTACK
+	Charged Chamber, UNCOMMON, AP_ATTACK
+	Bane of Corpus, UNCOMMON, AP_ATTACK
+	Bane of Grineer, UNCOMMON, AP_ATTACK
+	Bane of Infested, UNCOMMON, AP_ATTACK
+	Cleanse Corpus, UNCOMMON, AP_ATTACK
+	Cleanse Grineer, UNCOMMON, AP_ATTACK
+	Cleanse Infested, UNCOMMON, AP_ATTACK
+	Heavy Impact, UNCOMMON, AP_TACTIC
+
+Level: 0-10
+	Crowd Dispersion, COMMON, AP_PRECEPT
+	Ghost, COMMON, AP_PRECEPT
+
+Level: 10-100
+	Guardian, COMMON, AP_PRECEPT
+	Regen, COMMON, AP_PRECEPT
+	Revenge, COMMON, AP_PRECEPT
+	Warrior, COMMON, AP_PRECEPT
+	Metal Fiber, COMMON, AP_DEFENSE
+	Enhanced Vitality, COMMON, AP_DEFENSE
+	Calculated Redirection, COMMON, AP_DEFENSE
+	Accelerated Deflection, UNCOMMON, AP_DEFENSE
+	Sanctuary, RARE, AP_PRECEPT
+	Swift Deth, COMMON, AP_PRECEPT
+	Vaporize, COMMON, AP_PRECEPT
+
+AP_FUSION=0.3
+
+[/Lotus/Upgrades/Mods/DropTables/CorpusUpgradeDrops]
+Level: 0-10
+	15 ENDO, COMMON, AP_FUSION
+	Sundering Strike, RARE, AP_TACTIC
+	True Steel, COMMON, AP_ATTACK
+	Organ Shatter, COMMON, AP_ATTACK
+	Shocking Touch, UNCOMMON, AP_TACTIC
+	Trick Mag, COMMON, AP_TACTIC
+	No Return, UNCOMMON, AP_TACTIC
+	Slip Magazine, COMMON, AP_TACTIC
+	Pistol Gambit, COMMON, AP_ATTACK
+	Ammo Drum, COMMON, AP_TACTIC
+	Piercing Hit, COMMON, AP_TACTIC
+	Magazine Warp, COMMON, AP_TACTIC
+	Point Strike, COMMON, AP_ATTACK
+	Shell Compression, UNCOMMON, AP_TACTIC
+	Flechette, COMMON, AP_TACTIC
+	Ammo Stock, UNCOMMON, AP_TACTIC
+	Blunderbuss, COMMON, AP_ATTACK
+	Vitality, COMMON, AP_DEFENSE
+	Redirection, COMMON, AP_DEFENSE
+	Flow, RARE, AP_TACTIC
+	Rush, UNCOMMON, AP_TACTIC
+
+Level: 10-20
+	50 ENDO, UNCOMMON, AP_FUSION
+	Molten Impact, UNCOMMON, AP_TACTIC
+	Fury, UNCOMMON, AP_ATTACK
+	North Wind, UNCOMMON, AP_DEFENSE
+	Reflex Coil, UNCOMMON, AP_TACTIC
+	Target Cracker, UNCOMMON, AP_ATTACK
+	Hornet Strike, UNCOMMON, AP_ATTACK
+	Convulsion, UNCOMMON, AP_TACTIC
+	Heated Charge, UNCOMMON, AP_TACTIC
+	Vital Sense, RARE, AP_ATTACK
+	Serration, UNCOMMON, AP_ATTACK
+	Stormbringer, UNCOMMON, AP_TACTIC
+	Hellfire, UNCOMMON, AP_TACTIC
+	Ravage, RARE, AP_ATTACK
+	Point Blank, UNCOMMON, AP_ATTACK
+	Charged Shell, UNCOMMON, AP_TACTIC
+	Incendiary Coat, UNCOMMON, AP_TACTIC
+	Steel Fiber, COMMON, AP_DEFENSE
+	Enemy Sense, RARE, AP_TACTIC
+	Continuity, RARE, AP_ATTACK
+	Thief's Wit, COMMON, AP_TACTIC
+
+Level: 20-100
+	80 ENDO, RARE, AP_FUSION
+	Pressure Point, COMMON, AP_ATTACK
+	Killing Blow, UNCOMMON, AP_ATTACK
+	Melee Prowess, COMMON, AP_DEFENSE
+	Barrel Diffusion, RARE, AP_ATTACK
+	Gunslinger, UNCOMMON, AP_ATTACK
+	Deep Freeze, UNCOMMON, AP_DEFENSE
+	Seeker, RARE, AP_TACTIC
+	Quickdraw, COMMON, AP_TACTIC
+	Sure Shot, UNCOMMON, AP_DEFENSE
+	Split Chamber, RARE, AP_ATTACK
+	Speed Trigger, UNCOMMON, AP_ATTACK
+	Cryo Rounds, UNCOMMON, AP_DEFENSE
+	Metal Auger, RARE, AP_TACTIC
+	Fast Hands, COMMON, AP_TACTIC
+	Rifle Aptitude, UNCOMMON, AP_DEFENSE
+	Hell's Chamber, RARE, AP_ATTACK
+	Shotgun Spazz, UNCOMMON, AP_ATTACK
+	Chilling Grasp, UNCOMMON, AP_DEFENSE
+	Seeking Force, RARE, AP_TACTIC
+	Tactical Pump, UNCOMMON, AP_TACTIC
+	Shotgun Savvy, UNCOMMON, AP_DEFENSE
+	Continuity, RARE, AP_ATTACK
+	Streamline, RARE, AP_TACTIC
+	Stretch, UNCOMMON, AP_TACTIC
+	Intensify, RARE, AP_ATTACK
+	Fast Deflection, UNCOMMON, AP_DEFENSE
+
+Level: 0-10
+	Crowd Dispersion, COMMON, AP_PRECEPT
+	Ghost, COMMON, AP_PRECEPT
+
+Level: 10-100
+	Guardian, COMMON, AP_PRECEPT
+	Regen, COMMON, AP_PRECEPT
+	Revenge, COMMON, AP_PRECEPT
+	Warrior, COMMON, AP_PRECEPT
+	Metal Fiber, COMMON, AP_DEFENSE
+	Enhanced Vitality, COMMON, AP_DEFENSE
+	Calculated Redirection, COMMON, AP_DEFENSE
+	Accelerated Deflection, UNCOMMON, AP_DEFENSE
+
+Level: 25-100
+	Retribution, RARE, AP_DEFENSE
+
+AP_TACTIC=0.1
+AP_PRECEPT=0.1
+AP_FUSION=0.3
+
+[/Lotus/Upgrades/Mods/DropTables/GrineerUpgradeDrops]
+Level: 0-10
+	15 ENDO, COMMON, AP_FUSION
+	Sundering Strike, RARE, AP_TACTIC
+	True Steel, COMMON, AP_ATTACK
+	Organ Shatter, COMMON, AP_ATTACK
+	Shocking Touch, UNCOMMON, AP_TACTIC
+	Trick Mag, COMMON, AP_TACTIC
+	No Return, UNCOMMON, AP_TACTIC
+	Slip Magazine, COMMON, AP_TACTIC
+	Pistol Gambit, COMMON, AP_ATTACK
+	Ammo Drum, COMMON, AP_TACTIC
+	Piercing Hit, COMMON, AP_TACTIC
+	Magazine Warp, COMMON, AP_TACTIC
+	Point Strike, COMMON, AP_ATTACK
+	Shell Compression, UNCOMMON, AP_TACTIC
+	Flechette, COMMON, AP_TACTIC
+	Ammo Stock, UNCOMMON, AP_TACTIC
+	Blunderbuss, COMMON, AP_ATTACK
+	Vitality, COMMON, AP_DEFENSE
+	Redirection, COMMON, AP_DEFENSE
+	Flow, RARE, AP_TACTIC
+	Rush, UNCOMMON, AP_TACTIC
+
+Level: 10-20
+	50 ENDO, UNCOMMON, AP_FUSION
+	Molten Impact, UNCOMMON, AP_TACTIC
+	Fury, UNCOMMON, AP_ATTACK
+	North Wind, UNCOMMON, AP_DEFENSE
+	Reflex Coil, UNCOMMON, AP_TACTIC
+	Target Cracker, UNCOMMON, AP_ATTACK
+	Hornet Strike, UNCOMMON, AP_ATTACK
+	Convulsion, UNCOMMON, AP_TACTIC
+	Heated Charge, UNCOMMON, AP_TACTIC
+	Vital Sense, RARE, AP_ATTACK
+	Serration, UNCOMMON, AP_ATTACK
+	Stormbringer, UNCOMMON, AP_TACTIC
+	Hellfire, UNCOMMON, AP_TACTIC
+	Ravage, RARE, AP_ATTACK
+	Point Blank, UNCOMMON, AP_ATTACK
+	Charged Shell, UNCOMMON, AP_TACTIC
+	Incendiary Coat, UNCOMMON, AP_TACTIC
+	Steel Fiber, COMMON, AP_DEFENSE
+	Enemy Sense, RARE, AP_TACTIC
+	Continuity, RARE, AP_ATTACK
+	Thief's Wit, COMMON, AP_TACTIC
+
+Level: 20-100
+	80 ENDO, RARE, AP_FUSION
+	Pressure Point, COMMON, AP_ATTACK
+	Killing Blow, UNCOMMON, AP_ATTACK
+	Melee Prowess, COMMON, AP_DEFENSE
+	Barrel Diffusion, RARE, AP_ATTACK
+	Gunslinger, UNCOMMON, AP_ATTACK
+	Deep Freeze, UNCOMMON, AP_DEFENSE
+	Seeker, RARE, AP_TACTIC
+	Quickdraw, COMMON, AP_TACTIC
+	Sure Shot, UNCOMMON, AP_DEFENSE
+	Split Chamber, RARE, AP_ATTACK
+	Speed Trigger, UNCOMMON, AP_ATTACK
+	Cryo Rounds, UNCOMMON, AP_DEFENSE
+	Metal Auger, RARE, AP_TACTIC
+	Fast Hands, COMMON, AP_TACTIC
+	Rifle Aptitude, UNCOMMON, AP_DEFENSE
+	Hell's Chamber, RARE, AP_ATTACK
+	Shotgun Spazz, UNCOMMON, AP_ATTACK
+	Chilling Grasp, UNCOMMON, AP_DEFENSE
+	Seeking Force, RARE, AP_TACTIC
+	Tactical Pump, UNCOMMON, AP_TACTIC
+	Shotgun Savvy, UNCOMMON, AP_DEFENSE
+	Continuity, RARE, AP_ATTACK
+	Streamline, RARE, AP_TACTIC
+	Stretch, UNCOMMON, AP_TACTIC
+	Intensify, RARE, AP_ATTACK
+	Fast Deflection, UNCOMMON, AP_DEFENSE
+
+Level: 0-10
+	Crowd Dispersion, COMMON, AP_PRECEPT
+	Ghost, COMMON, AP_PRECEPT
+
+Level: 10-100
+	Guardian, COMMON, AP_PRECEPT
+	Regen, COMMON, AP_PRECEPT
+	Revenge, COMMON, AP_PRECEPT
+	Warrior, COMMON, AP_PRECEPT
+	Metal Fiber, COMMON, AP_DEFENSE
+	Enhanced Vitality, COMMON, AP_DEFENSE
+	Calculated Redirection, COMMON, AP_DEFENSE
+	Accelerated Deflection, UNCOMMON, AP_DEFENSE
+
+Level: 25-100
+	Handspring, RARE, AP_TACTIC
+
+AP_ATTACK=0.1
+AP_FUSION=0.3
+
+[/Lotus/Upgrades/Mods/DropTables/InfestedUpgradeDrops]
+Level: 0-10
+	15 ENDO, COMMON, AP_FUSION
+	Sundering Strike, RARE, AP_TACTIC
+	True Steel, COMMON, AP_ATTACK
+	Organ Shatter, COMMON, AP_ATTACK
+	Shocking Touch, UNCOMMON, AP_TACTIC
+	Trick Mag, COMMON, AP_TACTIC
+	No Return, UNCOMMON, AP_TACTIC
+	Slip Magazine, COMMON, AP_TACTIC
+	Pistol Gambit, COMMON, AP_ATTACK
+	Ammo Drum, COMMON, AP_TACTIC
+	Piercing Hit, COMMON, AP_TACTIC
+	Magazine Warp, COMMON, AP_TACTIC
+	Point Strike, COMMON, AP_ATTACK
+	Shell Compression, UNCOMMON, AP_TACTIC
+	Flechette, COMMON, AP_TACTIC
+	Ammo Stock, UNCOMMON, AP_TACTIC
+	Blunderbuss, COMMON, AP_ATTACK
+	Vitality, COMMON, AP_DEFENSE
+	Redirection, COMMON, AP_DEFENSE
+	Flow, RARE, AP_TACTIC
+	Rush, UNCOMMON, AP_TACTIC
+
+Level: 10-20
+	50 ENDO, UNCOMMON, AP_FUSION
+	Molten Impact, UNCOMMON, AP_TACTIC
+	Fury, UNCOMMON, AP_ATTACK
+	North Wind, UNCOMMON, AP_DEFENSE
+	Reflex Coil, UNCOMMON, AP_TACTIC
+	Target Cracker, UNCOMMON, AP_ATTACK
+	Hornet Strike, UNCOMMON, AP_ATTACK
+	Convulsion, UNCOMMON, AP_TACTIC
+	Heated Charge, UNCOMMON, AP_TACTIC
+	Vital Sense, RARE, AP_ATTACK
+	Serration, UNCOMMON, AP_ATTACK
+	Stormbringer, UNCOMMON, AP_TACTIC
+	Hellfire, UNCOMMON, AP_TACTIC
+	Ravage, RARE, AP_ATTACK
+	Point Blank, UNCOMMON, AP_ATTACK
+	Charged Shell, UNCOMMON, AP_TACTIC
+	Incendiary Coat, UNCOMMON, AP_TACTIC
+	Steel Fiber, COMMON, AP_DEFENSE
+	Enemy Sense, RARE, AP_TACTIC
+	Continuity, RARE, AP_ATTACK
+	Thief's Wit, COMMON, AP_TACTIC
+
+Level: 20-100
+	80 ENDO, RARE, AP_FUSION
+	Pressure Point, COMMON, AP_ATTACK
+	Killing Blow, UNCOMMON, AP_ATTACK
+	Melee Prowess, COMMON, AP_DEFENSE
+	Barrel Diffusion, RARE, AP_ATTACK
+	Gunslinger, UNCOMMON, AP_ATTACK
+	Deep Freeze, UNCOMMON, AP_DEFENSE
+	Seeker, RARE, AP_TACTIC
+	Quickdraw, COMMON, AP_TACTIC
+	Sure Shot, UNCOMMON, AP_DEFENSE
+	Split Chamber, RARE, AP_ATTACK
+	Speed Trigger, UNCOMMON, AP_ATTACK
+	Cryo Rounds, UNCOMMON, AP_DEFENSE
+	Metal Auger, RARE, AP_TACTIC
+	Fast Hands, COMMON, AP_TACTIC
+	Rifle Aptitude, UNCOMMON, AP_DEFENSE
+	Hell's Chamber, RARE, AP_ATTACK
+	Shotgun Spazz, UNCOMMON, AP_ATTACK
+	Chilling Grasp, UNCOMMON, AP_DEFENSE
+	Seeking Force, RARE, AP_TACTIC
+	Tactical Pump, UNCOMMON, AP_TACTIC
+	Shotgun Savvy, UNCOMMON, AP_DEFENSE
+	Continuity, RARE, AP_ATTACK
+	Streamline, RARE, AP_TACTIC
+	Stretch, UNCOMMON, AP_TACTIC
+	Intensify, RARE, AP_ATTACK
+	Fast Deflection, UNCOMMON, AP_DEFENSE
+
+Level: 0-10
+	Crowd Dispersion, COMMON, AP_PRECEPT
+	Ghost, COMMON, AP_PRECEPT
+
+Level: 10-100
+	Guardian, COMMON, AP_PRECEPT
+	Regen, COMMON, AP_PRECEPT
+	Revenge, COMMON, AP_PRECEPT
+	Warrior, COMMON, AP_PRECEPT
+	Metal Fiber, COMMON, AP_DEFENSE
+	Enhanced Vitality, COMMON, AP_DEFENSE
+	Calculated Redirection, COMMON, AP_DEFENSE
+	Accelerated Deflection, UNCOMMON, AP_DEFENSE
+
+Level: 25-100
+	Thunderbolt, RARE, AP_ATTACK
+
+AP_DEFENSE=0.1
+AP_POWER=0.1
+AP_FUSION=0.3
+
