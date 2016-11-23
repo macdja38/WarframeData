@@ -26,7 +26,7 @@ Favored Warframes: BANSHEE, FROST, HYDROID, MIRAGE, NOVA, SARYN, VAUBAN
 Favored Weapons: ATTERAX, GLAIVE, VENKA
 
 Titles:
-	Level 5 Genius, Sacrifice: 1 NOVA PRIME NEUROPTICS + 500000 Credits
+	Level 5 Genius, Sacrifice: 1 NEKROS PRIME CHASSIS + 500000 Credits
 	Level 4 Wise, Sacrifice: 1 LEX PRIME RECEIVER + 250000 Credits
 	Level 3 Intelligent, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
 	Level 2 Intriguing, Sacrifice: 1 FORMA + 50000 Credits
@@ -111,7 +111,7 @@ Favored Weapons: FRAGOR, MACHETE, ORTHOS, HEK
 
 Titles:
 	Level 5 General, Sacrifice: 1 TRINITY PRIME NEUROPTICS + 500000 Credits
-	Level 4 Protector, Sacrifice: 1 SOMA PRIME BARREL + 250000 Credits
+	Level 4 Protector, Sacrifice: 1 GALATINE PRIME BLADE + 250000 Credits
 	Level 3 Defender, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
 	Level 2 Valiant, Sacrifice: 1 FORMA + 50000 Credits
 	Level 1 Brave, Sacrifice: 2 MORPHICS + 30000 Credits

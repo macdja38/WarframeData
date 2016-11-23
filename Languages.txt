@@ -2658,7 +2658,7 @@ You will receive an email from your 2K contact when the console has been approve
 "LEGENDARY"
 
 [/Game/LevelUp]
-"LEVEL UP!"
+"RANK UP!"
 
 [/Game/MagDoor]
 "<CONTEXT_POWER> OPEN DOOR"
@@ -8737,19 +8737,19 @@ Baro Ki’Teer"
 "TIME"
 
 [/Lotus/Language/Cosmetics/BaroArmourADesc]
-"This decorative armored plate is a Ki’Teer original. "
+"This decorative armored plate is a Ki’Teer original."
 
 [/Lotus/Language/Cosmetics/BaroArmourAName]
 "KI'TEER SHOULDER PLATES"
 
 [/Lotus/Language/Cosmetics/BaroArmourCDesc]
-"This decorative armored plate is a Ki’Teer original. "
+"This decorative armored plate is a Ki’Teer original."
 
 [/Lotus/Language/Cosmetics/BaroArmourCName]
 "KI'TEER CHEST PLATE"
 
 [/Lotus/Language/Cosmetics/BaroArmourLDesc]
-"This decorative armored plate is a Ki’Teer original. "
+"This decorative armored plate is a Ki’Teer original."
 
 [/Lotus/Language/Cosmetics/BaroArmourLName]
 "KI'TEER LEG PLATES"
@@ -14974,7 +14974,7 @@ The Lotus "
 [/Lotus/Language/G1Quests/FreedomRewardsInboxBody]
 "|PLAYER_NAME|,
 
-Congratulations on attaining two Mastery Ranks! In honor of your performance, you have been rewarded.  Use this gift to further our cause.
+Congratulations on attaining two Mastery Ranks! In honor of your performance, you've been rewarded with 100 Platinum. Use this gift to further our cause.
 
 -The Lotus"
 
@@ -21826,7 +21826,7 @@ A call echoes across the stars - as a menace approaches..."
 "OROKIN SYSTEM"
 
 [/Lotus/Language/Game/OrokinNullifier]
-"Corrupted Nullifier"
+"CORRUPTED NULLIFIER"
 
 [/Lotus/Language/Game/OrokinOrbBase]
 "Death Orb"
@@ -29044,6 +29044,7 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/DjinnSentinelDesc]
 "With 'Thumper' and 'Fatal Attraction' as default Precepts, Djinn is a combat Sentinel. Djinn also comes with a poison dart weapon.
+
 Note: This item requires two open slots."
 
 [/Lotus/Language/Items/DjinnSentinelName]
@@ -33701,7 +33702,9 @@ Pack Includes:
 "Melee Prowess"
 
 [/Lotus/Language/Items/MeleePetDesc]
-"With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the versatile Helios Sentinel acts as both a lethal guardian and an automatic codex scanner. Scans require an equipped Codex Scanner and an available charge."
+"With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the versatile Helios Sentinel acts as both a lethal guardian and an automatic codex scanner. Scans require an equipped Codex Scanner and an available charge.
+
+Note: This item requires two open slots."
 
 [/Lotus/Language/Items/MeleePetName]
 "HELIOS"
@@ -35823,7 +35826,7 @@ Note: This item requires two open slots."
 "The finest in Orokin personal transportation."
 
 [/Lotus/Language/Items/PrimeLisetShipName]
-"LISET PRIME"
+"LISET PRIME SKIN"
 
 [/Lotus/Language/Items/PrimeMeleeModRangeIncrease]
 "Primed Reach"
@@ -37670,19 +37673,19 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 "VERMILLION ANTITOXIN"
 
 [/Lotus/Language/Items/SolsticeDaedalusChestPlateDesc]
-"A decorative breastplate for your Warframe."
+"A festive breastplate for your Warframe."
 
 [/Lotus/Language/Items/SolsticeDaedalusChestPlateName]
 "SOLSTICE DAEDALUS CHEST PLATE"
 
 [/Lotus/Language/Items/SolsticeDaedalusKneePlatesDesc]
-"Decorative leg plates for your Warframe."
+"Festive leg plates for your Warframe."
 
 [/Lotus/Language/Items/SolsticeDaedalusKneePlatesName]
 "SOLSTICE DAEDALUS KNEE PLATES"
 
 [/Lotus/Language/Items/SolsticeDaedalusShoulderPlatesDesc]
-"Decorative shoulder plates for your Warframe."
+"Festive shoulder plates for your Warframe."
 
 [/Lotus/Language/Items/SolsticeDaedalusShoulderPlatesName]
 "SOLSTICE DAEDALUS SHOULDER PLATES"
@@ -38536,16 +38539,19 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "LITH N1 RELIC"
 
 [/Lotus/Language/Items/t1voidprojectionm]
-"LITH A2 RELIC"
+"LITH V2 RELIC"
 
 [/Lotus/Language/Items/t1voidprojectionn]
 "LITH S4 RELIC"
 
 [/Lotus/Language/Items/t1voidprojectiono]
-"LITH D1 RELIC"
+"LITH S5 RELIC"
 
 [/Lotus/Language/Items/t1voidprojectionp]
 "LITH C2 RELIC"
+
+[/Lotus/Language/Items/t1voidprojectionq]
+"LITH G1 RELIC"
 
 [/Lotus/Language/Items/t2voidprojectiona]
 "MESO D1 RELIC"
@@ -38578,16 +38584,19 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "MESO F1 RELIC"
 
 [/Lotus/Language/Items/t2voidprojectionm]
-"MESO V3 RELIC"
+"MESO C2 RELIC"
 
 [/Lotus/Language/Items/t2voidprojectionn]
-"MESO V4 RELIC"
+"MESO V3 RELIC"
 
 [/Lotus/Language/Items/t2voidprojectiono]
-"MESO N3 RELIC"
+"MESO S3 RELIC"
 
 [/Lotus/Language/Items/t2voidprojectionp]
 "MESO N4 RELIC"
+
+[/Lotus/Language/Items/t2voidprojectionq]
+"MESO F2 RELIC"
 
 [/Lotus/Language/Items/t3voidprojectiona]
 "NEO S1 RELIC"
@@ -38620,15 +38629,18 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "NEO V3 RELIC"
 
 [/Lotus/Language/Items/t3voidprojectionm]
-"NEO V4 RELIC"
+"NEO A1 RELIC"
 
 [/Lotus/Language/Items/t3voidprojectionn]
-"NEO V5 RELIC"
+"NEO V4 RELIC"
 
 [/Lotus/Language/Items/t3voidprojectiono]
-"NEO S4 RELIC"
+"NEO N4 RELIC"
 
 [/Lotus/Language/Items/t3voidprojectionp]
+"NEO S5 RELIC"
+
+[/Lotus/Language/Items/t3voidprojectionq]
 "NEO S5 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectiona]
@@ -38665,16 +38677,19 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "AXI G1 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectionm]
-"AXI C1 RELIC"
+"AXI V4 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectionn]
-"AXI S2 RELIC"
+"AXI V5 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectiono]
-"AXI V4 RELIC"
+"AXI C1 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectionp]
 "AXI V5 RELIC"
+
+[/Lotus/Language/Items/t4voidprojectionq]
+"AXI E1 RELIC"
 
 [/Lotus/Language/Items/TacticFocusAbilityDesc]
 "Path of the Sky Rogue"
@@ -46656,10 +46671,10 @@ Are you sure?"
 "ORTHOS PRIME HANDLE"
 
 [/Lotus/Language/Menu/CraftingComponent_PrimeScytheBlade]
-"REAPER BLADE"
+"REAPER PRIME BLADE"
 
 [/Lotus/Language/Menu/CraftingComponent_PrimeScytheHandle]
-"REAPER HANDLE"
+"REAPER PRIME HANDLE"
 
 [/Lotus/Language/Menu/CraftingComponent_PrimeShadeCarapace]
 "SHADE PRIME CARAPACE"
@@ -49462,7 +49477,7 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "LVL"
 
 [/Lotus/Language/Menu/LevelUp]
-"LEVEL UP!"
+"RANK UP!"
 
 [/Lotus/Language/Menu/LevelUpNotification]
 "Level Up Notification"
@@ -50645,7 +50660,7 @@ You will be charged |COSTCURRENCY| |COST|."
 "LEAVE TO FIGHT ANOTHER DAY"
 
 [/Lotus/Language/Menu/MenuRankUp]
-"RANK UP"
+"RANK UP!"
 
 [/Lotus/Language/Menu/MenuRankUpDescription]
 "TEST YOUR SKILLS TO REACH THE NEXT RANK"
@@ -53580,7 +53595,7 @@ Thank you for your partnership."
 "ALL MODS UNLOCKED!"
 
 [/Lotus/Language/Menu/SectorUnlocks_Information]
-"<WARNING>  KILL ENEMIES TO RANK UP AND UNLOCK THE POWER OF YOUR MODS  <WARNING>"
+"<WARNING> KILL ENEMIES TO RANK UP AND UNLOCK THE POWER OF YOUR MODS <WARNING>"
 
 [/Lotus/Language/Menu/SectorUnlocks_MoMods]
 "NO MODS TO UNLOCK"
@@ -55622,7 +55637,7 @@ This one is dedicated to you."
 "VOID FISSURE DESTABILIZED"
 
 [/Lotus/Language/Menu/VoidTearCorruptedEnemy]
-"Corrupted |ENEMY|"
+"CORRUPTED |ENEMY|"
 
 [/Lotus/Language/Menu/VoidTearMissionCategoryName]
 "VOID FISSURES"
@@ -58159,7 +58174,7 @@ Note: This item requires two open slots."
 "VALKYR PRIME"
 
 [/Lotus/Language/Primes/ValkyrPrimePassiveAbility]
-"Faster recovery from being knockdown."
+"Faster recovery from being knocked down."
 
 [/Lotus/Language/Primes/ValkyrPrimeTubesDesc]
 "Ceremonial ribbons, worn with pride."
@@ -77773,7 +77788,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "VALKYR"
 
 [/Lotus/Language/Suits/ValkyrPassiveAbility]
-"Faster recovery from being knockdown."
+"Faster recovery from being knocked down."
 
 [/Lotus/Language/Suits/VaubanDesc]
 "The highly tactical Vauban uses his powers to create deadly traps that can zap, imprison and dimensionally crush enemies."

@@ -3531,7 +3531,7 @@ DROP_POWERUP (Drop Chance: 25%)
  - CORRUPTED ANCIENT EXIMUS (OrokinHealingAncientLeaderAvatar)
  - CORRUPTED HEAVY GUNNER EXIMUS (OrokinHeavyFemaleLeaderAvatar)
  - CORRUPTED MOA EXIMUS (OrokinMoaBipedLeaderAvatar)
- - Corrupted Nullifier EXIMUS (OrokinNullifySpacemanAvatarLeader)
+ - CORRUPTED NULLIFIER EXIMUS (OrokinNullifySpacemanAvatarLeader)
  - CORRUPTED BOMBARD EXIMUS (OrokinRocketBombardAvatarLeader)
  - OROKIN DRONE EXIMUS (OrokinShieldDroneLeaderAvatar)
  - CORRUPTED LANCER EXIMUS (RifleLancerLeaderAvatar)
@@ -3885,7 +3885,7 @@ DROP_MOD (Drop Chance: 100%)
 
 
 [OrokinNullifierDropTable]
- - Corrupted Nullifier (OrokinNullifySpacemanAvatar)
+ - CORRUPTED NULLIFIER (OrokinNullifySpacemanAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -4758,7 +4758,7 @@ DROP_AMMO (Drop Chance: 0%)
 DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 10%)
+DROP_MOD (Drop Chance: 20%)
 	15 ENDO, COMMON, 37.94%
 	50 ENDO, UNCOMMON, 7.37%
 	Energy Amplifier, UNCOMMON, 7.37%
@@ -4900,12 +4900,11 @@ DROP_AMMO (Drop Chance: 0%)
 DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
-DROP_MOD (Drop Chance: 3%)
+DROP_MOD (Drop Chance: 30%)
 	15 ENDO, COMMON, 37.94%
 	50 ENDO, UNCOMMON, 22.11%
 	Argon Plating, COMMON, 37.94%
-	80 ENDO, RARE, 1.01%
-	Dual Rounds, RARE, 1.01%
+	Dual Rounds, RARE, 2.01%
 
 DROP_POWERUP (Drop Chance: 75%)
 	25 ENERGY, COMMON, 25%
@@ -4950,7 +4949,7 @@ DROP_AMMO (Drop Chance: 0%)
 	10 SHOTGUN AMMO, COMMON, 25%
 	10 SNIPER AMMO, COMMON, 25%
 
-DROP_MOD (Drop Chance: 3%)
+DROP_MOD (Drop Chance: 10%)
 	15 ENDO, COMMON, 25.29%
 	50 ENDO, UNCOMMON, 11.06%
 	Extend, COMMON, 25.29%
