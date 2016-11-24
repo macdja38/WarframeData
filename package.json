@@ -1,0 +1,27 @@
+{
+  "name": "warframedata",
+  "version": "1.0.0",
+  "description": "Repository for a bunch of data about warframe",
+  "main": "parsers/Languages.js",
+  "dependencies": {
+    "json-stable-stringify": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macdja38/WarframeData.git"
+  },
+  "keywords": [
+    "warframe",
+    "data"
+  ],
+  "author": "VoiD_Glitch",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/macdja38/WarframeData/issues"
+  },
+  "homepage": "https://github.com/macdja38/WarframeData#readme"
+}
