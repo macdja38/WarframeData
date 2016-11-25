@@ -4,6 +4,7 @@
   "description": "Repository for a bunch of data about warframe",
   "main": "parsers/Languages.js",
   "dependencies": {
+    "js-yaml": "^3.7.0",
     "json-stable-stringify": "^1.0.1"
   },
   "devDependencies": {},
