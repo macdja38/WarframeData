@@ -6,8 +6,8 @@ setup_git() {
 }
 
 commit_website_files() {
-  git add /YAML/*.yaml
-  git add /JSON/*.json
+  git add YAML/*.yaml
+  git add JSON/*.json
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
