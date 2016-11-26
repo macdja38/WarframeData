@@ -1,7 +1,7 @@
 #!/bin/sh
 
 setup_git() {
-  git config --global user.email "travis@travis-ci.org"
+  git config --global user.email "jakeincanada@icloud.com"
   git config --global user.name "macdja38"
   git config --global push.default simple
 }
