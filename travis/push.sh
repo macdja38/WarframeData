@@ -1,6 +1,7 @@
 #!/bin/sh
 
 setup_git() {
+  git config --global user.email "$GH_EMAIL"
   git config --global user.name "macdja38"
   git config --global push.default simple
 }
