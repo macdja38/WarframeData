@@ -3,7 +3,6 @@
 setup_git() {
   git config --global user.name "macdja38"
   git config --global push.default simple
-  git log -1 --pretty=%B |
 }
 
 commit_website_files() {
