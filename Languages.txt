@@ -6886,7 +6886,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Kill |COUNT| enemies"
 
 [/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Description]
-"Kill |COUNT| sentients"
+"Get the killing blow on |COUNT| sentients"
 
 [/Lotus/Language/Challenges/Challenge_RandomizedKillStreak_Description]
 " "
@@ -16966,11 +16966,11 @@ The Lotus"
 "Bravery in the Pursuit of Justice"
 
 [/Lotus/Language/G1Quests/RazorbackArmadaAnnounceBody]
-"Nef Anyo is making his move. We have just detected an armada of Corpus ships travelling on an interception course with a Relay. Scans reveal they are transporting Razorback units to be used as an invasion force. The fleet moves slowly but if we allow it to get within range, it will surely deploy these behemoths and obliterate our relay. We need to destroy them before that happens.
+"Nef Anyo is preparing an attack. An armada of Corpus ships has boldly decloaked in the vicinity of one of our Relays. Scans reveal they are transporting Razorback units to be used as an invasion force. The fleet moves slowly but if we allow it to get within range, it will deploy these behemoths and commandeer our relay. We need to destroy them before that happens.
 
 Intelligence reports state that the Razorback’s holding cell is protected by an advanced security system that will be resistant to standard hacking methods. In order to bypass the system you will need to craft this Razorback Cipher.
 
-Take note Tenno, crafting the Cipher requires advanced circuit components beyond our own level of technology. However, excess parts from the Razorback manufacturing process have recently been discovered near high level Corpus facilities around the solar system. Travel to these outer-orbit locations via Archwing and recover the necessary components from Corpus units stationed there.
+Take note Tenno, crafting the Cipher requires advanced circuit components beyond our own level of technology. However, excess parts from the Razorback manufacturing process have recently been discovered near outer-planet Corpus facilities within the solar system. Travel to these locations via Archwing and recover the necessary components from Corpus units stationed there.
 
 The Lotus"
 
@@ -19859,6 +19859,12 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/ENERGY_PER_ENEMY]
 "ENERGY PER ENEMY"
+
+[/Lotus/Language/Game/ENERGY_PER_MARK]
+"ENERGY PER MARK"
+
+[/Lotus/Language/Game/ENERGY_PER_MARK_INVIS]
+"ENERGY PER MARK WHILE INVISIBLE"
 
 [/Lotus/Language/Game/ENERGY_PER_POWER]
 "ENERGY PER POWER"
@@ -24740,6 +24746,18 @@ Part sword, part shield, the Centaur excels at charging headlong into enemy fire
 
 [/Lotus/Language/Items/AshAltHelmet2Name]
 "ASH LOCUST HELMET"
+
+[/Lotus/Language/Items/AshDeluxeBundleDesc]
+"Become Ash Koga, with this striking skin bundle. Includes the Ash Koga Warframe Skin and the Nikana Ryu Skin."
+
+[/Lotus/Language/Items/AshDeluxeBundleName]
+"ASH KOGA SKIN BUNDLE"
+
+[/Lotus/Language/Items/AshNikanaSkinDesc]
+"Hardened in the crucible of conflict, this is Ash Koga's signature nikana."
+
+[/Lotus/Language/Items/AshNikanaSkinName]
+"NIKANA RYU SKIN"
 
 [/Lotus/Language/Items/AspAgileAnims]
 "SARYN AGILE ANIMATION SET"
@@ -34191,6 +34209,18 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 
 [/Lotus/Language/Items/NinjaDefaultHelmetDesc]
 "The standard issue helmet for the Ash Warframe."
+
+[/Lotus/Language/Items/NinjaDeluxeHelmetDesc]
+"A helmet to match the Ash Koga skin."
+
+[/Lotus/Language/Items/NinjaDeluxeHelmetName]
+"ASH KOGA HELMET"
+
+[/Lotus/Language/Items/NinjaDeluxeSuitDesc]
+"Emerge from the dark smoke of battle as a new vision of the master spy."
+
+[/Lotus/Language/Items/NinjaDeluxeSuitName]
+"ASH KOGA SKIN "
 
 [/Lotus/Language/Items/NinjaNobleAnims]
 "ASH NOBLE ANIMATION SET"
@@ -48105,6 +48135,9 @@ Scales with Mastery Rank"
 [/Lotus/Language/Menu/GetGeneticSignaturesHowTo]
 "Kavat Genetic Codes can be collected by scanning wild kavats or by purchasing them from the Market."
 
+[/Lotus/Language/Menu/GhostTowerMissionName]
+"KUVA SIPHON"
+
 [/Lotus/Language/Menu/GhostTowerProgress]
 "KUVA HARVESTED"
 
@@ -55806,11 +55839,17 @@ https://warframe.com/eula"
 [/Lotus/Language/Menu/WorldStatePanel_BackOutOfOperations]
 "BACK OUT OF OPERATIONS"
 
+[/Lotus/Language/Menu/WorldStatePanel_BoosterReward]
+"3 DAY BOOSTER"
+
 [/Lotus/Language/Menu/WorldStatePanel_Event]
 "EVENT"
 
 [/Lotus/Language/Menu/WorldStatePanel_Focus]
 "BROWSE"
+
+[/Lotus/Language/Menu/WorldStatePanel_GreaterFocusLensReward]
+"GREATER FOCUS LENS"
 
 [/Lotus/Language/Menu/WorldStatePanel_Invasions]
 "INVASIONS"
@@ -56296,7 +56335,7 @@ https://warframe.com/eula"
 "Overview"
 
 [/Lotus/Language/Mods/HigherAirAimFoVRifleModDesc]
-"Decrease zoom by |val|% during Aim Glide"
+"|val|% zoom during Aim Glide"
 
 [/Lotus/Language/Mods/HigherAirAimFoVShotgunMod]
 "Broad Eye"
