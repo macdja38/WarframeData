@@ -3,12 +3,13 @@
 setup_git() {
   git config --global user.name "macdja38"
   git config --global push.default simple
+  git log -1 --pretty=%B |
 }
 
 commit_website_files() {
   git add YAML/*.yaml
   git add JSON/*.json
-  git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+  git commit --message "$(git log -1 --pretty=%B)"
 }
 
 upload_files() {
