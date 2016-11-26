@@ -1,5 +1,5 @@
 [/Achievements/ACHIEVEMENTSTITLE]
-"ACHIEVEMENTS"
+"ACHIEVEMENTS - force rebuild"
 
 [/Achievements/CHAPTER1_DESC]
 "Completed Chapter 1."
