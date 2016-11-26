@@ -14,7 +14,7 @@ commit_website_files() {
 
 upload_files() {
   git remote add origin https://${GH_TOKEN}@github.com/macdja38/WarframeData.git > /dev/null 2>&1
-  git push
+  git push origin HEAD:master
 }
 
 setup_git
