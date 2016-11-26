@@ -2,7 +2,8 @@
 
 setup_git() {
   git config --global user.email "travis@travis-ci.org"
-  git config --global user.name "Travis CI"
+  git config --global user.name "macdja38"
+  git config --global push.default simple
 }
 
 commit_website_files() {
